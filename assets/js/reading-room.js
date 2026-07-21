@@ -70,14 +70,86 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-  const READING_LIST = [
+    const READING_LIST = [
     {
       id: 'kiken-unten-kijun',
       title: '「危険運転」に数値基準導入 速度や飲酒の線引きで何が変わる？',
       kicker: '中級',
-      desc: '危険運転致死傷罪に新たな数値基準が導入。その内容と残された課題を解説します。',
+      desc: '',
       badge: '6段落',
       file: '/asanews/assets/readings/kiken-unten-kijun.json'
+    },
+    {
+      id: 'eu-chuukei-tsuuhan',
+      title: 'EU 中国系ネット通販「アリエク」に制裁金 過去最高1022億円',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/eu-chuukei-tsuuhan.json'
+    },
+    {
+      id: 'kogekibi-kousho',
+      title: 'どこまで暑くなる 関東・東海で初の「酷暑日」か 危険な暑さ',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/kogekibi-kousho.json'
+    },
+    {
+      id: 'beihei-iran-keikoku',
+      title: 'トランプ氏 米兵死亡でイランに「報い」警告 仲介国は停戦模索',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/beihei-iran-keikoku.json'
+    },
+    {
+      id: 'gmo-saitaku-kinmu-shazai',
+      title: 'GMO熊谷氏 在宅勤務「完全廃止」投稿を謝罪 真意を説明',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/gmo-saitaku-kinmu-shazai.json'
+    },
+    {
+      id: 'shuugiin-shisan-koukai',
+      title: '衆院議員の資産公開 平均3278万円 トップは7億円超',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/shuugiin-shisan-koukai.json'
+    },
+    {
+      id: 'ennchuu-kokkai-fukushuto',
+      title: '延長国会 実質審議3日間 「副首都」法案など4法案成立は綱渡り',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/ennchuu-kokkai-fukushuto.json'
+    },
+    {
+      id: 'horumuzu-tanker-bakuhatsu',
+      title: 'イラン ホルムズ海峡でタンカー2隻が爆発 航行不能に',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/horumuzu-tanker-bakuhatsu.json'
+    },
+    {
+      id: 'samsung-bei-kyouin-sakugen',
+      title: '韓国サムスン 米国本社移転で大規模な人員削減や配置転換',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/samsung-bei-kyouin-sakugen.json'
+    },
+    {
+      id: 'kokkai-ennchuu-gaiyuu-chuushi',
+      title: '国会延長で自民幹部の外遊中止 要人との会談機会失う',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/kokkai-ennchuu-gaiyuu-chuushi.json'
     }
   ];
 
