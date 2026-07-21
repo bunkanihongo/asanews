@@ -26,7 +26,7 @@
     // CSS
     const link = document.createElement('link');
     link.rel = 'stylesheet';
-    link.href = '/takanote/assets/css/reading-room.css?v4';
+    link.href = '/asanews/assets/css/reading-room.css?v4';
     document.head.appendChild(link);
 
     // プログレスバー
@@ -77,7 +77,7 @@
       kicker: '中級',
       desc: '浴室の換気扇の正しい使い方をプロに聞く',
       badge: '9段落',
-      file: '/takanote/assets/readings/furo-no-kanki-sen.json'
+      file: '/asanews/assets/readings/furo-no-kanki-sen.json'
     },
     {
       id: 'nihon-no-poster',
@@ -85,7 +85,7 @@
       kicker: '中級〜上級',
       desc: '文化と流通の構造を読み解く',
       badge: '8段落',
-      file: '/takanote/assets/readings/nihon-no-poster.json'
+      file: '/asanews/assets/readings/nihon-no-poster.json'
     },
     {
       id: 'hachijou-no-jiyuu',
@@ -93,7 +93,7 @@
       kicker: '上級',
       desc: '『東京八平米』から考える、住まいと都市の関係',
       badge: '13段落',
-      file: '/takanote/assets/readings/hachijou-no-jiyuu.json'
+      file: '/asanews/assets/readings/hachijou-no-jiyuu.json'
     }
   ];
 
@@ -132,7 +132,7 @@
 
       const a = document.createElement('a');
       a.textContent = r.title;
-      a.href = `/takanote/reading-room/?read=${r.id}`;
+      a.href = `/asanews/reading-room/?read=${r.id}`;
 
       const dash = document.createElement('span');
       dash.className = 'dash flex-grow-1';
@@ -148,7 +148,7 @@
       li.addEventListener('click', (e) => {
         e.preventDefault();
         loadReading(r.id);
-        history.pushState({}, '', `/takanote/reading-room/?read=${r.id}`);
+        history.pushState({}, '', `/asanews/reading-room/?read=${r.id}`);
       });
 
       ul.appendChild(li);
@@ -210,7 +210,7 @@
     backBtn.addEventListener('click', () => {
       stopAudio();
       renderList();
-      history.pushState({}, '', '/takanote/reading-room/');
+      history.pushState({}, '', '/asanews/reading-room/');
     });
     backWrap.appendChild(backBtn);
 
@@ -593,7 +593,7 @@
     btn.classList.add('playing');
 
     if (audioSrc) {
-      const audio = new Audio('/takanote/' + audioSrc);
+      const audio = new Audio('/asanews/' + audioSrc);
       audio.playbackRate = speed;
       audio.loop = document.getElementById('rr-loop-cb').checked;
 
