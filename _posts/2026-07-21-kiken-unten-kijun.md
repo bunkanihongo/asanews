@@ -12,7 +12,7 @@ tags: [法律, 交通安全]
 重大事故にもかかわらず危険運転が適用されないケースが相次ぎ、見直しを求める声が高まっていたことを受けての改正です。一方で、数値基準を下回れば危険運転にならないという誤解を招く可能性や、数値だけでは判断できない悪質な運転の評価など、課題も残されています。
 
 <div class="mt-4 p-3" style="background:#f0f4f8;border-radius:8px;text-align:center;">
-  <a href="/asanews/?read=kiken-unten-kijun" class="btn btn-danger" style="color:#fff;padding:10px 24px;border-radius:6px;font-weight:bold;">
+  <a href="/asanews/reading-room/?read=kiken-unten-kijun" class="btn btn-danger" style="color:#fff;padding:10px 24px;border-radius:6px;font-weight:bold;">
     📖 読解ルームで詳しく読む
   </a>
 </div>
