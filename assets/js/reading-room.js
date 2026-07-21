@@ -70,7 +70,55 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-    const READING_LIST = [
+      const READING_LIST = [
+    {
+      id: 'ishiba-sho-hizei-minaoshi',
+      title: '石破前総理 消費税1％減税見直し「選択肢にあってしかるべき」',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/ishiba-sho-hizei-minaoshi.json'
+    },
+    {
+      id: 'chuugoku-EEZ-syageki-hanron',
+      title: '中国外務省が反論 艦艇のEEZ内射撃訓練「懸念は理にかなっていない」',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/chuugoku-EEZ-syageki-hanron.json'
+    },
+    {
+      id: 'takasugi-sumin-0-3jikan',
+      title: '「0〜3時間睡眠が常態化」高市首相アピールに波紋 野党から懸念',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/takasugi-sumin-0-3jikan.json'
+    },
+    {
+      id: 'nichirei-hacker-ransom',
+      title: 'ニチレイ障害 ハッカー集団「ランサムハウス」が犯行声明',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/nichirei-hacker-ransom.json'
+    },
+    {
+      id: 'nenkyuu-800man-chou',
+      title: '年収800万円超は日本に何％？国税庁調査が示す給与の実態',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/nenkyuu-800man-chou.json'
+    },
+    {
+      id: 'kousho-ondo-10nen-ichido',
+      title: '気象庁「10年に一度の高温」早期天候情報 今月末にかけ危険な暑さ',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/kousho-ondo-10nen-ichido.json'
+    },
     {
       id: 'kiken-unten-kijun',
       title: '「危険運転」に数値基準導入 速度や飲酒の線引きで何が変わる？',
