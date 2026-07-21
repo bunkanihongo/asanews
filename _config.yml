@@ -8,7 +8,7 @@ timezone: Asia/Tokyo
 title: asanews
 tagline: ニュースで日本語を学ぶ
 description: >-
-  日本語学習の記録とまとめ。文法、単語、読解など、少しずつ毎日続けるためのノートです。
+  ニュースで日本語を学ぶ。毎日の重要ニュースを読解・翻訳・音声付きで提供します。
 
 url: "https://bunkanihongo.github.io"
 baseurl: "/asanews"

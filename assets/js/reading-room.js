@@ -72,34 +72,18 @@
   // ======================================================================
   const READING_LIST = [
     {
-      id: 'furo-no-kanki-sen',
-      title: '風呂の換気扇は24時間回し続けるべき？TOTOとLIXILに聞いた',
+      id: 'kiken-unten-kijun',
+      title: '「危険運転」に数値基準導入 速度や飲酒の線引きで何が変わる？',
       kicker: '中級',
-      desc: '浴室の換気扇の正しい使い方をプロに聞く',
-      badge: '9段落',
-      file: '/asanews/assets/readings/furo-no-kanki-sen.json'
-    },
-    {
-      id: 'nihon-no-poster',
-      title: '日本のポスターはなぜ情報量が多いのか',
-      kicker: '中級〜上級',
-      desc: '文化と流通の構造を読み解く',
-      badge: '8段落',
-      file: '/asanews/assets/readings/nihon-no-poster.json'
-    },
-    {
-      id: 'hachijou-no-jiyuu',
-      title: '八平米の自由と、その外側に押し出されたもの',
-      kicker: '上級',
-      desc: '『東京八平米』から考える、住まいと都市の関係',
-      badge: '13段落',
-      file: '/asanews/assets/readings/hachijou-no-jiyuu.json'
+      desc: '危険運転致死傷罪に新たな数値基準が導入。その内容と残された課題を解説します。',
+      badge: '6段落',
+      file: '/asanews/assets/readings/kiken-unten-kijun.json'
     }
   ];
 
   function renderList() {
     container.innerHTML = '';
-    document.title = '読解ルーム | たかのーと';
+    document.title = '読解ルーム | asanews';
 
     const wrapper = document.createElement('div');
     wrapper.id = 'page-category';
@@ -195,7 +179,7 @@
     container.innerHTML = '';
 
     // タイトル
-    document.title = `${escHtml(data.title)} | 読解ルーム | たかのーと`;
+    document.title = `${escHtml(data.title)} | 読解ルーム | asanews`;
 
     const wrapper = document.createElement('div');
     wrapper.className = 'rr-reader';
