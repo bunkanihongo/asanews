@@ -70,7 +70,47 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-      const READING_LIST = [
+        const READING_LIST = [
+    {
+      id: 'trump-wcup-zensetsu',
+      title: 'W杯表彰式 トランプ氏の執着に批判殺到 FIFA会長が慌てて案内',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/trump-wcup-zensetsu.json'
+    },
+    {
+      id: 'chugoku-reearth-kenkin',
+      title: '中国で邦人2名拘束 レアアース巡る「人質外交」に懸念拡大',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/chugoku-reearth-kenkin.json'
+    },
+    {
+      id: 'suisu-nihonjin-suibotsu',
+      title: 'スイス・ベルンの川でSUP中 日本人男性が溺れて死亡',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/suisu-nihonjin-suibotsu.json'
+    },
+    {
+      id: 'myze-hasan-model',
+      title: 'ミュゼプラチナム破産 前受金依存の「自転車操業」が招いた末路',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/myze-hasan-model.json'
+    },
+    {
+      id: 'zara-shi-no-pantsu',
+      title: 'ZARA「死のパンツ」に注意 ワイドパンツで転倒・骨折が相次ぐ',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/zara-shi-no-pantsu.json'
+    },
     {
       id: 'ishiba-sho-hizei-minaoshi',
       title: '石破前総理 消費税1％減税見直し「選択肢にあってしかるべき」',
