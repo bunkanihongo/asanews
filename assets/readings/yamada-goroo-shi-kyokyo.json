@@ -1,1176 +1,1156 @@
-{
-  "slug": "yamada-goroo-shi-kyokyo",
-  "title": "「アド街」が山田五郎さんを追悼 最期の収録は亡くなる6日前",
-  "source": "スポーツ報知",
-  "url": "https://news.yahoo.co.jp/articles/43d9640629a5490277ff7847b353b2f8f1013d53",
-  "date": "2026-07-23",
-  "topic": "エンタメ",
-  "paragraphs": [
-    {
-      "ja": "「アド街ック天国」などで知られるテレビ解説者の山田五郎さんが死去した。芸能評論家やタレントとしても活躍し、幅広い世代に親しまれた。16日に亡くなったことが23日、分かった。山田さんはアド街の収録を亡くなる6日前まで行っていた。番組のスタッフは「最期の収録は、亡くなる6日前。最後に言った言葉を、私たちは忘れる事はない」と追悼のコメントを発表した。",
-      "en": "TV commentator Yamada Goro, known for 'Adomatchick Tengoku' and other shows, has passed away. He was active as an entertainment critic and TV personality, beloved by a wide range of generations. It was revealed on the 23rd that he died on the 16th. Yamada had been recording for Adomatchi until 6 days before his death. The show's staff released a memorial comment saying, 'His final recording was 6 days before his passing. We will never forget his last words.'",
-      "literal": "「アド街ック天国」などで（on shows like Adomatchick Tengoku）知られる（known）テレビ解説者の（TV commentator）山田五郎さんが（Mr. Yamada Goro）死去した（passed away）。芸能評論家や（entertainment critic and）タレントとして（as TV personality）も（also）活躍し（was active）幅広い（wide）世代に（among generations）親しまれた（was loved）。16日に（on the 16th）亡くなった（passed away）ことが（that）23日（on the 23rd）分かった（was revealed）。山田さんは（Mr. Yamada）アド街の（Adomatchi's）収録を（recording）亡くなる（pass away）6日前まで（until 6 days before）行っていた（had been doing）。",
-      "grammar": [
-        {
-          "point": "〜として（作为〜）: 表示身份、资格。",
-          "example": "芸能評論家として活躍した。／作为演艺评论家活跃。"
-        },
-        {
-          "point": "〜ことが分かった（得知〜）: 表示得知某个事实。新闻常用。",
-          "example": "亡くなったことが23日、分かった。／于23日得知去世的消息。"
-        },
-        {
-          "point": "〜まで（直到〜）: 表示时间或空间的终点。",
-          "example": "亡くなる6日前まで収録を行っていた。／直到去世前6天都在录制。"
-        }
-      ],
-      "vocab": [
-        {
-          "kanji": "解説者",
-          "furigana": "かいせつしゃ",
-          "cn": "解说员、评论员"
-        },
-        {
-          "kanji": "芸能評論家",
-          "furigana": "げいのうひょうろんか",
-          "cn": "演艺评论家"
-        },
-        {
-          "kanji": "親しむ",
-          "furigana": "したしむ",
-          "cn": "亲近、喜爱"
-        },
-        {
-          "kanji": "収録",
-          "furigana": "しゅうろく",
-          "cn": "录制、收录"
-        },
-        {
-          "kanji": "追悼",
-          "furigana": "ついとう",
-          "cn": "追悼、悼念"
-        }
-      ],
-      "words": [
-        {
-          "s": "「",
-          "r": "「",
-          "p": "grammar"
-        },
-        {
-          "s": "アド街ック",
-          "r": "アドマチック",
-          "p": "noun"
-        },
-        {
-          "s": "天国",
-          "r": "テンゴク",
-          "p": "noun"
-        },
-        {
-          "s": "」",
-          "r": "」",
-          "p": "grammar"
-        },
-        {
-          "s": "など",
-          "r": "ナド",
-          "p": "particle"
-        },
-        {
-          "s": "で",
-          "r": "デ",
-          "p": "particle"
-        },
-        {
-          "s": "知る",
-          "r": "シラ",
-          "p": "verb"
-        },
-        {
-          "s": "れる",
-          "r": "レル",
-          "p": "grammar"
-        },
-        {
-          "s": "テレビ",
-          "r": "テレビ",
-          "p": "noun"
-        },
-        {
-          "s": "解説者",
-          "r": "カイセツシャ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "山田",
-          "r": "ヤマダ",
-          "p": "noun"
-        },
-        {
-          "s": "五郎",
-          "r": "ゴロウ",
-          "p": "noun"
-        },
-        {
-          "s": "さん",
-          "r": "サン",
-          "p": "grammar"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "死去",
-          "r": "シキョ",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "芸能",
-          "r": "ゲイノウ",
-          "p": "noun"
-        },
-        {
-          "s": "評論家",
-          "r": "ヒョウロンカ",
-          "p": "noun"
-        },
-        {
-          "s": "や",
-          "r": "ヤ",
-          "p": "particle"
-        },
-        {
-          "s": "タレント",
-          "r": "タレント",
-          "p": "noun"
-        },
-        {
-          "s": "と",
-          "r": "ト",
-          "p": "particle"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "も",
-          "r": "モ",
-          "p": "particle"
-        },
-        {
-          "s": "活躍",
-          "r": "カツヤク",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "幅広い",
-          "r": "ハバヒロイ",
-          "p": "adj"
-        },
-        {
-          "s": "世代",
-          "r": "セダイ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "親しむ",
-          "r": "シタシマ",
-          "p": "verb"
-        },
-        {
-          "s": "れる",
-          "r": "レ",
-          "p": "grammar"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "16",
-          "r": "イチロク",
-          "p": "noun"
-        },
-        {
-          "s": "日",
-          "r": "ニチ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "亡くなる",
-          "r": "ナクナッ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "こと",
-          "r": "コト",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "23",
-          "r": "ニミッ",
-          "p": "noun"
-        },
-        {
-          "s": "日",
-          "r": "カ",
-          "p": "grammar"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "分かる",
-          "r": "ワカッ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "山田",
-          "r": "ヤマダ",
-          "p": "noun"
-        },
-        {
-          "s": "さん",
-          "r": "サン",
-          "p": "grammar"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "アド",
-          "r": "アド",
-          "p": "noun"
-        },
-        {
-          "s": "街",
-          "r": "ガイ",
-          "p": "grammar"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "収録",
-          "r": "シュウロク",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "亡くなる",
-          "r": "ナクナル",
-          "p": "verb"
-        },
-        {
-          "s": "6",
-          "r": "ムイ",
-          "p": "noun"
-        },
-        {
-          "s": "日",
-          "r": "カ",
-          "p": "grammar"
-        },
-        {
-          "s": "前",
-          "r": "マエ",
-          "p": "noun"
-        },
-        {
-          "s": "まで",
-          "r": "マデ",
-          "p": "particle"
-        },
-        {
-          "s": "行く",
-          "r": "イッ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "いる",
-          "r": "イ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "番組",
-          "r": "バングミ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "スタッフ",
-          "r": "スタッフ",
-          "p": "noun"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "「",
-          "r": "「",
-          "p": "grammar"
-        },
-        {
-          "s": "最期",
-          "r": "サイゴ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "収録",
-          "r": "シュウロク",
-          "p": "noun"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "亡くなる",
-          "r": "ナクナル",
-          "p": "verb"
-        },
-        {
-          "s": "6",
-          "r": "ムイ",
-          "p": "noun"
-        },
-        {
-          "s": "日",
-          "r": "カ",
-          "p": "grammar"
-        },
-        {
-          "s": "前",
-          "r": "マエ",
-          "p": "noun"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "最後",
-          "r": "サイゴ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "言う",
-          "r": "イッ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "言葉",
-          "r": "コトバ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "私たち",
-          "r": "ワタシタチ",
-          "p": "grammar"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "忘れる",
-          "r": "ワスレル",
-          "p": "verb"
-        },
-        {
-          "s": "事",
-          "r": "コト",
-          "p": "noun"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "ない",
-          "r": "ナイ",
-          "p": "adj"
-        },
-        {
-          "s": "」",
-          "r": "」",
-          "p": "grammar"
-        },
-        {
-          "s": "と",
-          "r": "ト",
-          "p": "particle"
-        },
-        {
-          "s": "追悼",
-          "r": "ツイトウ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "コメント",
-          "r": "コメント",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "発表",
-          "r": "ハッピョウ",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        }
-      ]
-    },
-    {
-      "ja": "山田さんは1945年生まれ。テレビ東京系「出没！アド街ック天国」の開始当初からレギュラー出演し、番組の顔として長年親しまれた。軽妙な語り口と豊富な知識で人気を集め、テレビ解説者としての活動のほか、数多くのバラエティ番組にも出演。また、エッセイストとしても執筆活動を続けていた。近年も精力的に活動していたが、突然の知らせに多くの関係者やファンから悲しみの声が上がっている。",
-      "en": "Yamada was born in 1945. He appeared regularly on TV Tokyo's 'Shutsubotsu! Adomatchick Tengoku' from its inception, loved for years as the face of the show. He gained popularity with his witty narration and extensive knowledge. In addition to his work as a TV commentator, he appeared in many variety shows. He also continued writing as an essayist. He was active energetically until recently, but the sudden news has brought voices of sorrow from many associates and fans.",
-      "literal": "山田さんは（Mr. Yamada）1945年生まれ（born in 1945）。テレビ東京系（TV Tokyo）「出活！アド街ック天国」の（of 'Shutsubotsu Adomatchick Tengoku'）開始当初から（from beginning）レギュラー出演し（appeared regularly）番組の顔として（as face of show）長年（for many years）親しまれた（was loved）。軽妙な（witty）語り口と（narrating style and）豊富な（abundant）知識で（with knowledge）人気を（popularity）集め（gathered）テレビ解説者として（as TV commentator）の活動のほか（in addition to activities）数多くの（many）バラエティ番組にも（also in variety shows）出演（appeared）。また（also）エッセイストとして（as essayist）も（also）執筆活動を（writing activities）続けていた（continued）。",
-      "grammar": [
-        {
-          "point": "〜のほか（除了〜之外）: 表示附加、并列。",
-          "example": "テレビ解説者としての活動のほか、執筆も行った。／除了作为电视评论员的活动外，也从事写作。"
-        },
-        {
-          "point": "〜から〜まで（从〜到〜）: 表示范围。本文は開始当初から。",
-          "example": "番組開始当初からレギュラー出演した。／从节目开播起就定期出演。"
-        },
-        {
-          "point": "〜声が上がる（出现〜声音）: 固定搭配，表示出现某种意见或情感反应。",
-          "example": "悲しみの声が上がっている。／出现悲痛的声音。"
-        }
-      ],
-      "vocab": [
-        {
-          "kanji": "レギュラー出演",
-          "furigana": "レギュラーしゅつえん",
-          "cn": "定期出演、常驻嘉宾"
-        },
-        {
-          "kanji": "軽妙",
-          "furigana": "けいみょう",
-          "cn": "轻妙、巧妙"
-        },
-        {
-          "kanji": "語り口",
-          "furigana": "かたりぐち",
-          "cn": "讲述方式、口吻"
-        },
-        {
-          "kanji": "豊富",
-          "furigana": "ほうふ",
-          "cn": "丰富"
-        },
-        {
-          "kanji": "精力的",
-          "furigana": "せいりょくてき",
-          "cn": "精力充沛的"
-        }
-      ],
-      "words": [
-        {
-          "s": "山田",
-          "r": "ヤマダ",
-          "p": "noun"
-        },
-        {
-          "s": "さん",
-          "r": "サン",
-          "p": "grammar"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "1945",
-          "r": "イチキュウヨンゴ",
-          "p": "noun"
-        },
-        {
-          "s": "年",
-          "r": "ネン",
-          "p": "noun"
-        },
-        {
-          "s": "生まれ",
-          "r": "ウマレ",
-          "p": "noun"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "テレビ東京",
-          "r": "テレビトウキョウ",
-          "p": "noun"
-        },
-        {
-          "s": "系",
-          "r": "ケイ",
-          "p": "grammar"
-        },
-        {
-          "s": "「",
-          "r": "「",
-          "p": "grammar"
-        },
-        {
-          "s": "出没",
-          "r": "シュツボツ",
-          "p": "noun"
-        },
-        {
-          "s": "!",
-          "r": "!",
-          "p": "grammar"
-        },
-        {
-          "s": "アド街ック",
-          "r": "アドマチック",
-          "p": "noun"
-        },
-        {
-          "s": "天国",
-          "r": "テンゴク",
-          "p": "noun"
-        },
-        {
-          "s": "」",
-          "r": "」",
-          "p": "grammar"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "開始",
-          "r": "カイシ",
-          "p": "noun"
-        },
-        {
-          "s": "当初",
-          "r": "トウショ",
-          "p": "noun"
-        },
-        {
-          "s": "から",
-          "r": "カラ",
-          "p": "particle"
-        },
-        {
-          "s": "レギュラー",
-          "r": "レギュラー",
-          "p": "noun"
-        },
-        {
-          "s": "出演",
-          "r": "シュツエン",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "番組",
-          "r": "バングミ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "顔",
-          "r": "カオ",
-          "p": "noun"
-        },
-        {
-          "s": "と",
-          "r": "ト",
-          "p": "particle"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "長年",
-          "r": "ナガネン",
-          "p": "noun"
-        },
-        {
-          "s": "親しむ",
-          "r": "シタシマ",
-          "p": "verb"
-        },
-        {
-          "s": "れる",
-          "r": "レ",
-          "p": "grammar"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "軽妙",
-          "r": "ケイミョウ",
-          "p": "noun"
-        },
-        {
-          "s": "だ",
-          "r": "ナ",
-          "p": "grammar"
-        },
-        {
-          "s": "語り口",
-          "r": "カタリクチ",
-          "p": "noun"
-        },
-        {
-          "s": "と",
-          "r": "ト",
-          "p": "particle"
-        },
-        {
-          "s": "豊富",
-          "r": "ホウフ",
-          "p": "grammar"
-        },
-        {
-          "s": "だ",
-          "r": "ナ",
-          "p": "grammar"
-        },
-        {
-          "s": "知識",
-          "r": "チシキ",
-          "p": "noun"
-        },
-        {
-          "s": "で",
-          "r": "デ",
-          "p": "particle"
-        },
-        {
-          "s": "人気",
-          "r": "ニンキ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "集める",
-          "r": "アツメ",
-          "p": "verb"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "テレビ",
-          "r": "テレビ",
-          "p": "noun"
-        },
-        {
-          "s": "解説者",
-          "r": "カイセツシャ",
-          "p": "noun"
-        },
-        {
-          "s": "と",
-          "r": "ト",
-          "p": "particle"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "活動",
-          "r": "カツドウ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "ほか",
-          "r": "ホカ",
-          "p": "noun"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "数多く",
-          "r": "カズオオク",
-          "p": "adverb"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "バラエティ",
-          "r": "バラエティ",
-          "p": "noun"
-        },
-        {
-          "s": "番組",
-          "r": "バングミ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "も",
-          "r": "モ",
-          "p": "particle"
-        },
-        {
-          "s": "出演",
-          "r": "シュツエン",
-          "p": "noun"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "また",
-          "r": "マタ",
-          "p": "connector"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "エッセイスト",
-          "r": "エッセイスト",
-          "p": "noun"
-        },
-        {
-          "s": "と",
-          "r": "ト",
-          "p": "particle"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "も",
-          "r": "モ",
-          "p": "particle"
-        },
-        {
-          "s": "執筆",
-          "r": "シッピツ",
-          "p": "noun"
-        },
-        {
-          "s": "活動",
-          "r": "カツドウ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "続ける",
-          "r": "ツヅケ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "いる",
-          "r": "イ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "近年",
-          "r": "キンネン",
-          "p": "noun"
-        },
-        {
-          "s": "も",
-          "r": "モ",
-          "p": "particle"
-        },
-        {
-          "s": "精力的",
-          "r": "セイリョクテキ",
-          "p": "noun"
-        },
-        {
-          "s": "だ",
-          "r": "ニ",
-          "p": "grammar"
-        },
-        {
-          "s": "活動",
-          "r": "カツドウ",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "いる",
-          "r": "イ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "突然",
-          "r": "トツゼン",
-          "p": "adverb"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "知らせ",
-          "r": "シラセ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "多く",
-          "r": "オオク",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "関係者",
-          "r": "カンケイシャ",
-          "p": "noun"
-        },
-        {
-          "s": "や",
-          "r": "ヤ",
-          "p": "particle"
-        },
-        {
-          "s": "ファン",
-          "r": "ファン",
-          "p": "noun"
-        },
-        {
-          "s": "から",
-          "r": "カラ",
-          "p": "particle"
-        },
-        {
-          "s": "悲しみ",
-          "r": "カナシミ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "声",
-          "r": "コエ",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "上がる",
-          "r": "アガッ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "いる",
-          "r": "イル",
-          "p": "verb"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "yamada-goroo-shi-kyokyo",
+    "title": "「アド街」が山田五郎さんを追悼 最期の収録は亡くなる6日前",
+    "subtitle": "from スポーツ報知",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-23",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "ja": "「アド街ック天国」などで知られるテレビ解説者の山田五郎さんが死去した。芸能評論家やタレントとしても活躍し、幅広い世代に親しまれた。16日に亡くなったことが23日、分かった。山田さんはアド街の収録を亡くなる6日前まで行っていた。番組のスタッフは「最期の収録は、亡くなる6日前。最後に言った言葉を、私たちは忘れる事はない」と追悼のコメントを発表した。",
+        "en": "TV commentator Yamada Goro, known for 'Adomatchick Tengoku' and other shows, has passed away. He was active as an entertainment critic and TV personality, beloved by a wide range of generations. It was revealed on the 23rd that he died on the 16th. Yamada had been recording for Adomatchi until 6 days before his death. The show's staff released a memorial comment saying, 'His final recording was 6 days before his passing. We will never forget his last words.'",
+        "literal": "「アド街ック天国」などで（on shows like Adomatchick Tengoku）知られる（known）テレビ解説者の（TV commentator）山田五郎さんが（Mr. Yamada Goro）死去した（passed away）。芸能評論家や（entertainment critic and）タレントとして（as TV personality）も（also）活躍し（was active）幅広い（wide）世代に（among generations）親しまれた（was loved）。16日に（on the 16th）亡くなった（passed away）ことが（that）23日（on the 23rd）分かった（was revealed）。山田さんは（Mr. Yamada）アド街の（Adomatchi's）収録を（recording）亡くなる（pass away）6日前まで（until 6 days before）行っていた（had been doing）。",
+        "grammar": "「〜として（作为〜）: 表示身份、资格。」例：芸能評論家として活躍した。／作为演艺评论家活跃。\n「〜ことが分かった（得知〜）: 表示得知某个事实。新闻常用。」例：亡くなったことが23日、分かった。／于23日得知去世的消息。\n「〜まで（直到〜）: 表示时间或空间的终点。」例：亡くなる6日前まで収録を行っていた。／直到去世前6天都在录制。",
+        "vocab": [
+          [
+            "解説者",
+            "かいせつしゃ",
+            "解说员、评论员"
+          ],
+          [
+            "芸能評論家",
+            "げいのうひょうろんか",
+            "演艺评论家"
+          ],
+          [
+            "親しむ",
+            "したしむ",
+            "亲近、喜爱"
+          ],
+          [
+            "収録",
+            "しゅうろく",
+            "录制、收录"
+          ],
+          [
+            "追悼",
+            "ついとう",
+            "追悼、悼念"
+          ]
+        ],
+        "words": [
+          {
+            "s": "「",
+            "r": "「",
+            "p": "grammar"
+          },
+          {
+            "s": "アド街ック",
+            "r": "アドマチック",
+            "p": "noun"
+          },
+          {
+            "s": "天国",
+            "r": "テンゴク",
+            "p": "noun"
+          },
+          {
+            "s": "」",
+            "r": "」",
+            "p": "grammar"
+          },
+          {
+            "s": "など",
+            "r": "ナド",
+            "p": "particle"
+          },
+          {
+            "s": "で",
+            "r": "デ",
+            "p": "particle"
+          },
+          {
+            "s": "知る",
+            "r": "シラ",
+            "p": "verb"
+          },
+          {
+            "s": "れる",
+            "r": "レル",
+            "p": "grammar"
+          },
+          {
+            "s": "テレビ",
+            "r": "テレビ",
+            "p": "noun"
+          },
+          {
+            "s": "解説者",
+            "r": "カイセツシャ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "山田",
+            "r": "ヤマダ",
+            "p": "noun"
+          },
+          {
+            "s": "五郎",
+            "r": "ゴロウ",
+            "p": "noun"
+          },
+          {
+            "s": "さん",
+            "r": "サン",
+            "p": "grammar"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "死去",
+            "r": "シキョ",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "芸能",
+            "r": "ゲイノウ",
+            "p": "noun"
+          },
+          {
+            "s": "評論家",
+            "r": "ヒョウロンカ",
+            "p": "noun"
+          },
+          {
+            "s": "や",
+            "r": "ヤ",
+            "p": "particle"
+          },
+          {
+            "s": "タレント",
+            "r": "タレント",
+            "p": "noun"
+          },
+          {
+            "s": "と",
+            "r": "ト",
+            "p": "particle"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "も",
+            "r": "モ",
+            "p": "particle"
+          },
+          {
+            "s": "活躍",
+            "r": "カツヤク",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "幅広い",
+            "r": "ハバヒロイ",
+            "p": "adj"
+          },
+          {
+            "s": "世代",
+            "r": "セダイ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "親しむ",
+            "r": "シタシマ",
+            "p": "verb"
+          },
+          {
+            "s": "れる",
+            "r": "レ",
+            "p": "grammar"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "16",
+            "r": "イチロク",
+            "p": "noun"
+          },
+          {
+            "s": "日",
+            "r": "ニチ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "亡くなる",
+            "r": "ナクナッ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "こと",
+            "r": "コト",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "23",
+            "r": "ニミッ",
+            "p": "noun"
+          },
+          {
+            "s": "日",
+            "r": "カ",
+            "p": "grammar"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "分かる",
+            "r": "ワカッ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "山田",
+            "r": "ヤマダ",
+            "p": "noun"
+          },
+          {
+            "s": "さん",
+            "r": "サン",
+            "p": "grammar"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "アド",
+            "r": "アド",
+            "p": "noun"
+          },
+          {
+            "s": "街",
+            "r": "ガイ",
+            "p": "grammar"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "収録",
+            "r": "シュウロク",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "亡くなる",
+            "r": "ナクナル",
+            "p": "verb"
+          },
+          {
+            "s": "6",
+            "r": "ムイ",
+            "p": "noun"
+          },
+          {
+            "s": "日",
+            "r": "カ",
+            "p": "grammar"
+          },
+          {
+            "s": "前",
+            "r": "マエ",
+            "p": "noun"
+          },
+          {
+            "s": "まで",
+            "r": "マデ",
+            "p": "particle"
+          },
+          {
+            "s": "行く",
+            "r": "イッ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "いる",
+            "r": "イ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "番組",
+            "r": "バングミ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "スタッフ",
+            "r": "スタッフ",
+            "p": "noun"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "「",
+            "r": "「",
+            "p": "grammar"
+          },
+          {
+            "s": "最期",
+            "r": "サイゴ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "収録",
+            "r": "シュウロク",
+            "p": "noun"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "亡くなる",
+            "r": "ナクナル",
+            "p": "verb"
+          },
+          {
+            "s": "6",
+            "r": "ムイ",
+            "p": "noun"
+          },
+          {
+            "s": "日",
+            "r": "カ",
+            "p": "grammar"
+          },
+          {
+            "s": "前",
+            "r": "マエ",
+            "p": "noun"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "最後",
+            "r": "サイゴ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "言う",
+            "r": "イッ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "言葉",
+            "r": "コトバ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "私たち",
+            "r": "ワタシタチ",
+            "p": "grammar"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "忘れる",
+            "r": "ワスレル",
+            "p": "verb"
+          },
+          {
+            "s": "事",
+            "r": "コト",
+            "p": "noun"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "ない",
+            "r": "ナイ",
+            "p": "adj"
+          },
+          {
+            "s": "」",
+            "r": "」",
+            "p": "grammar"
+          },
+          {
+            "s": "と",
+            "r": "ト",
+            "p": "particle"
+          },
+          {
+            "s": "追悼",
+            "r": "ツイトウ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "コメント",
+            "r": "コメント",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "発表",
+            "r": "ハッピョウ",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          }
+        ],
+        "audio": "/asanews/assets/audio/yamada-goroo-shi-kyokyo/p1.mp3"
+      },
+      {
+        "id": "p2",
+        "ja": "山田さんは1945年生まれ。テレビ東京系「出没！アド街ック天国」の開始当初からレギュラー出演し、番組の顔として長年親しまれた。軽妙な語り口と豊富な知識で人気を集め、テレビ解説者としての活動のほか、数多くのバラエティ番組にも出演。また、エッセイストとしても執筆活動を続けていた。近年も精力的に活動していたが、突然の知らせに多くの関係者やファンから悲しみの声が上がっている。",
+        "en": "Yamada was born in 1945. He appeared regularly on TV Tokyo's 'Shutsubotsu! Adomatchick Tengoku' from its inception, loved for years as the face of the show. He gained popularity with his witty narration and extensive knowledge. In addition to his work as a TV commentator, he appeared in many variety shows. He also continued writing as an essayist. He was active energetically until recently, but the sudden news has brought voices of sorrow from many associates and fans.",
+        "literal": "山田さんは（Mr. Yamada）1945年生まれ（born in 1945）。テレビ東京系（TV Tokyo）「出活！アド街ック天国」の（of 'Shutsubotsu Adomatchick Tengoku'）開始当初から（from beginning）レギュラー出演し（appeared regularly）番組の顔として（as face of show）長年（for many years）親しまれた（was loved）。軽妙な（witty）語り口と（narrating style and）豊富な（abundant）知識で（with knowledge）人気を（popularity）集め（gathered）テレビ解説者として（as TV commentator）の活動のほか（in addition to activities）数多くの（many）バラエティ番組にも（also in variety shows）出演（appeared）。また（also）エッセイストとして（as essayist）も（also）執筆活動を（writing activities）続けていた（continued）。",
+        "grammar": "「〜のほか（除了〜之外）: 表示附加、并列。」例：テレビ解説者としての活動のほか、執筆も行った。／除了作为电视评论员的活动外，也从事写作。\n「〜から〜まで（从〜到〜）: 表示范围。本文は開始当初から。」例：番組開始当初からレギュラー出演した。／从节目开播起就定期出演。\n「〜声が上がる（出现〜声音）: 固定搭配，表示出现某种意见或情感反应。」例：悲しみの声が上がっている。／出现悲痛的声音。",
+        "vocab": [
+          [
+            "レギュラー出演",
+            "レギュラーしゅつえん",
+            "定期出演、常驻嘉宾"
+          ],
+          [
+            "軽妙",
+            "けいみょう",
+            "轻妙、巧妙"
+          ],
+          [
+            "語り口",
+            "かたりぐち",
+            "讲述方式、口吻"
+          ],
+          [
+            "豊富",
+            "ほうふ",
+            "丰富"
+          ],
+          [
+            "精力的",
+            "せいりょくてき",
+            "精力充沛的"
+          ]
+        ],
+        "words": [
+          {
+            "s": "山田",
+            "r": "ヤマダ",
+            "p": "noun"
+          },
+          {
+            "s": "さん",
+            "r": "サン",
+            "p": "grammar"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "1945",
+            "r": "イチキュウヨンゴ",
+            "p": "noun"
+          },
+          {
+            "s": "年",
+            "r": "ネン",
+            "p": "noun"
+          },
+          {
+            "s": "生まれ",
+            "r": "ウマレ",
+            "p": "noun"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "テレビ東京",
+            "r": "テレビトウキョウ",
+            "p": "noun"
+          },
+          {
+            "s": "系",
+            "r": "ケイ",
+            "p": "grammar"
+          },
+          {
+            "s": "「",
+            "r": "「",
+            "p": "grammar"
+          },
+          {
+            "s": "出没",
+            "r": "シュツボツ",
+            "p": "noun"
+          },
+          {
+            "s": "!",
+            "r": "!",
+            "p": "grammar"
+          },
+          {
+            "s": "アド街ック",
+            "r": "アドマチック",
+            "p": "noun"
+          },
+          {
+            "s": "天国",
+            "r": "テンゴク",
+            "p": "noun"
+          },
+          {
+            "s": "」",
+            "r": "」",
+            "p": "grammar"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "開始",
+            "r": "カイシ",
+            "p": "noun"
+          },
+          {
+            "s": "当初",
+            "r": "トウショ",
+            "p": "noun"
+          },
+          {
+            "s": "から",
+            "r": "カラ",
+            "p": "particle"
+          },
+          {
+            "s": "レギュラー",
+            "r": "レギュラー",
+            "p": "noun"
+          },
+          {
+            "s": "出演",
+            "r": "シュツエン",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "番組",
+            "r": "バングミ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "顔",
+            "r": "カオ",
+            "p": "noun"
+          },
+          {
+            "s": "と",
+            "r": "ト",
+            "p": "particle"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "長年",
+            "r": "ナガネン",
+            "p": "noun"
+          },
+          {
+            "s": "親しむ",
+            "r": "シタシマ",
+            "p": "verb"
+          },
+          {
+            "s": "れる",
+            "r": "レ",
+            "p": "grammar"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "軽妙",
+            "r": "ケイミョウ",
+            "p": "noun"
+          },
+          {
+            "s": "だ",
+            "r": "ナ",
+            "p": "grammar"
+          },
+          {
+            "s": "語り口",
+            "r": "カタリクチ",
+            "p": "noun"
+          },
+          {
+            "s": "と",
+            "r": "ト",
+            "p": "particle"
+          },
+          {
+            "s": "豊富",
+            "r": "ホウフ",
+            "p": "grammar"
+          },
+          {
+            "s": "だ",
+            "r": "ナ",
+            "p": "grammar"
+          },
+          {
+            "s": "知識",
+            "r": "チシキ",
+            "p": "noun"
+          },
+          {
+            "s": "で",
+            "r": "デ",
+            "p": "particle"
+          },
+          {
+            "s": "人気",
+            "r": "ニンキ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "集める",
+            "r": "アツメ",
+            "p": "verb"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "テレビ",
+            "r": "テレビ",
+            "p": "noun"
+          },
+          {
+            "s": "解説者",
+            "r": "カイセツシャ",
+            "p": "noun"
+          },
+          {
+            "s": "と",
+            "r": "ト",
+            "p": "particle"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "活動",
+            "r": "カツドウ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "ほか",
+            "r": "ホカ",
+            "p": "noun"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "数多く",
+            "r": "カズオオク",
+            "p": "adverb"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "バラエティ",
+            "r": "バラエティ",
+            "p": "noun"
+          },
+          {
+            "s": "番組",
+            "r": "バングミ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "も",
+            "r": "モ",
+            "p": "particle"
+          },
+          {
+            "s": "出演",
+            "r": "シュツエン",
+            "p": "noun"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "また",
+            "r": "マタ",
+            "p": "connector"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "エッセイスト",
+            "r": "エッセイスト",
+            "p": "noun"
+          },
+          {
+            "s": "と",
+            "r": "ト",
+            "p": "particle"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "も",
+            "r": "モ",
+            "p": "particle"
+          },
+          {
+            "s": "執筆",
+            "r": "シッピツ",
+            "p": "noun"
+          },
+          {
+            "s": "活動",
+            "r": "カツドウ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "続ける",
+            "r": "ツヅケ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "いる",
+            "r": "イ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "近年",
+            "r": "キンネン",
+            "p": "noun"
+          },
+          {
+            "s": "も",
+            "r": "モ",
+            "p": "particle"
+          },
+          {
+            "s": "精力的",
+            "r": "セイリョクテキ",
+            "p": "noun"
+          },
+          {
+            "s": "だ",
+            "r": "ニ",
+            "p": "grammar"
+          },
+          {
+            "s": "活動",
+            "r": "カツドウ",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "いる",
+            "r": "イ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "突然",
+            "r": "トツゼン",
+            "p": "adverb"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "知らせ",
+            "r": "シラセ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "多く",
+            "r": "オオク",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "関係者",
+            "r": "カンケイシャ",
+            "p": "noun"
+          },
+          {
+            "s": "や",
+            "r": "ヤ",
+            "p": "particle"
+          },
+          {
+            "s": "ファン",
+            "r": "ファン",
+            "p": "noun"
+          },
+          {
+            "s": "から",
+            "r": "カラ",
+            "p": "particle"
+          },
+          {
+            "s": "悲しみ",
+            "r": "カナシミ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "声",
+            "r": "コエ",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "上がる",
+            "r": "アガッ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "いる",
+            "r": "イル",
+            "p": "verb"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          }
+        ],
+        "audio": "/asanews/assets/audio/yamada-goroo-shi-kyokyo/p2.mp3"
+      }
+    ]
+  }
+]

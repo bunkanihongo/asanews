@@ -1,851 +1,831 @@
-{
-  "slug": "hammono-otoko-keisatsu-kan-happou",
-  "title": "コンビニに刃物男 警察官の発砲受け21歳男を逮捕 熊本",
-  "source": "RKK熊本放送",
-  "url": "https://news.yahoo.co.jp/articles/2b1ff3d6a1ae9e72259d64dff1db7520ce3d1457",
-  "date": "2026-07-23",
-  "topic": "社会・事件",
-  "paragraphs": [
-    {
-      "ja": "22日夕方、熊本県合志市のコンビニエンスストアに刃物を持った男が現れ、駆け付けた警察官の発砲を受けた。警察によると、男は21歳で、強盗事件が発生したとの通報を受けて警察官が現場に駆け付けたところ、刃物を持った男がいたという。警察官が警告したが男が応じなかったため、発砲した。男は手足を撃たれ、怪我をして病院に搬送された。",
-      "en": "On the evening of the 22nd, a man with a knife appeared at a convenience store in Koshi City, Kumamoto Prefecture, and was shot by police officers who rushed to the scene. According to police, the man was 21 years old. When officers responded to a report of a robbery incident, they found a man with a knife. The officers issued a warning, but when the man did not comply, they fired. The man was shot in the limbs, injured, and transported to a hospital.",
-      "literal": "22日夕方（evening of 22nd）熊本県合志市の（in Koushi City, Kumamoto）コンビニエンスストアに（at convenience store）刃物を（knife）持った（holding）男が（man）現れ（appeared）駆け付けた（rushed to）警察官の（police officer's）発砲を（gunfire）受けた（received）。警察によると（according to police）男は（man is）21歳（21 years old）強盗事件が（robbery incident）発生したとの（that occurred）通報を（report）受けて（received）警察官が（officers）現場に（to scene）駆け付けたところ（when rushed）刃物を（knife）持った（holding）男が（man）いたという（was there）。警察官が（officers）警告した（warned）が（but）男が（man）応じなかった（did not respond）ため（because）発砲した（fired）。",
-      "grammar": [
-        {
-          "point": "〜ところ（刚〜时）: 表示在某个行为发生时，出现了后续的情况。",
-          "example": "駆け付けたところ、刃物を持った男がいた。／赶到现场时，有一名持刀男子。"
-        },
-        {
-          "point": "〜ため（因为〜）: 表示原因、理由。",
-          "example": "男が応じなかったため、発砲した。／因为男子没有回应，所以开枪了。"
-        },
-        {
-          "point": "〜によると（根据〜）: 表示消息来源。新闻常用。",
-          "example": "警察によると、男は21歳だという。／据警方称，该男子21岁。"
-        }
-      ],
-      "vocab": [
-        {
-          "kanji": "刃物",
-          "furigana": "はもの",
-          "cn": "刀具、刃具"
-        },
-        {
-          "kanji": "発砲",
-          "furigana": "はっぽう",
-          "cn": "开枪、发射"
-        },
-        {
-          "kanji": "強盗",
-          "furigana": "ごうとう",
-          "cn": "抢劫"
-        },
-        {
-          "kanji": "通報",
-          "furigana": "つうほう",
-          "cn": "通报、报警"
-        },
-        {
-          "kanji": "搬送",
-          "furigana": "はんそう",
-          "cn": "运送、搬运"
-        }
-      ],
-      "words": [
-        {
-          "s": "22",
-          "r": "ニニ",
-          "p": "noun"
-        },
-        {
-          "s": "日",
-          "r": "ニチ",
-          "p": "noun"
-        },
-        {
-          "s": "夕方",
-          "r": "ユウガタ",
-          "p": "noun"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "熊本県合志市",
-          "r": "クマモトケンコウシシ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "コンビニエンスストア",
-          "r": "コンビニエンスストア",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "刃物",
-          "r": "ハモノ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "持つ",
-          "r": "モッ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "男",
-          "r": "オトコ",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "現れる",
-          "r": "アラワレ",
-          "p": "verb"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "駆け付ける",
-          "r": "カケツケ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "警察官",
-          "r": "ケイサツカン",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "発砲",
-          "r": "ハッポウ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "受ける",
-          "r": "ウケ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "警察",
-          "r": "ケイサツ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "よる",
-          "r": "ヨル",
-          "p": "verb"
-        },
-        {
-          "s": "と",
-          "r": "ト",
-          "p": "particle"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "男",
-          "r": "オトコ",
-          "p": "noun"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "21",
-          "r": "ニイチ",
-          "p": "noun"
-        },
-        {
-          "s": "歳",
-          "r": "サイ",
-          "p": "grammar"
-        },
-        {
-          "s": "だ",
-          "r": "デ",
-          "p": "grammar"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "強盗",
-          "r": "ゴウトウ",
-          "p": "noun"
-        },
-        {
-          "s": "事件",
-          "r": "ジケン",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "発生",
-          "r": "ハッセイ",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "と",
-          "r": "ト",
-          "p": "particle"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "通報",
-          "r": "ツウホウ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "受ける",
-          "r": "ウケ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "警察官",
-          "r": "ケイサツカン",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "現場",
-          "r": "ゲンバ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "駆け付ける",
-          "r": "カケツケ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "ところ",
-          "r": "トコロ",
-          "p": "noun"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "刃物",
-          "r": "ハモノ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "持つ",
-          "r": "モッ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "男",
-          "r": "オトコ",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "いる",
-          "r": "イ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "と",
-          "r": "ト",
-          "p": "particle"
-        },
-        {
-          "s": "いう",
-          "r": "イウ",
-          "p": "verb"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "警察官",
-          "r": "ケイサツカン",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "警告",
-          "r": "ケイコク",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "男",
-          "r": "オトコ",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "応ずる",
-          "r": "オウジ",
-          "p": "verb"
-        },
-        {
-          "s": "ない",
-          "r": "ナカッ",
-          "p": "grammar"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "ため",
-          "r": "タメ",
-          "p": "noun"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "発砲",
-          "r": "ハッポウ",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "男",
-          "r": "オトコ",
-          "p": "noun"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "手足",
-          "r": "テアシ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "撃つ",
-          "r": "ウタ",
-          "p": "verb"
-        },
-        {
-          "s": "れる",
-          "r": "レ",
-          "p": "grammar"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "怪我",
-          "r": "ケガ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "病院",
-          "r": "ビョウイン",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "搬送",
-          "r": "ハンソウ",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "サ",
-          "p": "verb"
-        },
-        {
-          "s": "れる",
-          "r": "レ",
-          "p": "grammar"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        }
-      ]
-    },
-    {
-      "ja": "その後、男は逮捕された。警察による鑑識が続いている。現場周辺は一時騒然となったが、現在は落ち着いているという。警察は事件の詳しい経緯を調べている。",
-      "en": "Afterwards, the man was arrested. Police forensics investigation continues. The area around the scene was temporarily in turmoil, but is now calm according to reports. Police are investigating the detailed circumstances of the incident.",
-      "literal": "その後（after that）男は（man）逮捕された（was arrested）。警察による（by police）鑑識が（forensic investigation）続いている（is continuing）。現場周辺は（around the scene）一時（temporarily）騒然と（chaotic）なった（became）が（but）現在は（now）落ち着いている（is calm）という（it is said）。警察は（police）事件の（incident's）詳しい（detailed）経緯を（circumstances）調べている（are investigating）。",
-      "grammar": [
-        {
-          "point": "〜による（由〜）: 表示动作主体。本文中「警察による鑑識」。",
-          "example": "警察による鑑識が続いている。／警方进行的鉴定仍在继续。"
-        },
-        {
-          "point": "〜という（据说〜）: 表示传闻。新闻常用表达。",
-          "example": "現在は落ち着いているという。／据说现在已恢复平静。"
-        },
-        {
-          "point": "〜ている（正在〜）: 表示动作正在进行或状态持续。",
-          "example": "警察は事件の経緯を調べている。／警方正在调查事件的经过。"
-        }
-      ],
-      "vocab": [
-        {
-          "kanji": "逮捕",
-          "furigana": "たいほ",
-          "cn": "逮捕"
-        },
-        {
-          "kanji": "鑑識",
-          "furigana": "かんしき",
-          "cn": "鉴定、识別"
-        },
-        {
-          "kanji": "騒然",
-          "furigana": "そうぜん",
-          "cn": "骚然、混乱"
-        },
-        {
-          "kanji": "経緯",
-          "furigana": "けいい",
-          "cn": "经过、原委"
-        }
-      ],
-      "words": [
-        {
-          "s": "その",
-          "r": "ソノ",
-          "p": "adj"
-        },
-        {
-          "s": "後",
-          "r": "ゴ",
-          "p": "noun"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "男",
-          "r": "オトコ",
-          "p": "noun"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "逮捕",
-          "r": "タイホ",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "サ",
-          "p": "verb"
-        },
-        {
-          "s": "れる",
-          "r": "レ",
-          "p": "grammar"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "警察",
-          "r": "ケイサツ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "よる",
-          "r": "ヨル",
-          "p": "verb"
-        },
-        {
-          "s": "鑑識",
-          "r": "カンシキ",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "続く",
-          "r": "ツヅイ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "いる",
-          "r": "イル",
-          "p": "verb"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "現場",
-          "r": "ゲンバ",
-          "p": "noun"
-        },
-        {
-          "s": "周辺",
-          "r": "シュウヘン",
-          "p": "noun"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "一時",
-          "r": "イチジ",
-          "p": "noun"
-        },
-        {
-          "s": "騒然",
-          "r": "ソウゼン",
-          "p": "grammar"
-        },
-        {
-          "s": "と",
-          "r": "ト",
-          "p": "particle"
-        },
-        {
-          "s": "なる",
-          "r": "ナッ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "現在",
-          "r": "ゲンザイ",
-          "p": "noun"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "落ち着く",
-          "r": "オチツイ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "いる",
-          "r": "イル",
-          "p": "verb"
-        },
-        {
-          "s": "と",
-          "r": "ト",
-          "p": "particle"
-        },
-        {
-          "s": "いう",
-          "r": "イウ",
-          "p": "verb"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "警察",
-          "r": "ケイサツ",
-          "p": "noun"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "事件",
-          "r": "ジケン",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "詳しい",
-          "r": "クワシイ",
-          "p": "adj"
-        },
-        {
-          "s": "経緯",
-          "r": "ケイイ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "調べる",
-          "r": "シラベ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "いる",
-          "r": "イル",
-          "p": "verb"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "hammono-otoko-keisatsu-kan-happou",
+    "title": "コンビニに刃物男 警察官の発砲受け21歳男を逮捕 熊本",
+    "subtitle": "from RKK熊本放送",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-23",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "ja": "22日夕方、熊本県合志市のコンビニエンスストアに刃物を持った男が現れ、駆け付けた警察官の発砲を受けた。警察によると、男は21歳で、強盗事件が発生したとの通報を受けて警察官が現場に駆け付けたところ、刃物を持った男がいたという。警察官が警告したが男が応じなかったため、発砲した。男は手足を撃たれ、怪我をして病院に搬送された。",
+        "en": "On the evening of the 22nd, a man with a knife appeared at a convenience store in Koshi City, Kumamoto Prefecture, and was shot by police officers who rushed to the scene. According to police, the man was 21 years old. When officers responded to a report of a robbery incident, they found a man with a knife. The officers issued a warning, but when the man did not comply, they fired. The man was shot in the limbs, injured, and transported to a hospital.",
+        "literal": "22日夕方（evening of 22nd）熊本県合志市の（in Koushi City, Kumamoto）コンビニエンスストアに（at convenience store）刃物を（knife）持った（holding）男が（man）現れ（appeared）駆け付けた（rushed to）警察官の（police officer's）発砲を（gunfire）受けた（received）。警察によると（according to police）男は（man is）21歳（21 years old）強盗事件が（robbery incident）発生したとの（that occurred）通報を（report）受けて（received）警察官が（officers）現場に（to scene）駆け付けたところ（when rushed）刃物を（knife）持った（holding）男が（man）いたという（was there）。警察官が（officers）警告した（warned）が（but）男が（man）応じなかった（did not respond）ため（because）発砲した（fired）。",
+        "grammar": "「〜ところ（刚〜时）: 表示在某个行为发生时，出现了后续的情况。」例：駆け付けたところ、刃物を持った男がいた。／赶到现场时，有一名持刀男子。\n「〜ため（因为〜）: 表示原因、理由。」例：男が応じなかったため、発砲した。／因为男子没有回应，所以开枪了。\n「〜によると（根据〜）: 表示消息来源。新闻常用。」例：警察によると、男は21歳だという。／据警方称，该男子21岁。",
+        "vocab": [
+          [
+            "刃物",
+            "はもの",
+            "刀具、刃具"
+          ],
+          [
+            "発砲",
+            "はっぽう",
+            "开枪、发射"
+          ],
+          [
+            "強盗",
+            "ごうとう",
+            "抢劫"
+          ],
+          [
+            "通報",
+            "つうほう",
+            "通报、报警"
+          ],
+          [
+            "搬送",
+            "はんそう",
+            "运送、搬运"
+          ]
+        ],
+        "words": [
+          {
+            "s": "22",
+            "r": "ニニ",
+            "p": "noun"
+          },
+          {
+            "s": "日",
+            "r": "ニチ",
+            "p": "noun"
+          },
+          {
+            "s": "夕方",
+            "r": "ユウガタ",
+            "p": "noun"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "熊本県合志市",
+            "r": "クマモトケンコウシシ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "コンビニエンスストア",
+            "r": "コンビニエンスストア",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "刃物",
+            "r": "ハモノ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "持つ",
+            "r": "モッ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "男",
+            "r": "オトコ",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "現れる",
+            "r": "アラワレ",
+            "p": "verb"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "駆け付ける",
+            "r": "カケツケ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "警察官",
+            "r": "ケイサツカン",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "発砲",
+            "r": "ハッポウ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "受ける",
+            "r": "ウケ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "警察",
+            "r": "ケイサツ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "よる",
+            "r": "ヨル",
+            "p": "verb"
+          },
+          {
+            "s": "と",
+            "r": "ト",
+            "p": "particle"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "男",
+            "r": "オトコ",
+            "p": "noun"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "21",
+            "r": "ニイチ",
+            "p": "noun"
+          },
+          {
+            "s": "歳",
+            "r": "サイ",
+            "p": "grammar"
+          },
+          {
+            "s": "だ",
+            "r": "デ",
+            "p": "grammar"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "強盗",
+            "r": "ゴウトウ",
+            "p": "noun"
+          },
+          {
+            "s": "事件",
+            "r": "ジケン",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "発生",
+            "r": "ハッセイ",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "と",
+            "r": "ト",
+            "p": "particle"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "通報",
+            "r": "ツウホウ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "受ける",
+            "r": "ウケ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "警察官",
+            "r": "ケイサツカン",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "現場",
+            "r": "ゲンバ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "駆け付ける",
+            "r": "カケツケ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "ところ",
+            "r": "トコロ",
+            "p": "noun"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "刃物",
+            "r": "ハモノ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "持つ",
+            "r": "モッ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "男",
+            "r": "オトコ",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "いる",
+            "r": "イ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "と",
+            "r": "ト",
+            "p": "particle"
+          },
+          {
+            "s": "いう",
+            "r": "イウ",
+            "p": "verb"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "警察官",
+            "r": "ケイサツカン",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "警告",
+            "r": "ケイコク",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "男",
+            "r": "オトコ",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "応ずる",
+            "r": "オウジ",
+            "p": "verb"
+          },
+          {
+            "s": "ない",
+            "r": "ナカッ",
+            "p": "grammar"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "ため",
+            "r": "タメ",
+            "p": "noun"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "発砲",
+            "r": "ハッポウ",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "男",
+            "r": "オトコ",
+            "p": "noun"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "手足",
+            "r": "テアシ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "撃つ",
+            "r": "ウタ",
+            "p": "verb"
+          },
+          {
+            "s": "れる",
+            "r": "レ",
+            "p": "grammar"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "怪我",
+            "r": "ケガ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "病院",
+            "r": "ビョウイン",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "搬送",
+            "r": "ハンソウ",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "サ",
+            "p": "verb"
+          },
+          {
+            "s": "れる",
+            "r": "レ",
+            "p": "grammar"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          }
+        ],
+        "audio": "/asanews/assets/audio/hammono-otoko-keisatsu-kan-happou/p1.mp3"
+      },
+      {
+        "id": "p2",
+        "ja": "その後、男は逮捕された。警察による鑑識が続いている。現場周辺は一時騒然となったが、現在は落ち着いているという。警察は事件の詳しい経緯を調べている。",
+        "en": "Afterwards, the man was arrested. Police forensics investigation continues. The area around the scene was temporarily in turmoil, but is now calm according to reports. Police are investigating the detailed circumstances of the incident.",
+        "literal": "その後（after that）男は（man）逮捕された（was arrested）。警察による（by police）鑑識が（forensic investigation）続いている（is continuing）。現場周辺は（around the scene）一時（temporarily）騒然と（chaotic）なった（became）が（but）現在は（now）落ち着いている（is calm）という（it is said）。警察は（police）事件の（incident's）詳しい（detailed）経緯を（circumstances）調べている（are investigating）。",
+        "grammar": "「〜による（由〜）: 表示动作主体。本文中「警察による鑑識」。」例：警察による鑑識が続いている。／警方进行的鉴定仍在继续。\n「〜という（据说〜）: 表示传闻。新闻常用表达。」例：現在は落ち着いているという。／据说现在已恢复平静。\n「〜ている（正在〜）: 表示动作正在进行或状态持续。」例：警察は事件の経緯を調べている。／警方正在调查事件的经过。",
+        "vocab": [
+          [
+            "逮捕",
+            "たいほ",
+            "逮捕"
+          ],
+          [
+            "鑑識",
+            "かんしき",
+            "鉴定、识別"
+          ],
+          [
+            "騒然",
+            "そうぜん",
+            "骚然、混乱"
+          ],
+          [
+            "経緯",
+            "けいい",
+            "经过、原委"
+          ]
+        ],
+        "words": [
+          {
+            "s": "その",
+            "r": "ソノ",
+            "p": "adj"
+          },
+          {
+            "s": "後",
+            "r": "ゴ",
+            "p": "noun"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "男",
+            "r": "オトコ",
+            "p": "noun"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "逮捕",
+            "r": "タイホ",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "サ",
+            "p": "verb"
+          },
+          {
+            "s": "れる",
+            "r": "レ",
+            "p": "grammar"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "警察",
+            "r": "ケイサツ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "よる",
+            "r": "ヨル",
+            "p": "verb"
+          },
+          {
+            "s": "鑑識",
+            "r": "カンシキ",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "続く",
+            "r": "ツヅイ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "いる",
+            "r": "イル",
+            "p": "verb"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "現場",
+            "r": "ゲンバ",
+            "p": "noun"
+          },
+          {
+            "s": "周辺",
+            "r": "シュウヘン",
+            "p": "noun"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "一時",
+            "r": "イチジ",
+            "p": "noun"
+          },
+          {
+            "s": "騒然",
+            "r": "ソウゼン",
+            "p": "grammar"
+          },
+          {
+            "s": "と",
+            "r": "ト",
+            "p": "particle"
+          },
+          {
+            "s": "なる",
+            "r": "ナッ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "現在",
+            "r": "ゲンザイ",
+            "p": "noun"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "落ち着く",
+            "r": "オチツイ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "いる",
+            "r": "イル",
+            "p": "verb"
+          },
+          {
+            "s": "と",
+            "r": "ト",
+            "p": "particle"
+          },
+          {
+            "s": "いう",
+            "r": "イウ",
+            "p": "verb"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "警察",
+            "r": "ケイサツ",
+            "p": "noun"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "事件",
+            "r": "ジケン",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "詳しい",
+            "r": "クワシイ",
+            "p": "adj"
+          },
+          {
+            "s": "経緯",
+            "r": "ケイイ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "調べる",
+            "r": "シラベ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "いる",
+            "r": "イル",
+            "p": "verb"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          }
+        ],
+        "audio": "/asanews/assets/audio/hammono-otoko-keisatsu-kan-happou/p2.mp3"
+      }
+    ]
+  }
+]

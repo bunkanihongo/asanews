@@ -1,1469 +1,1438 @@
-{
-  "slug": "net-chuushou-toukou-syousatsu-1man-ken",
-  "title": "ネット中傷、投稿者特定の申し立てが1万件超 22年に導入後初めて",
-  "source": "朝日新聞",
-  "url": "https://news.yahoo.co.jp/articles/6a72937ea00150dfe79988c9c1ae7793c7e04460",
-  "date": "2026-07-23",
-  "topic": "社会・法律",
-  "paragraphs": [
-    {
-      "ja": "インターネット上で誹謗中傷した投稿者を特定するための裁判手続き「発信者情報開示命令」の申立件数が、2025年に初めて1万件を超えた。22年の制度導入から右肩上がりに増えている。中傷被害が後を絶たないなか、従来より手続きが簡単になり、利用が進んでいるとみられる。",
-      "en": "The number of petitions for the court procedure 'Sender Information Disclosure Order' to identify posters who have slandered others online exceeded 10,000 for the first time in 2025. It has been steadily increasing since the system was introduced in 2022. Amid endless defamation damage, the procedure has become simpler than before, and its use appears to be progressing.",
-      "literal": "インターネット上で（on the internet）誹謗中傷した（slandered）投稿者を（poster）特定するための（for identifying）裁判手続き（court procedure）「発信者情報開示命令」の（of 'Sender Information Disclosure Order'）申立件数が（number of petitions）2025年に（in 2025）初めて（for the first time）1万件を（10,000 cases）超えた（exceeded）。22年の（of 2022）制度導入から（since system introduction）右肩上がりに（steadily upward）増えている（is increasing）。中傷被害が（defamation damage）後を絶たないなか（amidst never-ending）従来より（than before）手続きが（procedure）簡単になり（became simpler）利用が（use）進んでいると（is progressing）みられる（appears to be）。",
-      "grammar": [
-        {
-          "point": "〜ための（为了〜的）: 表示目的。连体修饰名词。",
-          "example": "投稿者を特定するための手続き。／为了识别发帖者的程序。"
-        },
-        {
-          "point": "〜とみられる（被认为〜）: 表示推测性判断。新闻用语。",
-          "example": "利用が進んでいるとみられる。／被认为使用在推进。"
-        },
-        {
-          "point": "〜が後を絶たない（接连不断）: 固定表达。表示坏事不断发生。",
-          "example": "中傷被害が後を絶たない。／诽谤伤害接连不断。"
-        }
-      ],
-      "vocab": [
-        {
-          "kanji": "誹謗中傷",
-          "furigana": "ひぼうちゅうしょう",
-          "cn": "诽谤中伤"
-        },
-        {
-          "kanji": "発信者情報開示命令",
-          "furigana": "はっしんしゃじょうほうかいじめいれい",
-          "cn": "发信人信息披露令"
-        },
-        {
-          "kanji": "申立件数",
-          "furigana": "もうしたてけんすう",
-          "cn": "申请件数"
-        },
-        {
-          "kanji": "右肩上がり",
-          "furigana": "みぎかたあがり",
-          "cn": "直线上升、持续增长"
-        },
-        {
-          "kanji": "後を絶たない",
-          "furigana": "あとをたたない",
-          "cn": "络绎不绝、接连不断"
-        }
-      ],
-      "words": [
-        {
-          "s": "インターネット",
-          "r": "インターネット",
-          "p": "noun"
-        },
-        {
-          "s": "上",
-          "r": "ジョウ",
-          "p": "grammar"
-        },
-        {
-          "s": "で",
-          "r": "デ",
-          "p": "particle"
-        },
-        {
-          "s": "誹謗",
-          "r": "ヒボウ",
-          "p": "noun"
-        },
-        {
-          "s": "中傷",
-          "r": "チュウショウ",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "投稿者",
-          "r": "トウコウシャ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "特定",
-          "r": "トクテイ",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "スル",
-          "p": "verb"
-        },
-        {
-          "s": "ため",
-          "r": "タメ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "裁判",
-          "r": "サイバン",
-          "p": "noun"
-        },
-        {
-          "s": "手続き",
-          "r": "テツヅキ",
-          "p": "noun"
-        },
-        {
-          "s": "「",
-          "r": "「",
-          "p": "grammar"
-        },
-        {
-          "s": "発信者",
-          "r": "ハッシンシャ",
-          "p": "noun"
-        },
-        {
-          "s": "情報",
-          "r": "ジョウホウ",
-          "p": "noun"
-        },
-        {
-          "s": "開示",
-          "r": "カイジ",
-          "p": "noun"
-        },
-        {
-          "s": "命令",
-          "r": "メイレイ",
-          "p": "noun"
-        },
-        {
-          "s": "」",
-          "r": "」",
-          "p": "grammar"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "申立",
-          "r": "モウシタテ",
-          "p": "noun"
-        },
-        {
-          "s": "件数",
-          "r": "ケンスウ",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "2025",
-          "r": "ニレイニゴ",
-          "p": "noun"
-        },
-        {
-          "s": "年",
-          "r": "ネン",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "初めて",
-          "r": "ハジメテ",
-          "p": "adverb"
-        },
-        {
-          "s": "1万",
-          "r": "イチマン",
-          "p": "noun"
-        },
-        {
-          "s": "件",
-          "r": "ケン",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "超える",
-          "r": "コエ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "22",
-          "r": "ニニ",
-          "p": "noun"
-        },
-        {
-          "s": "年",
-          "r": "ネン",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "制度",
-          "r": "セイド",
-          "p": "noun"
-        },
-        {
-          "s": "導入",
-          "r": "ドウニュウ",
-          "p": "noun"
-        },
-        {
-          "s": "から",
-          "r": "カラ",
-          "p": "particle"
-        },
-        {
-          "s": "右肩",
-          "r": "ミギカタ",
-          "p": "noun"
-        },
-        {
-          "s": "上がり",
-          "r": "アガリ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "増える",
-          "r": "フエ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "いる",
-          "r": "イル",
-          "p": "verb"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "中傷",
-          "r": "チュウショウ",
-          "p": "noun"
-        },
-        {
-          "s": "被害",
-          "r": "ヒガイ",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "後",
-          "r": "アト",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "絶つ",
-          "r": "タタ",
-          "p": "verb"
-        },
-        {
-          "s": "ない",
-          "r": "ナイ",
-          "p": "grammar"
-        },
-        {
-          "s": "なか",
-          "r": "ナカ",
-          "p": "noun"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "従来",
-          "r": "ジュウライ",
-          "p": "noun"
-        },
-        {
-          "s": "より",
-          "r": "ヨリ",
-          "p": "particle"
-        },
-        {
-          "s": "手続き",
-          "r": "テツヅキ",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "簡単",
-          "r": "カンタン",
-          "p": "grammar"
-        },
-        {
-          "s": "だ",
-          "r": "ニ",
-          "p": "grammar"
-        },
-        {
-          "s": "なる",
-          "r": "ナリ",
-          "p": "verb"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "利用",
-          "r": "リヨウ",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "進む",
-          "r": "ススン",
-          "p": "verb"
-        },
-        {
-          "s": "で",
-          "r": "デ",
-          "p": "particle"
-        },
-        {
-          "s": "いる",
-          "r": "イル",
-          "p": "verb"
-        },
-        {
-          "s": "と",
-          "r": "ト",
-          "p": "particle"
-        },
-        {
-          "s": "みる",
-          "r": "ミ",
-          "p": "verb"
-        },
-        {
-          "s": "られる",
-          "r": "ラレル",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        }
-      ]
-    },
-    {
-      "ja": "ネット上の投稿による中傷被害などに損害賠償を求めて提訴する場合、投稿主を特定する必要がある。従来は裁判手続きを2回経なければならなかった。まずはSNS事業者やサイト運営企業に投稿者のIPアドレスなどの開示を求める仮処分や訴訟だ。次にプロバイダーに投稿者の氏名や住所などを開示させる訴訟を起こす。",
-      "en": "When filing a lawsuit for damages from defamation damage caused by online posts, it is necessary to identify the poster. Conventionally, one had to go through court procedures twice. First was a provisional disposition or lawsuit seeking disclosure of the poster's IP address from SNS operators or website management companies. Next was filing a lawsuit to force the provider to disclose the poster's name and address.",
-      "literal": "ネット上の（online）投稿による（due to posts）中傷被害などに（defamation damage etc.）損害賠償を（damages）求めて（seeking）提訴する場合（when filing a lawsuit）投稿主を（poster）特定する（identify）必要がある（it is necessary）。従来は（conventionally）裁判手続きを（court procedures）2回（twice）経なければならなかった（had to go through）。まずは（first）SNS事業者や（SNS operators and）サイト運営企業に（site management companies）投稿者の（poster's）IPアドレスなどの（IP address etc.）開示を（disclosure）求める（seeking）仮処分や（provisional disposition or）訴訟だ（lawsuit）。次に（next）プロバイダーに（to provider）投稿者の（poster's）氏名や（name and）住所などを（address etc.）開示させる（force to disclose）訴訟を（lawsuit）起こす（file）。",
-      "grammar": [
-        {
-          "point": "〜なければならなかった（不得不〜）: 〜なければならない的过去形。表示必须。",
-          "example": "裁判手続きを2回経なければならなかった。／不得不经过两次法院程序。"
-        },
-        {
-          "point": "〜による（由于〜）: 表示原因、理由。",
-          "example": "ネット上の投稿による中傷被害。／由于网络帖子造成的诽谤损害。"
-        },
-        {
-          "point": "〜させる（使役）: 让/使（某人做某事）。",
-          "example": "プロバイダーに情報を開示させる。／让服务商披露信息。"
-        }
-      ],
-      "vocab": [
-        {
-          "kanji": "損害賠償",
-          "furigana": "そんがいばいしょう",
-          "cn": "损害赔偿"
-        },
-        {
-          "kanji": "提訴",
-          "furigana": "ていそ",
-          "cn": "提起诉讼"
-        },
-        {
-          "kanji": "仮処分",
-          "furigana": "かりしょぶん",
-          "cn": "假处分（临时保全措施）"
-        },
-        {
-          "kanji": "訴訟",
-          "furigana": "そしょう",
-          "cn": "诉讼"
-        },
-        {
-          "kanji": "開示",
-          "furigana": "かいじ",
-          "cn": "披露、公开"
-        }
-      ],
-      "words": [
-        {
-          "s": "ネット",
-          "r": "ネット",
-          "p": "noun"
-        },
-        {
-          "s": "上",
-          "r": "ジョウ",
-          "p": "grammar"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "投稿",
-          "r": "トウコウ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "よる",
-          "r": "ヨル",
-          "p": "verb"
-        },
-        {
-          "s": "中傷",
-          "r": "チュウショウ",
-          "p": "noun"
-        },
-        {
-          "s": "被害",
-          "r": "ヒガイ",
-          "p": "noun"
-        },
-        {
-          "s": "など",
-          "r": "ナド",
-          "p": "particle"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "損害賠償",
-          "r": "ソンガイバイショウ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "求める",
-          "r": "モトメ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "提訴",
-          "r": "テイソ",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "スル",
-          "p": "verb"
-        },
-        {
-          "s": "場合",
-          "r": "バアイ",
-          "p": "noun"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "投稿",
-          "r": "トウコウ",
-          "p": "noun"
-        },
-        {
-          "s": "主",
-          "r": "シュ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "特定",
-          "r": "トクテイ",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "スル",
-          "p": "verb"
-        },
-        {
-          "s": "必要",
-          "r": "ヒツヨウ",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "ある",
-          "r": "アル",
-          "p": "verb"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "従来",
-          "r": "ジュウライ",
-          "p": "noun"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "裁判",
-          "r": "サイバン",
-          "p": "noun"
-        },
-        {
-          "s": "手続き",
-          "r": "テツヅキ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "2",
-          "r": "ニ",
-          "p": "noun"
-        },
-        {
-          "s": "回",
-          "r": "カイ",
-          "p": "noun"
-        },
-        {
-          "s": "経",
-          "r": "キョウ",
-          "p": "noun"
-        },
-        {
-          "s": "ない",
-          "r": "ナケレ",
-          "p": "adj"
-        },
-        {
-          "s": "ば",
-          "r": "バ",
-          "p": "particle"
-        },
-        {
-          "s": "なる",
-          "r": "ナラ",
-          "p": "verb"
-        },
-        {
-          "s": "ない",
-          "r": "ナカッ",
-          "p": "grammar"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "まず",
-          "r": "マズ",
-          "p": "adverb"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "SNS",
-          "r": "エスエヌエス",
-          "p": "noun"
-        },
-        {
-          "s": "事業者",
-          "r": "ジギョウシャ",
-          "p": "noun"
-        },
-        {
-          "s": "や",
-          "r": "ヤ",
-          "p": "particle"
-        },
-        {
-          "s": "サイト",
-          "r": "サイト",
-          "p": "noun"
-        },
-        {
-          "s": "運営",
-          "r": "ウンエイ",
-          "p": "noun"
-        },
-        {
-          "s": "企業",
-          "r": "キギョウ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "投稿者",
-          "r": "トウコウシャ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "IPアドレス",
-          "r": "アイピーアドレス",
-          "p": "noun"
-        },
-        {
-          "s": "など",
-          "r": "ナド",
-          "p": "particle"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "開示",
-          "r": "カイジ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "求める",
-          "r": "モトメル",
-          "p": "verb"
-        },
-        {
-          "s": "仮処分",
-          "r": "カリショブン",
-          "p": "noun"
-        },
-        {
-          "s": "や",
-          "r": "ヤ",
-          "p": "particle"
-        },
-        {
-          "s": "訴訟",
-          "r": "ソショウ",
-          "p": "noun"
-        },
-        {
-          "s": "だ",
-          "r": "ダ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "次",
-          "r": "ツギ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "プロバイダー",
-          "r": "プロバイダー",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "投稿者",
-          "r": "トウコウシャ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "氏名",
-          "r": "シメイ",
-          "p": "noun"
-        },
-        {
-          "s": "や",
-          "r": "ヤ",
-          "p": "particle"
-        },
-        {
-          "s": "住所",
-          "r": "ジュウショ",
-          "p": "noun"
-        },
-        {
-          "s": "など",
-          "r": "ナド",
-          "p": "particle"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "開示",
-          "r": "カイジ",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "サ",
-          "p": "verb"
-        },
-        {
-          "s": "せる",
-          "r": "セル",
-          "p": "grammar"
-        },
-        {
-          "s": "訴訟",
-          "r": "ソショウ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "起こす",
-          "r": "オコス",
-          "p": "verb"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        }
-      ]
-    },
-    {
-      "ja": "22年に施行された改正プロバイダー責任制限法で新たな手続きが導入された。一つの手続きで、被害を訴える人の申し立てを受けた裁判所が投稿者の情報開示をSNS事業者などに命じることが可能になった。申立件数は年々増え、25年の全国の裁判所への申し立ては1万72件だった。前年の6779件から約1.5倍になった。このうち9割超の9343件が東京地裁に集中していた。",
-      "en": "A new procedure was introduced under the amended Provider Liability Limitation Law enacted in 2022. With a single procedure, it became possible for courts to order SNS operators to disclose the poster's information upon receiving a petition from the damaged person. The number of petitions has been increasing year by year, reaching 10,072 nationwide in 2025 - about 1.5 times the previous year's 6,779. Of these, over 90% (9,343 cases) were concentrated in the Tokyo District Court.",
-      "literal": "22年に（in 2022）施行された（was enacted）改正プロバイダー責任制限法で（under the amended Provider Liability Limitation Law）新たな（new）手続きが（procedure）導入された（was introduced）。一つの（one）手続きで（with procedure）被害を（damage）訴える人の（of the person claiming）申し立てを（petition）受けた（received）裁判所が（court）投稿者の（poster's）情報開示を（information disclosure）SNS事業者などに（to SNS operators etc.）命じる（order）ことが可能になった（became possible）。申立件数は（number of petitions）年々（year by year）増え（increase）25年の（2025's）全国の（nationwide）裁判所への（to courts）申し立ては（petition was）1万72件だった（was 10,072 cases）。前年の（previous year's）6779件から（from 6,779 cases）約1.5倍に（about 1.5 times）なった（became）。このうち（of these）9割超の（over 90% of）9343件が（9,343 cases）東京地裁に（in Tokyo District Court）集中していた（were concentrated）。",
-      "grammar": [
-        {
-          "point": "〜ことが可能になった（变得可能）: 表示可能性的变化。",
-          "example": "裁判所が情報開示を命じることが可能になった。／法院变得可以命令披露信息。"
-        },
-        {
-          "point": "〜年々（逐年）: 表示每年都在变化。",
-          "example": "申立件数は年々増えている。／申请数量逐年增加。"
-        },
-        {
-          "point": "〜うち（其中）: 表示从整体中取出部分。",
-          "example": "このうち9割超が東京地裁に集中していた。／其中超过九成集中在东京地裁。"
-        }
-      ],
-      "vocab": [
-        {
-          "kanji": "施行",
-          "furigana": "しこう",
-          "cn": "施行、实施"
-        },
-        {
-          "kanji": "改正",
-          "furigana": "かいせい",
-          "cn": "改正、修订"
-        },
-        {
-          "kanji": "導入",
-          "furigana": "どうにゅう",
-          "cn": "导入、引入"
-        },
-        {
-          "kanji": "命じる",
-          "furigana": "めいじる",
-          "cn": "命令、下令"
-        },
-        {
-          "kanji": "東京地裁",
-          "furigana": "とうきょうちさい",
-          "cn": "东京地方法院"
-        }
-      ],
-      "words": [
-        {
-          "s": "22",
-          "r": "ニニ",
-          "p": "noun"
-        },
-        {
-          "s": "年",
-          "r": "ネン",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "施行",
-          "r": "シコウ",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "サ",
-          "p": "verb"
-        },
-        {
-          "s": "れる",
-          "r": "レ",
-          "p": "grammar"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "改正",
-          "r": "カイセイ",
-          "p": "noun"
-        },
-        {
-          "s": "プロバイダー",
-          "r": "プロバイダー",
-          "p": "noun"
-        },
-        {
-          "s": "責任",
-          "r": "セキニン",
-          "p": "noun"
-        },
-        {
-          "s": "制限",
-          "r": "セイゲン",
-          "p": "noun"
-        },
-        {
-          "s": "法",
-          "r": "ホウ",
-          "p": "grammar"
-        },
-        {
-          "s": "で",
-          "r": "デ",
-          "p": "particle"
-        },
-        {
-          "s": "新た",
-          "r": "アラタ",
-          "p": "grammar"
-        },
-        {
-          "s": "だ",
-          "r": "ナ",
-          "p": "grammar"
-        },
-        {
-          "s": "手続き",
-          "r": "テツヅキ",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "導入",
-          "r": "ドウニュウ",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "サ",
-          "p": "verb"
-        },
-        {
-          "s": "れる",
-          "r": "レ",
-          "p": "grammar"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "一",
-          "r": "ヒト",
-          "p": "noun"
-        },
-        {
-          "s": "つ",
-          "r": "ツ",
-          "p": "grammar"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "手続き",
-          "r": "テツヅキ",
-          "p": "noun"
-        },
-        {
-          "s": "だ",
-          "r": "デ",
-          "p": "grammar"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "被害",
-          "r": "ヒガイ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "訴える",
-          "r": "ウッタエル",
-          "p": "verb"
-        },
-        {
-          "s": "人",
-          "r": "ヒト",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "申し立て",
-          "r": "モウシタテ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "受ける",
-          "r": "ウケ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "裁判所",
-          "r": "サイバンショ",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "投稿者",
-          "r": "トウコウシャ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "情報",
-          "r": "ジョウホウ",
-          "p": "noun"
-        },
-        {
-          "s": "開示",
-          "r": "カイジ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "SNS",
-          "r": "エスエヌエス",
-          "p": "noun"
-        },
-        {
-          "s": "事業者",
-          "r": "ジギョウシャ",
-          "p": "noun"
-        },
-        {
-          "s": "など",
-          "r": "ナド",
-          "p": "particle"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "命じる",
-          "r": "メイジル",
-          "p": "verb"
-        },
-        {
-          "s": "こと",
-          "r": "コト",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "可能",
-          "r": "カノウ",
-          "p": "grammar"
-        },
-        {
-          "s": "だ",
-          "r": "ニ",
-          "p": "grammar"
-        },
-        {
-          "s": "なる",
-          "r": "ナッ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "申立",
-          "r": "モウシタテ",
-          "p": "noun"
-        },
-        {
-          "s": "件数",
-          "r": "ケンスウ",
-          "p": "noun"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "年々",
-          "r": "ネンネン",
-          "p": "noun"
-        },
-        {
-          "s": "増える",
-          "r": "フエ",
-          "p": "verb"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "25",
-          "r": "ニゴ",
-          "p": "noun"
-        },
-        {
-          "s": "年",
-          "r": "ネン",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "全国",
-          "r": "ゼンコク",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "裁判所",
-          "r": "サイバンショ",
-          "p": "noun"
-        },
-        {
-          "s": "へ",
-          "r": "ヘ",
-          "p": "particle"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "申し立て",
-          "r": "モウシタテ",
-          "p": "noun"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "1万72",
-          "r": "イチマンナナニ",
-          "p": "noun"
-        },
-        {
-          "s": "件",
-          "r": "ケン",
-          "p": "noun"
-        },
-        {
-          "s": "だ",
-          "r": "ダッ",
-          "p": "grammar"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "前年",
-          "r": "ゼンネン",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "6779",
-          "r": "ロクナナナナキュウ",
-          "p": "noun"
-        },
-        {
-          "s": "件",
-          "r": "ケン",
-          "p": "noun"
-        },
-        {
-          "s": "から",
-          "r": "カラ",
-          "p": "particle"
-        },
-        {
-          "s": "約",
-          "r": "ヤク",
-          "p": "grammar"
-        },
-        {
-          "s": "1.5",
-          "r": "イチ．ゴ",
-          "p": "noun"
-        },
-        {
-          "s": "倍",
-          "r": "バイ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "なる",
-          "r": "ナッ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "この",
-          "r": "コノ",
-          "p": "adj"
-        },
-        {
-          "s": "うち",
-          "r": "ウチ",
-          "p": "noun"
-        },
-        {
-          "s": "9",
-          "r": "キュウ",
-          "p": "noun"
-        },
-        {
-          "s": "割",
-          "r": "ワリ",
-          "p": "noun"
-        },
-        {
-          "s": "超",
-          "r": "チョウ",
-          "p": "grammar"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "9343",
-          "r": "キュウサンヨンサン",
-          "p": "noun"
-        },
-        {
-          "s": "件",
-          "r": "ケン",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "東京",
-          "r": "トウキョウ",
-          "p": "noun"
-        },
-        {
-          "s": "地裁",
-          "r": "チサイ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "集中",
-          "r": "シュウチュウ",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "いる",
-          "r": "イ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "net-chuushou-toukou-syousatsu-1man-ken",
+    "title": "ネット中傷、投稿者特定の申し立てが1万件超 22年に導入後初めて",
+    "subtitle": "from 朝日新聞",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-07-23",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "ja": "インターネット上で誹謗中傷した投稿者を特定するための裁判手続き「発信者情報開示命令」の申立件数が、2025年に初めて1万件を超えた。22年の制度導入から右肩上がりに増えている。中傷被害が後を絶たないなか、従来より手続きが簡単になり、利用が進んでいるとみられる。",
+        "en": "The number of petitions for the court procedure 'Sender Information Disclosure Order' to identify posters who have slandered others online exceeded 10,000 for the first time in 2025. It has been steadily increasing since the system was introduced in 2022. Amid endless defamation damage, the procedure has become simpler than before, and its use appears to be progressing.",
+        "literal": "インターネット上で（on the internet）誹謗中傷した（slandered）投稿者を（poster）特定するための（for identifying）裁判手続き（court procedure）「発信者情報開示命令」の（of 'Sender Information Disclosure Order'）申立件数が（number of petitions）2025年に（in 2025）初めて（for the first time）1万件を（10,000 cases）超えた（exceeded）。22年の（of 2022）制度導入から（since system introduction）右肩上がりに（steadily upward）増えている（is increasing）。中傷被害が（defamation damage）後を絶たないなか（amidst never-ending）従来より（than before）手続きが（procedure）簡単になり（became simpler）利用が（use）進んでいると（is progressing）みられる（appears to be）。",
+        "grammar": "「〜ための（为了〜的）: 表示目的。连体修饰名词。」例：投稿者を特定するための手続き。／为了识别发帖者的程序。\n「〜とみられる（被认为〜）: 表示推测性判断。新闻用语。」例：利用が進んでいるとみられる。／被认为使用在推进。\n「〜が後を絶たない（接连不断）: 固定表达。表示坏事不断发生。」例：中傷被害が後を絶たない。／诽谤伤害接连不断。",
+        "vocab": [
+          [
+            "誹謗中傷",
+            "ひぼうちゅうしょう",
+            "诽谤中伤"
+          ],
+          [
+            "発信者情報開示命令",
+            "はっしんしゃじょうほうかいじめいれい",
+            "发信人信息披露令"
+          ],
+          [
+            "申立件数",
+            "もうしたてけんすう",
+            "申请件数"
+          ],
+          [
+            "右肩上がり",
+            "みぎかたあがり",
+            "直线上升、持续增长"
+          ],
+          [
+            "後を絶たない",
+            "あとをたたない",
+            "络绎不绝、接连不断"
+          ]
+        ],
+        "words": [
+          {
+            "s": "インターネット",
+            "r": "インターネット",
+            "p": "noun"
+          },
+          {
+            "s": "上",
+            "r": "ジョウ",
+            "p": "grammar"
+          },
+          {
+            "s": "で",
+            "r": "デ",
+            "p": "particle"
+          },
+          {
+            "s": "誹謗",
+            "r": "ヒボウ",
+            "p": "noun"
+          },
+          {
+            "s": "中傷",
+            "r": "チュウショウ",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "投稿者",
+            "r": "トウコウシャ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "特定",
+            "r": "トクテイ",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "スル",
+            "p": "verb"
+          },
+          {
+            "s": "ため",
+            "r": "タメ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "裁判",
+            "r": "サイバン",
+            "p": "noun"
+          },
+          {
+            "s": "手続き",
+            "r": "テツヅキ",
+            "p": "noun"
+          },
+          {
+            "s": "「",
+            "r": "「",
+            "p": "grammar"
+          },
+          {
+            "s": "発信者",
+            "r": "ハッシンシャ",
+            "p": "noun"
+          },
+          {
+            "s": "情報",
+            "r": "ジョウホウ",
+            "p": "noun"
+          },
+          {
+            "s": "開示",
+            "r": "カイジ",
+            "p": "noun"
+          },
+          {
+            "s": "命令",
+            "r": "メイレイ",
+            "p": "noun"
+          },
+          {
+            "s": "」",
+            "r": "」",
+            "p": "grammar"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "申立",
+            "r": "モウシタテ",
+            "p": "noun"
+          },
+          {
+            "s": "件数",
+            "r": "ケンスウ",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "2025",
+            "r": "ニレイニゴ",
+            "p": "noun"
+          },
+          {
+            "s": "年",
+            "r": "ネン",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "初めて",
+            "r": "ハジメテ",
+            "p": "adverb"
+          },
+          {
+            "s": "1万",
+            "r": "イチマン",
+            "p": "noun"
+          },
+          {
+            "s": "件",
+            "r": "ケン",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "超える",
+            "r": "コエ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "22",
+            "r": "ニニ",
+            "p": "noun"
+          },
+          {
+            "s": "年",
+            "r": "ネン",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "制度",
+            "r": "セイド",
+            "p": "noun"
+          },
+          {
+            "s": "導入",
+            "r": "ドウニュウ",
+            "p": "noun"
+          },
+          {
+            "s": "から",
+            "r": "カラ",
+            "p": "particle"
+          },
+          {
+            "s": "右肩",
+            "r": "ミギカタ",
+            "p": "noun"
+          },
+          {
+            "s": "上がり",
+            "r": "アガリ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "増える",
+            "r": "フエ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "いる",
+            "r": "イル",
+            "p": "verb"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "中傷",
+            "r": "チュウショウ",
+            "p": "noun"
+          },
+          {
+            "s": "被害",
+            "r": "ヒガイ",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "後",
+            "r": "アト",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "絶つ",
+            "r": "タタ",
+            "p": "verb"
+          },
+          {
+            "s": "ない",
+            "r": "ナイ",
+            "p": "grammar"
+          },
+          {
+            "s": "なか",
+            "r": "ナカ",
+            "p": "noun"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "従来",
+            "r": "ジュウライ",
+            "p": "noun"
+          },
+          {
+            "s": "より",
+            "r": "ヨリ",
+            "p": "particle"
+          },
+          {
+            "s": "手続き",
+            "r": "テツヅキ",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "簡単",
+            "r": "カンタン",
+            "p": "grammar"
+          },
+          {
+            "s": "だ",
+            "r": "ニ",
+            "p": "grammar"
+          },
+          {
+            "s": "なる",
+            "r": "ナリ",
+            "p": "verb"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "利用",
+            "r": "リヨウ",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "進む",
+            "r": "ススン",
+            "p": "verb"
+          },
+          {
+            "s": "で",
+            "r": "デ",
+            "p": "particle"
+          },
+          {
+            "s": "いる",
+            "r": "イル",
+            "p": "verb"
+          },
+          {
+            "s": "と",
+            "r": "ト",
+            "p": "particle"
+          },
+          {
+            "s": "みる",
+            "r": "ミ",
+            "p": "verb"
+          },
+          {
+            "s": "られる",
+            "r": "ラレル",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          }
+        ],
+        "audio": "/asanews/assets/audio/net-chuushou-toukou-syousatsu-1man-ken/p1.mp3"
+      },
+      {
+        "id": "p2",
+        "ja": "ネット上の投稿による中傷被害などに損害賠償を求めて提訴する場合、投稿主を特定する必要がある。従来は裁判手続きを2回経なければならなかった。まずはSNS事業者やサイト運営企業に投稿者のIPアドレスなどの開示を求める仮処分や訴訟だ。次にプロバイダーに投稿者の氏名や住所などを開示させる訴訟を起こす。",
+        "en": "When filing a lawsuit for damages from defamation damage caused by online posts, it is necessary to identify the poster. Conventionally, one had to go through court procedures twice. First was a provisional disposition or lawsuit seeking disclosure of the poster's IP address from SNS operators or website management companies. Next was filing a lawsuit to force the provider to disclose the poster's name and address.",
+        "literal": "ネット上の（online）投稿による（due to posts）中傷被害などに（defamation damage etc.）損害賠償を（damages）求めて（seeking）提訴する場合（when filing a lawsuit）投稿主を（poster）特定する（identify）必要がある（it is necessary）。従来は（conventionally）裁判手続きを（court procedures）2回（twice）経なければならなかった（had to go through）。まずは（first）SNS事業者や（SNS operators and）サイト運営企業に（site management companies）投稿者の（poster's）IPアドレスなどの（IP address etc.）開示を（disclosure）求める（seeking）仮処分や（provisional disposition or）訴訟だ（lawsuit）。次に（next）プロバイダーに（to provider）投稿者の（poster's）氏名や（name and）住所などを（address etc.）開示させる（force to disclose）訴訟を（lawsuit）起こす（file）。",
+        "grammar": "「〜なければならなかった（不得不〜）: 〜なければならない的过去形。表示必须。」例：裁判手続きを2回経なければならなかった。／不得不经过两次法院程序。\n「〜による（由于〜）: 表示原因、理由。」例：ネット上の投稿による中傷被害。／由于网络帖子造成的诽谤损害。\n「〜させる（使役）: 让/使（某人做某事）。」例：プロバイダーに情報を開示させる。／让服务商披露信息。",
+        "vocab": [
+          [
+            "損害賠償",
+            "そんがいばいしょう",
+            "损害赔偿"
+          ],
+          [
+            "提訴",
+            "ていそ",
+            "提起诉讼"
+          ],
+          [
+            "仮処分",
+            "かりしょぶん",
+            "假处分（临时保全措施）"
+          ],
+          [
+            "訴訟",
+            "そしょう",
+            "诉讼"
+          ],
+          [
+            "開示",
+            "かいじ",
+            "披露、公开"
+          ]
+        ],
+        "words": [
+          {
+            "s": "ネット",
+            "r": "ネット",
+            "p": "noun"
+          },
+          {
+            "s": "上",
+            "r": "ジョウ",
+            "p": "grammar"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "投稿",
+            "r": "トウコウ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "よる",
+            "r": "ヨル",
+            "p": "verb"
+          },
+          {
+            "s": "中傷",
+            "r": "チュウショウ",
+            "p": "noun"
+          },
+          {
+            "s": "被害",
+            "r": "ヒガイ",
+            "p": "noun"
+          },
+          {
+            "s": "など",
+            "r": "ナド",
+            "p": "particle"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "損害賠償",
+            "r": "ソンガイバイショウ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "求める",
+            "r": "モトメ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "提訴",
+            "r": "テイソ",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "スル",
+            "p": "verb"
+          },
+          {
+            "s": "場合",
+            "r": "バアイ",
+            "p": "noun"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "投稿",
+            "r": "トウコウ",
+            "p": "noun"
+          },
+          {
+            "s": "主",
+            "r": "シュ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "特定",
+            "r": "トクテイ",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "スル",
+            "p": "verb"
+          },
+          {
+            "s": "必要",
+            "r": "ヒツヨウ",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "ある",
+            "r": "アル",
+            "p": "verb"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "従来",
+            "r": "ジュウライ",
+            "p": "noun"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "裁判",
+            "r": "サイバン",
+            "p": "noun"
+          },
+          {
+            "s": "手続き",
+            "r": "テツヅキ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "2",
+            "r": "ニ",
+            "p": "noun"
+          },
+          {
+            "s": "回",
+            "r": "カイ",
+            "p": "noun"
+          },
+          {
+            "s": "経",
+            "r": "キョウ",
+            "p": "noun"
+          },
+          {
+            "s": "ない",
+            "r": "ナケレ",
+            "p": "adj"
+          },
+          {
+            "s": "ば",
+            "r": "バ",
+            "p": "particle"
+          },
+          {
+            "s": "なる",
+            "r": "ナラ",
+            "p": "verb"
+          },
+          {
+            "s": "ない",
+            "r": "ナカッ",
+            "p": "grammar"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "まず",
+            "r": "マズ",
+            "p": "adverb"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "SNS",
+            "r": "エスエヌエス",
+            "p": "noun"
+          },
+          {
+            "s": "事業者",
+            "r": "ジギョウシャ",
+            "p": "noun"
+          },
+          {
+            "s": "や",
+            "r": "ヤ",
+            "p": "particle"
+          },
+          {
+            "s": "サイト",
+            "r": "サイト",
+            "p": "noun"
+          },
+          {
+            "s": "運営",
+            "r": "ウンエイ",
+            "p": "noun"
+          },
+          {
+            "s": "企業",
+            "r": "キギョウ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "投稿者",
+            "r": "トウコウシャ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "IPアドレス",
+            "r": "アイピーアドレス",
+            "p": "noun"
+          },
+          {
+            "s": "など",
+            "r": "ナド",
+            "p": "particle"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "開示",
+            "r": "カイジ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "求める",
+            "r": "モトメル",
+            "p": "verb"
+          },
+          {
+            "s": "仮処分",
+            "r": "カリショブン",
+            "p": "noun"
+          },
+          {
+            "s": "や",
+            "r": "ヤ",
+            "p": "particle"
+          },
+          {
+            "s": "訴訟",
+            "r": "ソショウ",
+            "p": "noun"
+          },
+          {
+            "s": "だ",
+            "r": "ダ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "次",
+            "r": "ツギ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "プロバイダー",
+            "r": "プロバイダー",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "投稿者",
+            "r": "トウコウシャ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "氏名",
+            "r": "シメイ",
+            "p": "noun"
+          },
+          {
+            "s": "や",
+            "r": "ヤ",
+            "p": "particle"
+          },
+          {
+            "s": "住所",
+            "r": "ジュウショ",
+            "p": "noun"
+          },
+          {
+            "s": "など",
+            "r": "ナド",
+            "p": "particle"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "開示",
+            "r": "カイジ",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "サ",
+            "p": "verb"
+          },
+          {
+            "s": "せる",
+            "r": "セル",
+            "p": "grammar"
+          },
+          {
+            "s": "訴訟",
+            "r": "ソショウ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "起こす",
+            "r": "オコス",
+            "p": "verb"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          }
+        ],
+        "audio": "/asanews/assets/audio/net-chuushou-toukou-syousatsu-1man-ken/p2.mp3"
+      },
+      {
+        "id": "p3",
+        "ja": "22年に施行された改正プロバイダー責任制限法で新たな手続きが導入された。一つの手続きで、被害を訴える人の申し立てを受けた裁判所が投稿者の情報開示をSNS事業者などに命じることが可能になった。申立件数は年々増え、25年の全国の裁判所への申し立ては1万72件だった。前年の6779件から約1.5倍になった。このうち9割超の9343件が東京地裁に集中していた。",
+        "en": "A new procedure was introduced under the amended Provider Liability Limitation Law enacted in 2022. With a single procedure, it became possible for courts to order SNS operators to disclose the poster's information upon receiving a petition from the damaged person. The number of petitions has been increasing year by year, reaching 10,072 nationwide in 2025 - about 1.5 times the previous year's 6,779. Of these, over 90% (9,343 cases) were concentrated in the Tokyo District Court.",
+        "literal": "22年に（in 2022）施行された（was enacted）改正プロバイダー責任制限法で（under the amended Provider Liability Limitation Law）新たな（new）手続きが（procedure）導入された（was introduced）。一つの（one）手続きで（with procedure）被害を（damage）訴える人の（of the person claiming）申し立てを（petition）受けた（received）裁判所が（court）投稿者の（poster's）情報開示を（information disclosure）SNS事業者などに（to SNS operators etc.）命じる（order）ことが可能になった（became possible）。申立件数は（number of petitions）年々（year by year）増え（increase）25年の（2025's）全国の（nationwide）裁判所への（to courts）申し立ては（petition was）1万72件だった（was 10,072 cases）。前年の（previous year's）6779件から（from 6,779 cases）約1.5倍に（about 1.5 times）なった（became）。このうち（of these）9割超の（over 90% of）9343件が（9,343 cases）東京地裁に（in Tokyo District Court）集中していた（were concentrated）。",
+        "grammar": "「〜ことが可能になった（变得可能）: 表示可能性的变化。」例：裁判所が情報開示を命じることが可能になった。／法院变得可以命令披露信息。\n「〜年々（逐年）: 表示每年都在变化。」例：申立件数は年々増えている。／申请数量逐年增加。\n「〜うち（其中）: 表示从整体中取出部分。」例：このうち9割超が東京地裁に集中していた。／其中超过九成集中在东京地裁。",
+        "vocab": [
+          [
+            "施行",
+            "しこう",
+            "施行、实施"
+          ],
+          [
+            "改正",
+            "かいせい",
+            "改正、修订"
+          ],
+          [
+            "導入",
+            "どうにゅう",
+            "导入、引入"
+          ],
+          [
+            "命じる",
+            "めいじる",
+            "命令、下令"
+          ],
+          [
+            "東京地裁",
+            "とうきょうちさい",
+            "东京地方法院"
+          ]
+        ],
+        "words": [
+          {
+            "s": "22",
+            "r": "ニニ",
+            "p": "noun"
+          },
+          {
+            "s": "年",
+            "r": "ネン",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "施行",
+            "r": "シコウ",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "サ",
+            "p": "verb"
+          },
+          {
+            "s": "れる",
+            "r": "レ",
+            "p": "grammar"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "改正",
+            "r": "カイセイ",
+            "p": "noun"
+          },
+          {
+            "s": "プロバイダー",
+            "r": "プロバイダー",
+            "p": "noun"
+          },
+          {
+            "s": "責任",
+            "r": "セキニン",
+            "p": "noun"
+          },
+          {
+            "s": "制限",
+            "r": "セイゲン",
+            "p": "noun"
+          },
+          {
+            "s": "法",
+            "r": "ホウ",
+            "p": "grammar"
+          },
+          {
+            "s": "で",
+            "r": "デ",
+            "p": "particle"
+          },
+          {
+            "s": "新た",
+            "r": "アラタ",
+            "p": "grammar"
+          },
+          {
+            "s": "だ",
+            "r": "ナ",
+            "p": "grammar"
+          },
+          {
+            "s": "手続き",
+            "r": "テツヅキ",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "導入",
+            "r": "ドウニュウ",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "サ",
+            "p": "verb"
+          },
+          {
+            "s": "れる",
+            "r": "レ",
+            "p": "grammar"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "一",
+            "r": "ヒト",
+            "p": "noun"
+          },
+          {
+            "s": "つ",
+            "r": "ツ",
+            "p": "grammar"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "手続き",
+            "r": "テツヅキ",
+            "p": "noun"
+          },
+          {
+            "s": "だ",
+            "r": "デ",
+            "p": "grammar"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "被害",
+            "r": "ヒガイ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "訴える",
+            "r": "ウッタエル",
+            "p": "verb"
+          },
+          {
+            "s": "人",
+            "r": "ヒト",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "申し立て",
+            "r": "モウシタテ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "受ける",
+            "r": "ウケ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "裁判所",
+            "r": "サイバンショ",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "投稿者",
+            "r": "トウコウシャ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "情報",
+            "r": "ジョウホウ",
+            "p": "noun"
+          },
+          {
+            "s": "開示",
+            "r": "カイジ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "SNS",
+            "r": "エスエヌエス",
+            "p": "noun"
+          },
+          {
+            "s": "事業者",
+            "r": "ジギョウシャ",
+            "p": "noun"
+          },
+          {
+            "s": "など",
+            "r": "ナド",
+            "p": "particle"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "命じる",
+            "r": "メイジル",
+            "p": "verb"
+          },
+          {
+            "s": "こと",
+            "r": "コト",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "可能",
+            "r": "カノウ",
+            "p": "grammar"
+          },
+          {
+            "s": "だ",
+            "r": "ニ",
+            "p": "grammar"
+          },
+          {
+            "s": "なる",
+            "r": "ナッ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "申立",
+            "r": "モウシタテ",
+            "p": "noun"
+          },
+          {
+            "s": "件数",
+            "r": "ケンスウ",
+            "p": "noun"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "年々",
+            "r": "ネンネン",
+            "p": "noun"
+          },
+          {
+            "s": "増える",
+            "r": "フエ",
+            "p": "verb"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "25",
+            "r": "ニゴ",
+            "p": "noun"
+          },
+          {
+            "s": "年",
+            "r": "ネン",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "全国",
+            "r": "ゼンコク",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "裁判所",
+            "r": "サイバンショ",
+            "p": "noun"
+          },
+          {
+            "s": "へ",
+            "r": "ヘ",
+            "p": "particle"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "申し立て",
+            "r": "モウシタテ",
+            "p": "noun"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "1万72",
+            "r": "イチマンナナニ",
+            "p": "noun"
+          },
+          {
+            "s": "件",
+            "r": "ケン",
+            "p": "noun"
+          },
+          {
+            "s": "だ",
+            "r": "ダッ",
+            "p": "grammar"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "前年",
+            "r": "ゼンネン",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "6779",
+            "r": "ロクナナナナキュウ",
+            "p": "noun"
+          },
+          {
+            "s": "件",
+            "r": "ケン",
+            "p": "noun"
+          },
+          {
+            "s": "から",
+            "r": "カラ",
+            "p": "particle"
+          },
+          {
+            "s": "約",
+            "r": "ヤク",
+            "p": "grammar"
+          },
+          {
+            "s": "1.5",
+            "r": "イチ．ゴ",
+            "p": "noun"
+          },
+          {
+            "s": "倍",
+            "r": "バイ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "なる",
+            "r": "ナッ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "この",
+            "r": "コノ",
+            "p": "adj"
+          },
+          {
+            "s": "うち",
+            "r": "ウチ",
+            "p": "noun"
+          },
+          {
+            "s": "9",
+            "r": "キュウ",
+            "p": "noun"
+          },
+          {
+            "s": "割",
+            "r": "ワリ",
+            "p": "noun"
+          },
+          {
+            "s": "超",
+            "r": "チョウ",
+            "p": "grammar"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "9343",
+            "r": "キュウサンヨンサン",
+            "p": "noun"
+          },
+          {
+            "s": "件",
+            "r": "ケン",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "東京",
+            "r": "トウキョウ",
+            "p": "noun"
+          },
+          {
+            "s": "地裁",
+            "r": "チサイ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "集中",
+            "r": "シュウチュウ",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "いる",
+            "r": "イ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          }
+        ],
+        "audio": "/asanews/assets/audio/net-chuushou-toukou-syousatsu-1man-ken/p3.mp3"
+      }
+    ]
+  }
+]

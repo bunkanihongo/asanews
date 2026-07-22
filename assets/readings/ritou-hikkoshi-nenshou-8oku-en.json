@@ -1,1859 +1,1828 @@
-{
-  "slug": "ritou-hikkoshi-nenshou-8oku-en",
-  "title": "大手が敬遠する離島引っ越しで年商8億円 フリーデザイナーから転身した38歳が開拓したビジネスモデル",
-  "source": "西日本新聞me",
-  "url": "https://news.yahoo.co.jp/articles/bfa9aaca70c50ce895c8d1ee22f41284921455f8",
-  "date": "2026-07-23",
-  "topic": "ビジネス",
-  "paragraphs": [
-    {
-      "ja": "離島を専門に年間約800件の引っ越しを手がける会社が福岡市にある。船の欠航や荷物の破損というリスクが災いし、割高になる上に大手が敬遠しがちな分野に参入し、利益が出るノウハウを編み出した。人口減少が進む離島へのU・I・Jターンを支える。会社はアイランデクス社。社長の池田和法さん(38)は言う。愛媛県出身。離島も引っ越し業界も無縁だった。",
-      "en": "There is a company in Fukuoka City that specializes in moving to remote islands, handling about 800 moves per year. The risks of ferry cancellations and cargo damage make it more expensive, and major companies tend to avoid this field. They entered this niche and developed profitable know-how. They support U/I/J-turn migration to remote islands where population decline is progressing. The company is Islandex. President Kazunori Ikeda (38) says he's from Ehime Prefecture and had no connection to either remote islands or the moving industry.",
-      "literal": "離島を（remote islands）専門に（specializing in）年間約800件の（about 800 cases per year）引っ越しを（moving）手がける（handles）会社が（company）福岡市に（in Fukuoka City）ある（exists）。船の（ferry）欠航や（cancellation and）荷物の（cargo）破損という（damage）リスクが（risk）災いし（causing trouble）割高に（more expensive）なる上に（in addition to becoming）大手が（major companies）敬遠しがちな（tend to avoid）分野に（in the field）参入し（entered）利益が（profit）出る（generates）ノウハウを（know-how）編み出した（developed）。人口減少が（population decline）進む（progresses）離島への（to remote islands）U・I・Jターンを（U/I/J-turn）支える（support）。",
-      "grammar": [
-        {
-          "point": "〜がち（倾向于〜）: 表示容易/倾向于某种负面倾向。",
-          "example": "大手が敬遠しがちな分野。／大公司容易回避的领域。"
-        },
-        {
-          "point": "〜上に（而且、加上）: 表示累加，〜而且还〜。",
-          "example": "割高になる上に大手が敬遠する。／不仅价格更高，大公司还回避。"
-        },
-        {
-          "point": "〜を手がける（从事〜）: 表示担任、经办、处理某事。",
-          "example": "年間800件の引っ越しを手がける。／每年处理约800件搬家。"
-        }
-      ],
-      "vocab": [
-        {
-          "kanji": "離島",
-          "furigana": "りとう",
-          "cn": "离岛、偏远岛屿"
-        },
-        {
-          "kanji": "欠航",
-          "furigana": "けっこう",
-          "cn": "停航、航班取消"
-        },
-        {
-          "kanji": "敬遠",
-          "furigana": "けいえん",
-          "cn": "敬而远之、回避"
-        },
-        {
-          "kanji": "編み出す",
-          "furigana": "あみだす",
-          "cn": "编出、想出、开发出"
-        },
-        {
-          "kanji": "無縁",
-          "furigana": "むえん",
-          "cn": "无缘、没有关系"
-        }
-      ],
-      "words": [
-        {
-          "s": "離島",
-          "r": "リトウ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "専門",
-          "r": "センモン",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "年間",
-          "r": "ネンカン",
-          "p": "noun"
-        },
-        {
-          "s": "約",
-          "r": "ヤク",
-          "p": "grammar"
-        },
-        {
-          "s": "800",
-          "r": "ハチレイレイ",
-          "p": "noun"
-        },
-        {
-          "s": "件",
-          "r": "ケン",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "引っ越し",
-          "r": "ヒッコシ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "手がける",
-          "r": "テガケル",
-          "p": "verb"
-        },
-        {
-          "s": "会社",
-          "r": "カイシャ",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "福岡市",
-          "r": "フクオカシ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "ある",
-          "r": "アル",
-          "p": "verb"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "船",
-          "r": "フネ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "欠航",
-          "r": "ケッコウ",
-          "p": "noun"
-        },
-        {
-          "s": "や",
-          "r": "ヤ",
-          "p": "particle"
-        },
-        {
-          "s": "荷物",
-          "r": "ニモツ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "破損",
-          "r": "ハソン",
-          "p": "noun"
-        },
-        {
-          "s": "と",
-          "r": "ト",
-          "p": "particle"
-        },
-        {
-          "s": "いう",
-          "r": "イウ",
-          "p": "verb"
-        },
-        {
-          "s": "リスク",
-          "r": "リスク",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "災い",
-          "r": "ワザワイ",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "割高",
-          "r": "ワリダカ",
-          "p": "grammar"
-        },
-        {
-          "s": "だ",
-          "r": "ニ",
-          "p": "grammar"
-        },
-        {
-          "s": "なる",
-          "r": "ナル",
-          "p": "verb"
-        },
-        {
-          "s": "上",
-          "r": "ウエ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "大手",
-          "r": "オオテ",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "敬遠",
-          "r": "ケイエン",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "がち",
-          "r": "ガチ",
-          "p": "grammar"
-        },
-        {
-          "s": "だ",
-          "r": "ナ",
-          "p": "grammar"
-        },
-        {
-          "s": "分野",
-          "r": "ブンヤ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "参入",
-          "r": "サンニュウ",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "利益",
-          "r": "リエキ",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "出る",
-          "r": "デル",
-          "p": "verb"
-        },
-        {
-          "s": "ノウハウ",
-          "r": "ノウハウ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "編み出す",
-          "r": "アミダシ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "人口",
-          "r": "ジンコウ",
-          "p": "noun"
-        },
-        {
-          "s": "減少",
-          "r": "ゲンショウ",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "進む",
-          "r": "ススム",
-          "p": "verb"
-        },
-        {
-          "s": "離島",
-          "r": "リトウ",
-          "p": "noun"
-        },
-        {
-          "s": "へ",
-          "r": "ヘ",
-          "p": "particle"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "u",
-          "r": "u",
-          "p": "noun"
-        },
-        {
-          "s": "・",
-          "r": "・",
-          "p": "grammar"
-        },
-        {
-          "s": "I",
-          "r": "アイ",
-          "p": "noun"
-        },
-        {
-          "s": "・",
-          "r": "・",
-          "p": "grammar"
-        },
-        {
-          "s": "Jターン",
-          "r": "ジェイターン",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "支える",
-          "r": "ササエル",
-          "p": "verb"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "会社",
-          "r": "カイシャ",
-          "p": "noun"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "アイランデクス",
-          "r": "アイランデクス",
-          "p": "noun"
-        },
-        {
-          "s": "社",
-          "r": "シャ",
-          "p": "noun"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "社長",
-          "r": "シャチョウ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "池田",
-          "r": "イケダ",
-          "p": "noun"
-        },
-        {
-          "s": "和法",
-          "r": "カズノリ",
-          "p": "noun"
-        },
-        {
-          "s": "さん",
-          "r": "サン",
-          "p": "grammar"
-        },
-        {
-          "s": "(",
-          "r": "キゴウ",
-          "p": "grammar"
-        },
-        {
-          "s": "38",
-          "r": "サンハチ",
-          "p": "noun"
-        },
-        {
-          "s": ")",
-          "r": "キゴウ",
-          "p": "grammar"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "言う",
-          "r": "ユウ",
-          "p": "verb"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "愛媛県",
-          "r": "エヒメケン",
-          "p": "noun"
-        },
-        {
-          "s": "出身",
-          "r": "シュッシン",
-          "p": "noun"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "離島",
-          "r": "リトウ",
-          "p": "noun"
-        },
-        {
-          "s": "も",
-          "r": "モ",
-          "p": "particle"
-        },
-        {
-          "s": "引っ越す",
-          "r": "ヒッコシ",
-          "p": "verb"
-        },
-        {
-          "s": "業界",
-          "r": "ギョウカイ",
-          "p": "noun"
-        },
-        {
-          "s": "も",
-          "r": "モ",
-          "p": "particle"
-        },
-        {
-          "s": "無縁",
-          "r": "ムエン",
-          "p": "grammar"
-        },
-        {
-          "s": "だ",
-          "r": "ダッ",
-          "p": "grammar"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        }
-      ]
-    },
-    {
-      "ja": "きっかけは13年前。偶然知り合った鹿児島県・奄美大島出身のカップルからの相談だった。「島に帰りたいけど、引っ越しの見積もりが高くて、業者もやりたがらなくて困っている」引っ越し業者と船会社を自ら探して話をつけてみると、見積もりより安くなり、カップルは涙ぐんで喜んだ。いきさつをブログに書くと、離島への転居を望む複数の人から問い合わせが来た。「他人に役立つ仕事ができる」。関西を拠点に離島専門の引っ越し会社を起業した。",
-      "en": "The trigger was 13 years ago. It started with a consultation from a couple from Amami Oshima, Kagoshima Prefecture whom he happened to meet. 'We want to go back to the island, but moving quotes are expensive and companies don't want to do it.' He personally searched for moving companies and ferry operators to arrange things, and the price became lower than the quote. The couple was moved to tears with joy. When he wrote about this experience in a blog, multiple people wanting to move to remote islands contacted him. 'I can do work that helps others.' He founded a remote-island-specialized moving company based in Kansai.",
-      "literal": "きっかけは（trigger was）13年前（13 years ago）。偶然（by chance）知り合った（came to know）鹿児島県・奄美大島出身の（from Amami Oshima, Kagoshima）カップルからの（from a couple）相談だった（was consultation）。「島に（to island）帰りたい（want to return）けど（but）引っ越しの（moving）見積もりが（quote）高くて（expensive）業者も（companies also）やりたがらなくて（don't want to do）困っている（in trouble）」引っ越し業者と（moving companies and）船会社を（ferry companies）自ら（personally）探して（searched）話をつけてみると（tried to arrange）見積もりより（than quote）安くなり（became cheaper）カップルは（the couple）涙ぐんで（teary-eyed）喜んだ（rejoiced）。いきさつを（the story）ブログに（in blog）書くと（when wrote）離島への（to remote islands）転居を（relocation）望む（desire）複数の（multiple）人から（from people）問い合わせが（inquiries）来た（came）。「他人に（to others）役立つ（helpful）仕事が（work）できる（can do）」関西を（Kansai）拠点に（as base）離島専門の（remote island specialized）引っ越し会社を（moving company）起業した（founded）。",
-      "grammar": [
-        {
-          "point": "〜たがる（想要〜）: 表示第三人称的愿望。〜たい的第三人称形式。",
-          "example": "業者もやりたがらない。／公司也不愿意做。"
-        },
-        {
-          "point": "〜てみる（试着〜）: 表示尝试做某事。",
-          "example": "話をつけてみる。／试着谈妥。"
-        },
-        {
-          "point": "〜を拠点に（以〜为据点）: 表示以某地为基础开展活动。",
-          "example": "関西を拠点に起業した。／以关西为据点创业。"
-        }
-      ],
-      "vocab": [
-        {
-          "kanji": "きっかけ",
-          "furigana": "きっかけ",
-          "cn": "契机、起因"
-        },
-        {
-          "kanji": "見積もり",
-          "furigana": "みつもり",
-          "cn": "报价、估价"
-        },
-        {
-          "kanji": "涙ぐむ",
-          "furigana": "なみだぐむ",
-          "cn": "含泪、泪目"
-        },
-        {
-          "kanji": "いきさつ",
-          "furigana": "いきさつ",
-          "cn": "原委、经过"
-        },
-        {
-          "kanji": "転居",
-          "furigana": "てんきょ",
-          "cn": "搬家、迁居"
-        },
-        {
-          "kanji": "起業",
-          "furigana": "きぎょう",
-          "cn": "创业"
-        }
-      ],
-      "words": [
-        {
-          "s": "きっかけ",
-          "r": "キッカケ",
-          "p": "noun"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "13",
-          "r": "イチサン",
-          "p": "noun"
-        },
-        {
-          "s": "年",
-          "r": "ネン",
-          "p": "noun"
-        },
-        {
-          "s": "前",
-          "r": "マエ",
-          "p": "noun"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "偶然",
-          "r": "グウゼン",
-          "p": "adverb"
-        },
-        {
-          "s": "知り合う",
-          "r": "シリアッ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "鹿児島県",
-          "r": "カゴシマケン",
-          "p": "noun"
-        },
-        {
-          "s": "・",
-          "r": "・",
-          "p": "grammar"
-        },
-        {
-          "s": "奄美",
-          "r": "アマミ",
-          "p": "noun"
-        },
-        {
-          "s": "大島",
-          "r": "オオシマ",
-          "p": "noun"
-        },
-        {
-          "s": "出身",
-          "r": "シュッシン",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "カップル",
-          "r": "カップル",
-          "p": "noun"
-        },
-        {
-          "s": "から",
-          "r": "カラ",
-          "p": "particle"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "相談",
-          "r": "ソウダン",
-          "p": "noun"
-        },
-        {
-          "s": "だ",
-          "r": "ダッ",
-          "p": "grammar"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "「",
-          "r": "「",
-          "p": "grammar"
-        },
-        {
-          "s": "島",
-          "r": "シマ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "帰る",
-          "r": "カエリ",
-          "p": "verb"
-        },
-        {
-          "s": "たい",
-          "r": "タイ",
-          "p": "grammar"
-        },
-        {
-          "s": "けど",
-          "r": "ケド",
-          "p": "particle"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "引っ越し",
-          "r": "ヒッコシ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "見積もり",
-          "r": "ミツモリ",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "高い",
-          "r": "タカク",
-          "p": "adj"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "業者",
-          "r": "ギョウシャ",
-          "p": "noun"
-        },
-        {
-          "s": "も",
-          "r": "モ",
-          "p": "particle"
-        },
-        {
-          "s": "やる",
-          "r": "ヤリ",
-          "p": "verb"
-        },
-        {
-          "s": "たがる",
-          "r": "タガラ",
-          "p": "grammar"
-        },
-        {
-          "s": "ない",
-          "r": "ナク",
-          "p": "grammar"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "困る",
-          "r": "コマッ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "いる",
-          "r": "イル",
-          "p": "verb"
-        },
-        {
-          "s": "」",
-          "r": "」",
-          "p": "grammar"
-        },
-        {
-          "s": "引っ越し",
-          "r": "ヒッコシ",
-          "p": "noun"
-        },
-        {
-          "s": "業者",
-          "r": "ギョウシャ",
-          "p": "noun"
-        },
-        {
-          "s": "と",
-          "r": "ト",
-          "p": "particle"
-        },
-        {
-          "s": "船",
-          "r": "フネ",
-          "p": "noun"
-        },
-        {
-          "s": "会社",
-          "r": "カイシャ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "自ら",
-          "r": "ミズカラ",
-          "p": "noun"
-        },
-        {
-          "s": "探す",
-          "r": "サガシ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "話",
-          "r": "ハナシ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "つける",
-          "r": "ツケ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "みる",
-          "r": "ミル",
-          "p": "verb"
-        },
-        {
-          "s": "と",
-          "r": "ト",
-          "p": "particle"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "見積もり",
-          "r": "ミツモリ",
-          "p": "noun"
-        },
-        {
-          "s": "より",
-          "r": "ヨリ",
-          "p": "particle"
-        },
-        {
-          "s": "安い",
-          "r": "ヤスク",
-          "p": "adj"
-        },
-        {
-          "s": "なる",
-          "r": "ナリ",
-          "p": "verb"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "カップル",
-          "r": "カップル",
-          "p": "noun"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "涙ぐむ",
-          "r": "ナミダグン",
-          "p": "verb"
-        },
-        {
-          "s": "で",
-          "r": "デ",
-          "p": "particle"
-        },
-        {
-          "s": "喜ぶ",
-          "r": "ヨロコン",
-          "p": "verb"
-        },
-        {
-          "s": "だ",
-          "r": "ダ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "いきさつ",
-          "r": "イキサツ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "ブログ",
-          "r": "ブログ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "書く",
-          "r": "カク",
-          "p": "verb"
-        },
-        {
-          "s": "と",
-          "r": "ト",
-          "p": "particle"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "離島",
-          "r": "リトウ",
-          "p": "noun"
-        },
-        {
-          "s": "へ",
-          "r": "ヘ",
-          "p": "particle"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "転居",
-          "r": "テンキョ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "望む",
-          "r": "ノゾム",
-          "p": "verb"
-        },
-        {
-          "s": "複数",
-          "r": "フクスウ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "人",
-          "r": "ヒト",
-          "p": "noun"
-        },
-        {
-          "s": "から",
-          "r": "カラ",
-          "p": "particle"
-        },
-        {
-          "s": "問い合わせ",
-          "r": "トイアワセ",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "来る",
-          "r": "キ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "「",
-          "r": "「",
-          "p": "grammar"
-        },
-        {
-          "s": "他人",
-          "r": "タニン",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "役立つ",
-          "r": "ヤクダツ",
-          "p": "verb"
-        },
-        {
-          "s": "仕事",
-          "r": "シゴト",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "できる",
-          "r": "デキル",
-          "p": "verb"
-        },
-        {
-          "s": "」",
-          "r": "」",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "関西",
-          "r": "カンサイ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "拠点",
-          "r": "キョテン",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "離島",
-          "r": "リトウ",
-          "p": "noun"
-        },
-        {
-          "s": "専門",
-          "r": "センモン",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "引っ越し",
-          "r": "ヒッコシ",
-          "p": "noun"
-        },
-        {
-          "s": "会社",
-          "r": "カイシャ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "起業",
-          "r": "キギョウ",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        }
-      ]
-    },
-    {
-      "ja": "離島への引っ越しは船の欠航や荷物の積み替えの多さで破損する恐れもあり、業者が料金にリスク費用を上乗せしていることが多い。同社では船舶輸送に適した頑丈な段ボール(通称・島箱)を開発。社員24人の8割は離島に住み、八つの島に事業所を設けた。全国400超の有人離島で人口の8割をカバーできる態勢を整備。離島人口が日本全体の1%に満たない中で事業として続けられる仕組みを構築した。",
-      "en": "Moving to remote islands carries risks such as ferry cancellations and cargo damage from multiple transfers, so companies often add risk premiums to their prices. This company developed sturdy cardboard boxes (called 'Island Boxes') suitable for sea transport. 80% of the 24 employees live on remote islands, with offices established on eight islands. They have built a system covering 80% of the population across over 400 inhabited remote islands nationwide. They constructed a sustainable business model even though the remote island population is less than 1% of Japan's total.",
-      "literal": "離島への（to remote islands）引っ越しは（moving is）船の（ferry）欠航や（cancellations and）荷物の（cargo）積み替えの（reloading）多さで（due to frequency）破損する（damage）恐れもあり（there is also risk）業者が（companies）料金に（to price）リスク費用を（risk cost）上乗せしている（add on top）ことが多い（often the case）。同社では（at this company）船舶輸送に（for maritime transport）適した（suitable）頑丈な（sturdy）段ボールを（cardboard boxes）開発（developed）。社員24人の（24 employees）8割は（80%）離島に（on remote islands）住み（live）八つの島に（on 8 islands）事業所を（offices）設けた（established）。全国400超の（over 400 nationwide）有人離島で（inhabited remote islands）人口の（population）8割を（80%）カバーできる（can cover）態勢を（system）整備（developed）。離島人口が（remote island population）日本全体の（Japan's total）1%に（to 1%）満たない（less than）中で（amidst）事業として（as a business）続けられる（can continue）仕組みを（mechanism）構築した（built）。",
-      "grammar": [
-        {
-          "point": "〜恐れがある（有〜的危险）: 表示有发生不好的事情的可能性。",
-          "example": "荷物が破損する恐れがある。／货物有可能损坏。"
-        },
-        {
-          "point": "〜に満たない（不足〜）: 表示未达到某数量或标准。",
-          "example": "日本全体の1%に満たない。／不到日本整体的1%。"
-        },
-        {
-          "point": "〜中で（在〜之中）: 表示在某种状态或条件下。",
-          "example": "人口が少ない中で事業を続ける。／在人口稀少的状况下继续事业。"
-        }
-      ],
-      "vocab": [
-        {
-          "kanji": "積み替え",
-          "furigana": "つみかえ",
-          "cn": "换装、转载（货物）"
-        },
-        {
-          "kanji": "上乗せ",
-          "furigana": "うわのせ",
-          "cn": "附加、加价"
-        },
-        {
-          "kanji": "頑丈",
-          "furigana": "がんじょう",
-          "cn": "坚固、结实"
-        },
-        {
-          "kanji": "段ボール",
-          "furigana": "ダンボール",
-          "cn": "瓦楞纸箱"
-        },
-        {
-          "kanji": "態勢",
-          "furigana": "たいせい",
-          "cn": "态势、体制"
-        },
-        {
-          "kanji": "仕組み",
-          "furigana": "しくみ",
-          "cn": "结构、机制"
-        }
-      ],
-      "words": [
-        {
-          "s": "離島",
-          "r": "リトウ",
-          "p": "noun"
-        },
-        {
-          "s": "へ",
-          "r": "ヘ",
-          "p": "particle"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "引っ越し",
-          "r": "ヒッコシ",
-          "p": "noun"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "船",
-          "r": "フネ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "欠航",
-          "r": "ケッコウ",
-          "p": "noun"
-        },
-        {
-          "s": "や",
-          "r": "ヤ",
-          "p": "particle"
-        },
-        {
-          "s": "荷物",
-          "r": "ニモツ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "積み替え",
-          "r": "ツミカエ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "多い",
-          "r": "オオ",
-          "p": "adj"
-        },
-        {
-          "s": "さ",
-          "r": "サ",
-          "p": "grammar"
-        },
-        {
-          "s": "で",
-          "r": "デ",
-          "p": "particle"
-        },
-        {
-          "s": "破損",
-          "r": "ハソン",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "スル",
-          "p": "verb"
-        },
-        {
-          "s": "恐れ",
-          "r": "オソレ",
-          "p": "noun"
-        },
-        {
-          "s": "も",
-          "r": "モ",
-          "p": "particle"
-        },
-        {
-          "s": "ある",
-          "r": "アリ",
-          "p": "verb"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "業者",
-          "r": "ギョウシャ",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "料金",
-          "r": "リョウキン",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "リスク",
-          "r": "リスク",
-          "p": "noun"
-        },
-        {
-          "s": "費用",
-          "r": "ヒヨウ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "上乗せ",
-          "r": "ウワノセ",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "いる",
-          "r": "イル",
-          "p": "verb"
-        },
-        {
-          "s": "こと",
-          "r": "コト",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "多い",
-          "r": "オオイ",
-          "p": "adj"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "同社",
-          "r": "ドウシャ",
-          "p": "noun"
-        },
-        {
-          "s": "で",
-          "r": "デ",
-          "p": "particle"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "船舶",
-          "r": "センパク",
-          "p": "noun"
-        },
-        {
-          "s": "輸送",
-          "r": "ユソウ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "適する",
-          "r": "テキシ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "頑丈",
-          "r": "ガンジョウ",
-          "p": "grammar"
-        },
-        {
-          "s": "だ",
-          "r": "ナ",
-          "p": "grammar"
-        },
-        {
-          "s": "段ボール",
-          "r": "ダンボール",
-          "p": "noun"
-        },
-        {
-          "s": "(",
-          "r": "キゴウ",
-          "p": "grammar"
-        },
-        {
-          "s": "通称",
-          "r": "ツウショウ",
-          "p": "noun"
-        },
-        {
-          "s": "・",
-          "r": "・",
-          "p": "grammar"
-        },
-        {
-          "s": "島",
-          "r": "シマ",
-          "p": "noun"
-        },
-        {
-          "s": "箱",
-          "r": "バコ",
-          "p": "noun"
-        },
-        {
-          "s": ")",
-          "r": "キゴウ",
-          "p": "grammar"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "開発",
-          "r": "カイハツ",
-          "p": "noun"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "社員",
-          "r": "シャイン",
-          "p": "noun"
-        },
-        {
-          "s": "24",
-          "r": "ニヨン",
-          "p": "noun"
-        },
-        {
-          "s": "人",
-          "r": "ニン",
-          "p": "grammar"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "8",
-          "r": "ハチ",
-          "p": "noun"
-        },
-        {
-          "s": "割",
-          "r": "ワリ",
-          "p": "noun"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "離島",
-          "r": "リトウ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "住む",
-          "r": "スミ",
-          "p": "verb"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "八",
-          "r": "ヨウ",
-          "p": "noun"
-        },
-        {
-          "s": "つ",
-          "r": "ツ",
-          "p": "grammar"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "島",
-          "r": "シマ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "事業所",
-          "r": "ジギョウショ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "設ける",
-          "r": "モウケ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "全国",
-          "r": "ゼンコク",
-          "p": "noun"
-        },
-        {
-          "s": "400",
-          "r": "ヨンレイレイ",
-          "p": "noun"
-        },
-        {
-          "s": "超",
-          "r": "チョウ",
-          "p": "grammar"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "有人",
-          "r": "ユウジン",
-          "p": "noun"
-        },
-        {
-          "s": "離島",
-          "r": "リトウ",
-          "p": "noun"
-        },
-        {
-          "s": "で",
-          "r": "デ",
-          "p": "particle"
-        },
-        {
-          "s": "人口",
-          "r": "ジンコウ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "8",
-          "r": "ハチ",
-          "p": "noun"
-        },
-        {
-          "s": "割",
-          "r": "ワリ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "カバー",
-          "r": "カバー",
-          "p": "noun"
-        },
-        {
-          "s": "できる",
-          "r": "デキル",
-          "p": "verb"
-        },
-        {
-          "s": "態勢",
-          "r": "タイセイ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "整備",
-          "r": "セイビ",
-          "p": "noun"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "離島",
-          "r": "リトウ",
-          "p": "noun"
-        },
-        {
-          "s": "人口",
-          "r": "ジンコウ",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "日本",
-          "r": "ニッポン",
-          "p": "noun"
-        },
-        {
-          "s": "全体",
-          "r": "ゼンタイ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "1",
-          "r": "イチ",
-          "p": "noun"
-        },
-        {
-          "s": "%",
-          "r": "パーセント",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "満つ",
-          "r": "ミタ",
-          "p": "verb"
-        },
-        {
-          "s": "ない",
-          "r": "ナイ",
-          "p": "grammar"
-        },
-        {
-          "s": "中",
-          "r": "ナカ",
-          "p": "noun"
-        },
-        {
-          "s": "で",
-          "r": "デ",
-          "p": "particle"
-        },
-        {
-          "s": "事業",
-          "r": "ジギョウ",
-          "p": "noun"
-        },
-        {
-          "s": "と",
-          "r": "ト",
-          "p": "particle"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "続ける",
-          "r": "ツヅケ",
-          "p": "verb"
-        },
-        {
-          "s": "られる",
-          "r": "ラレル",
-          "p": "grammar"
-        },
-        {
-          "s": "仕組み",
-          "r": "シクミ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "構築",
-          "r": "コウチク",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "ritou-hikkoshi-nenshou-8oku-en",
+    "title": "大手が敬遠する離島引っ越しで年商8億円 フリーデザイナーから転身した38歳が開拓したビジネスモデル",
+    "subtitle": "from 西日本新聞me",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-07-23",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "ja": "離島を専門に年間約800件の引っ越しを手がける会社が福岡市にある。船の欠航や荷物の破損というリスクが災いし、割高になる上に大手が敬遠しがちな分野に参入し、利益が出るノウハウを編み出した。人口減少が進む離島へのU・I・Jターンを支える。会社はアイランデクス社。社長の池田和法さん(38)は言う。愛媛県出身。離島も引っ越し業界も無縁だった。",
+        "en": "There is a company in Fukuoka City that specializes in moving to remote islands, handling about 800 moves per year. The risks of ferry cancellations and cargo damage make it more expensive, and major companies tend to avoid this field. They entered this niche and developed profitable know-how. They support U/I/J-turn migration to remote islands where population decline is progressing. The company is Islandex. President Kazunori Ikeda (38) says he's from Ehime Prefecture and had no connection to either remote islands or the moving industry.",
+        "literal": "離島を（remote islands）専門に（specializing in）年間約800件の（about 800 cases per year）引っ越しを（moving）手がける（handles）会社が（company）福岡市に（in Fukuoka City）ある（exists）。船の（ferry）欠航や（cancellation and）荷物の（cargo）破損という（damage）リスクが（risk）災いし（causing trouble）割高に（more expensive）なる上に（in addition to becoming）大手が（major companies）敬遠しがちな（tend to avoid）分野に（in the field）参入し（entered）利益が（profit）出る（generates）ノウハウを（know-how）編み出した（developed）。人口減少が（population decline）進む（progresses）離島への（to remote islands）U・I・Jターンを（U/I/J-turn）支える（support）。",
+        "grammar": "「〜がち（倾向于〜）: 表示容易/倾向于某种负面倾向。」例：大手が敬遠しがちな分野。／大公司容易回避的领域。\n「〜上に（而且、加上）: 表示累加，〜而且还〜。」例：割高になる上に大手が敬遠する。／不仅价格更高，大公司还回避。\n「〜を手がける（从事〜）: 表示担任、经办、处理某事。」例：年間800件の引っ越しを手がける。／每年处理约800件搬家。",
+        "vocab": [
+          [
+            "離島",
+            "りとう",
+            "离岛、偏远岛屿"
+          ],
+          [
+            "欠航",
+            "けっこう",
+            "停航、航班取消"
+          ],
+          [
+            "敬遠",
+            "けいえん",
+            "敬而远之、回避"
+          ],
+          [
+            "編み出す",
+            "あみだす",
+            "编出、想出、开发出"
+          ],
+          [
+            "無縁",
+            "むえん",
+            "无缘、没有关系"
+          ]
+        ],
+        "words": [
+          {
+            "s": "離島",
+            "r": "リトウ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "専門",
+            "r": "センモン",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "年間",
+            "r": "ネンカン",
+            "p": "noun"
+          },
+          {
+            "s": "約",
+            "r": "ヤク",
+            "p": "grammar"
+          },
+          {
+            "s": "800",
+            "r": "ハチレイレイ",
+            "p": "noun"
+          },
+          {
+            "s": "件",
+            "r": "ケン",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "引っ越し",
+            "r": "ヒッコシ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "手がける",
+            "r": "テガケル",
+            "p": "verb"
+          },
+          {
+            "s": "会社",
+            "r": "カイシャ",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "福岡市",
+            "r": "フクオカシ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "ある",
+            "r": "アル",
+            "p": "verb"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "船",
+            "r": "フネ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "欠航",
+            "r": "ケッコウ",
+            "p": "noun"
+          },
+          {
+            "s": "や",
+            "r": "ヤ",
+            "p": "particle"
+          },
+          {
+            "s": "荷物",
+            "r": "ニモツ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "破損",
+            "r": "ハソン",
+            "p": "noun"
+          },
+          {
+            "s": "と",
+            "r": "ト",
+            "p": "particle"
+          },
+          {
+            "s": "いう",
+            "r": "イウ",
+            "p": "verb"
+          },
+          {
+            "s": "リスク",
+            "r": "リスク",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "災い",
+            "r": "ワザワイ",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "割高",
+            "r": "ワリダカ",
+            "p": "grammar"
+          },
+          {
+            "s": "だ",
+            "r": "ニ",
+            "p": "grammar"
+          },
+          {
+            "s": "なる",
+            "r": "ナル",
+            "p": "verb"
+          },
+          {
+            "s": "上",
+            "r": "ウエ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "大手",
+            "r": "オオテ",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "敬遠",
+            "r": "ケイエン",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "がち",
+            "r": "ガチ",
+            "p": "grammar"
+          },
+          {
+            "s": "だ",
+            "r": "ナ",
+            "p": "grammar"
+          },
+          {
+            "s": "分野",
+            "r": "ブンヤ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "参入",
+            "r": "サンニュウ",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "利益",
+            "r": "リエキ",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "出る",
+            "r": "デル",
+            "p": "verb"
+          },
+          {
+            "s": "ノウハウ",
+            "r": "ノウハウ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "編み出す",
+            "r": "アミダシ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "人口",
+            "r": "ジンコウ",
+            "p": "noun"
+          },
+          {
+            "s": "減少",
+            "r": "ゲンショウ",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "進む",
+            "r": "ススム",
+            "p": "verb"
+          },
+          {
+            "s": "離島",
+            "r": "リトウ",
+            "p": "noun"
+          },
+          {
+            "s": "へ",
+            "r": "ヘ",
+            "p": "particle"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "u",
+            "r": "u",
+            "p": "noun"
+          },
+          {
+            "s": "・",
+            "r": "・",
+            "p": "grammar"
+          },
+          {
+            "s": "I",
+            "r": "アイ",
+            "p": "noun"
+          },
+          {
+            "s": "・",
+            "r": "・",
+            "p": "grammar"
+          },
+          {
+            "s": "Jターン",
+            "r": "ジェイターン",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "支える",
+            "r": "ササエル",
+            "p": "verb"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "会社",
+            "r": "カイシャ",
+            "p": "noun"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "アイランデクス",
+            "r": "アイランデクス",
+            "p": "noun"
+          },
+          {
+            "s": "社",
+            "r": "シャ",
+            "p": "noun"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "社長",
+            "r": "シャチョウ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "池田",
+            "r": "イケダ",
+            "p": "noun"
+          },
+          {
+            "s": "和法",
+            "r": "カズノリ",
+            "p": "noun"
+          },
+          {
+            "s": "さん",
+            "r": "サン",
+            "p": "grammar"
+          },
+          {
+            "s": "(",
+            "r": "キゴウ",
+            "p": "grammar"
+          },
+          {
+            "s": "38",
+            "r": "サンハチ",
+            "p": "noun"
+          },
+          {
+            "s": ")",
+            "r": "キゴウ",
+            "p": "grammar"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "言う",
+            "r": "ユウ",
+            "p": "verb"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "愛媛県",
+            "r": "エヒメケン",
+            "p": "noun"
+          },
+          {
+            "s": "出身",
+            "r": "シュッシン",
+            "p": "noun"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "離島",
+            "r": "リトウ",
+            "p": "noun"
+          },
+          {
+            "s": "も",
+            "r": "モ",
+            "p": "particle"
+          },
+          {
+            "s": "引っ越す",
+            "r": "ヒッコシ",
+            "p": "verb"
+          },
+          {
+            "s": "業界",
+            "r": "ギョウカイ",
+            "p": "noun"
+          },
+          {
+            "s": "も",
+            "r": "モ",
+            "p": "particle"
+          },
+          {
+            "s": "無縁",
+            "r": "ムエン",
+            "p": "grammar"
+          },
+          {
+            "s": "だ",
+            "r": "ダッ",
+            "p": "grammar"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          }
+        ],
+        "audio": "/asanews/assets/audio/ritou-hikkoshi-nenshou-8oku-en/p1.mp3"
+      },
+      {
+        "id": "p2",
+        "ja": "きっかけは13年前。偶然知り合った鹿児島県・奄美大島出身のカップルからの相談だった。「島に帰りたいけど、引っ越しの見積もりが高くて、業者もやりたがらなくて困っている」引っ越し業者と船会社を自ら探して話をつけてみると、見積もりより安くなり、カップルは涙ぐんで喜んだ。いきさつをブログに書くと、離島への転居を望む複数の人から問い合わせが来た。「他人に役立つ仕事ができる」。関西を拠点に離島専門の引っ越し会社を起業した。",
+        "en": "The trigger was 13 years ago. It started with a consultation from a couple from Amami Oshima, Kagoshima Prefecture whom he happened to meet. 'We want to go back to the island, but moving quotes are expensive and companies don't want to do it.' He personally searched for moving companies and ferry operators to arrange things, and the price became lower than the quote. The couple was moved to tears with joy. When he wrote about this experience in a blog, multiple people wanting to move to remote islands contacted him. 'I can do work that helps others.' He founded a remote-island-specialized moving company based in Kansai.",
+        "literal": "きっかけは（trigger was）13年前（13 years ago）。偶然（by chance）知り合った（came to know）鹿児島県・奄美大島出身の（from Amami Oshima, Kagoshima）カップルからの（from a couple）相談だった（was consultation）。「島に（to island）帰りたい（want to return）けど（but）引っ越しの（moving）見積もりが（quote）高くて（expensive）業者も（companies also）やりたがらなくて（don't want to do）困っている（in trouble）」引っ越し業者と（moving companies and）船会社を（ferry companies）自ら（personally）探して（searched）話をつけてみると（tried to arrange）見積もりより（than quote）安くなり（became cheaper）カップルは（the couple）涙ぐんで（teary-eyed）喜んだ（rejoiced）。いきさつを（the story）ブログに（in blog）書くと（when wrote）離島への（to remote islands）転居を（relocation）望む（desire）複数の（multiple）人から（from people）問い合わせが（inquiries）来た（came）。「他人に（to others）役立つ（helpful）仕事が（work）できる（can do）」関西を（Kansai）拠点に（as base）離島専門の（remote island specialized）引っ越し会社を（moving company）起業した（founded）。",
+        "grammar": "「〜たがる（想要〜）: 表示第三人称的愿望。〜たい的第三人称形式。」例：業者もやりたがらない。／公司也不愿意做。\n「〜てみる（试着〜）: 表示尝试做某事。」例：話をつけてみる。／试着谈妥。\n「〜を拠点に（以〜为据点）: 表示以某地为基础开展活动。」例：関西を拠点に起業した。／以关西为据点创业。",
+        "vocab": [
+          [
+            "きっかけ",
+            "きっかけ",
+            "契机、起因"
+          ],
+          [
+            "見積もり",
+            "みつもり",
+            "报价、估价"
+          ],
+          [
+            "涙ぐむ",
+            "なみだぐむ",
+            "含泪、泪目"
+          ],
+          [
+            "いきさつ",
+            "いきさつ",
+            "原委、经过"
+          ],
+          [
+            "転居",
+            "てんきょ",
+            "搬家、迁居"
+          ],
+          [
+            "起業",
+            "きぎょう",
+            "创业"
+          ]
+        ],
+        "words": [
+          {
+            "s": "きっかけ",
+            "r": "キッカケ",
+            "p": "noun"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "13",
+            "r": "イチサン",
+            "p": "noun"
+          },
+          {
+            "s": "年",
+            "r": "ネン",
+            "p": "noun"
+          },
+          {
+            "s": "前",
+            "r": "マエ",
+            "p": "noun"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "偶然",
+            "r": "グウゼン",
+            "p": "adverb"
+          },
+          {
+            "s": "知り合う",
+            "r": "シリアッ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "鹿児島県",
+            "r": "カゴシマケン",
+            "p": "noun"
+          },
+          {
+            "s": "・",
+            "r": "・",
+            "p": "grammar"
+          },
+          {
+            "s": "奄美",
+            "r": "アマミ",
+            "p": "noun"
+          },
+          {
+            "s": "大島",
+            "r": "オオシマ",
+            "p": "noun"
+          },
+          {
+            "s": "出身",
+            "r": "シュッシン",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "カップル",
+            "r": "カップル",
+            "p": "noun"
+          },
+          {
+            "s": "から",
+            "r": "カラ",
+            "p": "particle"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "相談",
+            "r": "ソウダン",
+            "p": "noun"
+          },
+          {
+            "s": "だ",
+            "r": "ダッ",
+            "p": "grammar"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "「",
+            "r": "「",
+            "p": "grammar"
+          },
+          {
+            "s": "島",
+            "r": "シマ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "帰る",
+            "r": "カエリ",
+            "p": "verb"
+          },
+          {
+            "s": "たい",
+            "r": "タイ",
+            "p": "grammar"
+          },
+          {
+            "s": "けど",
+            "r": "ケド",
+            "p": "particle"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "引っ越し",
+            "r": "ヒッコシ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "見積もり",
+            "r": "ミツモリ",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "高い",
+            "r": "タカク",
+            "p": "adj"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "業者",
+            "r": "ギョウシャ",
+            "p": "noun"
+          },
+          {
+            "s": "も",
+            "r": "モ",
+            "p": "particle"
+          },
+          {
+            "s": "やる",
+            "r": "ヤリ",
+            "p": "verb"
+          },
+          {
+            "s": "たがる",
+            "r": "タガラ",
+            "p": "grammar"
+          },
+          {
+            "s": "ない",
+            "r": "ナク",
+            "p": "grammar"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "困る",
+            "r": "コマッ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "いる",
+            "r": "イル",
+            "p": "verb"
+          },
+          {
+            "s": "」",
+            "r": "」",
+            "p": "grammar"
+          },
+          {
+            "s": "引っ越し",
+            "r": "ヒッコシ",
+            "p": "noun"
+          },
+          {
+            "s": "業者",
+            "r": "ギョウシャ",
+            "p": "noun"
+          },
+          {
+            "s": "と",
+            "r": "ト",
+            "p": "particle"
+          },
+          {
+            "s": "船",
+            "r": "フネ",
+            "p": "noun"
+          },
+          {
+            "s": "会社",
+            "r": "カイシャ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "自ら",
+            "r": "ミズカラ",
+            "p": "noun"
+          },
+          {
+            "s": "探す",
+            "r": "サガシ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "話",
+            "r": "ハナシ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "つける",
+            "r": "ツケ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "みる",
+            "r": "ミル",
+            "p": "verb"
+          },
+          {
+            "s": "と",
+            "r": "ト",
+            "p": "particle"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "見積もり",
+            "r": "ミツモリ",
+            "p": "noun"
+          },
+          {
+            "s": "より",
+            "r": "ヨリ",
+            "p": "particle"
+          },
+          {
+            "s": "安い",
+            "r": "ヤスク",
+            "p": "adj"
+          },
+          {
+            "s": "なる",
+            "r": "ナリ",
+            "p": "verb"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "カップル",
+            "r": "カップル",
+            "p": "noun"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "涙ぐむ",
+            "r": "ナミダグン",
+            "p": "verb"
+          },
+          {
+            "s": "で",
+            "r": "デ",
+            "p": "particle"
+          },
+          {
+            "s": "喜ぶ",
+            "r": "ヨロコン",
+            "p": "verb"
+          },
+          {
+            "s": "だ",
+            "r": "ダ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "いきさつ",
+            "r": "イキサツ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "ブログ",
+            "r": "ブログ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "書く",
+            "r": "カク",
+            "p": "verb"
+          },
+          {
+            "s": "と",
+            "r": "ト",
+            "p": "particle"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "離島",
+            "r": "リトウ",
+            "p": "noun"
+          },
+          {
+            "s": "へ",
+            "r": "ヘ",
+            "p": "particle"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "転居",
+            "r": "テンキョ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "望む",
+            "r": "ノゾム",
+            "p": "verb"
+          },
+          {
+            "s": "複数",
+            "r": "フクスウ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "人",
+            "r": "ヒト",
+            "p": "noun"
+          },
+          {
+            "s": "から",
+            "r": "カラ",
+            "p": "particle"
+          },
+          {
+            "s": "問い合わせ",
+            "r": "トイアワセ",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "来る",
+            "r": "キ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "「",
+            "r": "「",
+            "p": "grammar"
+          },
+          {
+            "s": "他人",
+            "r": "タニン",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "役立つ",
+            "r": "ヤクダツ",
+            "p": "verb"
+          },
+          {
+            "s": "仕事",
+            "r": "シゴト",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "できる",
+            "r": "デキル",
+            "p": "verb"
+          },
+          {
+            "s": "」",
+            "r": "」",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "関西",
+            "r": "カンサイ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "拠点",
+            "r": "キョテン",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "離島",
+            "r": "リトウ",
+            "p": "noun"
+          },
+          {
+            "s": "専門",
+            "r": "センモン",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "引っ越し",
+            "r": "ヒッコシ",
+            "p": "noun"
+          },
+          {
+            "s": "会社",
+            "r": "カイシャ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "起業",
+            "r": "キギョウ",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          }
+        ],
+        "audio": "/asanews/assets/audio/ritou-hikkoshi-nenshou-8oku-en/p2.mp3"
+      },
+      {
+        "id": "p3",
+        "ja": "離島への引っ越しは船の欠航や荷物の積み替えの多さで破損する恐れもあり、業者が料金にリスク費用を上乗せしていることが多い。同社では船舶輸送に適した頑丈な段ボール(通称・島箱)を開発。社員24人の8割は離島に住み、八つの島に事業所を設けた。全国400超の有人離島で人口の8割をカバーできる態勢を整備。離島人口が日本全体の1%に満たない中で事業として続けられる仕組みを構築した。",
+        "en": "Moving to remote islands carries risks such as ferry cancellations and cargo damage from multiple transfers, so companies often add risk premiums to their prices. This company developed sturdy cardboard boxes (called 'Island Boxes') suitable for sea transport. 80% of the 24 employees live on remote islands, with offices established on eight islands. They have built a system covering 80% of the population across over 400 inhabited remote islands nationwide. They constructed a sustainable business model even though the remote island population is less than 1% of Japan's total.",
+        "literal": "離島への（to remote islands）引っ越しは（moving is）船の（ferry）欠航や（cancellations and）荷物の（cargo）積み替えの（reloading）多さで（due to frequency）破損する（damage）恐れもあり（there is also risk）業者が（companies）料金に（to price）リスク費用を（risk cost）上乗せしている（add on top）ことが多い（often the case）。同社では（at this company）船舶輸送に（for maritime transport）適した（suitable）頑丈な（sturdy）段ボールを（cardboard boxes）開発（developed）。社員24人の（24 employees）8割は（80%）離島に（on remote islands）住み（live）八つの島に（on 8 islands）事業所を（offices）設けた（established）。全国400超の（over 400 nationwide）有人離島で（inhabited remote islands）人口の（population）8割を（80%）カバーできる（can cover）態勢を（system）整備（developed）。離島人口が（remote island population）日本全体の（Japan's total）1%に（to 1%）満たない（less than）中で（amidst）事業として（as a business）続けられる（can continue）仕組みを（mechanism）構築した（built）。",
+        "grammar": "「〜恐れがある（有〜的危险）: 表示有发生不好的事情的可能性。」例：荷物が破損する恐れがある。／货物有可能损坏。\n「〜に満たない（不足〜）: 表示未达到某数量或标准。」例：日本全体の1%に満たない。／不到日本整体的1%。\n「〜中で（在〜之中）: 表示在某种状态或条件下。」例：人口が少ない中で事業を続ける。／在人口稀少的状况下继续事业。",
+        "vocab": [
+          [
+            "積み替え",
+            "つみかえ",
+            "换装、转载（货物）"
+          ],
+          [
+            "上乗せ",
+            "うわのせ",
+            "附加、加价"
+          ],
+          [
+            "頑丈",
+            "がんじょう",
+            "坚固、结实"
+          ],
+          [
+            "段ボール",
+            "ダンボール",
+            "瓦楞纸箱"
+          ],
+          [
+            "態勢",
+            "たいせい",
+            "态势、体制"
+          ],
+          [
+            "仕組み",
+            "しくみ",
+            "结构、机制"
+          ]
+        ],
+        "words": [
+          {
+            "s": "離島",
+            "r": "リトウ",
+            "p": "noun"
+          },
+          {
+            "s": "へ",
+            "r": "ヘ",
+            "p": "particle"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "引っ越し",
+            "r": "ヒッコシ",
+            "p": "noun"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "船",
+            "r": "フネ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "欠航",
+            "r": "ケッコウ",
+            "p": "noun"
+          },
+          {
+            "s": "や",
+            "r": "ヤ",
+            "p": "particle"
+          },
+          {
+            "s": "荷物",
+            "r": "ニモツ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "積み替え",
+            "r": "ツミカエ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "多い",
+            "r": "オオ",
+            "p": "adj"
+          },
+          {
+            "s": "さ",
+            "r": "サ",
+            "p": "grammar"
+          },
+          {
+            "s": "で",
+            "r": "デ",
+            "p": "particle"
+          },
+          {
+            "s": "破損",
+            "r": "ハソン",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "スル",
+            "p": "verb"
+          },
+          {
+            "s": "恐れ",
+            "r": "オソレ",
+            "p": "noun"
+          },
+          {
+            "s": "も",
+            "r": "モ",
+            "p": "particle"
+          },
+          {
+            "s": "ある",
+            "r": "アリ",
+            "p": "verb"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "業者",
+            "r": "ギョウシャ",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "料金",
+            "r": "リョウキン",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "リスク",
+            "r": "リスク",
+            "p": "noun"
+          },
+          {
+            "s": "費用",
+            "r": "ヒヨウ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "上乗せ",
+            "r": "ウワノセ",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "いる",
+            "r": "イル",
+            "p": "verb"
+          },
+          {
+            "s": "こと",
+            "r": "コト",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "多い",
+            "r": "オオイ",
+            "p": "adj"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "同社",
+            "r": "ドウシャ",
+            "p": "noun"
+          },
+          {
+            "s": "で",
+            "r": "デ",
+            "p": "particle"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "船舶",
+            "r": "センパク",
+            "p": "noun"
+          },
+          {
+            "s": "輸送",
+            "r": "ユソウ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "適する",
+            "r": "テキシ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "頑丈",
+            "r": "ガンジョウ",
+            "p": "grammar"
+          },
+          {
+            "s": "だ",
+            "r": "ナ",
+            "p": "grammar"
+          },
+          {
+            "s": "段ボール",
+            "r": "ダンボール",
+            "p": "noun"
+          },
+          {
+            "s": "(",
+            "r": "キゴウ",
+            "p": "grammar"
+          },
+          {
+            "s": "通称",
+            "r": "ツウショウ",
+            "p": "noun"
+          },
+          {
+            "s": "・",
+            "r": "・",
+            "p": "grammar"
+          },
+          {
+            "s": "島",
+            "r": "シマ",
+            "p": "noun"
+          },
+          {
+            "s": "箱",
+            "r": "バコ",
+            "p": "noun"
+          },
+          {
+            "s": ")",
+            "r": "キゴウ",
+            "p": "grammar"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "開発",
+            "r": "カイハツ",
+            "p": "noun"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "社員",
+            "r": "シャイン",
+            "p": "noun"
+          },
+          {
+            "s": "24",
+            "r": "ニヨン",
+            "p": "noun"
+          },
+          {
+            "s": "人",
+            "r": "ニン",
+            "p": "grammar"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "8",
+            "r": "ハチ",
+            "p": "noun"
+          },
+          {
+            "s": "割",
+            "r": "ワリ",
+            "p": "noun"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "離島",
+            "r": "リトウ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "住む",
+            "r": "スミ",
+            "p": "verb"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "八",
+            "r": "ヨウ",
+            "p": "noun"
+          },
+          {
+            "s": "つ",
+            "r": "ツ",
+            "p": "grammar"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "島",
+            "r": "シマ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "事業所",
+            "r": "ジギョウショ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "設ける",
+            "r": "モウケ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "全国",
+            "r": "ゼンコク",
+            "p": "noun"
+          },
+          {
+            "s": "400",
+            "r": "ヨンレイレイ",
+            "p": "noun"
+          },
+          {
+            "s": "超",
+            "r": "チョウ",
+            "p": "grammar"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "有人",
+            "r": "ユウジン",
+            "p": "noun"
+          },
+          {
+            "s": "離島",
+            "r": "リトウ",
+            "p": "noun"
+          },
+          {
+            "s": "で",
+            "r": "デ",
+            "p": "particle"
+          },
+          {
+            "s": "人口",
+            "r": "ジンコウ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "8",
+            "r": "ハチ",
+            "p": "noun"
+          },
+          {
+            "s": "割",
+            "r": "ワリ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "カバー",
+            "r": "カバー",
+            "p": "noun"
+          },
+          {
+            "s": "できる",
+            "r": "デキル",
+            "p": "verb"
+          },
+          {
+            "s": "態勢",
+            "r": "タイセイ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "整備",
+            "r": "セイビ",
+            "p": "noun"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "離島",
+            "r": "リトウ",
+            "p": "noun"
+          },
+          {
+            "s": "人口",
+            "r": "ジンコウ",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "日本",
+            "r": "ニッポン",
+            "p": "noun"
+          },
+          {
+            "s": "全体",
+            "r": "ゼンタイ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "1",
+            "r": "イチ",
+            "p": "noun"
+          },
+          {
+            "s": "%",
+            "r": "パーセント",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "満つ",
+            "r": "ミタ",
+            "p": "verb"
+          },
+          {
+            "s": "ない",
+            "r": "ナイ",
+            "p": "grammar"
+          },
+          {
+            "s": "中",
+            "r": "ナカ",
+            "p": "noun"
+          },
+          {
+            "s": "で",
+            "r": "デ",
+            "p": "particle"
+          },
+          {
+            "s": "事業",
+            "r": "ジギョウ",
+            "p": "noun"
+          },
+          {
+            "s": "と",
+            "r": "ト",
+            "p": "particle"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "続ける",
+            "r": "ツヅケ",
+            "p": "verb"
+          },
+          {
+            "s": "られる",
+            "r": "ラレル",
+            "p": "grammar"
+          },
+          {
+            "s": "仕組み",
+            "r": "シクミ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "構築",
+            "r": "コウチク",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          }
+        ],
+        "audio": "/asanews/assets/audio/ritou-hikkoshi-nenshou-8oku-en/p3.mp3"
+      }
+    ]
+  }
+]

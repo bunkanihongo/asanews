@@ -1,788 +1,776 @@
-{
-  "slug": "yanagita-kyuuen-sensyutsu",
-  "title": "柳田が球宴に 家族旅行キャンセルし9回目の出場へ",
-  "source": "西スポWEB OTTO!",
-  "url": "https://news.yahoo.co.jp/articles/849f4672e1a967e92fff47137f0a67356889d54b",
-  "date": "2026-07-23",
-  "topic": "スポーツ",
-  "paragraphs": [
-    {
-      "ja": "ソフトバンクの柳田悠岐外野手がパ・リーグの「プラスワン投票」でオールスターゲームに選出された。9回目の出場となる。柳田は「キャンセル料、取り返しにいきます」とコメントし、家族旅行をキャンセルして出場することを明かした。ファンからの投票で選ばれたことを受け、期待に応える活躍を誓った。",
-      "en": "SoftBank outfielder Yanagita Yuki was selected for the All-Star Game through the Pacific League's 'Plus One Vote'. This will be his 9th appearance. Yanagita commented, 'I'm going to earn back the cancellation fee,' revealing that he would cancel a family trip to participate. Selected through fan voting, he vowed to live up to expectations with his performance.",
-      "literal": "ソフトバンクの（SoftBank's）柳田悠岐外野手が（outfielder Yanagita Yuki）パ・リーグの（Pacific League's）「プラスワン投票」で（in 'Plus One Vote'）オールスターゲームに（to All-Star Game）選出された（was selected）。9回目の（9th）出場と（appearance）なる（becomes）。柳田は（Yanagita）「キャンセル料（cancellation fee）取り返しに（to get back）いきます（will go）」とコメントし（commented）家族旅行を（family trip）キャンセルして（cancel）出場する（participate）ことを（that）明かした（revealed）。",
-      "grammar": [
-        {
-          "point": "〜を明かす（公开〜）: 表示公开、透露某个事实。",
-          "example": "家族旅行をキャンセルして出場することを明かした。／透露了取消家庭旅行去参赛的事。"
-        },
-        {
-          "point": "〜に応える（回应〜、不负〜）: 表示回应期望、要求。",
-          "example": "期待に応える活躍を誓った。／发誓不负期望地活跃。"
-        }
-      ],
-      "vocab": [
-        {
-          "kanji": "選出",
-          "furigana": "せんしゅつ",
-          "cn": "选出、选拔"
-        },
-        {
-          "kanji": "出場",
-          "furigana": "しゅつじょう",
-          "cn": "出场、参赛"
-        },
-        {
-          "kanji": "キャンセル料",
-          "furigana": "キャンセルりょう",
-          "cn": "取消费"
-        },
-        {
-          "kanji": "活躍",
-          "furigana": "かつやく",
-          "cn": "活跃、大显身手"
-        },
-        {
-          "kanji": "誓う",
-          "furigana": "ちかう",
-          "cn": "发誓、宣誓"
-        }
-      ],
-      "words": [
-        {
-          "s": "ソフトバンク",
-          "r": "ソフトバンク",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "柳田",
-          "r": "ヤナギダ",
-          "p": "noun"
-        },
-        {
-          "s": "悠岐",
-          "r": "ユウキ",
-          "p": "noun"
-        },
-        {
-          "s": "外野手",
-          "r": "ガイヤシュ",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "パ・リーグ",
-          "r": "パ・リーグ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "「",
-          "r": "「",
-          "p": "grammar"
-        },
-        {
-          "s": "プラスワン",
-          "r": "プラスワン",
-          "p": "noun"
-        },
-        {
-          "s": "投票",
-          "r": "トウヒョウ",
-          "p": "noun"
-        },
-        {
-          "s": "」",
-          "r": "」",
-          "p": "grammar"
-        },
-        {
-          "s": "で",
-          "r": "デ",
-          "p": "particle"
-        },
-        {
-          "s": "オールスター",
-          "r": "オールスター",
-          "p": "noun"
-        },
-        {
-          "s": "ゲーム",
-          "r": "ゲーム",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "選出",
-          "r": "センシュツ",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "サ",
-          "p": "verb"
-        },
-        {
-          "s": "れる",
-          "r": "レ",
-          "p": "grammar"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "9",
-          "r": "キュウ",
-          "p": "noun"
-        },
-        {
-          "s": "回",
-          "r": "カイ",
-          "p": "noun"
-        },
-        {
-          "s": "目",
-          "r": "メ",
-          "p": "grammar"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "出場",
-          "r": "シュツジョウ",
-          "p": "noun"
-        },
-        {
-          "s": "と",
-          "r": "ト",
-          "p": "particle"
-        },
-        {
-          "s": "なる",
-          "r": "ナル",
-          "p": "verb"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "柳田",
-          "r": "ヤナギダ",
-          "p": "noun"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "「",
-          "r": "「",
-          "p": "grammar"
-        },
-        {
-          "s": "キャンセル料",
-          "r": "キャンセルリョウ",
-          "p": "noun"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "取り返し",
-          "r": "トリカエシ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "いく",
-          "r": "イキ",
-          "p": "verb"
-        },
-        {
-          "s": "ます",
-          "r": "マス",
-          "p": "grammar"
-        },
-        {
-          "s": "」",
-          "r": "」",
-          "p": "grammar"
-        },
-        {
-          "s": "と",
-          "r": "ト",
-          "p": "particle"
-        },
-        {
-          "s": "コメント",
-          "r": "コメント",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "家族",
-          "r": "カゾク",
-          "p": "noun"
-        },
-        {
-          "s": "旅行",
-          "r": "リョコウ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "キャンセル",
-          "r": "キャンセル",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "出場",
-          "r": "シュツジョウ",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "スル",
-          "p": "verb"
-        },
-        {
-          "s": "こと",
-          "r": "コト",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "明かす",
-          "r": "アカシ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "ファン",
-          "r": "ファン",
-          "p": "noun"
-        },
-        {
-          "s": "から",
-          "r": "カラ",
-          "p": "particle"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "投票",
-          "r": "トウヒョウ",
-          "p": "noun"
-        },
-        {
-          "s": "で",
-          "r": "デ",
-          "p": "particle"
-        },
-        {
-          "s": "選ぶ",
-          "r": "エラバ",
-          "p": "verb"
-        },
-        {
-          "s": "れる",
-          "r": "レ",
-          "p": "grammar"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "こと",
-          "r": "コト",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "受ける",
-          "r": "ウケ",
-          "p": "verb"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "期待",
-          "r": "キタイ",
-          "p": "noun"
-        },
-        {
-          "s": "に",
-          "r": "ニ",
-          "p": "particle"
-        },
-        {
-          "s": "応える",
-          "r": "コタエル",
-          "p": "verb"
-        },
-        {
-          "s": "活躍",
-          "r": "カツヤク",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "誓う",
-          "r": "チカッ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        }
-      ]
-    },
-    {
-      "ja": "柳田は球界を代表する強打者として知られ、これまで数々の記録を残してきた。今季も打撃好調で、チームの中心選手として活躍している。オールスターではその豪快なバッティングでファンを沸かせることが期待されている。",
-      "en": "Yanagita is known as a powerful hitter representing Japanese baseball, having set numerous records over his career. This season he is also in good batting form, performing as the team's central player. At the All-Star Game, he is expected to excite fans with his dynamic batting.",
-      "literal": "柳田は（Yanagita）球界を（baseball world）代表する（represent）強打者として（as powerful hitter）知られ（is known）これまで（until now）数々の（numerous）記録を（records）残してきた（has left）。今季も（this season also）打撃好調で（batting in good form）チームの（team's）中心選手として（as central player）活躍している（is active）。オールスターでは（at All-Star）その（his）豪快な（dynamic）バッティングで（with batting）ファンを（fans）沸かせる（excite）ことが期待されている（is expected）。",
-      "grammar": [
-        {
-          "point": "〜として知られる（作为〜而闻名）: 固定搭配。",
-          "example": "球界を代表する強打者として知られる。／作为代表棒球界的强打者而闻名。"
-        },
-        {
-          "point": "〜ことが期待される（被期待〜）: 表示被动期待。",
-          "example": "ファンを沸かせることが期待されている。／被期待让粉丝兴奋。"
-        }
-      ],
-      "vocab": [
-        {
-          "kanji": "強打者",
-          "furigana": "きょうだしゃ",
-          "cn": "强打者、强棒"
-        },
-        {
-          "kanji": "数々",
-          "furigana": "かずかず",
-          "cn": "众多、许多"
-        },
-        {
-          "kanji": "打撃好調",
-          "furigana": "だげきこうちょう",
-          "cn": "打击状态良好"
-        },
-        {
-          "kanji": "豪快",
-          "furigana": "ごうかい",
-          "cn": "豪爽、豪迈"
-        },
-        {
-          "kanji": "沸かせる",
-          "furigana": "わかせる",
-          "cn": "使沸腾、使兴奋"
-        }
-      ],
-      "words": [
-        {
-          "s": "柳田",
-          "r": "ヤナギダ",
-          "p": "noun"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "球界",
-          "r": "キュウカイ",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "代表",
-          "r": "ダイヒョウ",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "スル",
-          "p": "verb"
-        },
-        {
-          "s": "強打者",
-          "r": "キョウダシャ",
-          "p": "noun"
-        },
-        {
-          "s": "と",
-          "r": "ト",
-          "p": "particle"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "知る",
-          "r": "シラ",
-          "p": "verb"
-        },
-        {
-          "s": "れる",
-          "r": "レ",
-          "p": "grammar"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "これ",
-          "r": "コレ",
-          "p": "grammar"
-        },
-        {
-          "s": "まで",
-          "r": "マデ",
-          "p": "particle"
-        },
-        {
-          "s": "数々",
-          "r": "カズカズ",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "記録",
-          "r": "キロク",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "残す",
-          "r": "ノコシ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "くる",
-          "r": "キ",
-          "p": "verb"
-        },
-        {
-          "s": "た",
-          "r": "タ",
-          "p": "grammar"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "今季",
-          "r": "コンキ",
-          "p": "noun"
-        },
-        {
-          "s": "も",
-          "r": "モ",
-          "p": "particle"
-        },
-        {
-          "s": "打撃",
-          "r": "ダゲキ",
-          "p": "noun"
-        },
-        {
-          "s": "好調",
-          "r": "コウチョウ",
-          "p": "noun"
-        },
-        {
-          "s": "だ",
-          "r": "デ",
-          "p": "grammar"
-        },
-        {
-          "s": "、",
-          "r": "、",
-          "p": "grammar"
-        },
-        {
-          "s": "チーム",
-          "r": "チーム",
-          "p": "noun"
-        },
-        {
-          "s": "の",
-          "r": "ノ",
-          "p": "particle"
-        },
-        {
-          "s": "中心",
-          "r": "チュウシン",
-          "p": "noun"
-        },
-        {
-          "s": "選手",
-          "r": "センシュ",
-          "p": "noun"
-        },
-        {
-          "s": "と",
-          "r": "ト",
-          "p": "particle"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "活躍",
-          "r": "カツヤク",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "シ",
-          "p": "verb"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "いる",
-          "r": "イル",
-          "p": "verb"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        },
-        {
-          "s": "オールスター",
-          "r": "オールスター",
-          "p": "noun"
-        },
-        {
-          "s": "で",
-          "r": "デ",
-          "p": "particle"
-        },
-        {
-          "s": "は",
-          "r": "ハ",
-          "p": "particle"
-        },
-        {
-          "s": "その",
-          "r": "ソノ",
-          "p": "adj"
-        },
-        {
-          "s": "豪快",
-          "r": "ゴウカイ",
-          "p": "grammar"
-        },
-        {
-          "s": "だ",
-          "r": "ナ",
-          "p": "grammar"
-        },
-        {
-          "s": "バッティング",
-          "r": "バッティング",
-          "p": "noun"
-        },
-        {
-          "s": "で",
-          "r": "デ",
-          "p": "particle"
-        },
-        {
-          "s": "ファン",
-          "r": "ファン",
-          "p": "noun"
-        },
-        {
-          "s": "を",
-          "r": "ヲ",
-          "p": "particle"
-        },
-        {
-          "s": "沸く",
-          "r": "ワカ",
-          "p": "verb"
-        },
-        {
-          "s": "せる",
-          "r": "セル",
-          "p": "grammar"
-        },
-        {
-          "s": "こと",
-          "r": "コト",
-          "p": "noun"
-        },
-        {
-          "s": "が",
-          "r": "ガ",
-          "p": "particle"
-        },
-        {
-          "s": "期待",
-          "r": "キタイ",
-          "p": "noun"
-        },
-        {
-          "s": "する",
-          "r": "サ",
-          "p": "verb"
-        },
-        {
-          "s": "れる",
-          "r": "レ",
-          "p": "grammar"
-        },
-        {
-          "s": "て",
-          "r": "テ",
-          "p": "particle"
-        },
-        {
-          "s": "いる",
-          "r": "イル",
-          "p": "verb"
-        },
-        {
-          "s": "。",
-          "r": "。",
-          "p": "grammar"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "yanagita-kyuuen-sensyutsu",
+    "title": "柳田が球宴に 家族旅行キャンセルし9回目の出場へ",
+    "subtitle": "from 西スポWEB OTTO!",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-23",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "ja": "ソフトバンクの柳田悠岐外野手がパ・リーグの「プラスワン投票」でオールスターゲームに選出された。9回目の出場となる。柳田は「キャンセル料、取り返しにいきます」とコメントし、家族旅行をキャンセルして出場することを明かした。ファンからの投票で選ばれたことを受け、期待に応える活躍を誓った。",
+        "en": "SoftBank outfielder Yanagita Yuki was selected for the All-Star Game through the Pacific League's 'Plus One Vote'. This will be his 9th appearance. Yanagita commented, 'I'm going to earn back the cancellation fee,' revealing that he would cancel a family trip to participate. Selected through fan voting, he vowed to live up to expectations with his performance.",
+        "literal": "ソフトバンクの（SoftBank's）柳田悠岐外野手が（outfielder Yanagita Yuki）パ・リーグの（Pacific League's）「プラスワン投票」で（in 'Plus One Vote'）オールスターゲームに（to All-Star Game）選出された（was selected）。9回目の（9th）出場と（appearance）なる（becomes）。柳田は（Yanagita）「キャンセル料（cancellation fee）取り返しに（to get back）いきます（will go）」とコメントし（commented）家族旅行を（family trip）キャンセルして（cancel）出場する（participate）ことを（that）明かした（revealed）。",
+        "grammar": "「〜を明かす（公开〜）: 表示公开、透露某个事实。」例：家族旅行をキャンセルして出場することを明かした。／透露了取消家庭旅行去参赛的事。\n「〜に応える（回应〜、不负〜）: 表示回应期望、要求。」例：期待に応える活躍を誓った。／发誓不负期望地活跃。\n「〜として（作为〜）: 表示身份、资格。」例：出場することになった。／決定出场了。",
+        "vocab": [
+          [
+            "選出",
+            "せんしゅつ",
+            "选出、选拔"
+          ],
+          [
+            "出場",
+            "しゅつじょう",
+            "出场、参赛"
+          ],
+          [
+            "キャンセル料",
+            "キャンセルりょう",
+            "取消费"
+          ],
+          [
+            "活躍",
+            "かつやく",
+            "活跃、大显身手"
+          ],
+          [
+            "誓う",
+            "ちかう",
+            "发誓、宣誓"
+          ]
+        ],
+        "words": [
+          {
+            "s": "ソフトバンク",
+            "r": "ソフトバンク",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "柳田",
+            "r": "ヤナギダ",
+            "p": "noun"
+          },
+          {
+            "s": "悠岐",
+            "r": "ユウキ",
+            "p": "noun"
+          },
+          {
+            "s": "外野手",
+            "r": "ガイヤシュ",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "パ・リーグ",
+            "r": "パ・リーグ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "「",
+            "r": "「",
+            "p": "grammar"
+          },
+          {
+            "s": "プラスワン",
+            "r": "プラスワン",
+            "p": "noun"
+          },
+          {
+            "s": "投票",
+            "r": "トウヒョウ",
+            "p": "noun"
+          },
+          {
+            "s": "」",
+            "r": "」",
+            "p": "grammar"
+          },
+          {
+            "s": "で",
+            "r": "デ",
+            "p": "particle"
+          },
+          {
+            "s": "オールスター",
+            "r": "オールスター",
+            "p": "noun"
+          },
+          {
+            "s": "ゲーム",
+            "r": "ゲーム",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "選出",
+            "r": "センシュツ",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "サ",
+            "p": "verb"
+          },
+          {
+            "s": "れる",
+            "r": "レ",
+            "p": "grammar"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "9",
+            "r": "キュウ",
+            "p": "noun"
+          },
+          {
+            "s": "回",
+            "r": "カイ",
+            "p": "noun"
+          },
+          {
+            "s": "目",
+            "r": "メ",
+            "p": "grammar"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "出場",
+            "r": "シュツジョウ",
+            "p": "noun"
+          },
+          {
+            "s": "と",
+            "r": "ト",
+            "p": "particle"
+          },
+          {
+            "s": "なる",
+            "r": "ナル",
+            "p": "verb"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "柳田",
+            "r": "ヤナギダ",
+            "p": "noun"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "「",
+            "r": "「",
+            "p": "grammar"
+          },
+          {
+            "s": "キャンセル料",
+            "r": "キャンセルリョウ",
+            "p": "noun"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "取り返し",
+            "r": "トリカエシ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "いく",
+            "r": "イキ",
+            "p": "verb"
+          },
+          {
+            "s": "ます",
+            "r": "マス",
+            "p": "grammar"
+          },
+          {
+            "s": "」",
+            "r": "」",
+            "p": "grammar"
+          },
+          {
+            "s": "と",
+            "r": "ト",
+            "p": "particle"
+          },
+          {
+            "s": "コメント",
+            "r": "コメント",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "家族",
+            "r": "カゾク",
+            "p": "noun"
+          },
+          {
+            "s": "旅行",
+            "r": "リョコウ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "キャンセル",
+            "r": "キャンセル",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "出場",
+            "r": "シュツジョウ",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "スル",
+            "p": "verb"
+          },
+          {
+            "s": "こと",
+            "r": "コト",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "明かす",
+            "r": "アカシ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "ファン",
+            "r": "ファン",
+            "p": "noun"
+          },
+          {
+            "s": "から",
+            "r": "カラ",
+            "p": "particle"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "投票",
+            "r": "トウヒョウ",
+            "p": "noun"
+          },
+          {
+            "s": "で",
+            "r": "デ",
+            "p": "particle"
+          },
+          {
+            "s": "選ぶ",
+            "r": "エラバ",
+            "p": "verb"
+          },
+          {
+            "s": "れる",
+            "r": "レ",
+            "p": "grammar"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "こと",
+            "r": "コト",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "受ける",
+            "r": "ウケ",
+            "p": "verb"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "期待",
+            "r": "キタイ",
+            "p": "noun"
+          },
+          {
+            "s": "に",
+            "r": "ニ",
+            "p": "particle"
+          },
+          {
+            "s": "応える",
+            "r": "コタエル",
+            "p": "verb"
+          },
+          {
+            "s": "活躍",
+            "r": "カツヤク",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "誓う",
+            "r": "チカッ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          }
+        ],
+        "audio": "/asanews/assets/audio/yanagita-kyuuen-senshutsu/p1.mp3"
+      },
+      {
+        "id": "p2",
+        "ja": "柳田は球界を代表する強打者として知られ、これまで数々の記録を残してきた。今季も打撃好調で、チームの中心選手として活躍している。オールスターではその豪快なバッティングでファンを沸かせることが期待されている。",
+        "en": "Yanagita is known as a powerful hitter representing Japanese baseball, having set numerous records over his career. This season he is also in good batting form, performing as the team's central player. At the All-Star Game, he is expected to excite fans with his dynamic batting.",
+        "literal": "柳田は（Yanagita）球界を（baseball world）代表する（represent）強打者として（as powerful hitter）知られ（is known）これまで（until now）数々の（numerous）記録を（records）残してきた（has left）。今季も（this season also）打撃好調で（batting in good form）チームの（team's）中心選手として（as central player）活躍している（is active）。オールスターでは（at All-Star）その（his）豪快な（dynamic）バッティングで（with batting）ファンを（fans）沸かせる（excite）ことが期待されている（is expected）。",
+        "grammar": "「〜として知られる（作为〜而闻名）: 固定搭配。」例：球界を代表する強打者として知られる。／作为代表棒球界的强打者而闻名。\n「〜ことが期待される（被期待〜）: 表示被动期待。」例：ファンを沸かせることが期待されている。／被期待让粉丝兴奋。",
+        "vocab": [
+          [
+            "強打者",
+            "きょうだしゃ",
+            "强打者、强棒"
+          ],
+          [
+            "数々",
+            "かずかず",
+            "众多、许多"
+          ],
+          [
+            "打撃好調",
+            "だげきこうちょう",
+            "打击状态良好"
+          ],
+          [
+            "豪快",
+            "ごうかい",
+            "豪爽、豪迈"
+          ],
+          [
+            "沸かせる",
+            "わかせる",
+            "使沸腾、使兴奋"
+          ]
+        ],
+        "words": [
+          {
+            "s": "柳田",
+            "r": "ヤナギダ",
+            "p": "noun"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "球界",
+            "r": "キュウカイ",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "代表",
+            "r": "ダイヒョウ",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "スル",
+            "p": "verb"
+          },
+          {
+            "s": "強打者",
+            "r": "キョウダシャ",
+            "p": "noun"
+          },
+          {
+            "s": "と",
+            "r": "ト",
+            "p": "particle"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "知る",
+            "r": "シラ",
+            "p": "verb"
+          },
+          {
+            "s": "れる",
+            "r": "レ",
+            "p": "grammar"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "これ",
+            "r": "コレ",
+            "p": "grammar"
+          },
+          {
+            "s": "まで",
+            "r": "マデ",
+            "p": "particle"
+          },
+          {
+            "s": "数々",
+            "r": "カズカズ",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "記録",
+            "r": "キロク",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "残す",
+            "r": "ノコシ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "くる",
+            "r": "キ",
+            "p": "verb"
+          },
+          {
+            "s": "た",
+            "r": "タ",
+            "p": "grammar"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "今季",
+            "r": "コンキ",
+            "p": "noun"
+          },
+          {
+            "s": "も",
+            "r": "モ",
+            "p": "particle"
+          },
+          {
+            "s": "打撃",
+            "r": "ダゲキ",
+            "p": "noun"
+          },
+          {
+            "s": "好調",
+            "r": "コウチョウ",
+            "p": "noun"
+          },
+          {
+            "s": "だ",
+            "r": "デ",
+            "p": "grammar"
+          },
+          {
+            "s": "、",
+            "r": "、",
+            "p": "grammar"
+          },
+          {
+            "s": "チーム",
+            "r": "チーム",
+            "p": "noun"
+          },
+          {
+            "s": "の",
+            "r": "ノ",
+            "p": "particle"
+          },
+          {
+            "s": "中心",
+            "r": "チュウシン",
+            "p": "noun"
+          },
+          {
+            "s": "選手",
+            "r": "センシュ",
+            "p": "noun"
+          },
+          {
+            "s": "と",
+            "r": "ト",
+            "p": "particle"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "活躍",
+            "r": "カツヤク",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "シ",
+            "p": "verb"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "いる",
+            "r": "イル",
+            "p": "verb"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          },
+          {
+            "s": "オールスター",
+            "r": "オールスター",
+            "p": "noun"
+          },
+          {
+            "s": "で",
+            "r": "デ",
+            "p": "particle"
+          },
+          {
+            "s": "は",
+            "r": "ハ",
+            "p": "particle"
+          },
+          {
+            "s": "その",
+            "r": "ソノ",
+            "p": "adj"
+          },
+          {
+            "s": "豪快",
+            "r": "ゴウカイ",
+            "p": "grammar"
+          },
+          {
+            "s": "だ",
+            "r": "ナ",
+            "p": "grammar"
+          },
+          {
+            "s": "バッティング",
+            "r": "バッティング",
+            "p": "noun"
+          },
+          {
+            "s": "で",
+            "r": "デ",
+            "p": "particle"
+          },
+          {
+            "s": "ファン",
+            "r": "ファン",
+            "p": "noun"
+          },
+          {
+            "s": "を",
+            "r": "ヲ",
+            "p": "particle"
+          },
+          {
+            "s": "沸く",
+            "r": "ワカ",
+            "p": "verb"
+          },
+          {
+            "s": "せる",
+            "r": "セル",
+            "p": "grammar"
+          },
+          {
+            "s": "こと",
+            "r": "コト",
+            "p": "noun"
+          },
+          {
+            "s": "が",
+            "r": "ガ",
+            "p": "particle"
+          },
+          {
+            "s": "期待",
+            "r": "キタイ",
+            "p": "noun"
+          },
+          {
+            "s": "する",
+            "r": "サ",
+            "p": "verb"
+          },
+          {
+            "s": "れる",
+            "r": "レ",
+            "p": "grammar"
+          },
+          {
+            "s": "て",
+            "r": "テ",
+            "p": "particle"
+          },
+          {
+            "s": "いる",
+            "r": "イル",
+            "p": "verb"
+          },
+          {
+            "s": "。",
+            "r": "。",
+            "p": "grammar"
+          }
+        ],
+        "audio": "/asanews/assets/audio/yanagita-kyuuen-senshutsu/p2.mp3"
+      }
+    ]
+  }
+]
