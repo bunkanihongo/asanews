@@ -34,7 +34,7 @@ toc: true
 comments:
   provider: # [disqus | utterances | giscus]
 
-paginate: 10
+paginate: 20
 
 # ===== Kramdown =====
 kramdown:
