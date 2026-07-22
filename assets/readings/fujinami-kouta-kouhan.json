@@ -1,0 +1,1221 @@
+{
+  "slug": "fujinami-kouta-kouhan",
+  "title": "降板のDeNA・藤浪晋太郎に甲子園全体から異例の拍手 4年ぶりの聖地登板",
+  "source": "デイリースポーツ",
+  "url": "https://news.yahoo.co.jp/articles/00dbcd34963e09c4808f240f25457634784d0ef5",
+  "date": "2026-07-23",
+  "topic": "スポーツ",
+  "paragraphs": [
+    {
+      "ja": "DeNAの藤浪晋太郎投手が阪神戦で4回2/3を5安打1失点、4四球1死球で降板した。同点のまま降板し今季初勝利の権利は得られなかったが、マウンドを降りる際には甲子園全体から異例の拍手がわき起こった。阪神在籍最終年の2022年以来、4年ぶりに甲子園のマウンドに立った。初回はゆっくりと歩いてマウンドへ。投球練習をするだけでどよめきが起き、スタンドでは阪神時代の藤浪のタオルを持つファンもいた。",
+      "en": "DeNA pitcher Fujinami Shintaro was pulled from the game against the Hanshin Tigers after 4 and 2/3 innings, allowing 5 hits, 1 run, 4 walks and 1 hit-by-pitch. Although he left with the game tied and didn't earn the right for his first win of the season, an unusual round of applause erupted from the entire Koshien Stadium as he left the mound. It was his first time on the Koshien mound in 4 years since 2022, his final year with the Tigers. In the first inning, he walked slowly to the mound. Just his warm-up pitches caused a stir, and fans in the stands held Fujinami towels from his Hanshin days.",
+      "literal": "DeNAの（DeNA's）藤浪晋太郎投手が（pitcher Fujinami Shintaro）阪神戦で（in Hanshin game）4回2/3を（4 and 2/3 innings）5安打1失点（5 hits 1 run）4四球1死球（4 walks 1 hit-by-pitch）で（with that）降板した（left the mound）。同点のまま（with tied score）降板し（pulled）今季初勝利の（this season's first win）権利は（right to）得られなかった（could not obtain）が（but）マウンドを（from mound）降りる際には（when leaving）甲子園全体から（from entire Koshien）異例の（unusual）拍手が（applause）わき起こった（erupted）。",
+      "grammar": [
+        {
+          "point": "〜際に（在〜的时候）: 表示时间点。较正式的表达。",
+          "example": "マウンドを降りる際に拍手が起きた。／离开投手丘时响起了掌声。"
+        },
+        {
+          "point": "〜ぶりに（时隔〜后）: 表示经过一段时间后再次做某事。",
+          "example": "4年ぶりに甲子園のマウンドに立った。／时隔4年站上甲子园投手丘。"
+        },
+        {
+          "point": "〜だけで（仅〜就）: 表示只要这样就能引起某结果。",
+          "example": "投球練習をするだけでどよめきが起きた。／光是投球练习就引起了骚动。"
+        }
+      ],
+      "vocab": [
+        {
+          "kanji": "降板",
+          "furigana": "こうばん",
+          "cn": "退板、被换下投手丘"
+        },
+        {
+          "kanji": "四球",
+          "furigana": "しきゅう",
+          "cn": "四坏球、保送"
+        },
+        {
+          "kanji": "死球",
+          "furigana": "しきゅう",
+          "cn": "触身球"
+        },
+        {
+          "kanji": "異例",
+          "furigana": "いれい",
+          "cn": "破例、异常"
+        },
+        {
+          "kanji": "どよめき",
+          "furigana": "どよめき",
+          "cn": "喧嚣、哗然"
+        }
+      ],
+      "words": [
+        {
+          "s": "DeNA",
+          "r": "ディーエヌエー",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "藤浪",
+          "r": "フジナミ",
+          "p": "noun"
+        },
+        {
+          "s": "晋太郎",
+          "r": "シンタロウ",
+          "p": "noun"
+        },
+        {
+          "s": "投手",
+          "r": "トウシュ",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "阪神戦",
+          "r": "ハンシンセン",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "4",
+          "r": "ヨン",
+          "p": "noun"
+        },
+        {
+          "s": "回",
+          "r": "カイ",
+          "p": "noun"
+        },
+        {
+          "s": "2",
+          "r": "ニ",
+          "p": "noun"
+        },
+        {
+          "s": "/",
+          "r": "キゴウ",
+          "p": "grammar"
+        },
+        {
+          "s": "3",
+          "r": "サン",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "5",
+          "r": "ゴ",
+          "p": "noun"
+        },
+        {
+          "s": "安打",
+          "r": "アンダ",
+          "p": "noun"
+        },
+        {
+          "s": "1",
+          "r": "イチ",
+          "p": "noun"
+        },
+        {
+          "s": "失点",
+          "r": "シッテン",
+          "p": "noun"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "4",
+          "r": "ヨン",
+          "p": "noun"
+        },
+        {
+          "s": "四球",
+          "r": "シキュウ",
+          "p": "noun"
+        },
+        {
+          "s": "1",
+          "r": "イチ",
+          "p": "noun"
+        },
+        {
+          "s": "死球",
+          "r": "シキュウ",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "降板",
+          "r": "コウバン",
+          "p": "noun"
+        },
+        {
+          "s": "する",
+          "r": "シ",
+          "p": "verb"
+        },
+        {
+          "s": "た",
+          "r": "タ",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "同点",
+          "r": "ドウテン",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "まま",
+          "r": "ママ",
+          "p": "noun"
+        },
+        {
+          "s": "降板",
+          "r": "コウバン",
+          "p": "noun"
+        },
+        {
+          "s": "する",
+          "r": "シ",
+          "p": "verb"
+        },
+        {
+          "s": "今季",
+          "r": "コンキ",
+          "p": "noun"
+        },
+        {
+          "s": "初勝利",
+          "r": "ハツショウリ",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "権利",
+          "r": "ケンリ",
+          "p": "noun"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "得る",
+          "r": "エ",
+          "p": "verb"
+        },
+        {
+          "s": "られる",
+          "r": "ラレ",
+          "p": "grammar"
+        },
+        {
+          "s": "ない",
+          "r": "ナカッ",
+          "p": "grammar"
+        },
+        {
+          "s": "た",
+          "r": "タ",
+          "p": "grammar"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "マウンド",
+          "r": "マウンド",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "降りる",
+          "r": "オリル",
+          "p": "verb"
+        },
+        {
+          "s": "際",
+          "r": "サイ",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "甲子園",
+          "r": "コウシエン",
+          "p": "noun"
+        },
+        {
+          "s": "全体",
+          "r": "ゼンタイ",
+          "p": "noun"
+        },
+        {
+          "s": "から",
+          "r": "カラ",
+          "p": "particle"
+        },
+        {
+          "s": "異例",
+          "r": "イレイ",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "拍手",
+          "r": "ハクシュ",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "わき起こる",
+          "r": "ワキオコッ",
+          "p": "verb"
+        },
+        {
+          "s": "た",
+          "r": "タ",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "阪神",
+          "r": "ハンシン",
+          "p": "noun"
+        },
+        {
+          "s": "在籍",
+          "r": "ザイセキ",
+          "p": "noun"
+        },
+        {
+          "s": "最終",
+          "r": "サイシュウ",
+          "p": "noun"
+        },
+        {
+          "s": "年",
+          "r": "ネン",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "2022",
+          "r": "ニレイニニ",
+          "p": "noun"
+        },
+        {
+          "s": "年",
+          "r": "ネン",
+          "p": "noun"
+        },
+        {
+          "s": "以来",
+          "r": "イライ",
+          "p": "noun"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "4",
+          "r": "ヨン",
+          "p": "noun"
+        },
+        {
+          "s": "年",
+          "r": "ネン",
+          "p": "noun"
+        },
+        {
+          "s": "ぶり",
+          "r": "ブリ",
+          "p": "grammar"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "甲子園",
+          "r": "コウシエン",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "マウンド",
+          "r": "マウンド",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "立つ",
+          "r": "タッ",
+          "p": "verb"
+        },
+        {
+          "s": "た",
+          "r": "タ",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "初回",
+          "r": "ショカイ",
+          "p": "noun"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "ゆっくり",
+          "r": "ユックリ",
+          "p": "adverb"
+        },
+        {
+          "s": "と",
+          "r": "ト",
+          "p": "particle"
+        },
+        {
+          "s": "歩く",
+          "r": "アルイ",
+          "p": "verb"
+        },
+        {
+          "s": "て",
+          "r": "テ",
+          "p": "particle"
+        },
+        {
+          "s": "マウンド",
+          "r": "マウンド",
+          "p": "noun"
+        },
+        {
+          "s": "へ",
+          "r": "ヘ",
+          "p": "particle"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "投球",
+          "r": "トウキュウ",
+          "p": "noun"
+        },
+        {
+          "s": "練習",
+          "r": "レンシュウ",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "する",
+          "r": "スル",
+          "p": "verb"
+        },
+        {
+          "s": "だけ",
+          "r": "ダケ",
+          "p": "particle"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "どよめき",
+          "r": "ドヨメキ",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "起きる",
+          "r": "オキ",
+          "p": "verb"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "スタンド",
+          "r": "スタンド",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "阪神",
+          "r": "ハンシン",
+          "p": "noun"
+        },
+        {
+          "s": "時代",
+          "r": "ジダイ",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "藤浪",
+          "r": "フジナミ",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "タオル",
+          "r": "タオル",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "持つ",
+          "r": "モツ",
+          "p": "verb"
+        },
+        {
+          "s": "ファン",
+          "r": "ファン",
+          "p": "noun"
+        },
+        {
+          "s": "も",
+          "r": "モ",
+          "p": "particle"
+        },
+        {
+          "s": "いる",
+          "r": "イ",
+          "p": "verb"
+        },
+        {
+          "s": "た",
+          "r": "タ",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        }
+      ]
+    },
+    {
+      "ja": "藤浪は2012年ドラフト1位で大阪桐蔭から阪神に入団。2022年オフにポスティングシステムでアスレチックスに移籍し、2025年途中にDeNAへ移籍してNPBに復帰した。今季は開幕ローテ入りを逃して2軍スタート。4月中旬に右手中指を痛めて1カ月ほど離脱したが、結果を残して7月11日に今季初の1軍昇格を果たした。この日は2度目の登板で、4年ぶりの甲子園登板となった。",
+      "en": "Fujinami was drafted first overall in 2012 from Osaka Toin High School and joined the Hanshin Tigers. In the 2022 offseason, he transferred to the Athletics via the posting system, and mid-2025 returned to NPB by moving to DeNA. This season, he missed the opening rotation and started in the minors. He injured his right middle finger in mid-April and was out for about a month, but produced results and was promoted to the major league for the first time this season on July 11. This game was his second appearance and his first at Koshien in 4 years.",
+      "literal": "藤浪は（Fujinami）2012年ドラフト1位で（as 1st pick in 2012 draft）大阪桐蔭から（from Osaka Toin）阪神に（to Hanshin）入団（joined）。2022年オフに（in 2022 offseason）ポスティングシステムで（via posting system）アスレチックスに（to Athletics）移籍し（transferred）2025年途中に（mid-2025）DeNAへ（to DeNA）移籍して（transferred）NPBに（to NPB）復帰した（returned）。今季は（this season）開幕ローテ入りを（opening rotation）逃して（missed）2軍スタート（started in farm team）。4月中旬に（mid-April）右手中指を（right middle finger）痛めて（injured）1カ月ほど（about 1 month）離脱した（was out）が（but）結果を（results）残して（produced）7月11日に（on July 11）今季初の（this season's first）1軍昇格を（promotion to top team）果たした（achieved）。",
+      "grammar": [
+        {
+          "point": "〜を果たす（实现〜）: 表示达成某个目标或使命。",
+          "example": "1軍昇格を果たした。／实现了一线队升格。"
+        },
+        {
+          "point": "〜を逃す（错过〜）: 表示错过机会。",
+          "example": "開幕ローテ入りを逃した。／错过了开幕轮值。"
+        },
+        {
+          "point": "〜て（表原因/并列）: 动词て形的多种用法。",
+          "example": "結果を残して昇格した。／留下成绩后升格了。"
+        }
+      ],
+      "vocab": [
+        {
+          "kanji": "入団",
+          "furigana": "にゅうだん",
+          "cn": "入团、加入球队"
+        },
+        {
+          "kanji": "ポスティングシステム",
+          "furigana": "ポスティングシステム",
+          "cn": "转会投标制度"
+        },
+        {
+          "kanji": "移籍",
+          "furigana": "いせき",
+          "cn": "转会、转移所属"
+        },
+        {
+          "kanji": "開幕ローテ",
+          "furigana": "かいまくローテ",
+          "cn": "开幕轮值投手"
+        },
+        {
+          "kanji": "昇格",
+          "furigana": "しょうかく",
+          "cn": "升格、升级"
+        }
+      ],
+      "words": [
+        {
+          "s": "藤浪",
+          "r": "フジナミ",
+          "p": "noun"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "2012",
+          "r": "ニレイイチニ",
+          "p": "noun"
+        },
+        {
+          "s": "年",
+          "r": "ネン",
+          "p": "noun"
+        },
+        {
+          "s": "ドラフト",
+          "r": "ドラフト",
+          "p": "noun"
+        },
+        {
+          "s": "1",
+          "r": "イチ",
+          "p": "noun"
+        },
+        {
+          "s": "位",
+          "r": "イ",
+          "p": "grammar"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "大阪",
+          "r": "オオサカ",
+          "p": "noun"
+        },
+        {
+          "s": "桐蔭",
+          "r": "トウイン",
+          "p": "noun"
+        },
+        {
+          "s": "から",
+          "r": "カラ",
+          "p": "particle"
+        },
+        {
+          "s": "阪神",
+          "r": "ハンシン",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "入団",
+          "r": "ニュウダン",
+          "p": "noun"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "2022",
+          "r": "ニレイニニ",
+          "p": "noun"
+        },
+        {
+          "s": "年",
+          "r": "ネン",
+          "p": "noun"
+        },
+        {
+          "s": "オフ",
+          "r": "オフ",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "ポスティング",
+          "r": "ポスティング",
+          "p": "noun"
+        },
+        {
+          "s": "システム",
+          "r": "システム",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "アスレチックス",
+          "r": "アスレチックス",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "移籍",
+          "r": "イセキ",
+          "p": "noun"
+        },
+        {
+          "s": "する",
+          "r": "シ",
+          "p": "verb"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "2025",
+          "r": "ニレイニゴ",
+          "p": "noun"
+        },
+        {
+          "s": "年",
+          "r": "ネン",
+          "p": "noun"
+        },
+        {
+          "s": "途中",
+          "r": "トチュウ",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "DeNA",
+          "r": "ディーエヌエー",
+          "p": "noun"
+        },
+        {
+          "s": "へ",
+          "r": "ヘ",
+          "p": "particle"
+        },
+        {
+          "s": "移籍",
+          "r": "イセキ",
+          "p": "noun"
+        },
+        {
+          "s": "する",
+          "r": "シ",
+          "p": "verb"
+        },
+        {
+          "s": "て",
+          "r": "テ",
+          "p": "particle"
+        },
+        {
+          "s": "NPB",
+          "r": "エヌピービー",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "復帰",
+          "r": "フッキ",
+          "p": "noun"
+        },
+        {
+          "s": "する",
+          "r": "シ",
+          "p": "verb"
+        },
+        {
+          "s": "た",
+          "r": "タ",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "今季",
+          "r": "コンキ",
+          "p": "noun"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "開幕",
+          "r": "カイマク",
+          "p": "noun"
+        },
+        {
+          "s": "ローテ",
+          "r": "ローテ",
+          "p": "noun"
+        },
+        {
+          "s": "入り",
+          "r": "イリ",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "逃す",
+          "r": "ノガシ",
+          "p": "verb"
+        },
+        {
+          "s": "て",
+          "r": "テ",
+          "p": "particle"
+        },
+        {
+          "s": "2",
+          "r": "ニ",
+          "p": "noun"
+        },
+        {
+          "s": "軍",
+          "r": "グン",
+          "p": "noun"
+        },
+        {
+          "s": "スタート",
+          "r": "スタート",
+          "p": "noun"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "4",
+          "r": "ヨン",
+          "p": "noun"
+        },
+        {
+          "s": "月",
+          "r": "ガツ",
+          "p": "noun"
+        },
+        {
+          "s": "中旬",
+          "r": "チュウジュン",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "右手",
+          "r": "ミギテ",
+          "p": "noun"
+        },
+        {
+          "s": "中指",
+          "r": "ナカユビ",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "痛める",
+          "r": "イタメ",
+          "p": "verb"
+        },
+        {
+          "s": "て",
+          "r": "テ",
+          "p": "particle"
+        },
+        {
+          "s": "1",
+          "r": "イチ",
+          "p": "noun"
+        },
+        {
+          "s": "カ月",
+          "r": "カゲツ",
+          "p": "noun"
+        },
+        {
+          "s": "ほど",
+          "r": "ホド",
+          "p": "particle"
+        },
+        {
+          "s": "離脱",
+          "r": "リダツ",
+          "p": "noun"
+        },
+        {
+          "s": "する",
+          "r": "シ",
+          "p": "verb"
+        },
+        {
+          "s": "た",
+          "r": "タ",
+          "p": "grammar"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "結果",
+          "r": "ケッカ",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "残す",
+          "r": "ノコシ",
+          "p": "verb"
+        },
+        {
+          "s": "て",
+          "r": "テ",
+          "p": "particle"
+        },
+        {
+          "s": "7",
+          "r": "ナナ",
+          "p": "noun"
+        },
+        {
+          "s": "月",
+          "r": "ガツ",
+          "p": "noun"
+        },
+        {
+          "s": "11",
+          "r": "イチイチ",
+          "p": "noun"
+        },
+        {
+          "s": "日",
+          "r": "ニチ",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "今季初",
+          "r": "コンキハツ",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "1",
+          "r": "イチ",
+          "p": "noun"
+        },
+        {
+          "s": "軍",
+          "r": "グン",
+          "p": "noun"
+        },
+        {
+          "s": "昇格",
+          "r": "ショウカク",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "果たす",
+          "r": "ハタシ",
+          "p": "verb"
+        },
+        {
+          "s": "た",
+          "r": "タ",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "この",
+          "r": "コノ",
+          "p": "adj"
+        },
+        {
+          "s": "日",
+          "r": "ヒ",
+          "p": "noun"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "2",
+          "r": "ニ",
+          "p": "noun"
+        },
+        {
+          "s": "度目",
+          "r": "ドメ",
+          "p": "grammar"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "登板",
+          "r": "トウバン",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "4",
+          "r": "ヨン",
+          "p": "noun"
+        },
+        {
+          "s": "年",
+          "r": "ネン",
+          "p": "noun"
+        },
+        {
+          "s": "ぶり",
+          "r": "ブリ",
+          "p": "grammar"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "甲子園",
+          "r": "コウシエン",
+          "p": "noun"
+        },
+        {
+          "s": "登板",
+          "r": "トウバン",
+          "p": "noun"
+        },
+        {
+          "s": "と",
+          "r": "ト",
+          "p": "particle"
+        },
+        {
+          "s": "なる",
+          "r": "ナッ",
+          "p": "verb"
+        },
+        {
+          "s": "た",
+          "r": "タ",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        }
+      ]
+    }
+  ]
+}

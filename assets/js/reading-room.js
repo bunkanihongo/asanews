@@ -73,6 +73,46 @@
         const READING_LIST = [
 
     {
+      id: 'yanagita-kyuuen-senshutsu',
+      title: '柳田が球宴に 家族旅行キャンセルし9回目の出場へ',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/yanagita-kyuuen-senshutsu.json'
+    },
+    {
+      id: 'hammono-otoko-keisatsu-kan-happou',
+      title: 'コンビニに刃物男 警察官の発砲受け21歳男を逮捕 熊本',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/hammono-otoko-keisatsu-kan-happou.json'
+    },
+    {
+      id: 'fujinami-kouta-kouhan',
+      title: '降板のDeNA・藤浪晋太郎に甲子園全体から異例の拍手 4年ぶりの聖地登板',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/fujinami-kouta-kouhan.json'
+    },
+    {
+      id: 'yamada-goroo-shi-kyokyo',
+      title: '「アド街」が山田五郎さんを追悼 最期の収録は亡くなる6日前',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/yamada-goroo-shi-kyokyo.json'
+    },
+    {
+      id: 'sns-de-chuuko-manshon-kounyu-zou',
+      title: '人生最大の買い物なのに…なぜSNSで中古マンションを買う人が増えているのか',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/sns-de-chuuko-manshon-kounyu-zou.json'
+    },
+    {
       id: '23nichi-mo-saigaikyuu-no-atsusa',
       title: '23日も災害級の暑さ 山梨・東海・近畿で40℃以上酷暑日か',
       kicker: '中級',

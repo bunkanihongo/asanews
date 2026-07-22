@@ -1,0 +1,2474 @@
+{
+  "slug": "sns-de-chuuko-manshon-kounyu-zou",
+  "title": "人生最大の買い物なのに……なぜSNSで中古マンションを買う人が増えているのか",
+  "source": "ITmedia ビジネスオンライン",
+  "url": "https://news.yahoo.co.jp/articles/6812a3f2315e56e48de693438851612662b19cd3",
+  "date": "2026-07-23",
+  "topic": "ビジネス・社会",
+  "paragraphs": [
+    {
+      "ja": "SNS経由で家を買う人が増えている。服やコスメをSNSを通して購入する。当たり前になった消費行動の波が今、人生最大の買い物である「家」にも及んでいる。SNSで見つけた物件をLINEで内見予約し、数千万円のマンションを購入する。ポータルサイトで探し、店舗を訪ねるのではなく、なぜSNS経由で家を買う人が増えているのか。路面店を持たないファンズ不動産は、設立から2年8カ月で取扱件数が累計500件を超えた。同社は12人のインフルエンサーと提携し、キュレーターがInstagramなどで物件を紹介している。内覧会に集まる30～50人のうち、実際に購入に至るのは1人程度だが、残る人はLINEに登録し、その数は2万人に達している。",
+      "en": "More people are buying homes via SNS. Buying clothes and cosmetics through SNS has become normal, and now this wave of consumer behavior is reaching the biggest purchase of one's life: a home. People find properties on SNS, book viewing appointments via LINE, and buy condos worth tens of millions of yen. Instead of searching on portal sites and visiting stores, why are more people buying homes via SNS? Fans Real Estate, which has no street-front stores, exceeded 500 cumulative transactions just 2 years and 8 months after founding. They partner with 12 influencers who introduce properties on Instagram and other platforms. Of the 30-50 people who gather at viewing events, only about 1 actually purchases, but the rest register on LINE, reaching 20,000 people.",
+      "literal": "SNS経由で（via SNS）家を（homes）買う人が（people who buy）増えている（are increasing）。服や（clothes and）コスメを（cosmetics）SNSを通して（through SNS）購入する（purchase）。当たり前に（commonplace）なった（became）消費行動の（consumption behavior）波が（wave）今（now）人生最大の（life's biggest）買い物である（which is purchase）「家」に（to 'home'）も（also）及んでいる（is reaching）。SNSで（on SNS）見つけた（found）物件を（property）LINEで（via LINE）内見予約し（book viewing）数千万円の（tens of millions yen）マンションを（condo）購入する（purchase）。",
+      "grammar": [
+        {
+          "point": "〜経由（经由〜）: 表示通过某个媒介或途径。",
+          "example": "SNS経由で家を買う。／通过SNS买房。"
+        },
+        {
+          "point": "〜を通して（通过〜）: 表示通过某个手段或媒介。",
+          "example": "SNSを通して購入する。／通过SNS购买。"
+        },
+        {
+          "point": "〜に至る（达到〜、导致〜）: 表示到达某个结果或状态。",
+          "example": "購入に至るのは1人程度。／达到购买的只有1人左右。"
+        }
+      ],
+      "vocab": [
+        {
+          "kanji": "経由",
+          "furigana": "けいゆ",
+          "cn": "经由、通过"
+        },
+        {
+          "kanji": "内見予約",
+          "furigana": "ないけんよやく",
+          "cn": "预约看房"
+        },
+        {
+          "kanji": "物件",
+          "furigana": "ぶっけん",
+          "cn": "房产、房源"
+        },
+        {
+          "kanji": "路面店",
+          "furigana": "ろめんてん",
+          "cn": "临街店铺"
+        },
+        {
+          "kanji": "内覧会",
+          "furigana": "ないらんかい",
+          "cn": "内部参观会、预看会"
+        }
+      ],
+      "words": [
+        {
+          "s": "SNS",
+          "r": "エスエヌエス",
+          "p": "noun"
+        },
+        {
+          "s": "経由",
+          "r": "ケイユ",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "家",
+          "r": "イエ",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "買う",
+          "r": "カウ",
+          "p": "verb"
+        },
+        {
+          "s": "人",
+          "r": "ヒト",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "増える",
+          "r": "フエ",
+          "p": "verb"
+        },
+        {
+          "s": "て",
+          "r": "テ",
+          "p": "particle"
+        },
+        {
+          "s": "いる",
+          "r": "イル",
+          "p": "verb"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "服",
+          "r": "フク",
+          "p": "noun"
+        },
+        {
+          "s": "や",
+          "r": "ヤ",
+          "p": "particle"
+        },
+        {
+          "s": "コスメ",
+          "r": "コスメ",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "SNS",
+          "r": "エスエヌエス",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "通す",
+          "r": "トオシ",
+          "p": "verb"
+        },
+        {
+          "s": "て",
+          "r": "テ",
+          "p": "particle"
+        },
+        {
+          "s": "購入",
+          "r": "コウニュウ",
+          "p": "noun"
+        },
+        {
+          "s": "する",
+          "r": "スル",
+          "p": "verb"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "当たり前",
+          "r": "アタリマエ",
+          "p": "grammar"
+        },
+        {
+          "s": "だ",
+          "r": "ニ",
+          "p": "grammar"
+        },
+        {
+          "s": "なる",
+          "r": "ナッ",
+          "p": "verb"
+        },
+        {
+          "s": "た",
+          "r": "タ",
+          "p": "grammar"
+        },
+        {
+          "s": "消費",
+          "r": "ショウヒ",
+          "p": "noun"
+        },
+        {
+          "s": "行動",
+          "r": "コウドウ",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "波",
+          "r": "ナミ",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "今",
+          "r": "イマ",
+          "p": "noun"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "人生",
+          "r": "ジンセイ",
+          "p": "noun"
+        },
+        {
+          "s": "最大",
+          "r": "サイダイ",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "買い物",
+          "r": "カイモノ",
+          "p": "noun"
+        },
+        {
+          "s": "だ",
+          "r": "デ",
+          "p": "grammar"
+        },
+        {
+          "s": "ある",
+          "r": "アル",
+          "p": "verb"
+        },
+        {
+          "s": "「",
+          "r": "「",
+          "p": "grammar"
+        },
+        {
+          "s": "家",
+          "r": "イエ",
+          "p": "noun"
+        },
+        {
+          "s": "」",
+          "r": "」",
+          "p": "grammar"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "も",
+          "r": "モ",
+          "p": "particle"
+        },
+        {
+          "s": "及ぶ",
+          "r": "オヨン",
+          "p": "verb"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "いる",
+          "r": "イル",
+          "p": "verb"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "SNS",
+          "r": "エスエヌエス",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "見つける",
+          "r": "ミツケ",
+          "p": "verb"
+        },
+        {
+          "s": "た",
+          "r": "タ",
+          "p": "grammar"
+        },
+        {
+          "s": "物件",
+          "r": "ブッケン",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "LINE",
+          "r": "ライン",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "内見",
+          "r": "ナイケン",
+          "p": "noun"
+        },
+        {
+          "s": "予約",
+          "r": "ヨヤク",
+          "p": "noun"
+        },
+        {
+          "s": "する",
+          "r": "シ",
+          "p": "verb"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "数千",
+          "r": "スウセン",
+          "p": "noun"
+        },
+        {
+          "s": "万",
+          "r": "マン",
+          "p": "noun"
+        },
+        {
+          "s": "円",
+          "r": "エン",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "マンション",
+          "r": "マンション",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "購入",
+          "r": "コウニュウ",
+          "p": "noun"
+        },
+        {
+          "s": "する",
+          "r": "スル",
+          "p": "verb"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "ポータルサイト",
+          "r": "ポータルサイト",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "探す",
+          "r": "サガシ",
+          "p": "verb"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "店舗",
+          "r": "テンポ",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "訪ねる",
+          "r": "タズネル",
+          "p": "verb"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "だ",
+          "r": "デ",
+          "p": "grammar"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "ない",
+          "r": "ナク",
+          "p": "adj"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "なぜ",
+          "r": "ナゼ",
+          "p": "adverb"
+        },
+        {
+          "s": "SNS",
+          "r": "エスエヌエス",
+          "p": "noun"
+        },
+        {
+          "s": "経由",
+          "r": "ケイユ",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "家",
+          "r": "イエ",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "買う",
+          "r": "カウ",
+          "p": "verb"
+        },
+        {
+          "s": "人",
+          "r": "ヒト",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "増える",
+          "r": "フエ",
+          "p": "verb"
+        },
+        {
+          "s": "て",
+          "r": "テ",
+          "p": "particle"
+        },
+        {
+          "s": "いる",
+          "r": "イル",
+          "p": "verb"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "か",
+          "r": "カ",
+          "p": "particle"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "路面店",
+          "r": "ロメンテン",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "持つ",
+          "r": "モタ",
+          "p": "verb"
+        },
+        {
+          "s": "ない",
+          "r": "ナイ",
+          "p": "grammar"
+        },
+        {
+          "s": "ファンズ",
+          "r": "ファンズ",
+          "p": "noun"
+        },
+        {
+          "s": "不動産",
+          "r": "フドウサン",
+          "p": "noun"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "設立",
+          "r": "セツリツ",
+          "p": "noun"
+        },
+        {
+          "s": "から",
+          "r": "カラ",
+          "p": "particle"
+        },
+        {
+          "s": "2",
+          "r": "ニ",
+          "p": "noun"
+        },
+        {
+          "s": "年",
+          "r": "ネン",
+          "p": "noun"
+        },
+        {
+          "s": "8",
+          "r": "ハチ",
+          "p": "noun"
+        },
+        {
+          "s": "カ月",
+          "r": "カゲツ",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "取扱",
+          "r": "トリアツカイ",
+          "p": "noun"
+        },
+        {
+          "s": "件数",
+          "r": "ケンスウ",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "累計",
+          "r": "ルイケイ",
+          "p": "noun"
+        },
+        {
+          "s": "500",
+          "r": "ゴレイレイ",
+          "p": "noun"
+        },
+        {
+          "s": "件",
+          "r": "ケン",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "超える",
+          "r": "コエ",
+          "p": "verb"
+        },
+        {
+          "s": "た",
+          "r": "タ",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "同社",
+          "r": "ドウシャ",
+          "p": "noun"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "12",
+          "r": "イチニ",
+          "p": "noun"
+        },
+        {
+          "s": "人",
+          "r": "ニン",
+          "p": "grammar"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "インフルエンサー",
+          "r": "インフルエンサー",
+          "p": "noun"
+        },
+        {
+          "s": "と",
+          "r": "ト",
+          "p": "particle"
+        },
+        {
+          "s": "提携",
+          "r": "テイケイ",
+          "p": "noun"
+        },
+        {
+          "s": "する",
+          "r": "シ",
+          "p": "verb"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "キュレーター",
+          "r": "キュレーター",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "Instagram",
+          "r": "インスタグラム",
+          "p": "noun"
+        },
+        {
+          "s": "など",
+          "r": "ナド",
+          "p": "particle"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "物件",
+          "r": "ブッケン",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "紹介",
+          "r": "ショウカイ",
+          "p": "noun"
+        },
+        {
+          "s": "する",
+          "r": "シ",
+          "p": "verb"
+        },
+        {
+          "s": "て",
+          "r": "テ",
+          "p": "particle"
+        },
+        {
+          "s": "いる",
+          "r": "イル",
+          "p": "verb"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "内覧会",
+          "r": "ナイランカイ",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "集まる",
+          "r": "アツマル",
+          "p": "verb"
+        },
+        {
+          "s": "30",
+          "r": "サンレイ",
+          "p": "noun"
+        },
+        {
+          "s": "~",
+          "r": "~",
+          "p": "grammar"
+        },
+        {
+          "s": "50",
+          "r": "ゴレイ",
+          "p": "noun"
+        },
+        {
+          "s": "人",
+          "r": "ニン",
+          "p": "grammar"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "うち",
+          "r": "ウチ",
+          "p": "noun"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "実際",
+          "r": "ジッサイ",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "購入",
+          "r": "コウニュウ",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "至る",
+          "r": "イタル",
+          "p": "verb"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "1人",
+          "r": "ヒトリ",
+          "p": "noun"
+        },
+        {
+          "s": "程度",
+          "r": "テイド",
+          "p": "noun"
+        },
+        {
+          "s": "だ",
+          "r": "ダ",
+          "p": "grammar"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "残る",
+          "r": "ノコル",
+          "p": "verb"
+        },
+        {
+          "s": "人",
+          "r": "ヒト",
+          "p": "noun"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "LINE",
+          "r": "ライン",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "登録",
+          "r": "トウロク",
+          "p": "noun"
+        },
+        {
+          "s": "する",
+          "r": "シ",
+          "p": "verb"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "その",
+          "r": "ソノ",
+          "p": "adj"
+        },
+        {
+          "s": "数",
+          "r": "スウ",
+          "p": "noun"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "2万",
+          "r": "ニマン",
+          "p": "noun"
+        },
+        {
+          "s": "人",
+          "r": "ニン",
+          "p": "grammar"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "達する",
+          "r": "タッシ",
+          "p": "verb"
+        },
+        {
+          "s": "て",
+          "r": "テ",
+          "p": "particle"
+        },
+        {
+          "s": "いる",
+          "r": "イル",
+          "p": "verb"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        }
+      ]
+    },
+    {
+      "ja": "事業の原点は、親会社の金融サービスにある。個人が上場企業などに融資するサービスで、SNSを活用して累計約1500億円を集めた。代表の藤田雄一郎氏は「金融商品が売れるなら、他の商材もSNSで売れると考えた」と語る。あるインスタグラマーとの会話もきっかけとなった。不動産好きの彼のもとには、フォロワーから毎月数十件の相談があり、試しにSNSで物件を紹介したところ、内見の申し込みが相次いだ。ファンズ不動産は2023年に子会社として事業を立ち上げた。ポータルサイトや店舗で顧客を待つ従来のスタイルでは、自ら探し始めた顕在層しか取り込めないが、SNSを使えば潜在層にも日常的にアプローチできる。",
+      "en": "The origin of the business lies in the parent company's financial service. Through a service where individuals lend to listed companies, they raised about 150 billion yen using SNS. President Fujita says, 'We thought if financial products sell, other products can also sell through SNS.' A conversation with an Instagrammer also became a catalyst. Under this real estate enthusiast, followers send dozens of consultations monthly, and when they tried introducing properties on SNS, viewing requests came one after another. Fans Real Estate launched the business as a subsidiary in 2023. With the conventional style of waiting for customers at portal sites or stores, only the 'active demand' layer who already started searching could be captured, but with SNS, they can reach the 'latent demand' layer daily.",
+      "literal": "事業の（business）原点は（origin is）親会社の（parent company's）金融サービスに（in financial service）ある（lies）。個人が（individuals）上場企業などに（to listed companies etc.）融資する（lend）サービスで（with a service）SNSを活用して（utilizing SNS）累計約1500億円を（cumulative about 150 billion yen）集めた（collected）。代表の（representative's）藤田雄一郎氏は（Mr. Fujita）「金融商品が（financial products）売れるなら（if they sell）他の（other）商材も（products also）SNSで（through SNS）売れる（can sell）と考えた（thought）」と語る（says）。ある（a certain）インスタグラマーとの（with an Instagrammer）会話も（conversation also）きっかけと（as trigger）なった（became）。",
+      "grammar": [
+        {
+          "point": "〜なら（如果〜的话）: 表示假定条件。",
+          "example": "金融商品が売れるなら、他の商材も売れる。／如果金融商品能卖，其他商品也能卖。"
+        },
+        {
+          "point": "〜たところ（〜之后发现）: 表示做完前项后发现后项结果。",
+          "example": "紹介したところ、申し込みが相次いだ。／介绍之后，申请接连不断。"
+        },
+        {
+          "point": "〜しか〜ない（只有〜）: 表示限定，除此之外没有。",
+          "example": "顕在層しか取り込めない。／只能获取显在客群。"
+        }
+      ],
+      "vocab": [
+        {
+          "kanji": "原点",
+          "furigana": "げんてん",
+          "cn": "原点、根本"
+        },
+        {
+          "kanji": "融資",
+          "furigana": "ゆうし",
+          "cn": "融资、贷款"
+        },
+        {
+          "kanji": "活用",
+          "furigana": "かつよう",
+          "cn": "活用、有效利用"
+        },
+        {
+          "kanji": "顕在層",
+          "furigana": "けんざいそう",
+          "cn": "显在客户层"
+        },
+        {
+          "kanji": "潜在層",
+          "furigana": "せんざいそう",
+          "cn": "潜在客户层"
+        }
+      ],
+      "words": [
+        {
+          "s": "事業",
+          "r": "ジギョウ",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "原点",
+          "r": "ゲンテン",
+          "p": "noun"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "親会社",
+          "r": "オヤガイシャ",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "金融",
+          "r": "キンユウ",
+          "p": "noun"
+        },
+        {
+          "s": "サービス",
+          "r": "サービス",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "ある",
+          "r": "アル",
+          "p": "verb"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "個人",
+          "r": "コジン",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "上場企業",
+          "r": "ジョウジョウキギョウ",
+          "p": "noun"
+        },
+        {
+          "s": "など",
+          "r": "ナド",
+          "p": "particle"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "融資",
+          "r": "ユウシ",
+          "p": "noun"
+        },
+        {
+          "s": "する",
+          "r": "スル",
+          "p": "verb"
+        },
+        {
+          "s": "サービス",
+          "r": "サービス",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "SNS",
+          "r": "エスエヌエス",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "活用",
+          "r": "カツヨウ",
+          "p": "noun"
+        },
+        {
+          "s": "する",
+          "r": "シ",
+          "p": "verb"
+        },
+        {
+          "s": "て",
+          "r": "テ",
+          "p": "particle"
+        },
+        {
+          "s": "累計",
+          "r": "ルイケイ",
+          "p": "noun"
+        },
+        {
+          "s": "約",
+          "r": "ヤク",
+          "p": "grammar"
+        },
+        {
+          "s": "1500億",
+          "r": "イチゴレイレイオク",
+          "p": "noun"
+        },
+        {
+          "s": "円",
+          "r": "エン",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "集める",
+          "r": "アツメ",
+          "p": "verb"
+        },
+        {
+          "s": "た",
+          "r": "タ",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "代表",
+          "r": "ダイヒョウ",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "藤田",
+          "r": "フジタ",
+          "p": "noun"
+        },
+        {
+          "s": "雄一郎",
+          "r": "ユウイチロウ",
+          "p": "noun"
+        },
+        {
+          "s": "氏",
+          "r": "シ",
+          "p": "grammar"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "「",
+          "r": "「",
+          "p": "grammar"
+        },
+        {
+          "s": "金融商品",
+          "r": "キンユウショウヒン",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "売れる",
+          "r": "ウレル",
+          "p": "verb"
+        },
+        {
+          "s": "だ",
+          "r": "ナラ",
+          "p": "grammar"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "他",
+          "r": "タ",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "商材",
+          "r": "ショウザイ",
+          "p": "noun"
+        },
+        {
+          "s": "も",
+          "r": "モ",
+          "p": "particle"
+        },
+        {
+          "s": "SNS",
+          "r": "エスエヌエス",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "売れる",
+          "r": "ウレル",
+          "p": "verb"
+        },
+        {
+          "s": "と",
+          "r": "ト",
+          "p": "particle"
+        },
+        {
+          "s": "考える",
+          "r": "カンガエ",
+          "p": "verb"
+        },
+        {
+          "s": "た",
+          "r": "タ",
+          "p": "grammar"
+        },
+        {
+          "s": "」",
+          "r": "」",
+          "p": "grammar"
+        },
+        {
+          "s": "と",
+          "r": "ト",
+          "p": "particle"
+        },
+        {
+          "s": "語る",
+          "r": "カタル",
+          "p": "verb"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "ある",
+          "r": "アル",
+          "p": "adj"
+        },
+        {
+          "s": "インスタ",
+          "r": "インスタ",
+          "p": "noun"
+        },
+        {
+          "s": "グラマー",
+          "r": "グラマー",
+          "p": "noun"
+        },
+        {
+          "s": "と",
+          "r": "ト",
+          "p": "particle"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "会話",
+          "r": "カイワ",
+          "p": "noun"
+        },
+        {
+          "s": "も",
+          "r": "モ",
+          "p": "particle"
+        },
+        {
+          "s": "きっかけ",
+          "r": "キッカケ",
+          "p": "noun"
+        },
+        {
+          "s": "と",
+          "r": "ト",
+          "p": "particle"
+        },
+        {
+          "s": "なる",
+          "r": "ナッ",
+          "p": "verb"
+        },
+        {
+          "s": "た",
+          "r": "タ",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "不動産",
+          "r": "フドウサン",
+          "p": "noun"
+        },
+        {
+          "s": "好き",
+          "r": "スキ",
+          "p": "grammar"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "彼",
+          "r": "カレ",
+          "p": "grammar"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "もと",
+          "r": "モト",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "フォロワー",
+          "r": "フォロワー",
+          "p": "noun"
+        },
+        {
+          "s": "から",
+          "r": "カラ",
+          "p": "particle"
+        },
+        {
+          "s": "毎月",
+          "r": "マイツキ",
+          "p": "noun"
+        },
+        {
+          "s": "数十",
+          "r": "スウジュウ",
+          "p": "noun"
+        },
+        {
+          "s": "件",
+          "r": "ケン",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "相談",
+          "r": "ソウダン",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "ある",
+          "r": "アリ",
+          "p": "verb"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "試し",
+          "r": "タメシ",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "SNS",
+          "r": "エスエヌエス",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "物件",
+          "r": "ブッケン",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "紹介",
+          "r": "ショウカイ",
+          "p": "noun"
+        },
+        {
+          "s": "する",
+          "r": "シ",
+          "p": "verb"
+        },
+        {
+          "s": "た",
+          "r": "タ",
+          "p": "grammar"
+        },
+        {
+          "s": "ところ",
+          "r": "トコロ",
+          "p": "noun"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "内見",
+          "r": "ナイケン",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "申し込み",
+          "r": "モウシコミ",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "相",
+          "r": "アイ",
+          "p": "grammar"
+        },
+        {
+          "s": "次ぐ",
+          "r": "ツイ",
+          "p": "verb"
+        },
+        {
+          "s": "だ",
+          "r": "ダ",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "ファンズ",
+          "r": "ファンズ",
+          "p": "noun"
+        },
+        {
+          "s": "不動産",
+          "r": "フドウサン",
+          "p": "noun"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "2023",
+          "r": "ニレイニサン",
+          "p": "noun"
+        },
+        {
+          "s": "年",
+          "r": "ネン",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "子会社",
+          "r": "コガイシャ",
+          "p": "noun"
+        },
+        {
+          "s": "と",
+          "r": "ト",
+          "p": "particle"
+        },
+        {
+          "s": "する",
+          "r": "シ",
+          "p": "verb"
+        },
+        {
+          "s": "て",
+          "r": "テ",
+          "p": "particle"
+        },
+        {
+          "s": "事業",
+          "r": "ジギョウ",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "立ち上げる",
+          "r": "タチアゲ",
+          "p": "verb"
+        },
+        {
+          "s": "た",
+          "r": "タ",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "ポータルサイト",
+          "r": "ポータルサイト",
+          "p": "noun"
+        },
+        {
+          "s": "や",
+          "r": "ヤ",
+          "p": "particle"
+        },
+        {
+          "s": "店舗",
+          "r": "テンポ",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "顧客",
+          "r": "コキャク",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "待つ",
+          "r": "マツ",
+          "p": "verb"
+        },
+        {
+          "s": "従来",
+          "r": "ジュウライ",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "スタイル",
+          "r": "スタイル",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "自ら",
+          "r": "ミズカラ",
+          "p": "noun"
+        },
+        {
+          "s": "探す",
+          "r": "サガシ",
+          "p": "verb"
+        },
+        {
+          "s": "始める",
+          "r": "ハジメ",
+          "p": "verb"
+        },
+        {
+          "s": "た",
+          "r": "タ",
+          "p": "grammar"
+        },
+        {
+          "s": "顕在",
+          "r": "ケンザイ",
+          "p": "noun"
+        },
+        {
+          "s": "層",
+          "r": "ソウ",
+          "p": "noun"
+        },
+        {
+          "s": "しか",
+          "r": "シカ",
+          "p": "particle"
+        },
+        {
+          "s": "取り込める",
+          "r": "トリコメ",
+          "p": "verb"
+        },
+        {
+          "s": "ない",
+          "r": "ナイ",
+          "p": "grammar"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "SNS",
+          "r": "エスエヌエス",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "使う",
+          "r": "ツカエ",
+          "p": "verb"
+        },
+        {
+          "s": "ば",
+          "r": "バ",
+          "p": "particle"
+        },
+        {
+          "s": "潜在",
+          "r": "センザイ",
+          "p": "noun"
+        },
+        {
+          "s": "層",
+          "r": "ソウ",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "も",
+          "r": "モ",
+          "p": "particle"
+        },
+        {
+          "s": "日常的",
+          "r": "ニチジョウテキ",
+          "p": "noun"
+        },
+        {
+          "s": "だ",
+          "r": "ニ",
+          "p": "grammar"
+        },
+        {
+          "s": "アプローチ",
+          "r": "アプローチ",
+          "p": "noun"
+        },
+        {
+          "s": "できる",
+          "r": "デキル",
+          "p": "verb"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        }
+      ]
+    },
+    {
+      "ja": "事業が伸びる背景には、都心マンションの価格高騰もある。新築価格の上昇で購入ハードルが上がり、中古マンションを選ぶ人が増えた。同社のサービス利用者は30代が55.7%を占め、20代と合わせて80%を超える。平均販売価格は約7300万円、平均築年数は28年で、代表は「終の住みかとして購入する人は少なく、家族構成の変化に合わせて売却・住み替える『半分は投資、半分は住まい』という発想で選ぶ人が目立つ」と語る。",
+      "en": "Behind the business growth is also the surge in central Tokyo condo prices. Rising new condo prices have raised the purchasing hurdle, and more people are choosing used condos. Among the company's users, those in their 30s account for 55.7%, and combined with those in their 20s, exceeds 80%. The average sale price is about 73 million yen and the average age of buildings is 28 years. The president says, 'Few people buy as their final home, and many choose with the mindset of 'half investment, half residence' - selling and relocating according to changes in family structure.'",
+      "literal": "事業が（business）伸びる（grow）背景には（in the background）都心マンションの（central Tokyo condos）価格高騰も（price surge also）ある（exists）。新築価格の（new building prices）上昇で（due to rise）購入ハードルが（purchase hurdle）上がり（rose）中古マンションを（used condos）選ぶ人が（people who choose）増えた（increased）。同社の（company's）サービス利用者は（service users）30代が（30s）55.7%を占め（account for 55.7%）20代と（with 20s）合わせて（combined）80%を超える（exceeds 80%）。平均販売価格は（average sale price）約7300万円（about 73M yen）平均築年数は（average building age）28年（28 years）。",
+      "grammar": [
+        {
+          "point": "〜を占める（占据〜）: 表示占有一定的比例或位置。",
+          "example": "30代が55.7%を占める。／30多岁的人占55.7%。"
+        },
+        {
+          "point": "〜に合わせて（配合〜、根据〜）: 表示适应、配合某事物。",
+          "example": "家族構成の変化に合わせて住み替える。／根据家庭结构的变化换房。"
+        },
+        {
+          "point": "〜として（作为〜）: 表示资格、立场。",
+          "example": "終の住みかとして購入する。／作为最终住所购买。"
+        }
+      ],
+      "vocab": [
+        {
+          "kanji": "価格高騰",
+          "furigana": "かかくこうとう",
+          "cn": "价格高涨"
+        },
+        {
+          "kanji": "新築",
+          "furigana": "しんちく",
+          "cn": "新建、新房"
+        },
+        {
+          "kanji": "中古",
+          "furigana": "ちゅうこ",
+          "cn": "二手、旧货"
+        },
+        {
+          "kanji": "築年数",
+          "furigana": "ちくねんすう",
+          "cn": "房龄"
+        },
+        {
+          "kanji": "終の住みか",
+          "furigana": "ついのすみか",
+          "cn": "终老之所、最后的家"
+        }
+      ],
+      "words": [
+        {
+          "s": "事業",
+          "r": "ジギョウ",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "伸びる",
+          "r": "ノビル",
+          "p": "verb"
+        },
+        {
+          "s": "背景",
+          "r": "ハイケイ",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "都心",
+          "r": "トシン",
+          "p": "noun"
+        },
+        {
+          "s": "マンション",
+          "r": "マンション",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "価格",
+          "r": "カカク",
+          "p": "noun"
+        },
+        {
+          "s": "高騰",
+          "r": "コウトウ",
+          "p": "noun"
+        },
+        {
+          "s": "も",
+          "r": "モ",
+          "p": "particle"
+        },
+        {
+          "s": "ある",
+          "r": "アル",
+          "p": "verb"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "新築",
+          "r": "シンチク",
+          "p": "noun"
+        },
+        {
+          "s": "価格",
+          "r": "カカク",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "上昇",
+          "r": "ジョウショウ",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "購入",
+          "r": "コウニュウ",
+          "p": "noun"
+        },
+        {
+          "s": "ハードル",
+          "r": "ハードル",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "上がる",
+          "r": "アガリ",
+          "p": "verb"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "中古",
+          "r": "チュウコ",
+          "p": "noun"
+        },
+        {
+          "s": "マンション",
+          "r": "マンション",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "選ぶ",
+          "r": "エラブ",
+          "p": "verb"
+        },
+        {
+          "s": "人",
+          "r": "ヒト",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "増える",
+          "r": "フエ",
+          "p": "verb"
+        },
+        {
+          "s": "た",
+          "r": "タ",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "同社",
+          "r": "ドウシャ",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "サービス",
+          "r": "サービス",
+          "p": "noun"
+        },
+        {
+          "s": "利用者",
+          "r": "リヨウシャ",
+          "p": "noun"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "30",
+          "r": "サンレイ",
+          "p": "noun"
+        },
+        {
+          "s": "代",
+          "r": "ダイ",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "55.7",
+          "r": "ゴゴ．ナナ",
+          "p": "noun"
+        },
+        {
+          "s": "%",
+          "r": "パーセント",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "占める",
+          "r": "シメ",
+          "p": "verb"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "20",
+          "r": "ニレイ",
+          "p": "noun"
+        },
+        {
+          "s": "代",
+          "r": "ダイ",
+          "p": "noun"
+        },
+        {
+          "s": "と",
+          "r": "ト",
+          "p": "particle"
+        },
+        {
+          "s": "合わせる",
+          "r": "アワセ",
+          "p": "verb"
+        },
+        {
+          "s": "て",
+          "r": "テ",
+          "p": "particle"
+        },
+        {
+          "s": "80",
+          "r": "ハチレイ",
+          "p": "noun"
+        },
+        {
+          "s": "%",
+          "r": "パーセント",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "超える",
+          "r": "コエル",
+          "p": "verb"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "平均",
+          "r": "ヘイキン",
+          "p": "noun"
+        },
+        {
+          "s": "販売価格",
+          "r": "ハンバイカカク",
+          "p": "noun"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "約",
+          "r": "ヤク",
+          "p": "grammar"
+        },
+        {
+          "s": "7300万",
+          "r": "ナナサンレイレイマン",
+          "p": "noun"
+        },
+        {
+          "s": "円",
+          "r": "エン",
+          "p": "noun"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "平均",
+          "r": "ヘイキン",
+          "p": "noun"
+        },
+        {
+          "s": "築",
+          "r": "チク",
+          "p": "noun"
+        },
+        {
+          "s": "年数",
+          "r": "ネンスウ",
+          "p": "noun"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "28",
+          "r": "ニハチ",
+          "p": "noun"
+        },
+        {
+          "s": "年",
+          "r": "ネン",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "代表",
+          "r": "ダイヒョウ",
+          "p": "noun"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "「",
+          "r": "「",
+          "p": "grammar"
+        },
+        {
+          "s": "終",
+          "r": "オワリ",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "住みか",
+          "r": "スミカ",
+          "p": "noun"
+        },
+        {
+          "s": "と",
+          "r": "ト",
+          "p": "particle"
+        },
+        {
+          "s": "する",
+          "r": "シ",
+          "p": "verb"
+        },
+        {
+          "s": "て",
+          "r": "テ",
+          "p": "particle"
+        },
+        {
+          "s": "購入",
+          "r": "コウニュウ",
+          "p": "noun"
+        },
+        {
+          "s": "する",
+          "r": "スル",
+          "p": "verb"
+        },
+        {
+          "s": "人",
+          "r": "ヒト",
+          "p": "noun"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "少ない",
+          "r": "スクナク",
+          "p": "adj"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "家族構成",
+          "r": "カゾクコウセイ",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "変化",
+          "r": "ヘンカ",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "合わせる",
+          "r": "アワセ",
+          "p": "verb"
+        },
+        {
+          "s": "て",
+          "r": "テ",
+          "p": "particle"
+        },
+        {
+          "s": "売却",
+          "r": "バイキャク",
+          "p": "noun"
+        },
+        {
+          "s": "・",
+          "r": "・",
+          "p": "grammar"
+        },
+        {
+          "s": "住み替える",
+          "r": "スミカエル",
+          "p": "verb"
+        },
+        {
+          "s": "『",
+          "r": "キゴウ",
+          "p": "grammar"
+        },
+        {
+          "s": "半分",
+          "r": "ハンブン",
+          "p": "noun"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "投資",
+          "r": "トウシ",
+          "p": "noun"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "半分",
+          "r": "ハンブン",
+          "p": "noun"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "住まう",
+          "r": "スマイ",
+          "p": "verb"
+        },
+        {
+          "s": "』",
+          "r": "キゴウ",
+          "p": "grammar"
+        },
+        {
+          "s": "と",
+          "r": "ト",
+          "p": "particle"
+        },
+        {
+          "s": "いう",
+          "r": "イウ",
+          "p": "verb"
+        },
+        {
+          "s": "発想",
+          "r": "ハッソウ",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "選ぶ",
+          "r": "エラブ",
+          "p": "verb"
+        },
+        {
+          "s": "人",
+          "r": "ヒト",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "目立つ",
+          "r": "メダツ",
+          "p": "verb"
+        },
+        {
+          "s": "」",
+          "r": "」",
+          "p": "grammar"
+        },
+        {
+          "s": "と",
+          "r": "ト",
+          "p": "particle"
+        },
+        {
+          "s": "語る",
+          "r": "カタル",
+          "p": "verb"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        }
+      ]
+    }
+  ]
+}
