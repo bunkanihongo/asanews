@@ -1,0 +1,1839 @@
+{
+  "slug": "23nichi-mo-saigaikyuu-no-atsusa",
+  "title": "23日も災害級の暑さ 山梨・東海・近畿で40℃以上酷暑日か 都心も今年一番の暑さ",
+  "source": "tenki.jp",
+  "url": "https://news.yahoo.co.jp/articles/bd84a6b4b3d33ff8ab630fe0791e2ac2788a9386",
+  "date": "2026-07-23",
+  "topic": "社会・天気",
+  "paragraphs": [
+    {
+      "ja": "暦通りに今日23日も災害級の暑さが続くでしょう。甲府や名古屋、岐阜、京都などで40℃以上の酷暑日となりそうです。東京都心や大阪市で今年一番の暑さとなるでしょう。熱中症警戒アラートが関東から沖縄にかけて広く発表されています。熱中症に警戒が必要です。",
+      "en": "As expected, today the 23rd, disaster-level heat continues. In Kofu, Nagoya, Gifu, Kyoto and other places, it's likely to be extreme heat days (酷暑日) over 40°C. Central Tokyo and Osaka City will have their hottest day of the year. Heatstroke warnings have been widely issued from Kanto to Okinawa. Vigilance against heatstroke is necessary.",
+      "literal": "暦通りに（as expected）今日23日も（today 23rd also）災害級の（disaster-level）暑さが（heat）続くでしょう（will continue）。甲府や（Kofu and）名古屋、岐阜、京都などで（in Nagoya, Gifu, Kyoto etc.）40℃以上の（over 40°C）酷暑日と（as extreme-heat day）なりそうです（seems to become）。東京都心や（central Tokyo and）大阪市で（in Osaka city）今年一番の（this year's most）暑さと（hot）なるでしょう（will become）。熱中症警戒アラートが（heatstroke warning alert）関東から（from Kanto）沖縄にかけて（to Okinawa）広く（widely）発表されています（has been announced）。熱中症に（against heatstroke）警戒が（vigilance）必要です（is needed）。",
+      "grammar": [
+        {
+          "point": "〜そうです（样态）: 看起来好像〜，据说〜。接在动词连用形/形容词词干后表推测。",
+          "example": "酷暑日となりそうです。／看起来会成为酷暑日。"
+        },
+        {
+          "point": "〜でしょう（推测）: 〜吧。表示说话人的推测。",
+          "example": "暑さが続くでしょう。／酷暑会持续吧。"
+        },
+        {
+          "point": "〜から〜にかけて: 从〜到〜（表示时间/空间范围）。",
+          "example": "関東から沖縄にかけて発表されています。／从关东到冲绳被发布。"
+        }
+      ],
+      "vocab": [
+        {
+          "kanji": "暦通り",
+          "furigana": "こよみどおり",
+          "cn": "照日历、如期"
+        },
+        {
+          "kanji": "災害級",
+          "furigana": "さいがいきゅう",
+          "cn": "灾害级"
+        },
+        {
+          "kanji": "酷暑日",
+          "furigana": "こくしょび",
+          "cn": "酷暑日（最高气温40℃以上）"
+        },
+        {
+          "kanji": "熱中症警戒アラート",
+          "furigana": "ねっちゅうしょうけいかいアラート",
+          "cn": "中暑警戒警报"
+        },
+        {
+          "kanji": "〜にかけて",
+          "furigana": "〜にかけて",
+          "cn": "到〜为止（范围）"
+        }
+      ],
+      "words": [
+        {
+          "s": "暦",
+          "r": "コヨミ",
+          "p": "noun"
+        },
+        {
+          "s": "通り",
+          "r": "トオリ",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "今日",
+          "r": "キョウ",
+          "p": "noun"
+        },
+        {
+          "s": "23",
+          "r": "ニミッ",
+          "p": "noun"
+        },
+        {
+          "s": "日",
+          "r": "カ",
+          "p": "grammar"
+        },
+        {
+          "s": "も",
+          "r": "モ",
+          "p": "particle"
+        },
+        {
+          "s": "災害",
+          "r": "サイガイ",
+          "p": "noun"
+        },
+        {
+          "s": "級",
+          "r": "キュウ",
+          "p": "grammar"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "暑さ",
+          "r": "アツサ",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "続く",
+          "r": "ツヅク",
+          "p": "verb"
+        },
+        {
+          "s": "です",
+          "r": "デショウ",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "甲府",
+          "r": "コウフ",
+          "p": "noun"
+        },
+        {
+          "s": "や",
+          "r": "ヤ",
+          "p": "particle"
+        },
+        {
+          "s": "名古屋",
+          "r": "ナゴヤ",
+          "p": "noun"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "岐阜",
+          "r": "ギフ",
+          "p": "noun"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "京都",
+          "r": "キョウト",
+          "p": "noun"
+        },
+        {
+          "s": "など",
+          "r": "ナド",
+          "p": "particle"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "40",
+          "r": "ヨンレイ",
+          "p": "noun"
+        },
+        {
+          "s": "℃",
+          "r": "ド",
+          "p": "noun"
+        },
+        {
+          "s": "以上",
+          "r": "イジョウ",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "酷暑日",
+          "r": "コクショビ",
+          "p": "noun"
+        },
+        {
+          "s": "と",
+          "r": "ト",
+          "p": "particle"
+        },
+        {
+          "s": "なる",
+          "r": "ナリ",
+          "p": "verb"
+        },
+        {
+          "s": "そう",
+          "r": "ソウ",
+          "p": "grammar"
+        },
+        {
+          "s": "です",
+          "r": "デス",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "東京",
+          "r": "トウキョウ",
+          "p": "noun"
+        },
+        {
+          "s": "都心",
+          "r": "トシン",
+          "p": "noun"
+        },
+        {
+          "s": "や",
+          "r": "ヤ",
+          "p": "particle"
+        },
+        {
+          "s": "大阪市",
+          "r": "オオサカシ",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "今年",
+          "r": "コトシ",
+          "p": "noun"
+        },
+        {
+          "s": "一番",
+          "r": "イチバン",
+          "p": "adverb"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "暑さ",
+          "r": "アツサ",
+          "p": "noun"
+        },
+        {
+          "s": "と",
+          "r": "ト",
+          "p": "particle"
+        },
+        {
+          "s": "なる",
+          "r": "ナル",
+          "p": "verb"
+        },
+        {
+          "s": "です",
+          "r": "デショウ",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "熱中症",
+          "r": "ネッチュウショウ",
+          "p": "noun"
+        },
+        {
+          "s": "警戒",
+          "r": "ケイカイ",
+          "p": "noun"
+        },
+        {
+          "s": "アラート",
+          "r": "アラート",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "関東",
+          "r": "カントウ",
+          "p": "noun"
+        },
+        {
+          "s": "から",
+          "r": "カラ",
+          "p": "particle"
+        },
+        {
+          "s": "沖縄",
+          "r": "オキナワ",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "かける",
+          "r": "カケ",
+          "p": "verb"
+        },
+        {
+          "s": "て",
+          "r": "テ",
+          "p": "particle"
+        },
+        {
+          "s": "広い",
+          "r": "ヒロク",
+          "p": "adj"
+        },
+        {
+          "s": "発表",
+          "r": "ハッピョウ",
+          "p": "noun"
+        },
+        {
+          "s": "する",
+          "r": "サ",
+          "p": "verb"
+        },
+        {
+          "s": "れる",
+          "r": "レ",
+          "p": "grammar"
+        },
+        {
+          "s": "て",
+          "r": "テ",
+          "p": "particle"
+        },
+        {
+          "s": "いる",
+          "r": "イ",
+          "p": "verb"
+        },
+        {
+          "s": "ます",
+          "r": "マス",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "熱中症",
+          "r": "ネッチュウショウ",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "警戒",
+          "r": "ケイカイ",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "必要",
+          "r": "ヒツヨウ",
+          "p": "noun"
+        },
+        {
+          "s": "です",
+          "r": "デス",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        }
+      ]
+    },
+    {
+      "ja": "今日23日は二十四節気の「大暑」で、一年で最も暑さが厳しい頃です。21日、22日と東海地方で40℃以上の酷暑日が観測されましたが、今日23日も山梨県や東海から近畿を中心に酷暑日となる所があるでしょう。最高気温は甲府市や名古屋市で41℃、岐阜市や京都市で40℃の予想です。命に危険が及ぶような暑さが続くでしょう。酷暑日とまではならないものの東京都心で37℃、大阪市で38℃と、体温超えの気温で、今年一番の暑さとなりそうです。熱中症に厳重な警戒が必要です。",
+      "en": "Today the 23rd is 'Great Heat' (大暑) of the 24 solar terms, the time of year when the heat is most intense. On the 21st and 22nd, extreme heat days over 40°C were observed in the Tokai region. Today the 23rd there will be places reaching extreme heat days centering on Yamanashi Prefecture from Tokai to Kinki. High temperatures are forecast at 41°C in Kofu and Nagoya, and 40°C in Gifu and Kyoto. Life-threatening heat will continue. Although not reaching extreme heat day levels, central Tokyo at 37°C and Osaka City at 38°C will exceed body temperature for the hottest day of the year. Strict vigilance against heatstroke is necessary.",
+      "literal": "今日23日は（today 23rd is）二十四節気の（of 24 solar terms）「大暑」で（'Great Heat'）一年で（in the year）最も（most）暑さが（heat）厳しい（severe）頃です（time）。21日、22日と（on 21st and 22nd）東海地方で（in Tokai region）40℃以上の（over 40°C）酷暑日が（extreme-heat days）観測されました（were observed）が（but）今日23日も（today also）山梨県や（Yamanashi and）東海から（from Tokai）近畿を中心に（centering on Kinki）酷暑日と（extreme-heat day）なる所が（places that become）あるでしょう（there will be）。最高気温は（max temp is）甲府市や（Kofu and）名古屋市で（in Nagoya）41℃、岐阜市や（Gifu and）京都市で（in Kyoto）40℃の予想です（forecast）。命に（to life）危険が（danger）及ぶような（such that reaches）暑さが（heat）続くでしょう（will continue）。酷暑日と（to extreme-heat day）までは（up to）ならない（not become）ものの（although）東京都心で（central Tokyo）37℃、大阪市で（Osaka City）38℃と（38°C）体温超えの（exceeding body temp）気温で（with temperature）今年一番の（year's most）暑さと（hot）なりそうです（seems to become）。",
+      "grammar": [
+        {
+          "point": "〜ものの（逆接）: 虽然〜但是〜。表示转折。",
+          "example": "酷暑日とまではならないものの、気温が高い。／虽然没到酷暑日，但气温很高。"
+        },
+        {
+          "point": "〜を中心に（范围）: 以〜为中心。",
+          "example": "東海から近畿を中心に酷暑日となる。／以东海到近畿为中心成为酷暑日。"
+        },
+        {
+          "point": "〜ようです（比况）: 像〜一样。接在动词普通形后表示比喻或举例。",
+          "example": "命に危険が及ぶような暑さ。／危及生命般的酷暑。"
+        }
+      ],
+      "vocab": [
+        {
+          "kanji": "二十四節気",
+          "furigana": "にじゅうしせっき",
+          "cn": "二十四节气"
+        },
+        {
+          "kanji": "大暑",
+          "furigana": "たいしょ",
+          "cn": "大暑（二十四节气之一）"
+        },
+        {
+          "kanji": "観測",
+          "furigana": "かんそく",
+          "cn": "观测"
+        },
+        {
+          "kanji": "最高気温",
+          "furigana": "さいこうきおん",
+          "cn": "最高气温"
+        },
+        {
+          "kanji": "体温超え",
+          "furigana": "たいおんごえ",
+          "cn": "超过体温"
+        }
+      ],
+      "words": [
+        {
+          "s": "今日",
+          "r": "コンニチ",
+          "p": "noun"
+        },
+        {
+          "s": "23",
+          "r": "ニミッ",
+          "p": "noun"
+        },
+        {
+          "s": "日",
+          "r": "カ",
+          "p": "grammar"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "二十四",
+          "r": "ニジュウヨン",
+          "p": "noun"
+        },
+        {
+          "s": "節気",
+          "r": "セッキ",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "「",
+          "r": "「",
+          "p": "grammar"
+        },
+        {
+          "s": "大暑",
+          "r": "タイショ",
+          "p": "noun"
+        },
+        {
+          "s": "」",
+          "r": "」",
+          "p": "grammar"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "一",
+          "r": "イチ",
+          "p": "noun"
+        },
+        {
+          "s": "年",
+          "r": "ネン",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "最も",
+          "r": "モットモ",
+          "p": "adverb"
+        },
+        {
+          "s": "暑さ",
+          "r": "アツサ",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "厳しい",
+          "r": "キビシイ",
+          "p": "adj"
+        },
+        {
+          "s": "頃",
+          "r": "コロ",
+          "p": "noun"
+        },
+        {
+          "s": "です",
+          "r": "デス",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "21",
+          "r": "ニイチ",
+          "p": "noun"
+        },
+        {
+          "s": "日",
+          "r": "ニチ",
+          "p": "noun"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "22",
+          "r": "ニニ",
+          "p": "noun"
+        },
+        {
+          "s": "日",
+          "r": "ニチ",
+          "p": "noun"
+        },
+        {
+          "s": "と",
+          "r": "ト",
+          "p": "particle"
+        },
+        {
+          "s": "東海",
+          "r": "トウカイ",
+          "p": "noun"
+        },
+        {
+          "s": "地方",
+          "r": "チホウ",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "40",
+          "r": "ヨンレイ",
+          "p": "noun"
+        },
+        {
+          "s": "℃",
+          "r": "ド",
+          "p": "noun"
+        },
+        {
+          "s": "以上",
+          "r": "イジョウ",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "酷暑日",
+          "r": "コクショビ",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "観測",
+          "r": "カンソク",
+          "p": "noun"
+        },
+        {
+          "s": "する",
+          "r": "サ",
+          "p": "verb"
+        },
+        {
+          "s": "れる",
+          "r": "レ",
+          "p": "grammar"
+        },
+        {
+          "s": "ます",
+          "r": "マシ",
+          "p": "grammar"
+        },
+        {
+          "s": "た",
+          "r": "タ",
+          "p": "grammar"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "今日",
+          "r": "コンニチ",
+          "p": "noun"
+        },
+        {
+          "s": "23",
+          "r": "ニミッ",
+          "p": "noun"
+        },
+        {
+          "s": "日",
+          "r": "カ",
+          "p": "grammar"
+        },
+        {
+          "s": "も",
+          "r": "モ",
+          "p": "particle"
+        },
+        {
+          "s": "山梨県",
+          "r": "ヤマナシケン",
+          "p": "noun"
+        },
+        {
+          "s": "や",
+          "r": "ヤ",
+          "p": "particle"
+        },
+        {
+          "s": "東海",
+          "r": "トウカイ",
+          "p": "noun"
+        },
+        {
+          "s": "から",
+          "r": "カラ",
+          "p": "particle"
+        },
+        {
+          "s": "近畿",
+          "r": "キンキ",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "中心",
+          "r": "チュウシン",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "酷暑日",
+          "r": "コクショビ",
+          "p": "noun"
+        },
+        {
+          "s": "(",
+          "r": "キゴウ",
+          "p": "grammar"
+        },
+        {
+          "s": "最高",
+          "r": "サイコウ",
+          "p": "noun"
+        },
+        {
+          "s": "気温",
+          "r": "キオン",
+          "p": "noun"
+        },
+        {
+          "s": "40",
+          "r": "ヨンレイ",
+          "p": "noun"
+        },
+        {
+          "s": "℃",
+          "r": "ド",
+          "p": "noun"
+        },
+        {
+          "s": "以上",
+          "r": "イジョウ",
+          "p": "noun"
+        },
+        {
+          "s": ")",
+          "r": "キゴウ",
+          "p": "grammar"
+        },
+        {
+          "s": "と",
+          "r": "ト",
+          "p": "particle"
+        },
+        {
+          "s": "なる",
+          "r": "ナル",
+          "p": "verb"
+        },
+        {
+          "s": "所",
+          "r": "トコロ",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "ある",
+          "r": "アル",
+          "p": "verb"
+        },
+        {
+          "s": "です",
+          "r": "デショウ",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "最高",
+          "r": "サイコウ",
+          "p": "noun"
+        },
+        {
+          "s": "気温",
+          "r": "キオン",
+          "p": "noun"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "甲府市",
+          "r": "コウフシ",
+          "p": "noun"
+        },
+        {
+          "s": "や",
+          "r": "ヤ",
+          "p": "particle"
+        },
+        {
+          "s": "名古屋市",
+          "r": "ナゴヤシ",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "41",
+          "r": "ヨンイチ",
+          "p": "noun"
+        },
+        {
+          "s": "℃",
+          "r": "ド",
+          "p": "noun"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "岐阜市",
+          "r": "ギフシ",
+          "p": "noun"
+        },
+        {
+          "s": "や",
+          "r": "ヤ",
+          "p": "particle"
+        },
+        {
+          "s": "京都市",
+          "r": "キョウトシ",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "40",
+          "r": "ヨンレイ",
+          "p": "noun"
+        },
+        {
+          "s": "℃",
+          "r": "ド",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "予想",
+          "r": "ヨソウ",
+          "p": "noun"
+        },
+        {
+          "s": "です",
+          "r": "デス",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "命",
+          "r": "イノチ",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "危険",
+          "r": "キケン",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "及ぶ",
+          "r": "オヨブ",
+          "p": "verb"
+        },
+        {
+          "s": "よう",
+          "r": "ヨウ",
+          "p": "grammar"
+        },
+        {
+          "s": "だ",
+          "r": "ナ",
+          "p": "grammar"
+        },
+        {
+          "s": "暑さ",
+          "r": "アツサ",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "続く",
+          "r": "ツヅク",
+          "p": "verb"
+        },
+        {
+          "s": "です",
+          "r": "デショウ",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "酷暑日",
+          "r": "コクショビ",
+          "p": "noun"
+        },
+        {
+          "s": "と",
+          "r": "ト",
+          "p": "particle"
+        },
+        {
+          "s": "まで",
+          "r": "マデ",
+          "p": "particle"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "なる",
+          "r": "ナラ",
+          "p": "verb"
+        },
+        {
+          "s": "ない",
+          "r": "ナイ",
+          "p": "grammar"
+        },
+        {
+          "s": "もの",
+          "r": "モノ",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "東京",
+          "r": "トウキョウ",
+          "p": "noun"
+        },
+        {
+          "s": "都心",
+          "r": "トシン",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "37",
+          "r": "サンナナ",
+          "p": "noun"
+        },
+        {
+          "s": "℃",
+          "r": "ド",
+          "p": "noun"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "大阪市",
+          "r": "オオサカシ",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "38",
+          "r": "サンハチ",
+          "p": "noun"
+        },
+        {
+          "s": "℃",
+          "r": "ド",
+          "p": "noun"
+        },
+        {
+          "s": "と",
+          "r": "ト",
+          "p": "particle"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "体温",
+          "r": "タイオン",
+          "p": "noun"
+        },
+        {
+          "s": "超え",
+          "r": "コエ",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "気温",
+          "r": "キオン",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "今年",
+          "r": "コトシ",
+          "p": "noun"
+        },
+        {
+          "s": "一番",
+          "r": "イチバン",
+          "p": "adverb"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "暑さ",
+          "r": "アツサ",
+          "p": "noun"
+        },
+        {
+          "s": "と",
+          "r": "ト",
+          "p": "particle"
+        },
+        {
+          "s": "なる",
+          "r": "ナリ",
+          "p": "verb"
+        },
+        {
+          "s": "そう",
+          "r": "ソウ",
+          "p": "grammar"
+        },
+        {
+          "s": "です",
+          "r": "デス",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "熱中症",
+          "r": "ネッチュウショウ",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "厳重",
+          "r": "ゲンジュウ",
+          "p": "grammar"
+        },
+        {
+          "s": "だ",
+          "r": "ナ",
+          "p": "grammar"
+        },
+        {
+          "s": "警戒",
+          "r": "ケイカイ",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "必要",
+          "r": "ヒツヨウ",
+          "p": "noun"
+        },
+        {
+          "s": "です",
+          "r": "デス",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        }
+      ]
+    },
+    {
+      "ja": "熱中症警戒アラートが発表されていない地域でも暑さ指数(WBGT)が31以上と、熱中症リスクが高い地域があります。熱中症対策として、①外出はできるだけ控え、暑さを避けましょう。②屋外やエアコンがない屋内での運動は中止や延期をしましょう。③のどが渇く前にこまめに水分を補給し、涼しい服装を心がけましょう。④高齢者や子どもなど熱中症リスクが高い方に声かけをしましょう。⑤暑さ指数を確認し、行動の目安にしましょう。",
+      "en": "Even in areas where heatstroke warnings have not been issued, there are areas where the heat index (WBGT) is 31 or higher with high heatstroke risk. As countermeasures: ① Avoid going out as much as possible and escape the heat. ② Cancel or postpone outdoor exercise or indoor exercise without A/C. ③ Drink water frequently before getting thirsty and wear cool clothing. ④ Call out to the elderly, children and others at high risk. ⑤ Check the heat index as a guideline for action.",
+      "literal": "熱中症警戒アラートが（heatstroke warning alert）発表されていない（has not been issued）地域でも（even in areas）暑さ指数(WBGT)が（heat index）31以上と（31 or higher）熱中症リスクが（heatstroke risk）高い（high）地域があります（there are areas）。熱中症対策として（as countermeasures）①外出は（going out）できるだけ（as much as possible）控え（refrain from）暑さを（heat）避けましょう（let's avoid）。②屋外や（outdoors or）エアコンがない（no A/C）屋内での（indoor）運動は（exercise）中止や（cancellation or）延期を（postponement）しましょう（let's do）。③のどが渇く前に（before throat gets dry）こまめに（frequently）水分を（fluids）補給し（replenish）涼しい（cool）服装を（clothing）心がけましょう（let's pay attention to）。④高齢者や（elderly and）子どもなど（children etc.）熱中症リスクが（heatstroke risk）高い方に（to people with high）声かけを（call out）しましょう（let's do）。⑤暑さ指数を（heat index）確認し（check）行動の（action）目安に（as guideline）しましょう（let's do）。",
+      "grammar": [
+        {
+          "point": "〜として（作为）: 表示资格、立场。",
+          "example": "熱中症対策として、次の行動を心がけましょう。／作为中暑对策，请注意以下行动。"
+        },
+        {
+          "point": "〜ましょう（劝诱）: 让我们〜吧。表示提议、劝说。",
+          "example": "声かけをしましょう。／让我们打个招呼吧。"
+        },
+        {
+          "point": "〜前に（在〜之前）: 表示时间上的先后顺序。",
+          "example": "のどが渇く前に水分を補給しましょう。／在口渴之前补充水分吧。"
+        }
+      ],
+      "vocab": [
+        {
+          "kanji": "暑さ指数",
+          "furigana": "あつさしすう",
+          "cn": "炎热指数、WBGT指标"
+        },
+        {
+          "kanji": "熱中症対策",
+          "furigana": "ねっちゅうしょうたいさく",
+          "cn": "中暑对策"
+        },
+        {
+          "kanji": "控える",
+          "furigana": "ひかえる",
+          "cn": "节制、避免"
+        },
+        {
+          "kanji": "こまめに",
+          "furigana": "こまめに",
+          "cn": "勤快地、频繁地"
+        },
+        {
+          "kanji": "声かけ",
+          "furigana": "こえかけ",
+          "cn": "打招呼、提醒"
+        },
+        {
+          "kanji": "目安",
+          "furigana": "めやす",
+          "cn": "标准、基准"
+        }
+      ],
+      "words": [
+        {
+          "s": "熱中症",
+          "r": "ネッチュウショウ",
+          "p": "noun"
+        },
+        {
+          "s": "警戒",
+          "r": "ケイカイ",
+          "p": "noun"
+        },
+        {
+          "s": "アラート",
+          "r": "アラート",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "発表",
+          "r": "ハッピョウ",
+          "p": "noun"
+        },
+        {
+          "s": "する",
+          "r": "サ",
+          "p": "verb"
+        },
+        {
+          "s": "れる",
+          "r": "レ",
+          "p": "grammar"
+        },
+        {
+          "s": "て",
+          "r": "テ",
+          "p": "particle"
+        },
+        {
+          "s": "いる",
+          "r": "イ",
+          "p": "verb"
+        },
+        {
+          "s": "ない",
+          "r": "ナイ",
+          "p": "grammar"
+        },
+        {
+          "s": "地域",
+          "r": "チイキ",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "も",
+          "r": "モ",
+          "p": "particle"
+        },
+        {
+          "s": "暑さ",
+          "r": "アツサ",
+          "p": "noun"
+        },
+        {
+          "s": "指数",
+          "r": "シスウ",
+          "p": "noun"
+        },
+        {
+          "s": "(",
+          "r": "キゴウ",
+          "p": "grammar"
+        },
+        {
+          "s": "WBGT",
+          "r": "ダブルビージーティー",
+          "p": "noun"
+        },
+        {
+          "s": ")",
+          "r": "キゴウ",
+          "p": "grammar"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "31",
+          "r": "サンイチ",
+          "p": "noun"
+        },
+        {
+          "s": "以上",
+          "r": "イジョウ",
+          "p": "noun"
+        },
+        {
+          "s": "と",
+          "r": "ト",
+          "p": "particle"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "熱中症",
+          "r": "ネッチュウショウ",
+          "p": "noun"
+        },
+        {
+          "s": "リスク",
+          "r": "リスク",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "高い",
+          "r": "タカイ",
+          "p": "adj"
+        },
+        {
+          "s": "地域",
+          "r": "チイキ",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "ある",
+          "r": "アリ",
+          "p": "verb"
+        },
+        {
+          "s": "ます",
+          "r": "マス",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "熱中症",
+          "r": "ネッチュウショウ",
+          "p": "noun"
+        },
+        {
+          "s": "対策",
+          "r": "タイサク",
+          "p": "noun"
+        },
+        {
+          "s": "と",
+          "r": "ト",
+          "p": "particle"
+        },
+        {
+          "s": "する",
+          "r": "シ",
+          "p": "verb"
+        },
+        {
+          "s": "て",
+          "r": "テ",
+          "p": "particle"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "1",
+          "r": "イチ",
+          "p": "noun"
+        },
+        {
+          "s": "外出",
+          "r": "ガイシュツ",
+          "p": "noun"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "できるだけ",
+          "r": "デキルダケ",
+          "p": "adverb"
+        },
+        {
+          "s": "控える",
+          "r": "ヒカエ",
+          "p": "verb"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "暑さ",
+          "r": "アツサ",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "避ける",
+          "r": "サケ",
+          "p": "verb"
+        },
+        {
+          "s": "ます",
+          "r": "マショウ",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "2",
+          "r": "ニ",
+          "p": "noun"
+        },
+        {
+          "s": "屋外",
+          "r": "オクガイ",
+          "p": "noun"
+        },
+        {
+          "s": "や",
+          "r": "ヤ",
+          "p": "particle"
+        },
+        {
+          "s": "エアコン",
+          "r": "エアコン",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "ない",
+          "r": "ナイ",
+          "p": "adj"
+        },
+        {
+          "s": "屋内",
+          "r": "オクナイ",
+          "p": "noun"
+        },
+        {
+          "s": "で",
+          "r": "デ",
+          "p": "particle"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "運動",
+          "r": "ウンドウ",
+          "p": "noun"
+        },
+        {
+          "s": "は",
+          "r": "ハ",
+          "p": "particle"
+        },
+        {
+          "s": "中止",
+          "r": "チュウシ",
+          "p": "noun"
+        },
+        {
+          "s": "や",
+          "r": "ヤ",
+          "p": "particle"
+        },
+        {
+          "s": "延期",
+          "r": "エンキ",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "する",
+          "r": "シ",
+          "p": "verb"
+        },
+        {
+          "s": "ます",
+          "r": "マショウ",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "3",
+          "r": "サン",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "ど",
+          "r": "ド",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "渇く",
+          "r": "カワク",
+          "p": "verb"
+        },
+        {
+          "s": "前",
+          "r": "マエ",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "こまめ",
+          "r": "コマメ",
+          "p": "grammar"
+        },
+        {
+          "s": "だ",
+          "r": "ニ",
+          "p": "grammar"
+        },
+        {
+          "s": "水分",
+          "r": "スイブン",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "補給",
+          "r": "ホキュウ",
+          "p": "noun"
+        },
+        {
+          "s": "する",
+          "r": "シ",
+          "p": "verb"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "涼しい",
+          "r": "スズシイ",
+          "p": "adj"
+        },
+        {
+          "s": "服装",
+          "r": "フクソウ",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "心がける",
+          "r": "ココロガケ",
+          "p": "verb"
+        },
+        {
+          "s": "ます",
+          "r": "マショウ",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "4",
+          "r": "ヨン",
+          "p": "noun"
+        },
+        {
+          "s": "高齢者",
+          "r": "コウレイシャ",
+          "p": "noun"
+        },
+        {
+          "s": "や",
+          "r": "ヤ",
+          "p": "particle"
+        },
+        {
+          "s": "子ども",
+          "r": "コドモ",
+          "p": "noun"
+        },
+        {
+          "s": "など",
+          "r": "ナド",
+          "p": "particle"
+        },
+        {
+          "s": "熱中症",
+          "r": "ネッチュウショウ",
+          "p": "noun"
+        },
+        {
+          "s": "リスク",
+          "r": "リスク",
+          "p": "noun"
+        },
+        {
+          "s": "が",
+          "r": "ガ",
+          "p": "particle"
+        },
+        {
+          "s": "高い",
+          "r": "タカイ",
+          "p": "adj"
+        },
+        {
+          "s": "方",
+          "r": "ホウ",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "声かけ",
+          "r": "コエカケ",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "する",
+          "r": "シ",
+          "p": "verb"
+        },
+        {
+          "s": "ます",
+          "r": "マショウ",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        },
+        {
+          "s": "5",
+          "r": "ゴ",
+          "p": "noun"
+        },
+        {
+          "s": "暑さ",
+          "r": "アツサ",
+          "p": "noun"
+        },
+        {
+          "s": "指数",
+          "r": "シスウ",
+          "p": "noun"
+        },
+        {
+          "s": "を",
+          "r": "ヲ",
+          "p": "particle"
+        },
+        {
+          "s": "確認",
+          "r": "カクニン",
+          "p": "noun"
+        },
+        {
+          "s": "する",
+          "r": "シ",
+          "p": "verb"
+        },
+        {
+          "s": "、",
+          "r": "、",
+          "p": "grammar"
+        },
+        {
+          "s": "行動",
+          "r": "コウドウ",
+          "p": "noun"
+        },
+        {
+          "s": "の",
+          "r": "ノ",
+          "p": "particle"
+        },
+        {
+          "s": "目安",
+          "r": "メヤス",
+          "p": "noun"
+        },
+        {
+          "s": "に",
+          "r": "ニ",
+          "p": "particle"
+        },
+        {
+          "s": "する",
+          "r": "シ",
+          "p": "verb"
+        },
+        {
+          "s": "ます",
+          "r": "マショウ",
+          "p": "grammar"
+        },
+        {
+          "s": "。",
+          "r": "。",
+          "p": "grammar"
+        }
+      ]
+    }
+  ]
+}

@@ -71,7 +71,31 @@
   //  読解リスト
   // ======================================================================
         const READING_LIST = [
+
     {
+      id: '23nichi-mo-saigaikyuu-no-atsusa',
+      title: '23日も災害級の暑さ 山梨・東海・近畿で40℃以上酷暑日か',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/23nichi-mo-saigaikyuu-no-atsusa.json'
+    },
+    {
+      id: 'net-chuushou-toukou-syousatsu-1man-ken',
+      title: 'ネット中傷、投稿者特定の申し立てが1万件超 22年に導入後初めて',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/net-chuushou-toukou-syousatsu-1man-ken.json'
+    },
+    {
+      id: 'ritou-hikkoshi-nenshou-8oku-en',
+      title: '大手が敬遠する離島引っ越しで年商8億円 フリーデザイナーから転身した38歳が開拓したビジネスモデル',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/ritou-hikkoshi-nenshou-8oku-en.json'
+    },    {
       id: 'trump-wcup-zensetsu',
       title: 'W杯表彰式 トランプ氏の執着に批判殺到 FIFA会長が慌てて案内',
       kicker: '中級',
