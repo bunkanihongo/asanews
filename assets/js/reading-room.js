@@ -70,8 +70,71 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-        const READING_LIST = [
-
+                const READING_LIST = [
+    {
+      id: 'kousho-ondo-40-do-ichigatsu',
+      title: '8月初旬 関東甲信など40℃以上「酷暑日」の可能性 1か月予報',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/kousho-ondo-40-do-ichigatsu.json'
+    },
+    {
+      id: 'seven-eleven-tenpai-fusei-tenbai',
+      title: 'セブンイレブン 店舗関係者が人気キャラ商品を不正転売 法的には？',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/seven-eleven-tenpai-fusei-tenbai.json'
+    },
+    {
+      id: 'tsubame-suzume-otonari',
+      title: 'ツバメとスズメ 隣同士で子育て 長野で珍しい光景',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/tsubame-suzume-otonari.json'
+    },
+    {
+      id: 'disney-owakonka-neage',
+      title: '値上げディズニーの「オワコン化」 子ども200万人減の裏で増える大人客',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/disney-owakonka-neage.json'
+    },
+    {
+      id: 'hannmono-otoko-keisatsu-happou',
+      title: 'コンビニ駐車場で刃物男に警察官が発砲 住宅街に銃声 熊本',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/hannmono-otoko-keisatsu-happou.json'
+    },
+    {
+      id: 'gundam-shinsaku-2027',
+      title: '『ガンダム』新作アニメ発表 2027年展開 神山健治監督が挑む新世界線',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/gundam-shinsaku-2027.json'
+    },
+    {
+      id: 'naikaku-shijiritsu-teika-kikikan',
+      title: '内閣支持率減 与党に危機感 皇室典範改正・国会運営が影響',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/naikaku-shijiritsu-teika-kikikan.json'
+    },
+    {
+      id: 'trump-ohtani-sansan-dodgers',
+      title: 'トランプ大統領が大谷翔平を絶賛 25分スピーチ ドジャース表敬訪問',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/trump-ohtani-sansan-dodgers.json'
+    },
     {
       id: 'yanagita-kyuuen-senshutsu',
       title: '柳田が球宴に 家族旅行キャンセルし9回目の出場へ',
@@ -135,7 +198,8 @@
       desc: '',
       badge: '3段落',
       file: '/asanews/assets/readings/ritou-hikkoshi-nenshou-8oku-en.json'
-    },    {
+    },
+    {
       id: 'trump-wcup-zensetsu',
       title: 'W杯表彰式 トランプ氏の執着に批判殺到 FIFA会長が慌てて案内',
       kicker: '中級',
@@ -303,7 +367,7 @@
       badge: '2段落',
       file: '/asanews/assets/readings/kokkai-ennchuu-gaiyuu-chuushi.json'
     }
-  ];
+    ];
 
   function renderList() {
     container.innerHTML = '';
