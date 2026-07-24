@@ -1,5 +1,85 @@
 [
   {
+    "id": "fukushuto-houritsu-seiritsu",
+    "title": "「副首都構想」具体化に向けた法律が可決・成立",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-25",
+    "file": "assets/readings/fukushuto-houritsu-seiritsu.json"
+  },
+  {
+    "id": "taifuu12-gou-hattatsu",
+    "title": "台風12号「ノウル」南シナ海で発達 強い勢力で中国華南に上陸へ",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-25",
+    "file": "assets/readings/taifuu12-gou-hattatsu.json"
+  },
+  {
+    "id": "shijiritsu-kyuuraku-takaichi",
+    "title": "支持率急落を招く高市首相の「人間不信」 その原点となった地元との確執",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-25",
+    "file": "assets/readings/shijiritsu-kyuuraku-takaichi.json"
+  },
+  {
+    "id": "nihonka-suru-chugoku",
+    "title": "「日本化」する中国 2050年の1人当たりGDPは米国の4分の1に",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-25",
+    "file": "assets/readings/nihonka-suru-chugoku.json"
+  },
+  {
+    "id": "syouhizei-genzei-seiken-owaru",
+    "title": "消費減税見送りなら「政権終わる」 支持率下落で官邸に危機感",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-25",
+    "file": "assets/readings/syouhizei-genzei-seiken-owaru.json"
+  },
+  {
+    "id": "ukuraina-dorone-kougeki",
+    "title": "ウクライナ軍がロシアの通販倉庫にドローン攻撃 物流網への攻撃強める",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-25",
+    "file": "assets/readings/ukuraina-dorone-kougeki.json"
+  },
+  {
+    "id": "ro-gun-kitahouryou-ryoukuu",
+    "title": "露軍の航空機 北方領土を領空侵犯 日本が厳重抗議",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-25",
+    "file": "assets/readings/ro-gun-kitahouryou-ryoukuu.json"
+  },
+  {
+    "id": "gaikokujin-eijyu-genkaku",
+    "title": "政府が外国人の永住許可要件を厳格化へ 納税義務違反で取消も",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-25",
+    "file": "assets/readings/gaikokujin-eijyu-genkaku.json"
+  },
+  {
+    "id": "isha-haikibutsu-iho-taiho",
+    "title": "医師の男を廃棄物処理法違反疑いで逮捕 麻酔薬を自身に注射か",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-25",
+    "file": "assets/readings/isha-haikibutsu-iho-taiho.json"
+  },
+  {
+    "id": "kirishima-nanji-itaibu",
+    "title": "霧島市の遺体は行方不明の5歳男児と判明 父親が胸中を語る",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-25",
+    "file": "assets/readings/kirishima-nanji-itaibu.json"
+  },
+  {
     "id": "kousho-ondo-40-do-ichigatsu",
     "title": "8月初旬 関東甲信など40℃以上「酷暑日」の可能性 1か月予報",
     "level": "中級",

@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Bunkanihongo Daily News — 2026-07-24 (Fri) Edition"""
+"""Bunkanihongo Daily News — 2026-07-25 (Sat) Edition"""
 import json, os, sys, subprocess, time, re
 from sudachipy import tokenizer, dictionary
 
 # === Setup ===
 BASE = '/home/horse/.openclaw/workspace/asanews'
-TODAY = '2026-07-24'
+TODAY = '2026-07-25'
 tok = dictionary.Dictionary().create()
 mode = tokenizer.Tokenizer.SplitMode.C
 
@@ -52,374 +52,337 @@ def gen_mp3(text, outpath):
     return os.path.exists(outpath) and os.path.getsize(outpath) > 1000
 
 # ==================================================================
-# TODAY'S ARTICLES
+# TODAY'S ARTICLES — 2026-07-25
 # ==================================================================
 articles = [
     {
-        "slug": "kousho-ondo-40-do-ichigatsu",
-        "title": "8月初旬 関東甲信など40℃以上「酷暑日」の可能性 1か月予報",
-        "subtitle": "気象庁の1か月予報で関東甲信・東海など8月上旬に40℃以上の酷暑日となる可能性。熱中症に厳重警戒が必要。",
+        "slug": "fukushuto-houritsu-seiritsu",
+        "title": "「副首都構想」具体化に向けた法律が可決・成立",
+        "subtitle": "災害時の首都機能バックアップと東京一極集中是正を目的とした「副首都」関連法が参議院本会議で可決・成立した。",
         "paras": [
             {
-                "ja": "気象庁は23日、最新の1か月予報を発表した。この先1か月、全国的に気温が高い見込みで、特に東日本や西日本では8月上旬にかけて気温がかなり高い予想となっている。関東甲信や東海では最高気温40℃以上の「酷暑日」となる可能性もあるという。",
-                "en": "The Japan Meteorological Agency released its latest one-month forecast on the 23rd. Temperatures are expected to remain high nationwide for the next month, with particularly high temperatures forecast for eastern and western Japan through early August. Regions including Kanto-Koshin and Tokai may see 'extreme heat days' with maximum temperatures exceeding 40°C.",
-                "literal": "气象厅23日发表了最新的1个月预报。今后1个月，全国范围内气温预计偏高，特别是东日本和西日本到8月上旬气温相当高的预测。关东甲信和东海可能出现最高气温40℃以上的「酷暑日」。",
-                "grammar": "「〜見込み」— 预计…。例：高い見込み（预计偏高）。\n「〜にかけて」— 到…为止（时间范围）。例：8月上旬にかけて（到8月上旬）。\n「〜という」— 据说…。例：可能性もあるという（据说也有可能）。",
+                "ja": "副首都構想を具体化するための法律が24日、参議院本会議で自民、維新、チームみらいなどの賛成多数で可決・成立した。この法律は、災害時に首都機能を維持するためのバックアップとして「副首都」を整備し、東京一極集中の是正を目指すことを柱としている。",
+                "en": "The bill to realize the sub-capital concept was passed and enacted on the 24th at the House of Councillors plenary session with majority approval from the LDP, Ishin, Team Mirai, and others. The law aims to develop a 'sub-capital' as a backup to maintain capital functions during disasters and to correct the excessive concentration in Tokyo.",
+                "literal": "为实现副首都构想的具体化法律，24日在参议院全体会议上以自民、维新、Team Mirai等多数赞成通过并成立。该法律以整备「副首都」作为灾害时维持首都功能的备份，以及纠正东京一极集中为核心目标。",
+                "grammar": "「〜に向けた」— 面向…的、为…的。例：具体化に向けた法律（为实现具体化的法律）。\n「〜を柱とする」— 以…为核心。例：是正を目指すことを柱としている（以矫正为目标作为核心）。\n「〜で可決・成立」— 以…通过并成立。例：賛成多数で可決・成立（以多数赞成通过并成立）。",
                 "vocab": [
-                    ["気象庁", "きしょうちょう", "气象厅"],
-                    ["1か月予報", "いっかげつよほう", "一个月预报"],
-                    ["見込み", "みこみ", "预计、可能性"],
-                    ["酷暑日", "こくしょび", "酷暑日、极热天"],
-                    ["最高気温", "さいこうきおん", "最高气温"]
+                    ["副首都", "ふくしゅと", "副首都、备份首都"],
+                    ["可決", "かけつ", "通过（法案）"],
+                    ["成立", "せいりつ", "成立"],
+                    ["参議院", "さんぎいん", "参议院"],
+                    ["一極集中", "いっきょくしゅうちゅう", "一极集中、过度集中"]
                 ]
             },
             {
-                "ja": "気象庁は北海道から九州、奄美地方に「高温に関する早期天候情報」も発表した。この地域では29日ごろから10年に一度レベルの高温が予想されている。北日本も8月上旬は気温がかなり高くなる可能性があるという。",
-                "en": "The JMA also issued 'Early Weather Information on High Temperatures' for areas from Hokkaido to Kyushu and the Amami region. These areas are expected to see once-in-a-decade level high temperatures from around the 29th. Northern Japan may also see quite high temperatures in early August.",
-                "literal": "气象厅也从北海道到九州、奄美地区发表了「高温相关的早期天气信息」。这些地区预计从29日左右开始出现十年一遇水平的高温。北日本8月上旬气温也有可能相当高。",
-                "grammar": "「〜に関する」— 关于…的。例：高温に関する早期天候情報（有关高温的早期天气信息）。\n「〜ごろから」— 从…左右开始。例：29日ごろから（从29日左右开始）。\n「〜レベル」— …水平、程度。例：10年に一度レベル（十年一遇水平）。",
+                "ja": "野党側は、採決の条件として特別区設置の住民投票と関係する自治体選挙の同日実施を禁止する内容を付帯決議に盛り込むよう求めていた。与野党は最終的に住民投票と自治体選挙が「重複しないように最大限調整する」との文言を明記することで調整が付き、採決することで合意した。",
+                "en": "The opposition parties had demanded that the supplementary resolution include a provision prohibiting simultaneous implementation of a special ward residents' referendum and related local elections as a condition for the vote. The ruling and opposition parties ultimately reached an agreement by specifying language that they would 'coordinate to the maximum extent to avoid overlap' between the referendum and local elections, allowing the vote to proceed.",
+                "literal": "在野党方面要求作为表决条件，在附带决议中加入禁止特别区设置的居民投票和相关地方自治体选举同日实施的内容。执政党与在野党最终通过明确记载「最大限度调整以避免」居民投票和地方选举「重复」的措辞达成了协调，并同意进行表决。",
+                "grammar": "「〜として」— 作为…。例：条件として（作为条件）。\n「〜よう求める」— 要求…。例：盛り込むよう求めていた（要求加入）。\n「〜ことで合意した」— 就…达成一致。例：調整が付き、採決することで合意した（协调一致，同意进行表决）。",
                 "vocab": [
-                    ["高温", "こうおん", "高温"],
-                    ["早期天候情報", "そうきてんこうじょうほう", "早期天气信息"],
-                    ["奄美", "あまみ", "奄美"],
-                    ["地域", "ちいき", "地区"],
-                    ["北日本", "きたにほん", "北日本"]
-                ]
-            },
-            {
-                "ja": "一方、東北と北陸は7月末まで梅雨前線の影響を受けやすく、梅雨空が続く見込みだ。30日ごろに北海道付近を低気圧が通過した後は東北や北陸も晴れる日が多くなり、31日ごろに梅雨明けとなりそうだ。",
-                "en": "Meanwhile, the Tohoku and Hokuriku regions are likely to remain under the influence of the seasonal rain front until the end of July, with continued rainy season conditions. After a low-pressure system passes near Hokkaido around the 30th, the Tohoku and Hokuriku regions should see more sunny days, with the rainy season likely ending around the 31st.",
-                "literal": "另一方面，东北和北陆到7月底容易受梅雨锋面影响，预计持续梅雨天气。30日左右低气压通过北海道附近后，东北和北陆晴天的日子也会增多，预计31日左右出梅。",
-                "grammar": "「〜影響を受けやすい」— 容易受…影响。例：前線の影響を受けやすい（容易受锋面影响）。\n「〜そうだ」— 好像…（样态）。例：梅雨明けとなりそうだ（好像要出梅了）。",
-                "vocab": [
-                    ["梅雨前線", "ばいうぜんせん", "梅雨锋面"],
-                    ["北陸", "ほくりく", "北陆地区"],
-                    ["低気圧", "ていきあつ", "低气压"],
-                    ["梅雨明け", "つゆあけ", "出梅、梅雨结束"],
-                    ["晴れる", "はれる", "放晴"]
+                    ["野党", "やとう", "在野党"],
+                    ["採決", "さいけつ", "表决"],
+                    ["住民投票", "じゅうみんとうひょう", "居民投票"],
+                    ["付帯決議", "ふたいけつぎ", "附带决议"],
+                    ["与党", "よとう", "执政党"]
                 ]
             }
         ]
     },
     {
-        "slug": "seven-eleven-tenpai-fusei-tenbai",
-        "title": "セブンイレブン 店舗関係者が人気キャラ商品を不正転売 法的には？",
-        "subtitle": "セブンイレブン加盟店で店員やオーナーによる人気キャラ商品の買い占め・転売が発覚。弁護士が法的見解を解説。",
+        "slug": "taifuu12-gou-hattatsu",
+        "title": "台風12号「ノウル」南シナ海で発達 強い勢力で中国華南に上陸へ",
+        "subtitle": "台風12号が南シナ海で発達し、強い勢力で中国華南に上陸の恐れ。日本への直接影響は低いが、航路や航空便に注意が必要。",
         "paras": [
             {
-                "ja": "コンビニ大手のセブン-イレブン・ジャパンが、加盟店の一部で発売前の人気キャラクター商品について、店員やオーナーによる買い占めや転売が行われたとして、全国の加盟店に警告していたことが23日に報じられた。",
-                "en": "It was reported on the 23rd that Seven-Eleven Japan, a major convenience store chain, had issued warnings to its franchise stores nationwide after some stores were found to have employees and owners engaging in hoarding and reselling popular character merchandise before its official release.",
-                "literal": "便利店巨头Seven-Eleven Japan，关于部分加盟店在人气角色商品发售前店员或店主进行囤积和转卖一事，23日报道称已向全国加盟店发出警告。",
-                "grammar": "「〜について」— 关于…。例：商品について（关于商品）。\n「〜による」— 由…造成的/进行的。例：店員による買い占め（由店员进行的囤积）。\n「〜として」— 作为…。例：警告していたとして（作为警告）。",
+                "ja": "台風12号（ノウル）は25日午前6時現在、南シナ海を時速30キロの速さで西北西へ進んでいる。台風は今後さらに発達し、25日夜には「強い」勢力に成長する見込み。26日にかけて中心気圧965ヘクトパスカルまで達した状態で中国南部の華南に接近・上陸する恐れがある。",
+                "en": "As of 6:00 AM on the 25th, Typhoon No. 12 (Noul) is moving northwestward across the South China Sea at 30 km/h. The typhoon is expected to develop further and reach 'strong' intensity by the night of the 25th. By the 26th, it is likely to approach and make landfall in southern China's Huanan region with a central pressure of 965 hPa.",
+                "literal": "台风第12号（诺尔）25日上午6点现在，以时速30公里向南中国海的西北西方向前进。台风今后将进一步加强，预计25日晚达到「强」势力。到26日为止，中心气压可能降至965百帕，并以该状态接近并登陆中国南部的华南地区。",
+                "grammar": "「〜現在」— 截止…时点。例：午前6時現在（上午6点截止）。\n「〜見込み」— 预计…。例：勢力に成長する見込み（预计成长为…势力）。\n「〜恐れがある」— 有…的危险/可能。例：上陸する恐れがある（有登陆的可能）。",
                 "vocab": [
-                    ["コンビニ", "こんびに", "便利店"],
-                    ["加盟店", "かめいてん", "加盟店"],
-                    ["買い占め", "かいしめ", "囤积、扫货"],
-                    ["転売", "てんばい", "转卖"],
-                    ["警告", "けいこく", "警告"]
+                    ["台風", "たいふう", "台风"],
+                    ["発達する", "はったつする", "发展、增强"],
+                    ["勢力", "せいりょく", "势力、强度"],
+                    ["上陸", "じょうりく", "登陆"],
+                    ["中心気圧", "ちゅうしんきあつ", "中心气压"]
                 ]
             },
             {
-                "ja": "弁護士によると、店員やオーナーが商品を定価で買い取った後に転売する行為は、刑事罰の対象にはなりにくいという。店内の商品は仕入れの段階で加盟店オーナーに所有権が移るため、自分の商品を転売しても横領や背任には当たらない可能性が高いとされる。",
-                "en": "According to lawyers, the act of employees or owners purchasing merchandise at list price and then reselling it is unlikely to be subject to criminal penalties. Since ownership of in-store merchandise typically transfers to the franchise owner at the procurement stage, reselling one's own merchandise is unlikely to constitute embezzlement or breach of trust.",
-                "literal": "据律师称，店员或店主以定价购买商品后转卖的行为，很难成为刑事处罚的对象。因为店内商品在采购阶段所有权就转移到了加盟店店主手中，所以即使转卖自己的商品，也不太可能构成侵占或背信。",
-                "grammar": "「〜によると」— 据…说。例：弁護士によると（据律师说）。\n「〜にくい」— 难以…。例：なりにくい（难以成为）。\n「〜ため」— 因为…。例：移るため（因为转移）。",
+                "ja": "日本本土への直接的な影響は低いと見られるが、周辺海域を通る航路や航空便、現地の交通・物流等に影響が出る可能性があるため、最新の運行情報等に注意が必要だ。台風12号は海面水温が高い南シナ海を進みながら勢力を強めており、26日午前6時には最大瞬間風速50メートルまで発達して華南沿岸に達する予想。その後は陸上を進んで急速に衰え、27日午前までに熱帯低気圧に変わる見込みだ。",
+                "en": "While direct impact on mainland Japan is expected to be low, there may be effects on shipping routes, flights, and local transportation and logistics in the region, so attention to the latest operational information is necessary. Typhoon No. 12 is intensifying as it moves across the warm waters of the South China Sea. It is forecast to develop to maximum instantaneous wind speeds of 50 m/s by 6:00 AM on the 26th as it reaches the South China coast. Thereafter, it will move inland and rapidly weaken, expected to become a tropical depression by the morning of the 27th.",
+                "literal": "对日本本土的直接影响被认为较低，但经由周边海域的航路、航空便以及当地的交通、物流等可能受到影响，因此需要关注最新运行信息。台风12号在海水温度高的南中国海前进的同时增强势力，预计26日上午6点将增强至最大瞬间风速50米/秒并到达华南沿岸。之后将进入陆地急速减弱，预计27日上午前转变为热带低气压。",
+                "grammar": "「〜と見られる」— 被认为…。例：低いと見られる（被认为较低）。\n「〜ながら」— 一边…一边…。例：進みながら（一边前进一边…）。\n「〜までに」— 到…之前。例：27日午前までに（到27日上午之前）。",
                 "vocab": [
-                    ["弁護士", "べんごし", "律师"],
-                    ["定価", "ていか", "定价"],
-                    ["刑事罰", "けいじばつ", "刑事处罚"],
-                    ["所有権", "しょゆうけん", "所有权"],
-                    ["横領", "おうりょう", "侵占"]
-                ]
-            },
-            {
-                "ja": "ただし、セブン-イレブン・ジャパンのフランチャイズ契約に違反する可能性はあり、実際に契約を中途解約されたケースもある。企業倫理や消費者の信頼という観点からも、こうした行為は問題視されている。",
-                "en": "However, such actions may violate the Seven-Eleven Japan franchise agreement, and there have actually been cases where contracts were terminated mid-term. From the perspective of corporate ethics and consumer trust, such behavior is being viewed as problematic.",
-                "literal": "但是，有可能违反Seven-Eleven Japan的特许经营合同，实际上也有中途解约的案例。从企业伦理和消费者的信赖的观点来看，这种行为也受到质疑。",
-                "grammar": "「〜可能性がある」— 有…可能性。例：違反する可能性がある（有违反的可能性）。\n「〜ケースもある」— 也有…的情况。例：解約されたケース（被解约的情况）。\n「〜という観点から」— 从…的观点来看。",
-                "vocab": [
-                    ["フランチャイズ", "ふらんちゃいず", "特许经营"],
-                    ["契約", "けいやく", "合同"],
-                    ["中途解約", "ちゅうとかいやく", "中途解约"],
-                    ["企業倫理", "きぎょうりんり", "企业伦理"],
-                    ["消費者", "しょうひしゃ", "消费者"],
-                    ["信頼", "しんらい", "信赖"]
+                    ["本土", "ほんど", "本土"],
+                    ["航路", "こうろ", "航线、航路"],
+                    ["最大瞬間風速", "さいだいしゅんかんふうそく", "最大瞬间风速"],
+                    ["華南", "かなん", "华南（中国南部）"],
+                    ["熱帯低気圧", "ねったいていきあつ", "热带低气压"]
                 ]
             }
         ]
     },
     {
-        "slug": "tsubame-suzume-otonari",
-        "title": "ツバメとスズメ 隣同士で子育て 長野で珍しい光景",
-        "subtitle": "長野県松本市でツバメとスズメが隣り合わせの巣で子育て。珍しい共棲に住民も驚き。",
+        "slug": "shijiritsu-kyuuraku-takaichi",
+        "title": "支持率急落を招く高市首相の「人間不信」 その原点となった地元との確執",
+        "subtitle": "毎日新聞調査で支持率41％に急落。高市首相の強引な政治手法の背景にある人間不信と過去のトラウマを分析。",
         "paras": [
             {
-                "ja": "長野県松本市の民家の敷地内で、ツバメとスズメが隣り合わせの巣で子育てに励んでいる。住宅に隣接する建物のひさしに巣があり、6月ごろにツバメが最初の巣を構えた。巣立ち後、スズメが使われなくなった巣にごみなどを運んで「リフォーム」し、子育てを始めたという。",
-                "en": "Swallows and sparrows are raising their chicks side by side in adjacent nests on the property of a private home in Matsumoto City, Nagano Prefecture. The nests are located on the eaves of a building adjacent to the house. The swallows first built a nest around June. After the chicks left, sparrows carried debris and other materials to 'renovate' the abandoned nest and began raising their own young.",
-                "literal": "在长野县松本市的一处民宅院内，燕子和麻雀在相邻的巢穴中养育雏鸟。巢穴在紧邻住宅的建筑的屋檐上，6月左右燕子先筑了第一个巢。雏鸟离巢后，麻雀搬运垃圾等将不再使用的巢「改造」后开始了育儿。",
-                "grammar": "「〜合う」— 互相…。例：隣り合わせ（互相紧挨着）。\n「〜に励む」— 致力于…。例：子育てに励む（致力于育儿）。\n「〜という」— 据说…。例：始めたという（据说开始了）。",
+                "ja": "毎日新聞の調査で高市内閣の支持率が前月から10ポイント減の41％となった。支持率下落の理由として指摘されているのが、高市早苗首相の強引な政治手法だ。何でも一人で決め、誰にも相談しない「孤高の総理」と言われる高市首相だが、その背後には人とのコミュニケーションが不得手という「人間不信」的な一面が見え隠れする。",
+                "en": "In the Mainichi Shimbun survey, the approval rating for the Takaichi Cabinet fell 10 points from the previous month to 41%. The reason cited for the decline is Prime Minister Takaichi's forceful political style. Known as a 'solitary premier' who decides everything alone and consults no one, behind this approach lies a facet of 'mistrust of people' — a difficulty with interpersonal communication.",
+                "literal": "每日新闻的调查中，高市内阁的支持率比上个月下降10个百分点至41%。作为支持率下降的原因被指出的是高市早苗首相的强行政治手法。虽然被称为万事一人决定、不与任何人商量的「孤高总理」，但其背后可见不擅长与人沟通的「对人缺乏信任」的一面。",
+                "grammar": "「〜として指摘されている」— 作为…被指出。例：理由として指摘されている（作为理由被指出）。\n「〜と言われる」— 被称为…。例：「孤高の総理」と言われる（被称为「孤高的总理」）。\n「〜が見え隠れする」— 隐约可见…。例：一面が見え隠れする（隐约可见一面）。",
                 "vocab": [
-                    ["ツバメ", "つばめ", "燕子"],
-                    ["スズメ", "すずめ", "麻雀"],
-                    ["隣り合わせ", "となりあわせ", "相邻、紧挨着"],
-                    ["巣", "す", "巢、窝"],
-                    ["子育て", "こそだて", "育儿、养育幼鸟"],
-                    ["リフォーム", "りふぉーむ", "改造、翻新"]
-                ]
-            },
-            {
-                "ja": "21日には、スズメの親がひなに餌を運んでくると、ツバメの親が警戒するように周りを飛び交っていたが、互いのひなに危害を加えることはなかった。坪田さん（83）は「昔は屋根瓦の隙間にスズメは巣を作っていたが今は隙間がない。ツバメの巣をスズメが好んでいるのかな」と話している。",
-                "en": "On the 21st, when a parent sparrow came to feed its chicks, a parent swallow flew around as if keeping watch, but neither harmed the other's young. Mr. Tsubota (83) commented, 'Sparrows used to build nests in gaps between roof tiles, but there are no gaps anymore. Maybe sparrows have come to prefer swallows' nests.'",
-                "literal": "21日，当麻雀亲鸟来给雏鸟喂食时，燕子亲鸟像警戒一样在周围飞来飞去，但没有对对方的雏鸟造成伤害。坪田先生（83岁）说「以前麻雀在屋顶瓦片的缝隙中筑巢，但现在没有缝隙了。麻雀可能喜欢上燕子的巢了吧」。",
-                "grammar": "「〜ように」— 像…一样地。例：警戒するように（像警戒一样地）。\n「〜が」— 然而（转折）。例：危害を加えることはなかったが（但没有伤害）。\n「〜かな」— 表疑问或推测。例：好んでいるのかな（可能喜欢吧）。",
-                "vocab": [
-                    ["餌", "えさ", "饵、食物"],
-                    ["ひな", "ひな", "雏鸟"],
-                    ["飛び交う", "とびかう", "纷飞、飞来飞去"],
-                    ["危害", "きがい", "危害"],
-                    ["屋根瓦", "やねがわら", "屋顶瓦片"],
-                    ["隙間", "すきま", "缝隙"]
-                ]
-            }
-        ]
-    },
-    {
-        "slug": "disney-owakonka-neage",
-        "title": "値上げディズニーの「オワコン化」 子ども200万人減の裏で増える大人客",
-        "subtitle": "東京ディズニーリゾートがまた値上げ。家族で1日10万円も。売上最高も株価低迷のパラドックス。",
-        "paras": [
-            {
-                "ja": "東京ディズニーリゾートがまた値上げに踏み切る。2026年10月から大人1デーパスポートの上限価格が1万900円から1万2400円に引き上げられる。ネット上では「もう家族で行けない」「さすがに高すぎる」と悲鳴が上がっている。",
-                "en": "Tokyo Disney Resort is raising its prices once again. From October 2026, the maximum price for an adult 1-Day Passport will increase from 10,900 yen to 12,400 yen. Online, people are lamenting, 'We can no longer go as a family' and 'This is just too expensive.'",
-                "literal": "东京迪士尼度假村再次实施涨价。从2026年10月起，成人1日护照的上限价格将从1万900日元提高到1万2400日元。网上出现了「已经不能全家去了」「果然太贵了」等哀叹声。",
-                "grammar": "「〜に踏み切る」— 下决心做…。例：値上げに踏み切る（下决心涨价）。\n「〜から…に引き上げる」— 从…提高到…。例：1万900円から1万2400円に（从1万900日元提高到1万2400日元）。",
-                "vocab": [
-                    ["値上げ", "ねあげ", "涨价"],
-                    ["パスポート", "ぱすぽーと", "护照、通行证"],
-                    ["上限価格", "じょうげんかかく", "上限价格"],
-                    ["引き上げる", "ひきあげる", "提高、提升"],
-                    ["悲鳴", "ひめい", "哀鸣声、抱怨声"]
-                ]
-            },
-            {
-                "ja": "大人2人、中学生1人、小学生1人の家族なら、繁忙日は入園だけで4万円前後になり、食事やお土産、交通費を含めれば日帰りでも総額10万円近くになる。以前は中高生が友達同士で気軽に遊びに行ける場所だったが、今では一大イベントになりつつある。",
-                "en": "For a family of two adults, one middle school student, and one elementary school student, admission alone on peak days comes to around 40,000 yen. Including meals, souvenirs, and transportation, even a day trip could total nearly 100,000 yen. It used to be a place where high school students could casually go with friends, but it's now becoming a major event.",
-                "literal": "如果是大人2人、中学生1人、小学生1人的家庭，繁忙日仅入园就需要4万日元左右，包括餐饮、纪念品、交通费的话即使当天往返总金额也可能接近10万日元。以前是初高中生之间可以轻松去玩的地方，现在正在变成一大活动。",
-                "grammar": "「〜前後」— …左右。例：4万円前後（4万日元左右）。\n「〜つつある」— 正在逐渐…。例：なりつつある（正在逐渐变成）。",
-                "vocab": [
-                    ["繁忙日", "はんぼうび", "繁忙日"],
-                    ["入園", "にゅうえん", "入园"],
-                    ["お土産", "おみやげ", "纪念品、特产"],
-                    ["日帰り", "ひがえり", "当天往返"],
-                    ["一大イベント", "いちだい", "一大活动"]
-                ]
-            },
-            {
-                "ja": "運営会社のオリエンタルランドの売上高は過去最高を記録したが、株価は約半値に下落している。子どもや若者の来園者が減り、代わりに40代以上の大人客が増えていることが将来性への不安につながっているという。投資家たちは高価格路線の持続可能性に疑問を抱いている。",
-                "en": "While the operating company Oriental Land recorded its highest-ever revenue, its stock price has fallen to about half its peak. The decline in child and young visitors, replaced by an increase in adult visitors aged 40 and above, is said to be fueling concerns about future growth. Investors are questioning the sustainability of the high-price strategy.",
-                "literal": "运营公司Oriental Land的销售额创下历史最高纪录，但股价下跌至约一半。儿童和年轻人的入园人数减少，取而代之的是40岁以上成年客人的增加，这被指与对未来性的不安有关。投资者对高价路线的可持续性抱有疑问。",
-                "grammar": "「〜に」— 关于（表示结果）。例：半値に下落（跌至一半）。\n「〜につながる」— 导致…、与…相关。例：不安につながる（导致不安）。",
-                "vocab": [
-                    ["売上高", "うりあげだか", "销售额"],
-                    ["過去最高", "かこさいこう", "历史最高"],
-                    ["株価", "かぶか", "股价"],
-                    ["来園者", "らいえんしゃ", "来园游客"],
-                    ["将来性", "しょうらいせい", "未来性、前景"],
-                    ["投資家", "とうしか", "投资者"]
-                ]
-            }
-        ]
-    },
-    {
-        "slug": "hannmono-otoko-keisatsu-happou",
-        "title": "コンビニ駐車場で刃物男に警察官が発砲 住宅街に銃声 熊本",
-        "subtitle": "熊本県合志市のコンビニ駐車場で刃物を持った21歳の男に警察官が発砲。強盗の疑いも視野に捜査。",
-        "paras": [
-            {
-                "ja": "22日午後6時ごろ、熊本県合志市のコンビニ「ファミリーマート」の駐車場で、刃物を持った男に警察官が発砲する事件があった。警察が事件を認知したのは午後6時1分。コンビニの店員から「刃物を持った男が入ってきた」と通報があり、約5分後に警察官が現場に到着した。",
-                "en": "Around 6 PM on the 22nd, an incident occurred at a FamilyMart convenience store parking lot in Koshi City, Kumamoto Prefecture, where police officers fired at a man wielding a knife. Police received a report at 6:01 PM from a store employee saying 'a man with a knife came in,' and officers arrived at the scene about five minutes later.",
-                "literal": "22日下午6点左右，在熊本县合志市的便利店「FamilyMart」的停车场，发生了持刀男子被警察开枪的事件。警察在下午6点1分认知到事件。便利店店员报警称「持刀男子进来了」，约5分钟后警察到达现场。",
-                "grammar": "「〜ごろ」— …左右（时间）。例：午後6時ごろ（下午6点左右）。\n「〜て」— 表示原因。例：通報があり（因为有报警）。\n「〜た」— 过去式。例：到着した（到达了）。",
-                "vocab": [
-                    ["コンビニ", "こんびに", "便利店"],
-                    ["駐車場", "ちゅうしゃじょう", "停车场"],
-                    ["刃物", "はもの", "刀具、利器"],
-                    ["警察官", "けいさつかん", "警察官"],
-                    ["発砲", "はっぽう", "开枪、发射"],
-                    ["通報", "つうほう", "报警、通报"]
-                ]
-            },
-            {
-                "ja": "警察官が刃物を捨てるよう説得した上で発砲し、男に命中。現行犯逮捕されたのは近くに住む職業不詳の前田詩音容疑者（21）で、右肩と右足に軽傷を負った。男は確保された後、「強盗だ」と自分で言っていたという。",
-                "en": "After attempting to persuade the man to drop his weapon, the officers fired, hitting him. The suspect arrested at the scene was Shion Maeda (21), an unemployed local resident. He sustained minor injuries to his right shoulder and right leg. After being subdued, the man reportedly said 'I'm a robber' himself.",
-                "literal": "警察劝男子丢弃刀具后开枪，命中男子。被现行逮捕的是住在附近的职业不详的前田詩音嫌疑人（21岁），右肩和右足受了轻伤。该男子被控制后，自己说了「我是强盗」。",
-                "grammar": "「〜よう」— 表示方式/目的。例：捨てるよう説得（劝其丢弃）。\n「〜上で」— 在…之后。例：説得した上で（在劝告之后）。\n「〜という」— 据说。例：言っていたという（据说说了）。",
-                "vocab": [
-                    ["説得する", "せっとくする", "说服、劝导"],
-                    ["命中する", "めいちゅうする", "命中"],
-                    ["現行犯逮捕", "げんこうはんたいほ", "现行犯逮捕"],
-                    ["容疑者", "ようぎしゃ", "嫌疑人"],
-                    ["軽傷", "けいしょう", "轻伤"],
-                    ["強盗", "ごうとう", "强盗"]
-                ]
-            },
-            {
-                "ja": "警察は強盗の疑いもあるとみて捜査を進めている。現場周辺は住宅街で子どもの通う塾などもあり人通りが多い。警察は拳銃の使用が適正だったか調査中だとしている。7月20日にも神奈川県相模原市で同様の事案があり、警察の威嚇発砲の是非が注目されている。",
-                "en": "Police are also investigating on suspicion of robbery. The area around the scene is a residential neighborhood with many passersby, including children attending cram schools. Police say they are investigating whether the use of firearms was appropriate. A similar incident occurred in Sagamihara City, Kanagawa Prefecture on July 20th, drawing attention to the appropriateness of police warning shots.",
-                "literal": "警方也认为有抢劫嫌疑并展开调查。现场周围是住宅区，有孩子上补习班等，人流量大。警方表示正在调查枪支的使用是否适当。7月20日在神奈川县相模原市也发生了类似事件，警察的威吓射击的是非受到关注。",
-                "grammar": "「〜とみて」— 认为是…、判断为…。例：疑いもあるとみて（认为也有嫌疑）。\n「〜ている」— 正在…。例：調査中だとしている（表示正在调查）。",
-                "vocab": [
-                    ["捜査", "そうさ", "搜查、调查"],
-                    ["住宅街", "じゅうたくがい", "住宅区"],
-                    ["人通り", "ひとどおり", "人来人往"],
-                    ["拳銃", "けんじゅう", "手枪"],
-                    ["適正", "てきせい", "适当、合理"],
-                    ["威嚇", "いかく", "威胁、威吓"]
-                ]
-            }
-        ]
-    },
-    {
-        "slug": "gundam-shinsaku-2027",
-        "title": "『ガンダム』新作アニメ発表 2027年展開 神山健治監督が挑む新世界線",
-        "subtitle": "ガンダム新作『機動戦士ガンダムRG アレックスゼロ』が2027年に展開。ゲームと世界観を共有する新プロジェクト。",
-        "paras": [
-            {
-                "ja": "『ガンダム』シリーズの新作アニメ『機動戦士ガンダムRG XARX-ZERO』（アレックスゼロ）が制作されることが決定した。2027年に展開され、映像と場面カットが公開された。監督・シリーズ構成は神山健治氏、主人公のアズミ・レイ役は大塚剛央が担当する。",
-                "en": "A new Gundam series anime titled 'Mobile Suit Gundam RG XARX-ZERO' has been greenlit for production. It is set to launch in 2027, with visuals and scene cuts already released. The director and series composer is Kenji Kamiyama, with Takeo Otsuka voicing the protagonist Azumi Ray.",
-                "literal": "《高达》系列的新作动画《机动战士高达RG XARX-ZERO》（阿列克斯零）确定制作。将于2027年展开，映像和场景截图已公开。导演·系列构成为神山健治氏，主人公阿兹米·雷由大塚刚央饰演。",
-                "grammar": "「〜が決定した」— 决定…。例：制作されることが決定した（决定制作）。\n「〜役」— …角色。例：主人公のアズミ・レイ役（主人公阿兹米·雷的角色）。\n「〜が担当する」— 由…担任。例：大塚剛央が担当する（由大塚刚央担任）。",
-                "vocab": [
-                    ["ガンダム", "がんだむ", "高达"],
-                    ["新作", "しんさく", "新作品"],
-                    ["アニメ", "あにめ", "动画"],
-                    ["制作", "せいさく", "制作"],
-                    ["監督", "かんとく", "导演"],
-                    ["主人公", "しゅじんこう", "主人公"]
-                ]
-            },
-            {
-                "ja": "同作はゲーム「GUNDAM ROGUE ORBIT」と世界観を共有するメディアミックス企画「RGプロジェクト」の一環だ。アニメではゲームから約100年前の世界を舞台に物語が描かれ、ゲームではその後の世界をプレイヤー自身が体験する構成になっている。",
-                "en": "The work is part of the 'RG Project,' a media mix initiative sharing the same world setting as the game 'GUNDAM ROGUE ORBIT.' The anime will tell a story set about 100 years before the game, while the game allows players to personally experience the world that follows.",
-                "literal": "该作品是与游戏《GUNDAM ROGUE ORBIT》共享世界观的媒体混合企划「RG项目」的一环。动画将以游戏约100年前的世界为舞台描绘故事，而游戏则让玩家自身体验之后的世界。",
-                "grammar": "「〜を共有する」— 共享…。例：世界観を共有する（共享世界观）。\n「〜を舞台に」— 以…为舞台。例：世界を舞台に（以世界为舞台）。\n「〜一環だ」— 是…的一环。例：企画の一環だ（是企划的一环）。",
-                "vocab": [
-                    ["世界観", "せかいかん", "世界观"],
-                    ["メディアミックス", "めでぃあみっくす", "媒体混合（跨媒体）"],
-                    ["企画", "きかく", "企划、计划"],
-                    ["舞台", "ぶたい", "舞台"],
-                    ["体験する", "たいけんする", "体验"]
-                ]
-            },
-            {
-                "ja": "物語は太陽系外からもたらされた三つの福音により人類が空前の繁栄を迎えた世界が舞台。しかし発見から10年後にそれらが暴走し、攻撃的な自己増殖系が出現。人類は地球を放棄し、それから45年後、月面で一人の少年が目を覚ますところから物語が始まる。",
-                "en": "The story is set in a world where humanity has achieved unprecedented prosperity thanks to three 'gospels' brought from outside the solar system. However, 10 years after their discovery, they go rogue, spawning an aggressive self-replicating system. Humanity is forced to abandon Earth, and 45 years later, a boy awakens on the lunar surface — where the story begins.",
-                "literal": "故事以来自太阳系外的三个福音使人类迎来空前繁荣的世界为舞台。然而发现10年后它们暴走，出现攻击性的自我增殖系统。人类放弃地球，45年后一个月球表面的少年醒来——故事由此开始。",
-                "grammar": "「〜により」— 由于…。例：繁栄を迎えた（迎来了繁荣）。\n「〜から…後」— 从…之后。例：それから45年後（从那以后的45年后）。\n「〜ところから」— 从…之处。例：目を覚ますところから始まる（从醒来的地方开始）。",
-                "vocab": [
-                    ["太陽系", "たいようけい", "太阳系"],
-                    ["福音", "ふくいん", "福音"],
-                    ["空前", "くうぜん", "空前"],
-                    ["繁栄", "はんえい", "繁荣"],
-                    ["暴走する", "ぼうそうする", "失控、暴走"],
-                    ["月面", "げつめん", "月球表面"]
-                ]
-            }
-        ]
-    },
-    {
-        "slug": "naikaku-shijiritsu-teika-kikikan",
-        "title": "内閣支持率減 与党に危機感 皇室典範改正・国会運営が影響",
-        "subtitle": "高市内閣の支持率が下落。典範改正と強引な国会運営が要因か。食料品減税の判断迫られる。",
-        "paras": [
-            {
-                "ja": "報道各社の世論調査で高市内閣の支持率が下落している。皇室典範の改正や与党の国会運営が影響したとの見方が広がる。時事通信の7月の調査では支持率は49.0％で政権発足後の最低を記録。毎日新聞の調査でも支持率は10ポイント減の41％に落ち込んだ。",
-                "en": "Approval ratings for the Takaichi Cabinet are declining across media polls. A widespread view attributes this to the revision of the Imperial House Law and the ruling party's Diet management. In Jiji Press's July survey, the approval rate dropped to 49.0%, the lowest since the administration took office. Mainichi Shimbun's survey also showed a 10-point drop to 41%.",
-                "literal": "各媒体报道的舆论调查显示高市内阁的支持率正在下降。广泛的看法是皇室典范的修改和执政党的国会运营产生了影响。时事通信的7月调查中支持率为49.0%，是政权成立后的最低纪录。每日新闻的调查中支持率也下降了10个百分点至41%。",
-                "grammar": "「〜で下落する」— 在…方面下降。例：支持率が下落（支持率下降）。\n「〜との見方」— …的看法。例：影響したとの見方（认为产生了影响的看法）。\n「〜に落ち込む」— 跌至…。例：41％に落ち込んだ（跌至41%）。",
-                "vocab": [
-                    ["世論調査", "よろんちょうさ", "舆论调查"],
                     ["支持率", "しじりつ", "支持率"],
-                    ["下落する", "げらくする", "下降、下跌"],
-                    ["政権", "せいけん", "政权"],
-                    ["発足", "ほっそく", "成立、启动"],
-                    ["最低", "さいてい", "最低"]
-                ]
-            },
-            {
-                "ja": "与党からは深刻な受け止めが出ている。閣僚の一人は支持下落の理由について「皇室典範と強引な国会運営だ」と指摘した。典範改正を巡っては旧宮家の男系男子を養子として迎えることに国民の理解が得られていないとの声が根強い。首相の国会対応にも批判が集まっている。",
-                "en": "Serious concerns have emerged from within the ruling party. One cabinet minister pointed to 'the Imperial House Law and forceful Diet management' as reasons for the declining support. Regarding the law revision, there is persistent criticism that public understanding has not been gained for the plan to bring male descendants of former imperial families into the imperial household as adoptees. The Prime Minister's Diet handling has also drawn criticism.",
-                "literal": "执政党内部出现了严重的反应。一位阁僚指出支持率下降的原因「是皇室典范和强行国会运营」。围绕典范修改，关于将旧宫家男系男子作为养子迎入皇室一事根深蒂固地存在着国民理解不足的声音。首相的国会应对也受到批评。",
-                "grammar": "「〜について」— 关于…。例：理由について（关于理由）。\n「〜を巡って」— 围绕…。例：典範改正を巡って（围绕典范修改）。\n「〜との声」— …的声音。例：得られていないとの声（没有得到理解的声音）。",
-                "vocab": [
-                    ["深刻", "しんこく", "深刻"],
-                    ["受け止め", "うけとめ", "接受、反应"],
-                    ["閣僚", "かくりょう", "阁僚、部长"],
+                    ["急落", "きゅうらく", "急剧下降"],
                     ["強引", "ごういん", "强行、强硬"],
-                    ["旧宮家", "きゅうみやけ", "旧宫家（皇室分支）"],
-                    ["養子", "ようし", "养子"]
+                    ["孤高", "ここう", "孤高"],
+                    ["人間不信", "にんげんふしん", "对人的不信任"]
                 ]
             },
             {
-                "ja": "物価高対策の遅れも支持離れを招いたとの見方がある。首相は近く食料品の消費税減税の判断を迫られる。与党は衆院選公約で2年間の税率ゼロを掲げていたが、自民関係者は「消費税を1％に下げる中途半端な対応では支持率がさらに落ち込む」と懸念している。",
-                "en": "There is also a view that delays in addressing rising prices have led to declining support. The Prime Minister will soon face a decision on reducing the consumption tax on food items. The ruling party had promised a zero tax rate for two years in their Lower House election manifesto, but LDP insiders are concerned that 'a half-baked measure reducing the consumption tax to just 1% would cause approval ratings to fall even further.'",
-                "literal": "物价高涨对策的滞后也被认为导致了支持率下降。首相近期被迫就食品消费税减税做出判断。执政党在众议院选举公约中提出了两年税率为零的承诺，但自民党相关人士担心「将消费税降至1%的半吊子应对会导致支持率进一步下降」。",
-                "grammar": "「〜を招く」— 招致…。例：支持離れを招いた（招致了支持率下降）。\n「〜を迫られる」— 被迫…。例：判断を迫られる（被迫做出判断）。\n「〜では」— 如果是…的话（负面条件）。例：中途半端な対応では（如果是半吊子的应对的话）。",
+                "ja": "高市首相は1992年参院選で自民党からの出馬を申請するが、世襲候補との公認争いに敗れると、県連の反対を押し切って無所属で出馬して落選した。翌年衆院選でトップ当選を果たしたものの、地元県連とのしこりは大きく、その後も誹謗中傷や怪文書に悩まされ続けた。こうした経験から「若い頃に懲りて、誰から誘われても行かない」と議員との付き合いを避けるようになったという。",
+                "en": "Prime Minister Takaichi applied to run in the 1992 House of Councillors election as an LDP candidate, but after losing the endorsement race to a hereditary candidate, she ran as an independent against the prefectural association's opposition and lost. Although she achieved the top vote in the following year's general election, the rift with the local party association remained large, and she continued to suffer from slander and anonymous documents. These experiences reportedly taught her a lesson: 'I learned my lesson when I was young, so I don't go anywhere no matter who invites me,' leading her to avoid socializing with fellow lawmakers.",
+                "literal": "高市首相在1992年参院选举中申请从自民党出马，但在与世袭候选人的公认竞争中落败后，不顾县联的反对以无党派身份出马并落选。虽在次年的众院选举中以最高票当选，但与当地县联的芥蒂很大，之后也持续遭受诽谤中伤和匿名传单的困扰。据说从这些经验中「年轻时吃了教训，不管谁邀请都不去」，变得回避与议员的交往。",
+                "grammar": "〜を押し切る — 不顾…、强行…。例：反対を押し切って（不顾反对）。\n「〜ものの」— 虽然…但是…。例：果たしたものの（虽然实现了…但是…）。\n「〜という」— 据说…。例：避けるようになったという（据说变得回避了）。",
                 "vocab": [
-                    ["物価高", "ぶっかだか", "物价高涨"],
-                    ["対策", "たいさく", "对策"],
+                    ["出馬", "しゅつば", "出马、参选"],
+                    ["世襲", "せしゅう", "世袭"],
+                    ["公認", "こうにん", "公认、正式认可"],
+                    ["無所属", "むしょぞく", "无党派"],
+                    ["誹謗中傷", "ひぼうちゅうしょう", "诽谤中伤"]
+                ]
+            }
+        ]
+    },
+    {
+        "slug": "nihonka-suru-chugoku",
+        "title": "「日本化」する中国 2050年の1人当たりGDPは米国の4分の1に",
+        "subtitle": "英シンクタンクが中国経済の「日本化」リスクを指摘。不動産バブル崩壊で約2900兆円が消失。長期停滞の懸念。",
+        "paras": [
+            {
+                "ja": "2026年の中国は、日本が停滞に陥っていく有様を目の当たりにしてきた人なら誰にとっても見覚えのある様相を呈している。不動産バブルの崩壊が家計資産を蒸発させ、資産価格は低迷から抜け出せず、消費者は慎重姿勢に転じ、労働力は縮小しつつあり、統計データにはデフレが忍び寄る。これらは30年前に日本を低成長均衡の状態に閉じ込めたのと同じ要因の組み合わせだ。",
+                "en": "China in 2026 presents a picture familiar to anyone who has witnessed Japan's descent into stagnation. The collapse of the real estate bubble has evaporated household assets, asset prices remain mired in a slump, consumers have turned cautious, the labor force is shrinking, and deflation is creeping into the statistics. These are the same combination of factors that trapped Japan in a low-growth equilibrium 30 years ago.",
+                "literal": "2026年的中国，呈现出任何目睹过日本陷入停滞状态的人都熟悉的景象。房地产泡沫的崩溃使家庭资产蒸发，资产价格无法摆脱低迷，消费者转向谨慎态度，劳动力正在缩小，统计数据显示通缩正在逼近。这些都是30年前将日本封锁在低增长均衡状态中的相同因素的组合。",
+                "grammar": "「〜を目の当たりにする」— 亲眼目睹…。例：有様を目の当たりにしてきた（亲眼目睹了…的状态）。\n「〜つつある」— 正在…。例：縮小しつつあり（正在缩小）。\n「〜と同じ」— 与…相同。例：要因の組み合わせだ（是…因素的组合）。",
+                "vocab": [
+                    ["停滞", "ていたい", "停滞"],
+                    ["不動産", "ふどうさん", "不动产、房地产"],
+                    ["バブル", "ばぶる", "泡沫"],
+                    ["家計資産", "かけいしさん", "家庭资产"],
+                    ["デフレ", "でふれ", "通缩、通货紧缩"]
+                ]
+            },
+            {
+                "ja": "英経済シンクタンクのオックスフォード・エコノミクスによると、中国では不動産バブル崩壊により2025年末までに約18兆ドル（約2900兆円）の家計資産が失われた。損失額は2008年のリーマン・ショックを上回っている。同社の長期予測によれば、2050年になっても中国の1人当たりGDPは米国のわずか4分の1にとどまると予想される。生産性向上の度合いが今後の鍵を握るとしている。",
+                "en": "According to Oxford Economics, a British economic think tank, about $18 trillion (approx. 2,900 trillion yen) in household assets were lost in China by the end of 2025 due to the collapse of the real estate bubble. The losses exceed those of the 2008 Lehman Shock. According to their long-term forecast, China's per capita GDP will remain at only one-quarter of the US level even by 2050. The degree of productivity improvement will be the key going forward.",
+                "literal": "据英国经济智库Oxford Economics称，中国因房地产泡沫崩溃到2025年底损失了约18万亿美元（约2900万亿日元）的家庭资产。损失额超过了2008年的雷曼冲击。根据该公司的长期预测，即使到2050年，中国的人均GDP预计也仅停留在美国的四分之一。生产性提高的程度被认为是今后的关键。",
+                "grammar": "「〜によると」— 据…说。例：オックスフォード・エコノミクスによると（据Oxford Economics称）。\n「〜を上回る」— 超过…。例：損失額は…を上回っている（损失额超过…）。\n「〜にとどまる」— 停留在…。例：4分の1にとどまる（停留在四分之一）。",
+                "vocab": [
+                    ["シンクタンク", "しんくたんく", "智库"],
+                    ["損失額", "そんしつがく", "损失额"],
+                    ["リーマン・ショック", "りーまん・しょっく", "雷曼冲击"],
+                    ["長期予測", "ちょうきよそく", "长期预测"],
+                    ["生産性", "せいさんせい", "生产性"]
+                ]
+            }
+        ]
+    },
+    {
+        "slug": "syouhizei-genzei-seiken-owaru",
+        "title": "消費減税見送りなら「政権終わる」 支持率下落で官邸に危機感",
+        "subtitle": "食料品の消費税減税をめぐり高市首相が決断迫られる。実現しなければ政権存続も危ういとの見方。",
+        "paras": [
+            {
+                "ja": "飲食料品の消費税減税や低所得層向け給付を検討してきた「社会保障国民会議」は、与野党の間で空中分解してしまった。2年間だけの「消費税1％＋給付」の導入を高市首相は決断できるのか。専門家からは物価対策としての有効性や財源に疑問の声が上がり、自民党内にも反対は少なくなく、官邸は危機感いっぱいだという。",
+                "en": "The 'National Council on Social Security,' which had been considering consumption tax reductions on food and beverages as well as benefits for low-income groups, has fallen apart between the ruling and opposition parties. Can Prime Minister Takaichi decide to introduce a '1% consumption tax plus benefits' plan for only two years? Experts have raised questions about its effectiveness as a price measure and its funding, and there is considerable opposition even within the LDP, with the Prime Minister's Office reportedly full of a sense of crisis.",
+                "literal": "一直在讨论食品饮料消费税减税和向低收入阶层给付的「社会保障国民会议」在朝野政党之间空中解体了。高市首相应能否决断导入仅2年的「消费税1％+给付」？专家对其作为物价对策的有效性和财源提出了质疑，自民党内反对也不少，据称官邸充满危机感。",
+                "grammar": "「〜をめぐり」— 围绕…。例：減税をめぐり（围绕减税）。\n「〜か」— 表示疑问。例：決断できるのか（能够决断吗）。\n「〜という」— 据说…。例：危機感いっぱいだという（据说充满危机感）。",
+                "vocab": [
                     ["消費税", "しょうひぜい", "消费税"],
                     ["減税", "げんぜい", "减税"],
+                    ["低所得層", "ていしょとくそう", "低收入阶层"],
+                    ["給付", "きゅうふ", "给付、补贴"],
+                    ["財源", "ざいげん", "财源"]
+                ]
+            },
+            {
+                "ja": "「報道ステーション」は22日の放送で、官邸キャップが「間違いなく、高市総理は決断すると思う」「官邸を取材しているが『消費減税をやめよう』という雰囲気は一切ない」と伝えた。ANNの世論調査で内閣支持率は50％を切り、総選挙で公約した減税への疑念が一因とみられる。官邸内では「消費税をやらなければ政権が終わる」との危機感が広がっているという。高市首相は8月上旬までに決断するとしている。",
+                "en": "On the July 22 broadcast of 'News Station,' the chief government press officer reported, 'Prime Minister Takaichi will undoubtedly decide,' and 'In covering the Prime Minister's Office, there is absolutely no atmosphere of 'let's abandon the consumption tax cut.'' The ANN opinion poll showed the cabinet approval rating falling below 50%, with doubts about the tax cut promised in the general election seen as one factor. Within the Prime Minister's Office, a sense of crisis is spreading that 'if we don't implement the consumption tax cut, the administration will end.' Prime Minister Takaichi is expected to make a decision by early August.",
+                "literal": "「报道Station」在22日的节目中，官邸负责人传达了「毫无疑问，高市总理会做出决断」「在采访官邸时完全没有『放弃消费税减税』的氛围」。ANN的舆论调查中内阁支持率跌破50%，对总选举中承诺的减税的怀疑被认为是一个原因。官邸内据称蔓延着「如果不实行消费税减税，政权就会终结」的危机感。高市首相预计在8月上旬前做出决断。",
+                "grammar": "「〜と思う」— 认为…。例：決断すると思う（认为会决断）。\n「〜を切る」— 跌破…。例：50％を切った（跌破50%）。\n「〜としている」— 表示预定/声称。例：決断するとしている（预定做出决断）。",
+                "vocab": [
+                    ["官邸", "かんてい", "官邸、首相官邸"],
+                    ["キャップ", "きゃっぷ", "负责人、主任"],
+                    ["雰囲気", "ふんいき", "氛围、气氛"],
                     ["公約", "こうやく", "公约、承诺"],
-                    ["中途半端", "ちゅうとはんぱ", "半吊子、不彻底"]
+                    ["疑念", "ぎねん", "疑虑、怀疑"]
                 ]
             }
         ]
     },
     {
-        "slug": "trump-ohtani-sansan-dodgers",
-        "title": "トランプ大統領が大谷翔平を絶賛 25分スピーチ ドジャース表敬訪問",
-        "subtitle": "ワールドシリーズ連覇のドジャースがホワイトハウス訪問。トランプ大統領が大谷と山本を絶賛。",
+        "slug": "ukuraina-dorone-kougeki",
+        "title": "ウクライナ軍がロシアの通販倉庫にドローン攻撃 物流網への攻撃強める",
+        "subtitle": "ロシアのネット通販大手ワイルドベリーズの倉庫にドローン攻撃。ウクライナは軍事物流拠点と主張。",
         "paras": [
             {
-                "ja": "昨季ワールドシリーズ連覇を果たしたドジャースが23日、米ワシントンDCのホワイトハウスを表敬訪問し、大谷翔平投手（32）、山本由伸投手（27）、佐々木朗希投手（24）らがトランプ大統領（80）と対面した。トランプ大統領は約25分間のスピーチを行った。",
-                "en": "The Dodgers, who won consecutive World Series titles last season, made a courtesy visit to the White House in Washington D.C. on the 23rd. Pitchers Shohei Ohtani (32), Yoshinobu Yamamoto (27), and Roki Sasaki (24) met with President Donald Trump (80). President Trump delivered a speech lasting approximately 25 minutes.",
-                "literal": "上赛季达成世界大赛连冠的道奇队23日访问了美国华盛顿特区的白宫，大谷翔平投手（32岁）、山本由伸投手（27岁）、佐佐木朗希投手（24岁）等与特朗普总统（80岁）会面。特朗普总统发表了约25分钟的演讲。",
-                "grammar": "「〜を果たす」— 实现…、完成…。例：連覇を果たした（实现了连冠）。\n「〜と対面した」— 与…会面。例：大統領と対面した（与总统会面）。",
+                "ja": "ロシアのネット通販大手「ワイルドベリーズ」は24日、北西部・サンクトペテルブルクの郊外とレニングラード州にある倉庫がウクライナ軍によるドローン攻撃を受けたと発表した。レニングラード州の知事は、攻撃によって3人がけがをしたとしている。ウクライナ側はこうした施設がドローン用部品などの物流拠点になっていると主張し、攻撃を強めている。",
+                "en": "Russia's major online retailer Wildberries announced on the 24th that warehouses in the suburbs of northwestern St. Petersburg and in Leningrad Oblast were hit by a Ukrainian drone attack. The governor of Leningrad Oblast stated that three people were injured in the attack. Ukraine claims that such facilities serve as logistics hubs for drone components and is intensifying its attacks.",
+                "literal": "俄罗斯的网络购物巨头「Wildberries」24日发表声明称，位于西北部圣彼得堡郊外和列宁格勒州的仓库遭到乌克兰军队的无人机攻击。列宁格勒州州长表示攻击造成3人受伤。乌方主张此类设施是无人机用零部件等的物流据点，并加强了攻击。",
+                "grammar": "「〜による」— 由…引起的。例：ドローン攻撃による（由无人机攻击造成的）。\n「〜としている」— 表示主张/声称。例：3人がけがをしたとしている（声称有3人受伤）。\n「〜を強める」— 加强…。例：攻撃を強めている（正在加强攻击）。",
                 "vocab": [
-                    ["ワールドシリーズ", "わーるどしりーず", "世界大赛（MLB总决赛）"],
-                    ["連覇", "れんぱ", "连冠"],
-                    ["表敬訪問", "ひょうけいほうもん", "礼节性拜访"],
-                    ["対面する", "たいめんする", "会面、见面"],
-                    ["スピーチ", "すぴーち", "演讲"]
+                    ["ドローン", "どろーん", "无人机"],
+                    ["倉庫", "そうこ", "仓库"],
+                    ["ネット通販", "ねっとつうはん", "网络购物"],
+                    ["物流拠点", "ぶつりゅうきょてん", "物流据点"],
+                    ["負傷", "ふしょう", "受伤"]
                 ]
             },
             {
-                "ja": "トランプ大統領は壇上で大谷について「これまで満票でリーグMVPを2度以上受賞した選手はいない。ただ一人、日本が生んだ伝説、ショウヘイ・オオタニを除いて。誰もが彼を愛しています」と絶賛。昨季55本塁打を放ち満票でMVPを獲得したことに触れ、「史上最高の投手でありながら同時に史上最高の打者にもなれる」と称えた。",
-                "en": "On stage, President Trump praised Ohtani, saying, 'No player has ever won the league MVP unanimously more than twice, except for one — the legend born in Japan, Shohei Ohtani. Everyone loves him.' Referring to Ohtani's 55 home runs last season and unanimous MVP win, Trump lauded him as 'the greatest pitcher in history who can also be the greatest hitter at the same time.'",
-                "literal": "特朗普总统在台上关于大谷赞不绝口：「至今没有选手以满票获得联盟MVP两次以上。只有一个人例外——日本诞生的传说、大谷翔平。所有人都爱他」。提及上赛季55支本垒打以满票获得MVP的事迹，称赞他「既是有史以来最好的投手，同时也能成为有史以来最好的击球手」。",
-                "grammar": "「〜を除いて」— 除了…之外。例：オオタニを除いて（除了大谷之外）。\n「〜ながら」— 一边…一边…/虽然…但是…。例：投手でありながら（既是投手）。\n「〜に触れる」— 提及…。例：ことに触れ（提及了…的事）。",
+                "ja": "一方、ウクライナのゼレンスキー大統領は、ロシア中部キーロフにある軍事企業を攻撃したと明らかにした。この企業がミサイル用部品などを供給していたと主張している。また、この日、首都キーウ近郊へのロシア軍のミサイル攻撃で10人が死亡した。ウクライナとロシア双方が攻撃を激化させており、戦闘の長期化が懸念されている。",
+                "en": "Meanwhile, Ukrainian President Zelensky revealed that they had attacked a military enterprise in Kirov, central Russia, claiming that the enterprise was supplying missile components. Also on this day, 10 people were killed in a Russian missile attack on the outskirts of the capital Kyiv. Both Ukraine and Russia are intensifying their attacks, raising concerns about the prolonged conflict.",
+                "literal": "另一方面，乌克兰总统泽连斯基明确表示攻击了位于俄罗斯中部基洛夫的一家军事企业，并主张该企业供应导弹用零部件等。同一天，首都基辅近郊遭俄军导弹攻击，造成10人死亡。乌克兰和俄罗斯双方都在激化攻击，战争长期化令人担忧。",
+                "grammar": "「〜を明らかにした」— 明确表示…。例：攻撃したと明らかにした（明确表示进行了攻击）。\n「〜が懸念されている」— …令人担忧。例：長期化が懸念されている（长期化令人担忧）。",
                 "vocab": [
-                    ["満票", "まんぴょう", "全票、满票"],
-                    ["MVP", "えむぶいぴー", "MVP（最有价值球员）"],
-                    ["受賞する", "じゅしょうする", "获奖"],
-                    ["伝説", "でんせつ", "传说"],
-                    ["本塁打", "ほんるいだ", "本垒打"],
-                    ["称える", "たたえる", "称赞、赞扬"]
+                    ["大統領", "だいとうりょう", "总统"],
+                    ["軍事企業", "ぐんじきぎょう", "军工企业"],
+                    ["ミサイル", "みさいる", "导弹"],
+                    ["激化する", "げきかする", "激化"],
+                    ["長期化", "ちょうきか", "长期化"]
+                ]
+            }
+        ]
+    },
+    {
+        "slug": "ro-gun-kitahouryou-ryoukuu",
+        "title": "露軍の航空機 北方領土を領空侵犯 日本が厳重抗議",
+        "subtitle": "ロシア軍機が北海道・根室半島沖の北方領土上空で領空侵犯。航空自衛隊戦闘機が緊急発進した。",
+        "paras": [
+            {
+                "ja": "ロシア軍の航空機が24日、北海道・根室半島沖の北方領土上空で日本の領空を侵犯した。防衛省によると、ロシア軍機は国後島付近の領空に進入したという。航空自衛隊の戦闘機が緊急発進し、警告を行った。日本政府は外交ルートを通じてロシア側に厳重抗議し、再発防止を求めた。",
+                "en": "A Russian military aircraft violated Japan's airspace over the Northern Territories off the Nemuro Peninsula in Hokkaido on the 24th. According to the Defense Ministry, a Russian military aircraft entered Japan's airspace near Kunashiri Island. Air Self-Defense Force fighters scrambled and issued warnings. The Japanese government lodged a strong protest with Russia through diplomatic channels and demanded prevention of recurrence.",
+                "literal": "俄罗斯军机24日在北海道根室半岛外海的北方领土上空侵犯了日本领空。据防卫省称，俄罗斯军机进入了国后岛附近的领空。航空自卫队的战斗机紧急起飞并进行了警告。日本政府通过外交渠道向俄方提出严正抗议，并要求防止再次发生。",
+                "grammar": "「〜によると」— 据…说。例：防衛省によると（据防卫省称）。\n「〜という」— 据说…。例：進入したという（据说进入了）。\n「〜を通じて」— 通过…。例：外交ルートを通じて（通过外交渠道）。",
+                "vocab": [
+                    ["領空侵犯", "りょうくうしんぱん", "领空侵犯"],
+                    ["北方領土", "ほっぽうりょうど", "北方领土"],
+                    ["国後島", "くなしりとう", "国后岛"],
+                    ["航空自衛隊", "こうくうじえいたい", "航空自卫队"],
+                    ["緊急発進", "きんきゅうはっしん", "紧急起飞"]
                 ]
             },
             {
-                "ja": "山本由伸にも言及し、名前を呼んだ後は近寄ってガッチリ握手を交わした。トランプ氏は「ワールドシリーズMVPのヨシ・ヤマモト。本当に素晴らしい投球でした」と話した。今回は佐々木朗希投手が初参加。引退したカーショーの姿もあり、チームメートたちとの再会の場にもなった。",
-                "en": "Trump also mentioned Yoshinobu Yamamoto, approaching him after calling his name and giving a firm handshake. He said, 'World Series MVP Yoshi Yamamoto. Truly magnificent pitching.' This was Roki Sasaki's first participation. Retired pitcher Clayton Kershaw was also present, making it a reunion among teammates.",
-                "literal": "也提到了山本由伸，叫了名字后走近并紧紧地握了手。特朗普说「世界大赛MVP的山本由伸。真是精彩的投球」。这次佐佐木朗希投手首次参加。退役的克肖也在场，成为了队友们再会的场合。",
-                "grammar": "「〜に言及する」— 提及…。例：山本にも言及した（也提到了山本）。\n「〜を交わす」— 互相…。例：握手を交わした（互相握手）。",
+                "ja": "ロシア軍機による領空侵犯は近年増加傾向にあり、2024年度には過去最多を記録している。今回の侵犯を受け、首相官邸は情報収集を強化するよう関係省庁に指示した。外務省は「極めて遺憾であり、強く非難する」とのコメントを発表。ロシア側の意図をめぐっては、最近のウクライナ情勢との関連を指摘する声も出ている。",
+                "en": "Airspace violations by Russian military aircraft have been on the rise in recent years, reaching a record high in fiscal 2024. In response to this latest violation, the Prime Minister's Office instructed relevant ministries to strengthen intelligence gathering. The Foreign Ministry issued a statement saying, 'This is extremely regrettable and we strongly condemn it.' Regarding Russia's intentions, some voices point to a connection with the recent situation in Ukraine.",
+                "literal": "俄罗斯军机造成的领空侵犯近年来呈增加趋势，2024年度创下了历史最多记录。针对此次侵犯，首相官邸指示相关省厅加强情报收集。外务省发表了「极为遗憾，强烈谴责」的评论。围绕俄方的意图，也有指摘其与最近的乌克兰局势相关的意见。",
+                "grammar": "「〜傾向にある」— 有…趋势。例：増加傾向にある（有增加趋势）。\n「〜よう指示した」— 指示…。例：強化するよう指示した（指示加强）。\n「〜をめぐって」— 围绕…。例：意図をめぐって（围绕意图）。",
                 "vocab": [
-                    ["言及する", "げんきゅうする", "提及、提到"],
-                    ["握手", "あくしゅ", "握手"],
-                    ["投球", "とうきゅう", "投球"],
-                    ["初参加", "はつさんか", "首次参加"],
-                    ["引退する", "いんたいする", "退役、退休"],
-                    ["再会", "さいかい", "再会、重逢"]
+                    ["増加傾向", "ぞうかけいこう", "增加趋势"],
+                    ["過去最多", "かこさいとう", "历史最多"],
+                    ["情報収集", "じょうほうしゅうしゅう", "情报收集"],
+                    ["遺憾", "いかん", "遗憾"],
+                    ["非難する", "ひなんする", "谴责、批评"]
+                ]
+            }
+        ]
+    },
+    {
+        "slug": "gaikokujin-eijyu-genkaku",
+        "title": "政府が外国人の永住許可要件を厳格化へ 納税義務違反で取消も",
+        "subtitle": "政府が外国人の永住許可要件の厳格化案を提示。納税や社会保険料の未納があれば許可取り消しも可能に。",
+        "paras": [
+            {
+                "ja": "政府が外国人の永住許可要件を厳格化する方針を固めたことが明らかになった。新しい制度では、納税や社会保険料の未納があった場合に永住許可を取り消せるようにするほか、許可の申請には安定的な収入や一定以上の日本語能力を求める方向で調整が進められている。",
+                "en": "It has been revealed that the government has solidified a policy to tighten the requirements for permanent residency permits for foreigners. Under the new system, the government would be able to revoke permanent residency permits in cases of tax or social insurance premium non-payment, and adjustments are being made toward requiring stable income and a certain level of Japanese language ability for applications.",
+                "literal": "政府已明确将强化外国人永住许可条件的方针。在新制度下，除了能够在有纳税或社会保险费未缴纳的情况下取消永住许可外，还在朝着在许可申请时要求稳定的收入和一定以上日语能力的方向进行调整。",
+                "grammar": "「〜ことが明らかになった」— …变得明确。例：方針を固めたことが明らかになった（明确了…方针）。\n「〜ほか」— 除了…之外。例：取り消せるようにするほか（除了能够取消之外）。\n「〜方向で調整」— 朝着…方向调整。例：求められる方向で調整（朝着要求…的方向调整）。",
+                "vocab": [
+                    ["永住許可", "えいじゅうきょか", "永住许可"],
+                    ["厳格化", "げんかくか", "严格化"],
+                    ["納税", "のうぜい", "纳税"],
+                    ["社会保険料", "しゃかいほけんりょう", "社会保险费"],
+                    ["取り消す", "とりけす", "取消、撤销"]
+                ]
+            },
+            {
+                "ja": "現在、日本では約88万人の外国人が永住許可を持っている。政府は増加する外国人労働者の受け入れ拡大に伴い、制度の適正化が必要と判断した。一方、入管難民法の改正案には慎重な意見もあり、与党内でも調整が続いている。今後、国会で審議される見通しだ。",
+                "en": "Currently, approximately 880,000 foreigners hold permanent residency permits in Japan. The government has determined that the system needs to be streamlined as it expands the acceptance of foreign workers. On the other hand, there are cautious opinions about the proposed revisions to the Immigration Control and Refugee Recognition Act, and adjustments continue even within the ruling party. The bill is expected to be deliberated in the Diet going forward.",
+                "literal": "目前，日本约有88万外国人持有永住许可。政府判断随着扩大接收不断增加的外国劳动者，需要优化制度。另一方面，对于出入国管理难民法的修正案也存在慎重意见，执政党内也在继续调整。今后预计将在国会上进行审议。",
+                "grammar": "「〜に伴い」— 随着…。例：受け入れ拡大に伴い（随着接收扩大）。\n「〜と判断した」— 判断为…。例：必要と判断した（判断为有必要）。\n「〜見通しだ」— 预计是…。例：審議される見通しだ（预计将进行审议）。",
+                "vocab": [
+                    ["外国人", "がいこくじん", "外国人"],
+                    ["労働者", "ろうどうしゃ", "劳动者"],
+                    ["入管難民法", "にゅうかんなんみんほう", "出入境管理及难民认定法"],
+                    ["改正案", "かいせいあん", "修正案"],
+                    ["審議", "しんぎ", "审议"]
+                ]
+            }
+        ]
+    },
+    {
+        "slug": "isha-haikibutsu-iho-taiho",
+        "title": "医師の男を廃棄物処理法違反疑いで逮捕 麻酔薬を自身に注射か",
+        "subtitle": "医師の男が使用済み注射針などを駅トイレに不法投棄した疑い。麻酔薬を自身に注射し高揚感を得ていた。",
+        "paras": [
+            {
+                "ja": "注射針と麻酔薬入りの瓶を地下鉄の駅の男子トイレなどに捨てたとして、医師の木村光希容疑者（39）が警視庁に逮捕された。廃棄物処理法違反の疑いで、今年3月、注射針8本と麻酔薬入りの瓶を都営新宿線・浜町駅の男子トイレや多目的トイレに捨てたとされている。",
+                "en": "Doctor Kimura Koki (39) was arrested by the Tokyo Metropolitan Police on suspicion of illegally disposing of used needles and anesthetic vials in a men's restroom at a subway station. He is suspected of violating the Waste Disposal Act by discarding 8 used needles and anesthetic vials in the men's and multi-purpose restrooms at Hamacho Station on the Toei Shinjuku Line in March this year.",
+                "literal": "因将注射针和装有麻醉药的瓶子丢弃在地铁站的男厕等处，医生木村光希嫌疑人（39岁）被警视厅逮捕。涉嫌违反废弃物处理法，今年3月将8根注射针和装麻醉药的瓶子丢弃在都营新宿线滨町站的男厕和多用途厕所。",
+                "grammar": "「〜として」— 因为…（理由）。例：捨てたとして（因为丢弃了）。\n「〜疑いで」— 以…嫌疑。例：違反の疑いで（以违反的嫌疑）。\n「〜とされている」— 被认为/被认定为。例：捨てたとされている（被认定为丢弃了）。",
+                "vocab": [
+                    ["医師", "いし", "医生"],
+                    ["注射針", "ちゅうしゃばり", "注射针头"],
+                    ["麻酔薬", "ますいやく", "麻醉药"],
+                    ["廃棄物", "はいきぶつ", "废弃物"],
+                    ["逮捕", "たいほ", "逮捕"]
+                ]
+            },
+            {
+                "ja": "当時、木村容疑者はトイレで麻酔薬を自身に注射した後、駅の構内で叫んでいたことから駅員に通報されたという。調べに対し、木村容疑者は「高揚感を得るため麻酔薬を使用していた」と供述する一方、「薬の影響で判断力が低下しており、故意ではない」と述べている。また「認可がおりていない薬を学術研究で使用した」という趣旨の供述もしており、警視庁は余罪についても調べている。",
+                "en": "At the time, Kimura allegedly injected himself with anesthetic in the restroom and then shouted inside the station, which led station staff to report him. During questioning, Kimura stated that 'I used anesthetics to get a feeling of euphoria,' while also claiming that 'my judgment was impaired due to the drugs, so it was not intentional.' He also reportedly stated that he 'used unapproved drugs for academic research,' and police are investigating possible additional offenses.",
+                "literal": "当时，木村嫌疑人据称在厕所给自己注射了麻醉药后，在车站内大声喊叫，因此被站员通报。面对调查，木村嫌疑人供述「为了获得兴奋感使用了麻醉药」，但同时称「受药物影响判断力下降，并非故意」。此外还供述了「在学术研究中使用了未经批准的药物」，警视厅也在调查其他罪行。",
+                "grammar": "「〜ことから」— 因为…。例：叫んでいたことから（因为在大叫）。\n「〜一方」— 一方面…另一方面…。例：供述する一方（一方面供述…）。\n「〜という趣旨」— …内容/大意。例：供述もしている（也做了…内容的供述）。",
+                "vocab": [
+                    ["容疑者", "ようぎしゃ", "嫌疑人"],
+                    ["構内", "こうない", "站内、院内"],
+                    ["通報", "つうほう", "通报、报警"],
+                    ["高揚感", "こうようかん", "兴奋感、高涨感"],
+                    ["故意", "こい", "故意"],
+                    ["余罪", "よざい", "其他罪行"]
+                ]
+            }
+        ]
+    },
+    {
+        "slug": "kirishima-nanji-itaibu",
+        "title": "霧島市の遺体は行方不明の5歳男児と判明 父親が胸中を語る",
+        "subtitle": "鹿児島・霧島市の温泉施設から行方不明となっていた田中嶺臣くんの遺体が700m下流で発見された。",
+        "paras": [
+            {
+                "ja": "鹿児島県霧島市の天降川で先週見つかった遺体の身元について、霧島警察署は先月21日から行方不明となっていた熊本県八代市の保育園児・田中嶺臣くん（5歳）であることが分かったと発表した。警察が司法解剖しDNA型鑑定などを行った結果、遺体が嶺臣くんであることが確認された。死因などについては引き続き捜査中だ。",
+                "en": "Regarding the identity of a body found last week in the Amorigawa River in Kirishima City, Kagoshima Prefecture, the Kirishima Police Station announced that it was 5-year-old Tanaka Reomi, a kindergarten child from Yatsushiro City, Kumamoto Prefecture, who had been missing since the 21st of last month. Following a judicial autopsy and DNA analysis, the body was confirmed to be Reomi. The cause of death and other details remain under investigation.",
+                "literal": "关于上周在鹿儿岛县雾岛市的天降川发现的遗体身份，雾岛警察署公布，查明是自上月21日起失踪的熊本县八代市保育园儿童田中岭臣君（5岁）。警察进行司法解剖和DNA型鉴定等的结果，确认遗体为岭臣君。死因等正在继续调查中。",
+                "grammar": "「〜について」— 关于…。例：身元について（关于身份）。\n「〜ことが分かった」— 判明…。例：男児であることが分かった（判明是男童）。\n「〜結果」— …的结果。例：鑑定などを行った結果（进行鉴定等的结果）。",
+                "vocab": [
+                    ["遺体", "いたい", "遗体"],
+                    ["行方不明", "ゆくえふめい", "下落不明"],
+                    ["保育園児", "ほいくえんじ", "保育园儿童"],
+                    ["司法解剖", "しほうかいぼう", "司法解剖"],
+                    ["死因", "しん", "死因"]
+                ]
+            },
+            {
+                "ja": "嶺臣くんは先月21日、家族で訪れた霧島市の温泉施設で入浴中に、両親が目を離した間に浴室からいなくなり行方が分からなくなっていた。施設の浴室からは窓を通じて外に出られる構造で、窓から地面までは約180センチの高さがあり、その後ろには約3メートルの土手と川がある。父親は取材に対し「帰ってきてくれてよかった、生きていてほしかった」と胸中を語った。",
+                "en": "Reomi went missing on the 21st of last month while bathing at a hot spring facility in Kirishima City with his family, when his parents looked away and he disappeared from the bathroom. The facility's bathroom had a structure allowing exit through a window, with a height of about 180 cm from the window to the ground, behind which there is a roughly 3-meter embankment and a river. His father told reporters, 'I'm glad you came back, I wish you could have lived,' expressing his heartache.",
+                "literal": "岭臣君上个月21日与家人一起到访的雾岛市温泉设施入浴时，在父母视线离开期间从浴室消失，行踪不明。设施浴室的构造可以通过窗户到外面，从窗户到地面约180厘米高，其后有约3米的堤坝和河流。父亲在接受采访时表达了心声：「能回来真是太好了，真希望你还活着」。",
+                "grammar": "「〜間に」— 在…期间。例：目を離した間に（在视线移开的期间）。\n「〜構造で」— …的构造。例：出られる構造で（是可以出去的构造）。\n「〜に対し」— 对…、面对…。例：取材に対し（面对采访）。",
+                "vocab": [
+                    ["温泉施設", "おんせんしせつ", "温泉设施"],
+                    ["入浴", "にゅうよく", "入浴"],
+                    ["目を離す", "めをはなす", "视线移开"],
+                    ["窓", "まど", "窗户"],
+                    ["土手", "どて", "堤坝、河岸"],
+                    ["胸中", "きょうちゅう", "心中、内心"]
                 ]
             }
         ]
