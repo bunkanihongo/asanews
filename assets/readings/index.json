@@ -1,5 +1,149 @@
 [
   {
+    "id": "fukutokyo-kakuchi-meigori",
+    "title": "副首都に大阪・福岡・愛知が名乗り 北海道・宮城も意欲",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-26",
+    "file": "assets/readings/fukutokyo-kakuchi-meigori.json"
+  },
+  {
+    "id": "shinagawa-mansion-kaji",
+    "title": "品川区のマンションで火事 ソーラーパネル充電中に出火か",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-26",
+    "file": "assets/readings/shinagawa-mansion-kaji.json"
+  },
+  {
+    "id": "okayadokari-4163-taiho",
+    "title": "天然記念物オカヤドカリ4163匹を発送 中国籍の男3人逮捕",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-26",
+    "file": "assets/readings/okayadokari-4163-taiho.json"
+  },
+  {
+    "id": "chugokujin-kankoku-hanchuu",
+    "title": "習近平「日本は危険」で中国人が韓国へ 反中感情が爆発",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-26",
+    "file": "assets/readings/chugokujin-kankoku-hanchuu.json"
+  },
+  {
+    "id": "ukuraina-dorone-taikoku",
+    "title": "ウクライナが「ドローン大国」に変貌 生産量は年間300万〜600万機",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-26",
+    "file": "assets/readings/ukuraina-dorone-taikoku.json"
+  },
+  {
+    "id": "ozumo-atsumifuji-360man",
+    "title": "横綱撃破で360万円 大相撲・熱海富士が懸賞60本を獲得",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-26",
+    "file": "assets/readings/ozumo-atsumifuji-360man.json"
+  },
+  {
+    "id": "maeda-daizen-premier",
+    "title": "前田大然がプレミアリーグへ イプスウィッチが獲得発表",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-26",
+    "file": "assets/readings/maeda-daizen-premier.json"
+  },
+  {
+    "id": "takaichi-shijiritsu-kokkarinen",
+    "title": "混迷国会で「高市離れ」の兆候 期待と違う市民の声",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-26",
+    "file": "assets/readings/takaichi-shijiritsu-kokkarinen.json"
+  },
+  {
+    "id": "okamoto-kouzou-soushiki",
+    "title": "レバノンで岡本公三元被告の葬儀 英雄視する声も",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-26",
+    "file": "assets/readings/okamoto-kouzou-soushiki.json"
+  },
+  {
+    "id": "fukutokyo-kakuchi-meigori",
+    "title": "副首都に大阪・福岡・愛知が名乗り 北海道・宮城も意欲",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-26",
+    "file": "assets/readings/fukutokyo-kakuchi-meigori.json"
+  },
+  {
+    "id": "shinagawa-mansion-kaji",
+    "title": "品川区のマンションで火事 ソーラーパネル充電中に出火か",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-26",
+    "file": "assets/readings/shinagawa-mansion-kaji.json"
+  },
+  {
+    "id": "okayadokari-4163-taiho",
+    "title": "天然記念物オカヤドカリ4163匹を発送 中国籍の男3人逮捕",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-26",
+    "file": "assets/readings/okayadokari-4163-taiho.json"
+  },
+  {
+    "id": "chugokujin-kankoku-hanchuu",
+    "title": "習近平「日本は危険」で中国人が韓国へ 反中感情が爆発",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-26",
+    "file": "assets/readings/chugokujin-kankoku-hanchuu.json"
+  },
+  {
+    "id": "ukuraina-dorone-taikoku",
+    "title": "ウクライナが「ドローン大国」に変貌 生産量は年間300万〜600万機",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-26",
+    "file": "assets/readings/ukuraina-dorone-taikoku.json"
+  },
+  {
+    "id": "ozumo-atsumifuji-360man",
+    "title": "横綱撃破で360万円 大相撲・熱海富士が懸賞60本を獲得",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-26",
+    "file": "assets/readings/ozumo-atsumifuji-360man.json"
+  },
+  {
+    "id": "maeda-daizen-premier",
+    "title": "前田大然がプレミアリーグへ イプスウィッチが獲得発表",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-26",
+    "file": "assets/readings/maeda-daizen-premier.json"
+  },
+  {
+    "id": "takaichi-shijiritsu-kokkarinen",
+    "title": "混迷国会で「高市離れ」の兆候 期待と違う市民の声",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-26",
+    "file": "assets/readings/takaichi-shijiritsu-kokkarinen.json"
+  },
+  {
+    "id": "okamoto-kouzou-soushiki",
+    "title": "レバノンで岡本公三元被告の葬儀 英雄視する声も",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-26",
+    "file": "assets/readings/okamoto-kouzou-soushiki.json"
+  },
+  {
     "id": "fukushuto-houritsu-seiritsu",
     "title": "「副首都構想」具体化に向けた法律が可決・成立",
     "level": "中級",
