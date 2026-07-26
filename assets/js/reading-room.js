@@ -70,7 +70,159 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                        const READING_LIST = [
+                                                const READING_LIST = [
+    {
+      id: 'takaichi-shijiritsu-57',
+      title: '高市内閣支持が急落57％ 首相の説明「不十分」62％',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/takaichi-shijiritsu-57.json'
+    },
+    {
+      id: 'josei-tennou-younin-81',
+      title: '女性天皇容認に賛成81％ 共同通信世論調査',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/josei-tennou-younin-81.json'
+    },
+    {
+      id: 'iran-houfuku-kyuushi',
+      title: 'イランが報復休止 米軍の攻撃停止受け',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/iran-houfuku-kyuushi.json'
+    },
+    {
+      id: 'toyota-6nen-sekaiichi',
+      title: '豊田章男の5年前の警告は正しかった トヨタが6年連続世界一',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/toyota-6nen-sekaiichi.json'
+    },
+    {
+      id: 'funai-denki-hasan',
+      title: '船井電機が破産 社員が見た「いちばん長い日」',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/funai-denki-hasan.json'
+    },
+    {
+      id: 'squeeze-ryuukou',
+      title: '「スクイーズ」なぜ流行？ 専門家が明かす4つの理由',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/squeeze-ryuukou.json'
+    },
+    {
+      id: 'fujisan-taiwan-josei',
+      title: '富士登山中の台湾女性 山頂で突然意識失う',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/fujisan-taiwan-josei.json'
+    },
+    {
+      id: 'taifuu-nettaiteikiatsu',
+      title: '新たな熱帯低気圧が台風に発達か 今後の進路に注意',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/taifuu-nettaiteikiatsu.json'
+    },
+    {
+      id: 'takaichi-tsuyoki-kokkai',
+      title: '高市首相 強気貫く国会運営 自民重鎮「いつかしっぺ返し」',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/takaichi-tsuyoki-kokkai.json'
+    },
+    {
+      id: 'topnews-pickup-0727',
+      title: '今日の注目ニュースピックアップ（7月27日）',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/topnews-pickup-0727.json'
+    },
+    {
+      id: 'fukutokyo-kakuchi-meigori',
+      title: '副首都に大阪・福岡・愛知が名乗り 北海道・宮城も意欲',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/fukutokyo-kakuchi-meigori.json'
+    },
+    {
+      id: 'shinagawa-mansion-kaji',
+      title: '品川区のマンションで火事 ソーラーパネル充電中に出火か',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/shinagawa-mansion-kaji.json'
+    },
+    {
+      id: 'okayadokari-4163-taiho',
+      title: '天然記念物オカヤドカリ4163匹を発送 中国籍の男3人逮捕',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/okayadokari-4163-taiho.json'
+    },
+    {
+      id: 'chugokujin-kankoku-hanchuu',
+      title: '習近平「日本は危険」で中国人が韓国へ 反中感情が爆発',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/chugokujin-kankoku-hanchuu.json'
+    },
+    {
+      id: 'ukuraina-dorone-taikoku',
+      title: 'ウクライナが「ドローン大国」に変貌 生産量は年間300万〜600万機',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/ukuraina-dorone-taikoku.json'
+    },
+    {
+      id: 'ozumo-atsumifuji-360man',
+      title: '横綱撃破で360万円 大相撲・熱海富士が懸賞60本を獲得',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/ozumo-atsumifuji-360man.json'
+    },
+    {
+      id: 'maeda-daizen-premier',
+      title: '前田大然がプレミアリーグへ イプスウィッチが獲得発表',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/maeda-daizen-premier.json'
+    },
+    {
+      id: 'takaichi-shijiritsu-kokkarinen',
+      title: '混迷国会で「高市離れ」の兆候 期待と違う市民の声',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/takaichi-shijiritsu-kokkarinen.json'
+    },
+    {
+      id: 'okamoto-kouzou-soushiki',
+      title: 'レバノンで岡本公三元被告の葬儀 英雄視する声も',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/okamoto-kouzou-soushiki.json'
+    },
     {
       id: 'fukutokyo-kakuchi-meigori',
       title: '副首都に大阪・福岡・愛知が名乗り 北海道・宮城も意欲',

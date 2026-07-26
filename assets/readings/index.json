@@ -1,5 +1,85 @@
 [
   {
+    "id": "takaichi-shijiritsu-57",
+    "title": "高市内閣支持が急落57％ 首相の説明「不十分」62％",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-27",
+    "file": "assets/readings/takaichi-shijiritsu-57.json"
+  },
+  {
+    "id": "josei-tennou-younin-81",
+    "title": "女性天皇容認に賛成81％ 共同通信世論調査",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-27",
+    "file": "assets/readings/josei-tennou-younin-81.json"
+  },
+  {
+    "id": "iran-houfuku-kyuushi",
+    "title": "イランが報復休止 米軍の攻撃停止受け",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-27",
+    "file": "assets/readings/iran-houfuku-kyuushi.json"
+  },
+  {
+    "id": "toyota-6nen-sekaiichi",
+    "title": "豊田章男の5年前の警告は正しかった トヨタが6年連続世界一",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-27",
+    "file": "assets/readings/toyota-6nen-sekaiichi.json"
+  },
+  {
+    "id": "funai-denki-hasan",
+    "title": "船井電機が破産 社員が見た「いちばん長い日」",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-07-27",
+    "file": "assets/readings/funai-denki-hasan.json"
+  },
+  {
+    "id": "squeeze-ryuukou",
+    "title": "「スクイーズ」なぜ流行？ 専門家が明かす4つの理由",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-27",
+    "file": "assets/readings/squeeze-ryuukou.json"
+  },
+  {
+    "id": "fujisan-taiwan-josei",
+    "title": "富士登山中の台湾女性 山頂で突然意識失う",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-27",
+    "file": "assets/readings/fujisan-taiwan-josei.json"
+  },
+  {
+    "id": "taifuu-nettaiteikiatsu",
+    "title": "新たな熱帯低気圧が台風に発達か 今後の進路に注意",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-27",
+    "file": "assets/readings/taifuu-nettaiteikiatsu.json"
+  },
+  {
+    "id": "takaichi-tsuyoki-kokkai",
+    "title": "高市首相 強気貫く国会運営 自民重鎮「いつかしっぺ返し」",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-27",
+    "file": "assets/readings/takaichi-tsuyoki-kokkai.json"
+  },
+  {
+    "id": "topnews-pickup-0727",
+    "title": "今日の注目ニュースピックアップ（7月27日）",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-07-27",
+    "file": "assets/readings/topnews-pickup-0727.json"
+  },
+  {
     "id": "fukutokyo-kakuchi-meigori",
     "title": "副首都に大阪・福岡・愛知が名乗り 北海道・宮城も意欲",
     "level": "中級",
