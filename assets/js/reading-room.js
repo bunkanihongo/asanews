@@ -70,7 +70,79 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                const READING_LIST = [
+                                                        const READING_LIST = [
+    {
+      id: 'shokuhin-syouhizei-1p',
+      title: '食料品の消費税1％ 政府・与党が方針固める 首相が30日にも指示へ',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/shokuhin-syouhizei-1p.json'
+    },
+    {
+      id: 'taifuu13-gou-mouretsu',
+      title: '台風13号「ドルフィン」最強ランク「猛烈な」勢力へ 中心気圧915hPa',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/taifuu13-gou-mouretsu.json'
+    },
+    {
+      id: 'henoko-doushisha-sousaku',
+      title: '辺野古転覆事故 海上保安当局が同志社国際高校を家宅捜索',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/henoko-doushisha-sousaku.json'
+    },
+    {
+      id: 'trump-frb-risage',
+      title: 'トランプ氏 FRBに利下げを要求 ウォーシュ議長は「素晴らしい」',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/trump-frb-risage.json'
+    },
+    {
+      id: 'rosia-gun-teiin-zou',
+      title: 'ロシア軍の定員242万6000人に引き上げ プーチン大統領が署名',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/rosia-gun-teiin-zou.json'
+    },
+    {
+      id: 'ukuraina-rosia-douin',
+      title: 'ウクライナ大統領「ロシアが30万〜50万人の動員を計画」',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/ukuraina-rosia-douin.json'
+    },
+    {
+      id: 'reomichan-itaiken',
+      title: '「頑張ったね、おうちに帰ろうね」 行方不明の5歳男児・嶺臣ちゃん 父親が最後の対面語る',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/reomichan-itaiken.json'
+    },
+    {
+      id: 'kiritani-hiroto-gan',
+      title: '桐谷広人さん 前立腺と大腸に「2つのがん」 闘病と株主優待の日々',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/kiritani-hiroto-gan.json'
+    },
+    {
+      id: 'chugoku-teppomizu',
+      title: '中国のキャンプ場で「鉄砲水」 テントが次々濁流に 10人死亡',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/chugoku-teppomizu.json'
+    },
     {
       id: 'takaichi-shijiritsu-57',
       title: '高市内閣支持が急落57％ 首相の説明「不十分」62％',
