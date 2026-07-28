@@ -70,7 +70,95 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                        const READING_LIST = [
+                                                                                                                const READING_LIST = [
+    {
+      id: 'kumamoto-m71-shindo7',
+      title: '熊本県で最大震度7 M7.1の地震 広範囲で被害',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/kumamoto-m71-shindo7.json'
+    },
+    {
+      id: 'kumamoto-seihu-zien',
+      title: '高市首相「人命第一で対応」 政府が被災地支援を急ぐ',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/kumamoto-seihu-zien.json'
+    },
+    {
+      id: 'kumamoto-kisyatu-rikisya',
+      title: '熊本で震度7の地震 熱中症にも警戒を',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/kumamoto-kisyatu-rikisya.json'
+    },
+    {
+      id: 'byd-karukei-ev',
+      title: '中国BYDが日本で軽EV「ラッコ」 実質100万円台',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/byd-karukei-ev.json'
+    },
+    {
+      id: 'kokuren-futsu-hatugen-taiseki',
+      title: '国連安保理で仏発言中に米代表団が退席',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/kokuren-futsu-hatugen-taiseki.json'
+    },
+    {
+      id: 'higashino-keigo-daichogan',
+      title: '作家・東野圭吾さん 大腸がんのため死去 68歳',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/higashino-keigo-daichogan.json'
+    },
+    {
+      id: 'sekai-ijou-kishou',
+      title: '欧州で史上最悪の山火事 世界で異常気象が続出',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/sekai-ijou-kishou.json'
+    },
+    {
+      id: 'natsu-kaisoku-nouhizyou',
+      title: '夏の快眠 専門家がすすめ「脳を冷やす」方法',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/natsu-kaisoku-nouhizyou.json'
+    },
+    {
+      id: 'kodomo-sns-nenrei-seigen',
+      title: '子どものSNS利用に一律年齢制限 政府が検討へ',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/kodomo-sns-nenrei-seigen.json'
+    },
+    {
+      id: 'm-kunren-tairan-kougeki',
+      title: '米大統領 イランと友好的協議続けるも決裂なら攻撃も',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/m-kunren-tairan-kougeki.json'
+    },
+    {
+      id: 'apple-shijyou-syuri',
+      title: 'Apple時価総額 世界首位に返り咲き 株価過去最高',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/apple-shijyou-syuri.json'
+    },
     {
       id: 'shokuhin-syouhizei-1p',
       title: '食料品の消費税1％ 政府・与党が方針固める 首相が30日にも指示へ',
