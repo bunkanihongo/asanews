@@ -70,7 +70,87 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                                                                                const READING_LIST = [
+                                                                                                                  const READING_LIST = [
+    {
+      id: 'takaichi-shijiritsu-bunseki',
+      title: '高市首相の支持率急落 原因は「説明不足」と物価高 各社調査',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/takaichi-shijiritsu-bunseki.json'
+    },
+    {
+      id: 'aeon-kumamoto-tuma-onshin',
+      title: 'イオンモールで働く妻から「そっちは大丈夫？」 その後途絶えた音信',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/aeon-kumamoto-tuma-onshin.json'
+    },
+    {
+      id: 'fukuoka-kengikai-kenkin',
+      title: '福岡県議会で金銭授受疑惑 自民県議団が大きく揺れる',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/fukuoka-kengikai-kenkin.json'
+    },
+    {
+      id: 'kome-neage-sinn-hannin',
+      title: 'コメの価格を吊り上げている「真犯人」 JAや農家ではなかった',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/kome-neage-sinn-hannin.json'
+    },
+    {
+      id: 'taifuu13-gou-mouretsu-0730',
+      title: '台風13号「ドルフィン」きょう午後にも「猛烈な」勢力 910hPa予想',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/taifuu13-gou-mouretsu-0730.json'
+    },
+    {
+      id: 'taiimee-hoikushi-kyanseru',
+      title: 'タイミー保育士が直前キャンセルで賃金ゼロ 労基署が是正指導',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/taiimee-hoikushi-kyanseru.json'
+    },
+    {
+      id: 'volley-danshi-junkesshou',
+      title: 'バレー男子日本代表が中国に逆転勝利 準決勝進出13連勝',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/volley-danshi-junkesshou.json'
+    },
+    {
+      id: 'iwaya-takeshi-kugen-renpatsu',
+      title: '岩屋毅前外相が高市政権に苦言 国旗損壊罪や副首都法に疑問',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/iwaya-takeshi-kugen-renpatsu.json'
+    },
+    {
+      id: 'seikatsudouro-houriteisoku-30',
+      title: '生活道路の法定速度30キロに 9月から60キロで一発免停',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/seikatsudouro-houriteisoku-30.json'
+    },
+    {
+      id: 'aeon-kumamoto-bakuhatsu-kaiken',
+      title: 'イオン社長「爆発、想定しきれず」 熊本震度7の事故で謝罪',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/aeon-kumamoto-bakuhatsu-kaiken.json'
+    },
     {
       id: 'kumamoto-m71-shindo7',
       title: '熊本県で最大震度7 M7.1の地震 広範囲で被害',
@@ -831,7 +911,7 @@
       badge: '2段落',
       file: '/asanews/assets/readings/kokkai-ennchuu-gaiyuu-chuushi.json'
     }
-    ];
+  ];
 
   function renderList() {
     container.innerHTML = '';
