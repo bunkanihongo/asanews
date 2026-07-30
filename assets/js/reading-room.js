@@ -70,7 +70,95 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                                                                                  const READING_LIST = [
+                                                                                                                                  const READING_LIST = [
+    {
+      id: 'syouhizei-1p-hyoumei',
+      title: '高市首相 食料品の消費税率「1％」を正式表明 実質ゼロへ',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/syouhizei-1p-hyoumei.json'
+    },
+    {
+      id: 'taifuu13-dolphin-mouretsu',
+      title: '台風13号「ドルフィン」猛烈な勢力で北上 九州・沖縄に接近か',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/taifuu13-dolphin-mouretsu.json'
+    },
+    {
+      id: 'saichou-katsudansou-m8',
+      title: '「南海トラフだけではない」1000年以上沈黙する日本最長の活断層',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/saichou-katsudansou-m8.json'
+    },
+    {
+      id: 'kumamoto-jishin-hisaisha-koe',
+      title: '「シャワーが泥水」熊本地震 被災者の生の声と求める支援',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/kumamoto-jishin-hisaisha-koe.json'
+    },
+    {
+      id: 'matsunoya-mama-ouen-natsu',
+      title: '松のや「ママ応援企画」に批判 謝罪し「夏休み企画」に変更',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/matsunoya-mama-ouen-natsu.json'
+    },
+    {
+      id: 'fukuoka-kengikai-kingin',
+      title: '福岡県議会「カツアゲ問題」 告発議員を支える重鎮とフジ人気アナ',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/fukuoka-kengikai-kingin.json'
+    },
+    {
+      id: 'juuminzei-hikaze-hikaku',
+      title: '住民税非課税の目安は年収110万円に 国の一律給付なし',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/juuminzei-hikaze-hikaku.json'
+    },
+    {
+      id: 'doru157en-kawase-kainyu',
+      title: 'ドル円 一時157円台に急騰 政府・日銀が為替介入か',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/doru157en-kawase-kainyu.json'
+    },
+    {
+      id: 'souri-kumamoto-nyuuri',
+      title: '首相 8月3日にも熊本入り 被災状況を把握へ',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/souri-kumamoto-nyuuri.json'
+    },
+    {
+      id: 'senbotsusha-izoku-50nen-gosiharu',
+      title: '戦没者遺族への特別弔慰金 50年間誤って支給 総額180万円',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/senbotsusha-izoku-50nen-gosiharu.json'
+    },
+    {
+      id: 'onward-aeon-kumamoto-shain',
+      title: 'オンワードが従業員の死亡を発表 イオンモール熊本',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/onward-aeon-kumamoto-shain.json'
+    },
     {
       id: 'takaichi-shijiritsu-bunseki',
       title: '高市首相の支持率急落 原因は「説明不足」と物価高 各社調査',
@@ -911,7 +999,7 @@
       badge: '2段落',
       file: '/asanews/assets/readings/kokkai-ennchuu-gaiyuu-chuushi.json'
     }
-  ];
+    ];
 
   function renderList() {
     container.innerHTML = '';
