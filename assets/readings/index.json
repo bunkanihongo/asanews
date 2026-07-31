@@ -1,5 +1,69 @@
 [
   {
+    "id": "kumamoto-yure-saidaichi-2437gal",
+    "title": "熊本地震の揺れ 10年前の地震を上回る 最大2400ガル超",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-08-01",
+    "file": "assets/readings/kumamoto-yure-saidaichi-2437gal.json"
+  },
+  {
+    "id": "hamas-busou-kaijo-goui",
+    "title": "ハマス 武装解除で合意と幹部が明かす ガザ撤退も含む",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-08-01",
+    "file": "assets/readings/hamas-busou-kaijo-goui.json"
+  },
+  {
+    "id": "aeon-kumamoto-bakuhatsu-haha",
+    "title": "イオン爆発で娘失った母親 「金庫にお金を入れないと」と言い残し戻る",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-08-01",
+    "file": "assets/readings/aeon-kumamoto-bakuhatsu-haha.json"
+  },
+  {
+    "id": "kurashiki-sasareru-sibou",
+    "title": "倉敷市で男性が刺され死亡 おいの男を殺人容疑で確保",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-08-01",
+    "file": "assets/readings/kurashiki-sasareru-sibou.json"
+  },
+  {
+    "id": "kitami-tamanegi-konbena",
+    "title": "たまねぎ処理工場で男性がコンテナに挟まれ死亡 北海道・北見市",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-08-01",
+    "file": "assets/readings/kitami-tamanegi-konbena.json"
+  },
+  {
+    "id": "henoko-kousu-henkou-chusen",
+    "title": "死亡した高校2年の生徒 辺野古コースの変更希望も抽選で外れる",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-08-01",
+    "file": "assets/readings/henoko-kousu-henkou-chusen.json"
+  },
+  {
+    "id": "bado-shida-igarashi-kaisyou",
+    "title": "バドミントン 志田千陽・五十嵐有紗ペアが解消 日本代表も辞退",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-08-01",
+    "file": "assets/readings/bado-shida-igarashi-kaisyou.json"
+  },
+  {
+    "id": "wagaya-sugiyama-nyuuin",
+    "title": "お笑いトリオ「我が家」杉山裕之 ギラン・バレー症候群の疑いで入院",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-08-01",
+    "file": "assets/readings/wagaya-sugiyama-nyuuin.json"
+  },
+  {
     "id": "syouhizei-1p-hyoumei",
     "title": "高市首相 食料品の消費税率「1％」を正式表明 実質ゼロへ",
     "level": "中級",

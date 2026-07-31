@@ -70,7 +70,159 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                                                                                                  const READING_LIST = [
+                                                                                                                                          const READING_LIST = [
+    {
+      id: 'kumamoto-yure-saidaichi-2437gal',
+      title: '熊本地震の揺れ 10年前の地震を上回る 最大2400ガル超',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/kumamoto-yure-saidaichi-2437gal.json'
+    },
+    {
+      id: 'hamas-busou-kaijo-goui',
+      title: 'ハマス 武装解除で合意と幹部が明かす ガザ撤退も含む',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/hamas-busou-kaijo-goui.json'
+    },
+    {
+      id: 'aeon-kumamoto-bakuhatsu-haha',
+      title: 'イオン爆発で娘失った母親 「金庫にお金を入れないと」と言い残し戻る',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/aeon-kumamoto-bakuhatsu-haha.json'
+    },
+    {
+      id: 'kurashiki-sasareru-sibou',
+      title: '倉敷市で男性が刺され死亡 おいの男を殺人容疑で確保',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/kurashiki-sasareru-sibou.json'
+    },
+    {
+      id: 'kitami-tamanegi-konbena',
+      title: 'たまねぎ処理工場で男性がコンテナに挟まれ死亡 北海道・北見市',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/kitami-tamanegi-konbena.json'
+    },
+    {
+      id: 'henoko-kousu-henkou-chusen',
+      title: '死亡した高校2年の生徒 辺野古コースの変更希望も抽選で外れる',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/henoko-kousu-henkou-chusen.json'
+    },
+    {
+      id: 'bado-shida-igarashi-kaisyou',
+      title: 'バドミントン 志田千陽・五十嵐有紗ペアが解消 日本代表も辞退',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/bado-shida-igarashi-kaisyou.json'
+    },
+    {
+      id: 'wagaya-sugiyama-nyuuin',
+      title: 'お笑いトリオ「我が家」杉山裕之 ギラン・バレー症候群の疑いで入院',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/wagaya-sugiyama-nyuuin.json'
+    },
+    {
+      id: 'syouhizei-1p-hyoumei',
+      title: '高市首相 食料品の消費税率「1％」を正式表明 実質ゼロへ',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/syouhizei-1p-hyoumei.json'
+    },
+    {
+      id: 'taifuu13-dolphin-mouretsu',
+      title: '台風13号「ドルフィン」猛烈な勢力で北上 九州・沖縄に接近か',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/taifuu13-dolphin-mouretsu.json'
+    },
+    {
+      id: 'saichou-katsudansou-m8',
+      title: '「南海トラフだけではない」1000年以上沈黙する日本最長の活断層',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/saichou-katsudansou-m8.json'
+    },
+    {
+      id: 'kumamoto-jishin-hisaisha-koe',
+      title: '「シャワーが泥水」熊本地震 被災者の生の声と求める支援',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/kumamoto-jishin-hisaisha-koe.json'
+    },
+    {
+      id: 'matsunoya-mama-ouen-natsu',
+      title: '松のや「ママ応援企画」に批判 謝罪し「夏休み企画」に変更',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/matsunoya-mama-ouen-natsu.json'
+    },
+    {
+      id: 'fukuoka-kengikai-kingin',
+      title: '福岡県議会「カツアゲ問題」 告発議員を支える重鎮とフジ人気アナ',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/fukuoka-kengikai-kingin.json'
+    },
+    {
+      id: 'juuminzei-hikaze-hikaku',
+      title: '住民税非課税の目安は年収110万円に 国の一律給付なし',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/juuminzei-hikaze-hikaku.json'
+    },
+    {
+      id: 'doru157en-kawase-kainyu',
+      title: 'ドル円 一時157円台に急騰 政府・日銀が為替介入か',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/doru157en-kawase-kainyu.json'
+    },
+    {
+      id: 'souri-kumamoto-nyuuri',
+      title: '首相 8月3日にも熊本入り 被災状況を把握へ',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/souri-kumamoto-nyuuri.json'
+    },
+    {
+      id: 'senbotsusha-izoku-50nen-gosiharu',
+      title: '戦没者遺族への特別弔慰金 50年間誤って支給 総額180万円',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/senbotsusha-izoku-50nen-gosiharu.json'
+    },
+    {
+      id: 'onward-aeon-kumamoto-shain',
+      title: 'オンワードが従業員の死亡を発表 イオンモール熊本',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/onward-aeon-kumamoto-shain.json'
+    },
     {
       id: 'syouhizei-1p-hyoumei',
       title: '高市首相 食料品の消費税率「1％」を正式表明 実質ゼロへ',
