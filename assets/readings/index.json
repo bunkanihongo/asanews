@@ -1,5 +1,85 @@
 [
   {
+    "id": "moushobi-kumamoto-40do",
+    "title": "2日は300超の地点で猛暑日か 週明けは熊本で統計史上初の40℃",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-08-02",
+    "file": "assets/readings/moushobi-kumamoto-40do.json"
+  },
+  {
+    "id": "risai-shoumeisho-satsuei",
+    "title": "熊本地震5日目 「片付ける前に撮影を」罹災証明書申請の注意点",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-08-02",
+    "file": "assets/readings/risai-shoumeisho-satsuei.json"
+  },
+  {
+    "id": "en-kyuushin-nichibei-kainyuu",
+    "title": "円急伸、日米で協調介入か 円安是正へ週明け方針表明",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-08-02",
+    "file": "assets/readings/en-kyuushin-nichibei-kainyuu.json"
+  },
+  {
+    "id": "nisai-danji-yukuefumei",
+    "title": "祖母の自宅に帰省中 京都府宇治市の2歳の男の子が行方不明 岡山・矢掛町",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-08-02",
+    "file": "assets/readings/nisai-danji-yukuefumei.json"
+  },
+  {
+    "id": "puruja-san-setsunai-shibou",
+    "title": "著名登山家ニルマル・プルジャさん死亡確認 ブロードピークで雪崩遭遇",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-08-02",
+    "file": "assets/readings/puruja-san-setsunai-shibou.json"
+  },
+  {
+    "id": "dena-maki-baachan-homerun",
+    "title": "DeNA・牧「ばあちゃんに打たせてもらった」 慶弔休暇明けに祖母へ捧げる本塁打",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-08-02",
+    "file": "assets/readings/dena-maki-baachan-homerun.json"
+  },
+  {
+    "id": "bare-danshi-america-sekihai",
+    "title": "バレー男子 決勝ならず…米にフルセット惜敗 スロベニアとの3位決定戦へ",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-08-02",
+    "file": "assets/readings/bare-danshi-america-sekihai.json"
+  },
+  {
+    "id": "goto-maki-tif-40sai",
+    "title": "後藤真希 TIFで自虐あいさつ「40歳おばさん」 LOVEマシーンなど5曲披露",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-08-02",
+    "file": "assets/readings/goto-maki-tif-40sai.json"
+  },
+  {
+    "id": "roshia-kiu-daikibo-kougeki",
+    "title": "ロシアがウクライナ・キーウに大規模攻撃 9人死亡、30人以上けが",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-08-02",
+    "file": "assets/readings/roshia-kiu-daikibo-kougeki.json"
+  },
+  {
+    "id": "ishiba-syouhizei-hihan",
+    "title": "石破前首相 高市首相の「消費税率1％」方針を批判 「財源示さなければ無責任」",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-08-02",
+    "file": "assets/readings/ishiba-syouhizei-hihan.json"
+  },
+  {
     "id": "kumamoto-yure-saidaichi-2437gal",
     "title": "熊本地震の揺れ 10年前の地震を上回る 最大2400ガル超",
     "level": "中級",
