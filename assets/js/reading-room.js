@@ -70,7 +70,87 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                                                                                                                  const READING_LIST = [
+                                                                                                                                                          const READING_LIST = [
+    {
+      id: 'habita-kanai-modosu-siji',
+      title: 'イオン熊本爆発 死亡の従業員2人「館内へ戻るよう指示」と運営会社が認める',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/habita-kanai-modosu-siji.json'
+    },
+    {
+      id: 'jishingumo-gosoku-chuui',
+      title: '地震と雲を関係付ける誤情報に注意 命を守るための「正しい防災」とは',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/jishingumo-gosoku-chuui.json'
+    },
+    {
+      id: 'kihara-nijuu-saigai-mousho',
+      title: '木原官房長官「今年の猛暑、まさに二重の災害」 災害関連死の抑制へ対策',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/kihara-nijuu-saigai-mousho.json'
+    },
+    {
+      id: 'takaichi-shijiritsu-teika',
+      title: '高市内閣の支持率59.2% 先月調査から6.7ポイント下落 JNN世論調査',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/takaichi-shijiritsu-teika.json'
+    },
+    {
+      id: 'kuwaki-shiho-zen-ei-v',
+      title: '桑木志帆が涙の日本勢7人目メジャーV 渋野日向子に続く全英制覇',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/kuwaki-shiho-zen-ei-v.json'
+    },
+    {
+      id: 'docomo-no-ginkou-sidou',
+      title: '「ドコモの銀行」きょう始動 「d NEOBANK」消滅、最大4.5%還元',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/docomo-no-ginkou-sidou.json'
+    },
+    {
+      id: 'iphone-shin-seihin-hinusu',
+      title: '今年のiPhone新製品、発売直後から品薄になる可能性 クックCEOが警告',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/iphone-shin-seihin-hinusu.json'
+    },
+    {
+      id: 'perseus-ryuuseigun-mikoro',
+      title: '1時間に最大100個の流星 2026年最大の天体ショー「ペルセウス座流星群」',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/perseus-ryuuseigun-mikoro.json'
+    },
+    {
+      id: 'windows-hotel-wifi-keikoku',
+      title: 'Windowsユーザーは「ホテルのWi-Fiは使うな」 マイクロソフトが緊急警告',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/windows-hotel-wifi-keikoku.json'
+    },
+    {
+      id: 'windows11-8gb-memory',
+      title: 'Windows 11は8GBメモリでも快適に使えるようになる？ 品質向上への中間報告',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/windows11-8gb-memory.json'
+    },
     {
       id: 'moushobi-kumamoto-40do',
       title: '2日は300超の地点で猛暑日か 週明けは熊本で統計史上初の40℃',
