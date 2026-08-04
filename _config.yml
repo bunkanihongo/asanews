@@ -5,6 +5,10 @@ lang: ja
 
 timezone: Asia/Tokyo
 
+# 7:00 JSTのcron実行時、UTCでは前日22:00のため投稿日時(11:30 JST)が
+# ビルド時点で未来になってしまい公開されない問題を回避する
+future: true
+
 title: asanews
 tagline: ニュースで日本語を学ぶ
 description: >-
