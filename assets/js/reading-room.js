@@ -70,7 +70,95 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                                                                                                                          const READING_LIST = [
+                                                                                                                                                                  const READING_LIST = [
+    {
+      id: 'takeda-shinichi-tenkin',
+      title: '武田真一アナ、NHK時代の5度の転勤を回想 「会社が一方的に働く場所を決める時代」に転機',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/takeda-shinichi-tenkin.json'
+    },
+    {
+      id: 'aeon-kumamoto-sainyuukan',
+      title: 'イオンモール熊本、避難後になぜ再入館？ 生存した従業員らの証言が浮かび上がらせる実態',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/aeon-kumamoto-sainyuukan.json'
+    },
+    {
+      id: 'keikan-happa-kawachinagano',
+      title: '警察官が刃物持った男に発砲、男は搬送先で死亡 大阪・河内長野市',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/keikan-happa-kawachinagano.json'
+    },
+    {
+      id: 'ichou-54pon-kareru',
+      title: '名物イチョウ54本が一斉に枯れる 原因は伐採時の除草剤、根がつながっていた 東京・町田',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/ichou-54pon-kareru.json'
+    },
+    {
+      id: 'kome-nouka-akaji',
+      title: '「とんでもない赤字」コメ作りやめる農家も JA福井県が概算金示せない中、ハナエチゼンの収穫始まる',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/kome-nouka-akaji.json'
+    },
+    {
+      id: 'joshi-kousei-kyouhaku',
+      title: '「会わんかったら親や学校に言うぞ」女子高校生を脅迫しホテルへ…44歳男を逮捕 大阪府警',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/joshi-kousei-kyouhaku.json'
+    },
+    {
+      id: 'ny-dow-54000-dai',
+      title: 'NYダウ900ドル超高、連日の最高値 中東情勢の緊張緩和に期待',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/ny-dow-54000-dai.json'
+    },
+    {
+      id: 'kumamoto-jishin-isshuukan',
+      title: '熊本地震1週間、避難所に7538人・断水4万4380戸 連日の猛暑で被災者の心身の不調懸念',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/kumamoto-jishin-isshuukan.json'
+    },
+    {
+      id: 'ion-bakuhatsu-wedding-dress',
+      title: 'イオンモール爆発で犠牲となった妻、告別式にウェディングドレス飾った夫「生前に着させてあげたかった」',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/ion-bakuhatsu-wedding-dress.json'
+    },
+    {
+      id: 'fukuoka-kengikai-daisansha',
+      title: '福岡県議会が第三者委設置へ 正副議長ポスト巡る金銭授受疑惑、批判高まり方針転換',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/fukuoka-kengikai-daisansha.json'
+    },
+    {
+      id: 'higashino-keigo-eien-no-kioku',
+      title: '東野圭吾さん最新作「永遠の記憶」発売 涙を流しながら本を受け取るファンの姿も',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/higashino-keigo-eien-no-kioku.json'
+    },
     {
       id: 'habita-kanai-modosu-siji',
       title: 'イオン熊本爆発 死亡の従業員2人「館内へ戻るよう指示」と運営会社が認める',
