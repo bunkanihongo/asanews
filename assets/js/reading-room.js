@@ -70,7 +70,87 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                                                                                                                                  const READING_LIST = [
+                                                                                                                                                                          const READING_LIST = [
+    {
+      id: 'taifuu13-okinawa-sekken',
+      title: '台風13号、7日昼過ぎに沖縄本島へ最接近 暴風や高波に厳重警戒',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/taifuu13-okinawa-sekken.json'
+    },
+    {
+      id: 'shokuhin-zei-1-paasento',
+      title: '飲食料品消費税1％へ、外食に「割高感」も 農家にも打撃の恐れ 政府、対策を検討',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/shokuhin-zei-1-paasento.json'
+    },
+    {
+      id: 'genbaku-touka-81-nen',
+      title: '原爆投下81年、高まる核リスク 被爆者減る中、広島から平和訴え',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/genbaku-touka-81-nen.json'
+    },
+    {
+      id: 'spacex-rocket-tsuki-shoutotsu',
+      title: 'スペースXのロケット残骸、月面に衝突か ファルコン9の上段',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/spacex-rocket-tsuki-shoutotsu.json'
+    },
+    {
+      id: 'shime-ramen-yokkyuu-no-genin',
+      title: '飲酒後の「締めのラーメン欲」の原因は？ 脳の錯覚と真実【医師解説】',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/shime-ramen-yokkyuu-no-genin.json'
+    },
+    {
+      id: 'higashihiroshima-zenkai-kaji',
+      title: '「家の中から叫び声」焼け跡から4人の遺体 家族4人全員死亡か 東広島市の住宅火災',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/higashihiroshima-zenkai-kaji.json'
+    },
+    {
+      id: 'nippon-seishi-hachioji-koujou',
+      title: '9人が犠牲の日本製紙八代工場、社長ら初会見 工場長「正直何もできなかった」',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/nippon-seishi-hachioji-koujou.json'
+    },
+    {
+      id: 'mercari-nashi-tenbai-giwaku',
+      title: 'メルカリ、梨の転売疑惑を否定「誹謗中傷はやめて」 生産者を現地確認',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/mercari-nashi-tenbai-giwaku.json'
+    },
+    {
+      id: 'neko-ga-pan-wo-koneru',
+      title: 'なぜ猫は「パンをこねる」のか？ 前足で飼い主をもむ習性を生物学者が解説',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/neko-ga-pan-wo-koneru.json'
+    },
+    {
+      id: 'tai-de-shinshu-kyouryuu',
+      title: '体長27m・体重27tの新種恐竜をタイで発見 東南アジア最大か、なぜ巨大に進化できた？',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/tai-de-shinshu-kyouryuu.json'
+    },
     {
       id: 'takeda-shinichi-tenkin',
       title: '武田真一アナ、NHK時代の5度の転勤を回想 「会社が一方的に働く場所を決める時代」に転機',
