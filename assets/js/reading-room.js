@@ -70,7 +70,87 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                                                                                                                                          const READING_LIST = [
+                                                                                                                                                                                  const READING_LIST = [
+    {
+      id: 'taifuu13-okinawa-amami-sekken',
+      title: '台風13号、沖縄・奄美に最接近 線状降水帯発生のおそれ 長時間の暴風・高波に警戒',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/taifuu13-okinawa-amami-sekken.json'
+    },
+    {
+      id: 'hinanjo-kakusa-kumamoto-jishin',
+      title: '避難所めぐる“格差” 男女同室で「着替えられない」 雑魚寝続く被災地 専門家「標準化されていない」',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/hinanjo-kakusa-kumamoto-jishin.json'
+    },
+    {
+      id: 'aeon-kumamoto-bakuhatsu-lpg',
+      title: 'イオンモール熊本の爆発事故 LPガス供給会社「調査に全面的に協力」 経産省「LPガス爆発の可能性高い」',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/aeon-kumamoto-bakuhatsu-lpg.json'
+    },
+    {
+      id: 'zaimushou-jinji-iten-haran',
+      title: 'エース級の財務官僚が異例転出へ 官邸幹部「協力的でなかったから」 消費減税巡り対立か',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/zaimushou-jinji-iten-haran.json'
+    },
+    {
+      id: 'taiyou-hyoumen-saikou-kaizoudo',
+      title: '太陽表面を過去最高の解像度で観測、磁気にまつわる謎が明らかに 米研究チーム',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/taiyou-hyoumen-saikou-kaizoudo.json'
+    },
+    {
+      id: 'sanseitou-kamiya-gusaku',
+      title: '参政党の神谷代表、食料品の消費減税「天下の愚策」と批判 「一律減税でないと後押しにならない」',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/sanseitou-kamiya-gusaku.json'
+    },
+    {
+      id: 'reiwa-inochi-no-tou-meishou',
+      title: 'れいわ新選組が「いのちの党」に党名変更 “脱・山本太郎”へ 山本譲司新代表のもと臨時総会',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/reiwa-inochi-no-tou-meishou.json'
+    },
+    {
+      id: 'mukikei-karikiyaku-4nin',
+      title: '無期刑の仮釈放、2025年は「わずか4人」 2024年は32人が獄中死 「終身刑化」の傾向続く',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/mukikei-karikiyaku-4nin.json'
+    },
+    {
+      id: 'shakaihosho-zaigen-5chouen',
+      title: '日本の社会保障、岐路に 消費減税で財源5兆円の穴 手当てする具体策見えず',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/shakaihosho-zaigen-5chouen.json'
+    },
+    {
+      id: 'shiroi-zarigani-tenji',
+      title: '白いザリガニ発見 遺伝的変異の可能性 親子が捕まえ岡山の科学館に寄贈 「赤青白」3色そろう',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/shiroi-zarigani-tenji.json'
+    },
     {
       id: 'taifuu13-okinawa-sekken',
       title: '台風13号、7日昼過ぎに沖縄本島へ最接近 暴風や高波に厳重警戒',
