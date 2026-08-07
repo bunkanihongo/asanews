@@ -70,7 +70,79 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                                                                                                                                                  const READING_LIST = [
+                                                                                                                                                                                          const READING_LIST = [
+    {
+      id: 'taifuu15-obon-koutsuu',
+      title: '来週は台風15号が東日本・北日本を直撃か お盆期間中の交通に影響のおそれ',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/taifuu15-obon-koutsuu.json'
+    },
+    {
+      id: 'kokuzai-hisyouji',
+      title: '国税不祥事、「前例ない事態次々」に危機感 「パパ活」、情報漏えいも',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/kokuzai-hisyouji.json'
+    },
+    {
+      id: 'kioxia-toshiba-junrieki',
+      title: 'キオクシアHD株、前身の東芝にも巨額の恩恵 1Q純利益30倍の約4.5兆円',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/kioxia-toshiba-junrieki.json'
+    },
+    {
+      id: 'usagi-shima-isei',
+      title: '「ウサギの島」生態系に異変、観光客の過剰な餌やりで増えたイノシシがウサギを襲う',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/usagi-shima-isei.json'
+    },
+    {
+      id: 'penguin-torimaria',
+      title: '八木山動物公園のフンボルトペンギン4羽、死因は「鳥マラリア」',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/penguin-torimaria.json'
+    },
+    {
+      id: 'spacex-tsuki-shoutotsu',
+      title: 'スペースXのロケット残骸が月面に衝突 衝突地点の画像を公開',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/spacex-tsuki-shoutotsu.json'
+    },
+    {
+      id: 'josei-kenkyuusya-sien',
+      title: '若手女性研究者を支援する新制度、大学に年間最大5000万円の補助金',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/josei-kenkyuusya-sien.json'
+    },
+    {
+      id: 'wow-shingou',
+      title: '「Wow！信号」受信から50年、正体不明の電波を世界合同観測へ',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/wow-shingou.json'
+    },
+    {
+      id: 'seishoku-iryou-gairai',
+      title: '都立病院で初の「生殖医療外来」開設 最新の不妊治療が受けられるように',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/seishoku-iryou-gairai.json'
+    },
     {
       id: 'taifuu13-okinawa-amami-sekken',
       title: '台風13号、沖縄・奄美に最接近 線状降水帯発生のおそれ 長時間の暴風・高波に警戒',
