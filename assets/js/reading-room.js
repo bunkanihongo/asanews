@@ -70,7 +70,87 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                                                                                                                                                                  const READING_LIST = [
+                                                                                                                                                                                                          const READING_LIST = [
+    {
+      id: 'tenki-zenkoku-moushobi',
+      title: '全国的に日差しあり 東海から西では猛暑日予想 台風15号はあす関東から東北に接近、上陸へ',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/tenki-zenkoku-moushobi.json'
+    },
+    {
+      id: 'nanao-ooame',
+      title: '七尾大雨、レベル３警報 列車運休、穴水でも冠水',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/nanao-ooame.json'
+    },
+    {
+      id: 'suinan-sujiko',
+      title: '各地で水難事故相次ぐ 千葉・いすみ市の海岸で男性が波にさらわれ死亡 茨城・鉾田市では女性3人が流され1人死亡',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/suinan-sujiko.json'
+    },
+    {
+      id: 'taiwan-nagasaki-sikiten',
+      title: '台湾、長崎式典の参加者格下げ 席が「使節団区域外」と抗議',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/taiwan-nagasaki-sikiten.json'
+    },
+    {
+      id: 'jieitai-kokusan-ai',
+      title: '自衛隊の指揮統制に国産AI導入へ 政府が検討 「サカナAI」が有力、中国製は排除',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/jieitai-kokusan-ai.json'
+    },
+    {
+      id: 'gaza-heiwa-koukeihyou',
+      title: 'ガザ和平の工程表「拒否」 イスラエル、武器放棄要求',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/gaza-heiwa-koukeihyou.json'
+    },
+    {
+      id: 'aeon-kumamoto-hinan',
+      title: 'イオンモール爆発事故「避難後は戻らない」マニュアル機能せず 現場で混乱',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/aeon-kumamoto-hinan.json'
+    },
+    {
+      id: 'matahachi-intai',
+      title: '又吉克樹投手が今季限りで現役引退 NPB通算503登板',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/matahachi-intai.json'
+    },
+    {
+      id: 'yuzu-kumamoto-sien',
+      title: 'ゆず「幾重」ライブ音源を緊急配信 収益全額を熊本地震の復興支援に',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/yuzu-kumamoto-sien.json'
+    },
+    {
+      id: 'nashi-tounan-saigai',
+      title: '梨5000個を盗まれた農家の男性、熊本の被災地支援へ 「助け合いの輪」に密着',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/nashi-tounan-saigai.json'
+    },
     {
       id: 'taifuu15-tohoku-jouriku',
       title: '東〜北日本は急な雷雨のおそれ 台風15号はあさって東北に上陸か',
