@@ -1,5 +1,69 @@
 [
   {
+    "id": "tenki-rakurai-keihou",
+    "title": "今日13日も所々で雷雲が発達 東北から近畿を中心に急な激しい雨や落雷に注意",
+    "level": "中級",
+    "length": 4,
+    "date": "2026-08-13",
+    "file": "assets/readings/tenki-rakurai-keihou.json"
+  },
+  {
+    "id": "kokki-sonkai-tsumi",
+    "title": "日本国旗損壊罪法が施行 拘禁刑2年以下か罰金",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-08-13",
+    "file": "assets/readings/kokki-sonkai-tsumi.json"
+  },
+  {
+    "id": "tokkyu-sonic-syoutotsu",
+    "title": "事故に気が付かず特急が走行続ける JR日豊本線で車と衝突 上下線運休しお盆の移動に影響",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-08-13",
+    "file": "assets/readings/tokkyu-sonic-syoutotsu.json"
+  },
+  {
+    "id": "awaodori-satsuei-manner",
+    "title": "「怖い」阿波おどり開幕も踊り手から不安の声 女性踊り手狙う動画拡散",
+    "level": "中級",
+    "length": 4,
+    "date": "2026-08-13",
+    "file": "assets/readings/awaodori-satsuei-manner.json"
+  },
+  {
+    "id": "chuko-sya-hasan",
+    "title": "中古車販売会社が破産開始決定 負債総額は2億1000万円",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-08-13",
+    "file": "assets/readings/chuko-sya-hasan.json"
+  },
+  {
+    "id": "taifu-tamago-kantou",
+    "title": "新たな「台風のたまご」発生 17日お盆明けに関東沖接近のおそれ",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-08-13",
+    "file": "assets/readings/taifu-tamago-kantou.json"
+  },
+  {
+    "id": "yatsushiro-sichousya-menjin",
+    "title": "免振装置を備え171億円かけ建てた庁舎 震度6強で「免震機能は失われている」",
+    "level": "中級",
+    "length": 4,
+    "date": "2026-08-13",
+    "file": "assets/readings/yatsushiro-sichousya-menjin.json"
+  },
+  {
+    "id": "nakakyusyu-oudan-douro",
+    "title": "「所要時間1時間以上短縮」全線開通で運送事業者の6割がプラス効果 中九州横断道路アンケート",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-08-13",
+    "file": "assets/readings/nakakyusyu-oudan-douro.json"
+  },
+  {
     "id": "tenki-zenkoku-moushobi",
     "title": "全国的に日差しあり 東海から西では猛暑日予想 台風15号はあす関東から東北に接近、上陸へ",
     "level": "中級",
