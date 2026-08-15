@@ -70,7 +70,71 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                                                                                                                                                                                  const READING_LIST = [
+                                                                                                                                                                                                                          const READING_LIST = [
+    {
+      id: 'chiba-gouu-8nin-shibou',
+      title: '「中にはまだ人が」見えた爪痕　千葉豪雨8人死亡　一変した街',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/chiba-gouu-8nin-shibou.json'
+    },
+    {
+      id: 'okayadokari-mitsuryou',
+      title: '狙われる天然記念物 中国籍の男3人が「オカヤドカリ」類を繰り返し密猟か 再逮捕',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/okayadokari-mitsuryou.json'
+    },
+    {
+      id: 'shisan-kodomo-reitouko',
+      title: '「ずっと一緒にいたくて」死産した子を冷凍庫に3年8カ月 30代母親に有罪判決',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/shisan-kodomo-reitouko.json'
+    },
+    {
+      id: 'akita-shokuin-teishoku',
+      title: 'オンライン取材中に喫煙した秋田県職員 停職6か月の懲戒処分 場所の虚偽説明も',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/akita-shokuin-teishoku.json'
+    },
+    {
+      id: 'sekiyu-butai',
+      title: '日本軍の秘密作戦『石油部隊』とは “戦争と石油”に翻弄された人たち 戦後81年',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/sekiyu-butai.json'
+    },
+    {
+      id: 'ekichou-sensen-chichi',
+      title: '駅長かなわず戦死の父とレイテ島で亡くなった兄 85歳夫婦が追悼式初参加へ',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/ekichou-sensen-chichi.json'
+    },
+    {
+      id: 'gunkan-nagara-chinkan',
+      title: '沈没寸前、艦長は最期に「自分をマストにくくれ!」と言い遺し…348人の魂と沈んだ軍艦「長良」',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/gunkan-nagara-chinkan.json'
+    },
+    {
+      id: 'takaichi-etorofu-badge',
+      title: 'プーチン大統領の択捉島訪問で会見 高市首相が身につけていたバッジに反響',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/takaichi-etorofu-badge.json'
+    },
     {
       id: 'tenki-rakurai-keihou',
       title: '今日13日も所々で雷雲が発達 東北から近畿を中心に急な激しい雨や落雷に注意',
