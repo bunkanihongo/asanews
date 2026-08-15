@@ -70,7 +70,31 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                                                                                                                                                                                          const READING_LIST = [
+                                                                                                                                                                                                                                  const READING_LIST = [
+    {
+      id: 'indoneshia-jishin-shibou',
+      title: 'インドネシアでM7.7の地震、47人死亡 津波も観測',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/indoneshia-jishin-shibou.json'
+    },
+    {
+      id: 'senchi-no-chichi-ichido-dakko',
+      title: '戦地へ向かう父、生涯で一度だけの抱っこ…平和への祈りは9歳の孫に託す',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/senchi-no-chichi-ichido-dakko.json'
+    },
+    {
+      id: 'toritetsu-hikikoroshi-jiken',
+      title: '“撮り鉄”の男性を車でひき殺そうとしたか 55歳の男を逮捕、「びびらせようとしただけ」と殺意否認（徳島）',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/toritetsu-hikikoroshi-jiken.json'
+    },
     {
       id: 'chiba-gouu-8nin-shibou',
       title: '「中にはまだ人が」見えた爪痕　千葉豪雨8人死亡　一変した街',
