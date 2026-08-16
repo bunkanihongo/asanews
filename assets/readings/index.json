@@ -1,5 +1,45 @@
 [
   {
+    "id": "sakasama-taifuu-chiba-gouu",
+    "title": "いつもと違う今年の夏 異例の逆走台風と千葉豪雨はなぜ起きた？カギは“夏の太平洋高気圧”",
+    "level": "中級",
+    "length": 4,
+    "date": "2026-08-17",
+    "file": "assets/readings/sakasama-taifuu-chiba-gouu.json"
+  },
+  {
+    "id": "openai-keiei-kanbu-taisya",
+    "title": "オープンAIで経営幹部が相次ぎ退社 半年前加入の「中心人物」も…新規株式公開前に「危険信号」",
+    "level": "中級",
+    "length": 4,
+    "date": "2026-08-17",
+    "file": "assets/readings/openai-keiei-kanbu-taisya.json"
+  },
+  {
+    "id": "bbq-kawa-nagare-josei-jyushou",
+    "title": "友人とのBBQ中に川に流される 20代女性が心肺停止 埼玉・飯能市",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-08-17",
+    "file": "assets/readings/bbq-kawa-nagare-josei-jyushou.json"
+  },
+  {
+    "id": "beiran-iran-husantei-koutyaku",
+    "title": "米イラン「不安定な膠着」 覚書期限、海峡開放見えず",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-08-17",
+    "file": "assets/readings/beiran-iran-husantei-koutyaku.json"
+  },
+  {
+    "id": "dorifuto-soukou-toruko-taiho",
+    "title": "ドリフト走行した疑いでトルコ国籍の男を逮捕 愛知県警はアジア大会へ取り締まり強化方針",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-08-17",
+    "file": "assets/readings/dorifuto-soukou-toruko-taiho.json"
+  },
+  {
     "id": "indoneshia-jishin-shibou",
     "title": "インドネシアでM7.7の地震、47人死亡 津波も観測",
     "level": "中級",
