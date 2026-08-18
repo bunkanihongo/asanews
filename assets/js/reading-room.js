@@ -70,7 +70,39 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                                                                                                                                                                                                          const READING_LIST = [
+                                                                                                                                                                                                                                                  const READING_LIST = [
+    {
+      id: 'zankusho-moushobi-kyuusyuu',
+      title: '今日19日は大阪や名古屋で35℃以上の猛暑日か 九州では38℃を超える所も',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/zankusho-moushobi-kyuusyuu.json'
+    },
+    {
+      id: 'chiba-gouu-syaryou-tekkyo',
+      title: '豪雨で路上に残る車両まだ600台 国や千葉県など官民、撤去で連携',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/chiba-gouu-syaryou-tekkyo.json'
+    },
+    {
+      id: 'kusakari-netchushou-shibou',
+      title: '【速報】草刈り作業中の男性が死亡 体温は搬送時約40度 熱中症の可能性も 兵庫・小野市',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/kusakari-netchushou-shibou.json'
+    },
+    {
+      id: 'jyuugo-sai-houka-ryoushin',
+      title: '15歳中学生“放火”と“殺人未遂”で逮捕 自宅にガソリンか…「お父さんが暴力を振ってくるのが嫌いで」 福岡・大牟田市',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/jyuugo-sai-houka-ryoushin.json'
+    },
     {
       id: 'sakasama-taifuu-chiba-gouu',
       title: 'いつもと違う今年の夏 異例の逆走台風と千葉豪雨はなぜ起きた？カギは“夏の太平洋高気圧”',
