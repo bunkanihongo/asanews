@@ -70,7 +70,47 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                                                                                                                                                                                                                  const READING_LIST = [
+                                                                                                                                                                                                                                                          const READING_LIST = [
+    {
+      id: 'moushobi-zenkoku-20260820',
+      title: '今日20日も九州や東海で猛暑日続出 熊本は37℃の危険な暑さ 熱中症警戒アラート15府県',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/moushobi-zenkoku-20260820.json'
+    },
+    {
+      id: 'chiba-gouu-syaryou-tekkai',
+      title: '千葉豪雨 千葉市内の幹線道路上の放置車両をすべて撤去 生活道路は今後順次',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/chiba-gouu-syaryou-tekkai.json'
+    },
+    {
+      id: 'byouin-chuusya-jiko-kobayashi',
+      title: '小林市の病院駐車場で診察待つ列に車突っ込む 74歳女性が死亡 運転の女性を過失運転致死疑いで捜査',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/byouin-chuusya-jiko-kobayashi.json'
+    },
+    {
+      id: 'icc-syokai-bei-seisai',
+      title: 'ICC所長への米制裁に非難拡大 仏・EU・国連が相次ぎ表明 赤根智子所長を制裁対象に',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/icc-syokai-bei-seisai.json'
+    },
+    {
+      id: 'toranpu-kinjonei-kaidan',
+      title: 'トランプ氏 金正恩氏と年内会談の意向 北朝鮮は核兵器「57発保有」と発言',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/toranpu-kinjonei-kaidan.json'
+    },
     {
       id: 'zankusho-moushobi-kyuusyuu',
       title: '今日19日は大阪や名古屋で35℃以上の猛暑日か 九州では38℃を超える所も',
