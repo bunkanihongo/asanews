@@ -70,7 +70,47 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                                                                                                                                                                                                                          const READING_LIST = [
+                                                                                                                                                                                                                                                                  const READING_LIST = [
+    {
+      id: 'shinmai-kakaku-daikyuu',
+      title: '26年産新米 大幅値下がりの見通し 概算金 前年比2〜4割下落',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/shinmai-kakaku-daikyuu.json'
+    },
+    {
+      id: 'daiichi-pan-touki-39kg',
+      title: '大山県道に連日のパン投棄 合計39kg確認 鶏のレバーも 鳥取',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/daiichi-pan-touki-39kg.json'
+    },
+    {
+      id: 'tokkyu-sesshoku-4nin-shibou',
+      title: '東武日光線 作業員4人が特急と接触し死亡 退避完了の合図中に事故',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/tokkyu-sesshoku-4nin-shibou.json'
+    },
+    {
+      id: 'tobikomi-spot-20sai-ishikifumei',
+      title: '川に飛び込み20歳大学生が意識不明 高知・汗見川の飛び込みスポット',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/tobikomi-spot-20sai-ishikifumei.json'
+    },
+    {
+      id: 'chugoku-okinawa-kizoku-gigi',
+      title: '中国 沖縄の帰属に「疑義」 バタン諸島にも類似主張',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/chugoku-okinawa-kizoku-gigi.json'
+    },
     {
       id: 'moushobi-zenkoku-20260820',
       title: '今日20日も九州や東海で猛暑日続出 熊本は37℃の危険な暑さ 熱中症警戒アラート15府県',
