@@ -70,7 +70,47 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                                                                                                                                                                                                                                  const READING_LIST = [
+                                                                                                                                                                                                                                                                          const READING_LIST = [
+    {
+      id: 'tenki-22nichi-raiu-mousho',
+      title: '22日 西・東日本は急な雷雨に注意 東海〜九州は猛暑',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/tenki-22nichi-raiu-mousho.json'
+    },
+    {
+      id: 'saitama-mouretsu-ame-suibotsu',
+      title: '埼玉で猛烈な雨 車水没訴える通報相次ぐ 記録的短時間大雨',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/saitama-mouretsu-ame-suibotsu.json'
+    },
+    {
+      id: 'suimin-biyou-risuku-kennen',
+      title: '睡眠美容巡り 専門家らリスク懸念 睡眠薬処方の例も',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/suimin-biyou-risuku-kennen.json'
+    },
+    {
+      id: 'houmushou-rabu-joutou-chuushi',
+      title: '法務省 「ラヴ上等」タイアップ取りやめ 批判相次ぎ',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/houmushou-rabu-joutou-chuushi.json'
+    },
+    {
+      id: 'icc-syokuchou-seisai-europe',
+      title: 'ICCの所長制裁に欧州各国が反発強める 対抗策求める声',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/icc-syokuchou-seisai-europe.json'
+    },
     {
       id: 'shinmai-kakaku-daikyuu',
       title: '26年産新米 大幅値下がりの見通し 概算金 前年比2〜4割下落',
