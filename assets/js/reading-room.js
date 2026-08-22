@@ -70,7 +70,47 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                                                                                                                                                                                                                                          const READING_LIST = [
+                                                                                                                                                                                                                                                                                  const READING_LIST = [
+    {
+      id: 'kanto-jishin-shindo5jaku',
+      title: '関東で最大震度5弱の地震 津波なし 1都3県で観測',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/kanto-jishin-shindo5jaku.json'
+    },
+    {
+      id: 'syuin-hirei-sainragu-shiki',
+      title: '衆院比例に「サンラグ式」案浮上 小政党に議席配分しやすく',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/syuin-hirei-sainragu-shiki.json'
+    },
+    {
+      id: 'tokyoeki-douro-ana-gouu',
+      title: '東京駅近くで道路に穴 掘削現場に水流れ込む 関東南部で豪雨',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/tokyoeki-douro-ana-gouu.json'
+    },
+    {
+      id: 'nogizaka-rakurai-nyuujou-syakai',
+      title: '乃木坂46 落雷で避難の客の入場前に開始 公式サイトで謝罪',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/nogizaka-rakurai-nyuujou-syakai.json'
+    },
+    {
+      id: 'fujisan-okizari-7sai',
+      title: '富士山で7歳男の子を置き去りにした父親 警察が厳しく注意',
+      kicker: '中級',
+      desc: '',
+      badge: '4段落',
+      file: '/asanews/assets/readings/fujisan-okizari-7sai.json'
+    },
     {
       id: 'tenki-22nichi-raiu-mousho',
       title: '22日 西・東日本は急な雷雨に注意 東海〜九州は猛暑',
