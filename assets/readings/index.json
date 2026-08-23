@@ -1,5 +1,45 @@
 [
   {
+    "id": "futatsu-kaikyou-antei",
+    "title": "「二つの海峡」安定に注力　日本政府、原油輸送確保狙う　首脳外交求める声",
+    "level": "中級",
+    "length": 4,
+    "date": "2026-08-24",
+    "file": "assets/readings/futatsu-kaikyou-antei.json"
+  },
+  {
+    "id": "syouhizei-genzei-sijiritsu",
+    "title": "消費減税、71％が財政に不安　内閣支持率は最低更新50％",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-08-24",
+    "file": "assets/readings/syouhizei-genzei-sijiritsu.json"
+  },
+  {
+    "id": "chiba-gouu-suiryou-syaryou",
+    "title": "千葉豪雨、水没車両は1万台規模か　一変した日常「まだ10年乗りたかった」愛車との別れに悲痛な声",
+    "level": "中級",
+    "length": 4,
+    "date": "2026-08-24",
+    "file": "assets/readings/chiba-gouu-suiryou-syaryou.json"
+  },
+  {
+    "id": "danchi-kurashi-nikoichi",
+    "title": "戸建てを売って家族5人で越してきた人も　入居率V字回復「団地」の魅力　令和の「団地暮らし」",
+    "level": "中級",
+    "length": 4,
+    "date": "2026-08-24",
+    "file": "assets/readings/danchi-kurashi-nikoichi.json"
+  },
+  {
+    "id": "ohtani-tousyu-fukki",
+    "title": "大谷翔平、最短で来週にも投手復帰　監督説明「タイミング合えば」…次回ブルペン後に状態判断",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-08-24",
+    "file": "assets/readings/ohtani-tousyu-fukki.json"
+  },
+  {
     "id": "kanto-jishin-shindo5jaku",
     "title": "関東で最大震度5弱の地震 津波なし 1都3県で観測",
     "level": "中級",
