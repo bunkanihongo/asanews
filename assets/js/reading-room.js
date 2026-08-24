@@ -72,6 +72,38 @@
   // ======================================================================
                                                                                                                                                                                                                                                                                           const READING_LIST = [
     {
+      id: 'taifuu18-okinawa-amami-sekken',
+      title: '台風18号、26日にかけて沖縄・奄美に接近　暴風や高波、影響が長引くおそれ',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/taifuu18-okinawa-amami-sekken.json'
+    },
+    {
+      id: 'dms-untenshu-kenshi-gimuka',
+      title: 'ながら・居眠り運転、検知義務化へ　2031年新型車に適用、国交省方針',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/dms-untenshu-kenshi-gimuka.json'
+    },
+    {
+      id: 'chugoku-hakusai-horumaru',
+      title: '中国で白菜類の鮮度保持にホルムアルデヒド使用か　当局が調査',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/chugoku-hakusai-horumaru.json'
+    },
+    {
+      id: 'sagamihara-17sai-shibou',
+      title: '17歳の男子高校生死亡　防犯カメラにバイクと“追いかける”黒い車　「殴られたようだ」と友人が通報',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/sagamihara-17sai-shibou.json'
+    },
+    {
       id: 'futatsu-kaikyou-antei',
       title: '「二つの海峡」安定に注力　日本政府、原油輸送確保狙う　首脳外交求める声',
       kicker: '中級',
