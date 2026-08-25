@@ -70,7 +70,39 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                                                                                                                                                                                                                                                          const READING_LIST = [
+                                                                                                                                                                                                                                                                                                  const READING_LIST = [
+    {
+      id: 'syouhizei-nouka-kyuufukin',
+      title: '消費減税、中小零細農家へ給付金　売上高に応じ減収穴埋め',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/syouhizei-nouka-kyuufukin.json'
+    },
+    {
+      id: 'tokuryuu-yakubutsu-taiho',
+      title: '俳優とトクリュウのトップが薬物所持疑い　ホテルのベッドに使用済みコカインの袋',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/tokuryuu-yakubutsu-taiho.json'
+    },
+    {
+      id: 'takubo-sotsugyousyo-gisaku',
+      title: '田久保真紀前市長のPCから偽造された卒業証書のデータ　田久保氏側は裁判で無罪主張する方針',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/takubo-sotsugyousyo-gisaku.json'
+    },
+    {
+      id: 'suwarippanashi-kenkou',
+      title: '「座りっぱなし」はタバコと同じくらい体に悪い　30分に一度立ち上がろう',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/suwarippanashi-kenkou.json'
+    },
     {
       id: 'taifuu18-okinawa-amami-sekken',
       title: '台風18号、26日にかけて沖縄・奄美に接近　暴風や高波、影響が長引くおそれ',
