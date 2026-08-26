@@ -1,5 +1,37 @@
 [
   {
+    "id": "guguru-enjinia-kaiko",
+    "title": "年収1470万のGoogleエンジニアが突然クビに…高評価の翌月に一転「著しく不良」とされたワケ",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-08-27",
+    "file": "assets/readings/guguru-enjinia-kaiko.json"
+  },
+  {
+    "id": "seikatsudouro-30kiro",
+    "title": "一発免停も…9月1日から生活道路の法定速度60キロから30キロへ",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-08-27",
+    "file": "assets/readings/seikatsudouro-30kiro.json"
+  },
+  {
+    "id": "gouu-tokubetsu-keihou",
+    "title": "石川県・富山県に「レベル5大雨特別警報」　命を守る行動を",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-08-27",
+    "file": "assets/readings/gouu-tokubetsu-keihou.json"
+  },
+  {
+    "id": "burusu-wirisu-ninchishou",
+    "title": "ブルース・ウィリス、認知症により「俳優だったことも忘れる」…妻が語る前頭側頭型認知症の怖さ",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-08-27",
+    "file": "assets/readings/burusu-wirisu-ninchishou.json"
+  },
+  {
     "id": "syouhizei-nouka-kyuufukin",
     "title": "消費減税、中小零細農家へ給付金　売上高に応じ減収穴埋め",
     "level": "中級",
