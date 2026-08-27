@@ -70,7 +70,31 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                                                                                                                                                                                                                                                                          const READING_LIST = [
+                                                                                                                                                                                                                                                                                                                  const READING_LIST = [
+    {
+      id: 'nakano-tokei-settou',
+      title: '中野ブロードウェイ時計店“2億円相当”窃盗　チリ国籍の男2人を逮捕',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/nakano-tokei-settou.json'
+    },
+    {
+      id: 'jichidai-shugaku-shikin',
+      title: '自治医大・修学資金3766万円“一括返還”巡る訴訟　「約束したんだから返せ」の声に原告医師が反論',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/jichidai-shugaku-shikin.json'
+    },
+    {
+      id: 'takaichi-chuugoku-dentatsu',
+      title: '「高市首相の答弁変わらぬ限り、政策変えぬ」　中国側が訪中団に伝達',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/takaichi-chuugoku-dentatsu.json'
+    },
     {
       id: 'guguru-enjinia-kaiko',
       title: '年収1470万のGoogleエンジニアが突然クビに…高評価の翌月に一転「著しく不良」とされたワケ',
