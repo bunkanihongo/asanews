@@ -1,5 +1,37 @@
 [
   {
+    "id": "neparu-dosekiryu-nihonjin",
+    "title": "ネパール土石流 行方不明の日本人5人は大阪の一家か 小学生の子も",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-08-29",
+    "file": "assets/readings/neparu-dosekiryu-nihonjin.json"
+  },
+  {
+    "id": "iran-saikou-shidousha-ginen",
+    "title": "開戦半年後も姿見せないイラン最高指導者 健康と実権に疑念",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-08-29",
+    "file": "assets/readings/iran-saikou-shidousha-ginen.json"
+  },
+  {
+    "id": "sandwich-itate-noukousoku",
+    "title": "サンドウィッチマン伊達みきお 脳梗塞で活動休止 相方・富澤が現状報告",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-08-29",
+    "file": "assets/readings/sandwich-itate-noukousoku.json"
+  },
+  {
+    "id": "nipponham-reyes-zanryuu",
+    "title": "日本ハム・レイエス 異例の残留訴え 「ここは僕の居場所」「一緒に優勝を」",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-08-29",
+    "file": "assets/readings/nipponham-reyes-zanryuu.json"
+  },
+  {
     "id": "nakano-tokei-settou",
     "title": "中野ブロードウェイ時計店“2億円相当”窃盗　チリ国籍の男2人を逮捕",
     "level": "中級",
