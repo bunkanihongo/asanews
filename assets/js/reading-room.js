@@ -70,7 +70,39 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                                                                                                                                                                                                                                                                                          const READING_LIST = [
+                                                                                                                                                                                                                                                                                                                                  const READING_LIST = [
+    {
+      id: 'chiba-touhouoki-jishin-m48',
+      title: '千葉県東方沖で地震 M4.8 関東・東北で最大震度4',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/chiba-touhouoki-jishin-m48.json'
+    },
+    {
+      id: 'hakajimai-kyuuzou-80sai',
+      title: '墓じまい急増 「娘に負担かけたくない」80歳女性の決断',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/hakajimai-kyuuzou-80sai.json'
+    },
+    {
+      id: 'koukyo-run-kinji-ron',
+      title: '「皇居ラン、そろそろ禁止?」 SNSで賛否 千代田区が現状を説明',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/koukyo-run-kinji-ron.json'
+    },
+    {
+      id: 'france-mousho-nihon-natsu-item',
+      title: '猛暑のフランスで日本の夏アイテムが大活躍 現地でも絶賛',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/france-mousho-nihon-natsu-item.json'
+    },
     {
       id: 'neparu-dosekiryu-nihonjin',
       title: 'ネパール土石流 行方不明の日本人5人は大阪の一家か 小学生の子も',
