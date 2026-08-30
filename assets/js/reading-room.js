@@ -70,7 +70,39 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                                                                                                                                                                                                                                                                                                  const READING_LIST = [
+                                                                                                                                                                                                                                                                                                                                          const READING_LIST = [
+    {
+      id: 'france-aircon-100man-en',
+      title: 'フランスではエアコン2台で約100万円 日本の価格に「泣きたいわ」',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/france-aircon-100man-en.json'
+    },
+    {
+      id: 'matsumoto-family-jiko-kouhan',
+      title: '「涙一つ出ないのか」5人亡くした遺族 被告の淡々とした表情に憤り',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/matsumoto-family-jiko-kouhan.json'
+    },
+    {
+      id: 'kouno-tarou-zeigen-hantai',
+      title: '河野太郎氏「消費税減税は『高市政権』のナローパス」 財源10兆円の捻出に警鐘',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/kouno-tarou-zeigen-hantai.json'
+    },
+    {
+      id: 'konji-otto-nanbyou-chichi',
+      title: '難病の息子「病気を理由に我慢する必要はない」 父が語る子育ての願い',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/konji-otto-nanbyou-chichi.json'
+    },
     {
       id: 'chiba-touhouoki-jishin-m48',
       title: '千葉県東方沖で地震 M4.8 関東・東北で最大震度4',
