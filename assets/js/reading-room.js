@@ -70,7 +70,39 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                                                                                                                                                                                                                                                                                                          const READING_LIST = [
+                                                                                                                                                                                                                                                                                                                                                  const READING_LIST = [
+    {
+      id: 'ise-meirin-shotengai-taika',
+      title: '伊勢神宮近くで火事 戦後まもなく誕生した『明倫商店街』ほぼ全焼か',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/ise-meirin-shotengai-taika.json'
+    },
+    {
+      id: 'mikon-wakamono-kekkon-koete',
+      title: '未婚若者の約3人に1人「結婚するつもりはない」 こども家庭庁 若者10万人調査',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/mikon-wakamono-kekkon-koete.json'
+    },
+    {
+      id: 'kankoku-mizu-kutsujoku-kenen',
+      title: '日本の地震被害に支援したのに…「韓国産の水は水洗トイレに」 侮辱コメントに物議',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/kankoku-mizu-kutsujoku-kenen.json'
+    },
+    {
+      id: 'messi-daibyou-intai-sengen',
+      title: 'メッシ、アルゼンチン代表引退を発表「今こそが“その時”だ」',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/messi-daibyou-intai-sengen.json'
+    },
     {
       id: 'france-aircon-100man-en',
       title: 'フランスではエアコン2台で約100万円 日本の価格に「泣きたいわ」',
