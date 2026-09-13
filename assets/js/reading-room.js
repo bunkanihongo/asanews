@@ -71,6 +71,12 @@
   //  読解リスト
   // ======================================================================
                                                                                                                                                                                                                                                                                                                                                   const READING_LIST = [
+    { id: 'gurieru-jr-dfa-senryokugai', title: '元DeNA外野手が“戦力外”に　59億円契約も打撃不振…球団発表', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/gurieru-jr-dfa-senryokugai.json' },
+
+    { id: 'fufu-seitekidoui-taiwa', title: '夫婦間で「したくない」なぜ言えない?　日本人に足りないものとは', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/fufu-seitekidoui-taiwa.json' },
+
+    { id: 'okinawa-chiji-kosha-hatsu', title: '沖縄知事に自民系古謝氏が初当選　辺野古容認へ12年ぶり転換', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/okinawa-chiji-kosha-hatsu.json' },
+
     { id: 'akishuu-zenzen-dairi', title: '秋雨前線が再び活発化　週明けは北陸や東北で大雨のおそれ', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/akishuu-zenzen-dairi.json' },
     { id: 'gps-shihoukan-katsuyou', title: '仮釈放中の性犯罪者にGPS　法務省が再犯防止へ実証実験', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/gps-shihoukan-katsuyou.json' },
     { id: 'manjaro-iryou-tsuuri', title: '「マンジャロ」求め来日する韓国人が急増　価格と健康被害に課題', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/manjaro-iryou-tsuuri.json' },
