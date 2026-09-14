@@ -71,6 +71,10 @@
   //  読解リスト
   // ======================================================================
                                                                                                                                                                                                                                                                                                                                                   const READING_LIST = [
+    { id: 'ai-kaihatsu-gensoku-kanou', title: 'AI開発「減速」は可能なのか？ 激しい競争と「中国リスク」が壁に', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/ai-kaihatsu-gensoku-kanou.json' },
+    { id: 'purudensharu-kojin-jouhou-rouei', title: 'プルデンシャル、顧客情報1570人分漏えい　元社員、不正持ち出し後に紛失', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/purudensharu-kojin-jouhou-rouei.json' },
+    { id: 'hikari-tsushin-leopalace-tob', title: '光通信と投資ファンド、レオパレス21にTOB　1株1000円', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/hikari-tsushin-leopalace-tob.json' },
+
     { id: 'gurieru-jr-dfa-senryokugai', title: '元DeNA外野手が“戦力外”に　59億円契約も打撃不振…球団発表', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/gurieru-jr-dfa-senryokugai.json' },
 
     { id: 'fufu-seitekidoui-taiwa', title: '夫婦間で「したくない」なぜ言えない?　日本人に足りないものとは', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/fufu-seitekidoui-taiwa.json' },
