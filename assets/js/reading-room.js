@@ -70,21 +70,103 @@
   // ======================================================================
   //  読解リスト
   // ======================================================================
-                                                                                                                                                                                                                                                                                                                                                  const READING_LIST = [
-    { id: 'ai-kaihatsu-gensoku-kanou', title: 'AI開発「減速」は可能なのか？ 激しい競争と「中国リスク」が壁に', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/ai-kaihatsu-gensoku-kanou.json' },
-    { id: 'purudensharu-kojin-jouhou-rouei', title: 'プルデンシャル、顧客情報1570人分漏えい　元社員、不正持ち出し後に紛失', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/purudensharu-kojin-jouhou-rouei.json' },
-    { id: 'hikari-tsushin-leopalace-tob', title: '光通信と投資ファンド、レオパレス21にTOB　1株1000円', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/hikari-tsushin-leopalace-tob.json' },
-
-    { id: 'gurieru-jr-dfa-senryokugai', title: '元DeNA外野手が“戦力外”に　59億円契約も打撃不振…球団発表', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/gurieru-jr-dfa-senryokugai.json' },
-
-    { id: 'fufu-seitekidoui-taiwa', title: '夫婦間で「したくない」なぜ言えない?　日本人に足りないものとは', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/fufu-seitekidoui-taiwa.json' },
-
-    { id: 'okinawa-chiji-kosha-hatsu', title: '沖縄知事に自民系古謝氏が初当選　辺野古容認へ12年ぶり転換', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/okinawa-chiji-kosha-hatsu.json' },
-
-    { id: 'akishuu-zenzen-dairi', title: '秋雨前線が再び活発化　週明けは北陸や東北で大雨のおそれ', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/akishuu-zenzen-dairi.json' },
-    { id: 'gps-shihoukan-katsuyou', title: '仮釈放中の性犯罪者にGPS　法務省が再犯防止へ実証実験', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/gps-shihoukan-katsuyou.json' },
-    { id: 'manjaro-iryou-tsuuri', title: '「マンジャロ」求め来日する韓国人が急増　価格と健康被害に課題', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/manjaro-iryou-tsuuri.json' },
-
+                                                                                                                                                                                                                                                                                                                                                          const READING_LIST = [
+    {
+      id: 'global-hawk-tsuiraku-ninmu',
+      title: '「墜落」のグローバルホーク「任務中だった」 詳細明かされず',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/global-hawk-tsuiraku-ninmu.json'
+    },
+    {
+      id: 'taifuu25-gou-shingai',
+      title: '台風25号へ発達見込み シルバーウイークに大雨・暴風のおそれ',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/taifuu25-gou-shingai.json'
+    },
+    {
+      id: 'mori-shugiin-gichou-ukraine-enzetsu',
+      title: '森衆院議長、ウクライナ議会でロシア非難「蛮行」',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/mori-shugiin-gichou-ukraine-enzetsu.json'
+    },
+    {
+      id: 'ai-kaihatsu-gensoku-kanou',
+      title: 'AI開発「減速」は可能なのか？ 激しい競争と「中国リスク」が壁に',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/ai-kaihatsu-gensoku-kanou.json'
+    },
+    {
+      id: 'purudensharu-kojin-jouhou-rouei',
+      title: 'プルデンシャル、顧客情報1570人分漏えい　元社員、不正持ち出し後に紛失',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/purudensharu-kojin-jouhou-rouei.json'
+    },
+    {
+      id: 'hikari-tsushin-leopalace-tob',
+      title: '光通信と投資ファンド、レオパレス21にTOB　1株1000円',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/hikari-tsushin-leopalace-tob.json'
+    },
+    {
+      id: 'gurieru-jr-dfa-senryokugai',
+      title: '元DeNA外野手が“戦力外”に　59億円契約も打撃不振…球団発表',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/gurieru-jr-dfa-senryokugai.json'
+    },
+    {
+      id: 'fufu-seitekidoui-taiwa',
+      title: '夫婦間で「したくない」なぜ言えない?　日本人に足りないものとは',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/fufu-seitekidoui-taiwa.json'
+    },
+    {
+      id: 'okinawa-chiji-kosha-hatsu',
+      title: '沖縄知事に自民系古謝氏が初当選　辺野古容認へ12年ぶり転換',
+      kicker: '中級',
+      desc: '',
+      badge: '2段落',
+      file: '/asanews/assets/readings/okinawa-chiji-kosha-hatsu.json'
+    },
+    {
+      id: 'akishuu-zenzen-dairi',
+      title: '秋雨前線が再び活発化　週明けは北陸や東北で大雨のおそれ',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/akishuu-zenzen-dairi.json'
+    },
+    {
+      id: 'gps-shihoukan-katsuyou',
+      title: '仮釈放中の性犯罪者にGPS　法務省が再犯防止へ実証実験',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/gps-shihoukan-katsuyou.json'
+    },
+    {
+      id: 'manjaro-iryou-tsuuri',
+      title: '「マンジャロ」求め来日する韓国人が急増　価格と健康被害に課題',
+      kicker: '中級',
+      desc: '',
+      badge: '3段落',
+      file: '/asanews/assets/readings/manjaro-iryou-tsuuri.json'
+    },
     {
       id: 'ise-meirin-shotengai-taika',
       title: '伊勢神宮近くで火事 戦後まもなく誕生した『明倫商店街』ほぼ全焼か',

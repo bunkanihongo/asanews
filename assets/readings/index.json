@@ -1,5 +1,29 @@
 [
   {
+    "id": "global-hawk-tsuiraku-ninmu",
+    "title": "「墜落」のグローバルホーク「任務中だった」 詳細明かされず",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-09-16",
+    "file": "assets/readings/global-hawk-tsuiraku-ninmu.json"
+  },
+  {
+    "id": "taifuu25-gou-shingai",
+    "title": "台風25号へ発達見込み シルバーウイークに大雨・暴風のおそれ",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-09-16",
+    "file": "assets/readings/taifuu25-gou-shingai.json"
+  },
+  {
+    "id": "mori-shugiin-gichou-ukraine-enzetsu",
+    "title": "森衆院議長、ウクライナ議会でロシア非難「蛮行」",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-09-16",
+    "file": "assets/readings/mori-shugiin-gichou-ukraine-enzetsu.json"
+  },
+  {
     "id": "ai-kaihatsu-gensoku-kanou",
     "title": "AI開発「減速」は可能なのか？ 激しい競争と「中国リスク」が壁に",
     "level": "中級",
