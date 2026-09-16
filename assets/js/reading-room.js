@@ -71,6 +71,10 @@
   //  読解リスト
   // ======================================================================
                                                                                                                                                                                                                                                                                                                                                           const READING_LIST = [
+    { id: 'nagoya-gakkyu-shashin-haishi', title: '名古屋市立小で集合写真を突然廃止 保護者は反発、学校の説明は', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/nagoya-gakkyu-shashin-haishi.json' },
+    { id: 'sakata-yuto-sosaku', title: '息子で「間違いない」6歳男児行方不明、捜索続く', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/sakata-yuto-sosaku.json' },
+    { id: 'china-broccoli-procymidone', title: '日本に輸入された中国産食品、殺菌剤プロシミドン検出事例', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/china-broccoli-procymidone.json' },
+
     {
       id: 'global-hawk-tsuiraku-ninmu',
       title: '「墜落」のグローバルホーク「任務中だった」 詳細明かされず',
