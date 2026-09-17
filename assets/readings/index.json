@@ -1,5 +1,37 @@
 [
   {
+    "id": "taifuu25-keihou-ooame",
+    "title": "大型の台風25号は離れた所も油断禁物　影響が広範囲に及ぶおそれ",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-09-18",
+    "file": "assets/readings/taifuu25-keihou-ooame.json"
+  },
+  {
+    "id": "kyushu-shinkansen-zenkusen",
+    "title": "九州新幹線52日ぶり全線運転　熊本地震、復興へ観光促進",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-09-18",
+    "file": "assets/readings/kyushu-shinkansen-zenkusen.json"
+  },
+  {
+    "id": "asahi-kasei-gijutsu-ryuushutsu",
+    "title": "旭化成の半導体関連技術、中国企業に流出　元社員を逮捕",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-09-18",
+    "file": "assets/readings/asahi-kasei-gijutsu-ryuushutsu.json"
+  },
+  {
+    "id": "tokyo-poisute-jourei",
+    "title": "観光地や繁華街でのポイ捨て禁止、都が2028年度の条例施行目指す",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-09-18",
+    "file": "assets/readings/tokyo-poisute-jourei.json"
+  },
+  {
     "id": "nagoya-gakkyu-shashin-haishi",
     "title": "名古屋市立小で集合写真を突然廃止 保護者は反発、学校の説明は",
     "level": "中級",

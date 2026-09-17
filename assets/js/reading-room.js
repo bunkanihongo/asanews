@@ -71,2482 +71,322 @@
   //  読解リスト
   // ======================================================================
                                                                                                                                                                                                                                                                                                                                                           const READING_LIST = [
+    { id: 'taifuu25-keihou-ooame', title: '大型の台風25号は離れた所も油断禁物　影響が広範囲に及ぶおそれ', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/taifuu25-keihou-ooame.json' },
+    { id: 'kyushu-shinkansen-zenkusen', title: '九州新幹線52日ぶり全線運転　熊本地震、復興へ観光促進', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/kyushu-shinkansen-zenkusen.json' },
+    { id: 'asahi-kasei-gijutsu-ryuushutsu', title: '旭化成の半導体関連技術、中国企業に流出　元社員を逮捕', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/asahi-kasei-gijutsu-ryuushutsu.json' },
+    { id: 'tokyo-poisute-jourei', title: '観光地や繁華街でのポイ捨て禁止、都が2028年度の条例施行目指す', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/tokyo-poisute-jourei.json' },
     { id: 'nagoya-gakkyu-shashin-haishi', title: '名古屋市立小で集合写真を突然廃止 保護者は反発、学校の説明は', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/nagoya-gakkyu-shashin-haishi.json' },
     { id: 'sakata-yuto-sosaku', title: '息子で「間違いない」6歳男児行方不明、捜索続く', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/sakata-yuto-sosaku.json' },
     { id: 'china-broccoli-procymidone', title: '日本に輸入された中国産食品、殺菌剤プロシミドン検出事例', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/china-broccoli-procymidone.json' },
-
-    {
-      id: 'global-hawk-tsuiraku-ninmu',
-      title: '「墜落」のグローバルホーク「任務中だった」 詳細明かされず',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/global-hawk-tsuiraku-ninmu.json'
-    },
-    {
-      id: 'taifuu25-gou-shingai',
-      title: '台風25号へ発達見込み シルバーウイークに大雨・暴風のおそれ',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/taifuu25-gou-shingai.json'
-    },
-    {
-      id: 'mori-shugiin-gichou-ukraine-enzetsu',
-      title: '森衆院議長、ウクライナ議会でロシア非難「蛮行」',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/mori-shugiin-gichou-ukraine-enzetsu.json'
-    },
-    {
-      id: 'ai-kaihatsu-gensoku-kanou',
-      title: 'AI開発「減速」は可能なのか？ 激しい競争と「中国リスク」が壁に',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/ai-kaihatsu-gensoku-kanou.json'
-    },
-    {
-      id: 'purudensharu-kojin-jouhou-rouei',
-      title: 'プルデンシャル、顧客情報1570人分漏えい　元社員、不正持ち出し後に紛失',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/purudensharu-kojin-jouhou-rouei.json'
-    },
-    {
-      id: 'hikari-tsushin-leopalace-tob',
-      title: '光通信と投資ファンド、レオパレス21にTOB　1株1000円',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/hikari-tsushin-leopalace-tob.json'
-    },
-    {
-      id: 'gurieru-jr-dfa-senryokugai',
-      title: '元DeNA外野手が“戦力外”に　59億円契約も打撃不振…球団発表',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/gurieru-jr-dfa-senryokugai.json'
-    },
-    {
-      id: 'fufu-seitekidoui-taiwa',
-      title: '夫婦間で「したくない」なぜ言えない?　日本人に足りないものとは',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/fufu-seitekidoui-taiwa.json'
-    },
-    {
-      id: 'okinawa-chiji-kosha-hatsu',
-      title: '沖縄知事に自民系古謝氏が初当選　辺野古容認へ12年ぶり転換',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/okinawa-chiji-kosha-hatsu.json'
-    },
-    {
-      id: 'akishuu-zenzen-dairi',
-      title: '秋雨前線が再び活発化　週明けは北陸や東北で大雨のおそれ',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/akishuu-zenzen-dairi.json'
-    },
-    {
-      id: 'gps-shihoukan-katsuyou',
-      title: '仮釈放中の性犯罪者にGPS　法務省が再犯防止へ実証実験',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/gps-shihoukan-katsuyou.json'
-    },
-    {
-      id: 'manjaro-iryou-tsuuri',
-      title: '「マンジャロ」求め来日する韓国人が急増　価格と健康被害に課題',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/manjaro-iryou-tsuuri.json'
-    },
-    {
-      id: 'ise-meirin-shotengai-taika',
-      title: '伊勢神宮近くで火事 戦後まもなく誕生した『明倫商店街』ほぼ全焼か',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/ise-meirin-shotengai-taika.json'
-    },
-    {
-      id: 'mikon-wakamono-kekkon-koete',
-      title: '未婚若者の約3人に1人「結婚するつもりはない」 こども家庭庁 若者10万人調査',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/mikon-wakamono-kekkon-koete.json'
-    },
-    {
-      id: 'kankoku-mizu-kutsujoku-kenen',
-      title: '日本の地震被害に支援したのに…「韓国産の水は水洗トイレに」 侮辱コメントに物議',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/kankoku-mizu-kutsujoku-kenen.json'
-    },
-    {
-      id: 'messi-daibyou-intai-sengen',
-      title: 'メッシ、アルゼンチン代表引退を発表「今こそが“その時”だ」',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/messi-daibyou-intai-sengen.json'
-    },
-    {
-      id: 'france-aircon-100man-en',
-      title: 'フランスではエアコン2台で約100万円 日本の価格に「泣きたいわ」',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/france-aircon-100man-en.json'
-    },
-    {
-      id: 'matsumoto-family-jiko-kouhan',
-      title: '「涙一つ出ないのか」5人亡くした遺族 被告の淡々とした表情に憤り',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/matsumoto-family-jiko-kouhan.json'
-    },
-    {
-      id: 'kouno-tarou-zeigen-hantai',
-      title: '河野太郎氏「消費税減税は『高市政権』のナローパス」 財源10兆円の捻出に警鐘',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/kouno-tarou-zeigen-hantai.json'
-    },
-    {
-      id: 'konji-otto-nanbyou-chichi',
-      title: '難病の息子「病気を理由に我慢する必要はない」 父が語る子育ての願い',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/konji-otto-nanbyou-chichi.json'
-    },
-    {
-      id: 'chiba-touhouoki-jishin-m48',
-      title: '千葉県東方沖で地震 M4.8 関東・東北で最大震度4',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/chiba-touhouoki-jishin-m48.json'
-    },
-    {
-      id: 'hakajimai-kyuuzou-80sai',
-      title: '墓じまい急増 「娘に負担かけたくない」80歳女性の決断',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/hakajimai-kyuuzou-80sai.json'
-    },
-    {
-      id: 'koukyo-run-kinji-ron',
-      title: '「皇居ラン、そろそろ禁止?」 SNSで賛否 千代田区が現状を説明',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/koukyo-run-kinji-ron.json'
-    },
-    {
-      id: 'france-mousho-nihon-natsu-item',
-      title: '猛暑のフランスで日本の夏アイテムが大活躍 現地でも絶賛',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/france-mousho-nihon-natsu-item.json'
-    },
-    {
-      id: 'neparu-dosekiryu-nihonjin',
-      title: 'ネパール土石流 行方不明の日本人5人は大阪の一家か 小学生の子も',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/neparu-dosekiryu-nihonjin.json'
-    },
-    {
-      id: 'iran-saikou-shidousha-ginen',
-      title: '開戦半年後も姿見せないイラン最高指導者 健康と実権に疑念',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/iran-saikou-shidousha-ginen.json'
-    },
-    {
-      id: 'sandwich-itate-noukousoku',
-      title: 'サンドウィッチマン伊達みきお 脳梗塞で活動休止 相方・富澤が現状報告',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/sandwich-itate-noukousoku.json'
-    },
-    {
-      id: 'nipponham-reyes-zanryuu',
-      title: '日本ハム・レイエス 異例の残留訴え 「ここは僕の居場所」「一緒に優勝を」',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/nipponham-reyes-zanryuu.json'
-    },
-    {
-      id: 'nakano-tokei-settou',
-      title: '中野ブロードウェイ時計店“2億円相当”窃盗　チリ国籍の男2人を逮捕',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/nakano-tokei-settou.json'
-    },
-    {
-      id: 'jichidai-shugaku-shikin',
-      title: '自治医大・修学資金3766万円“一括返還”巡る訴訟　「約束したんだから返せ」の声に原告医師が反論',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/jichidai-shugaku-shikin.json'
-    },
-    {
-      id: 'takaichi-chuugoku-dentatsu',
-      title: '「高市首相の答弁変わらぬ限り、政策変えぬ」　中国側が訪中団に伝達',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/takaichi-chuugoku-dentatsu.json'
-    },
-    {
-      id: 'guguru-enjinia-kaiko',
-      title: '年収1470万のGoogleエンジニアが突然クビに…高評価の翌月に一転「著しく不良」とされたワケ',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/guguru-enjinia-kaiko.json'
-    },
-    {
-      id: 'seikatsudouro-30kiro',
-      title: '一発免停も…9月1日から生活道路の法定速度60キロから30キロへ',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/seikatsudouro-30kiro.json'
-    },
-    {
-      id: 'gouu-tokubetsu-keihou',
-      title: '石川県・富山県に「レベル5大雨特別警報」　命を守る行動を',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/gouu-tokubetsu-keihou.json'
-    },
-    {
-      id: 'burusu-wirisu-ninchishou',
-      title: 'ブルース・ウィリス、認知症により「俳優だったことも忘れる」…妻が語る前頭側頭型認知症の怖さ',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/burusu-wirisu-ninchishou.json'
-    },
-    {
-      id: 'syouhizei-nouka-kyuufukin',
-      title: '消費減税、中小零細農家へ給付金　売上高に応じ減収穴埋め',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/syouhizei-nouka-kyuufukin.json'
-    },
-    {
-      id: 'tokuryuu-yakubutsu-taiho',
-      title: '俳優とトクリュウのトップが薬物所持疑い　ホテルのベッドに使用済みコカインの袋',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/tokuryuu-yakubutsu-taiho.json'
-    },
-    {
-      id: 'takubo-sotsugyousyo-gisaku',
-      title: '田久保真紀前市長のPCから偽造された卒業証書のデータ　田久保氏側は裁判で無罪主張する方針',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/takubo-sotsugyousyo-gisaku.json'
-    },
-    {
-      id: 'suwarippanashi-kenkou',
-      title: '「座りっぱなし」はタバコと同じくらい体に悪い　30分に一度立ち上がろう',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/suwarippanashi-kenkou.json'
-    },
-    {
-      id: 'taifuu18-okinawa-amami-sekken',
-      title: '台風18号、26日にかけて沖縄・奄美に接近　暴風や高波、影響が長引くおそれ',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/taifuu18-okinawa-amami-sekken.json'
-    },
-    {
-      id: 'dms-untenshu-kenshi-gimuka',
-      title: 'ながら・居眠り運転、検知義務化へ　2031年新型車に適用、国交省方針',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/dms-untenshu-kenshi-gimuka.json'
-    },
-    {
-      id: 'chugoku-hakusai-horumaru',
-      title: '中国で白菜類の鮮度保持にホルムアルデヒド使用か　当局が調査',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/chugoku-hakusai-horumaru.json'
-    },
-    {
-      id: 'sagamihara-17sai-shibou',
-      title: '17歳の男子高校生死亡　防犯カメラにバイクと“追いかける”黒い車　「殴られたようだ」と友人が通報',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/sagamihara-17sai-shibou.json'
-    },
-    {
-      id: 'futatsu-kaikyou-antei',
-      title: '「二つの海峡」安定に注力　日本政府、原油輸送確保狙う　首脳外交求める声',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/futatsu-kaikyou-antei.json'
-    },
-    {
-      id: 'syouhizei-genzei-sijiritsu',
-      title: '消費減税、71％が財政に不安　内閣支持率は最低更新50％',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/syouhizei-genzei-sijiritsu.json'
-    },
-    {
-      id: 'chiba-gouu-suiryou-syaryou',
-      title: '千葉豪雨、水没車両は1万台規模か　一変した日常「まだ10年乗りたかった」愛車との別れに悲痛な声',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/chiba-gouu-suiryou-syaryou.json'
-    },
-    {
-      id: 'danchi-kurashi-nikoichi',
-      title: '戸建てを売って家族5人で越してきた人も　入居率V字回復「団地」の魅力　令和の「団地暮らし」',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/danchi-kurashi-nikoichi.json'
-    },
-    {
-      id: 'ohtani-tousyu-fukki',
-      title: '大谷翔平、最短で来週にも投手復帰　監督説明「タイミング合えば」…次回ブルペン後に状態判断',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/ohtani-tousyu-fukki.json'
-    },
-    {
-      id: 'kanto-jishin-shindo5jaku',
-      title: '関東で最大震度5弱の地震 津波なし 1都3県で観測',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/kanto-jishin-shindo5jaku.json'
-    },
-    {
-      id: 'syuin-hirei-sainragu-shiki',
-      title: '衆院比例に「サンラグ式」案浮上 小政党に議席配分しやすく',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/syuin-hirei-sainragu-shiki.json'
-    },
-    {
-      id: 'tokyoeki-douro-ana-gouu',
-      title: '東京駅近くで道路に穴 掘削現場に水流れ込む 関東南部で豪雨',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/tokyoeki-douro-ana-gouu.json'
-    },
-    {
-      id: 'nogizaka-rakurai-nyuujou-syakai',
-      title: '乃木坂46 落雷で避難の客の入場前に開始 公式サイトで謝罪',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/nogizaka-rakurai-nyuujou-syakai.json'
-    },
-    {
-      id: 'fujisan-okizari-7sai',
-      title: '富士山で7歳男の子を置き去りにした父親 警察が厳しく注意',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/fujisan-okizari-7sai.json'
-    },
-    {
-      id: 'tenki-22nichi-raiu-mousho',
-      title: '22日 西・東日本は急な雷雨に注意 東海〜九州は猛暑',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/tenki-22nichi-raiu-mousho.json'
-    },
-    {
-      id: 'saitama-mouretsu-ame-suibotsu',
-      title: '埼玉で猛烈な雨 車水没訴える通報相次ぐ 記録的短時間大雨',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/saitama-mouretsu-ame-suibotsu.json'
-    },
-    {
-      id: 'suimin-biyou-risuku-kennen',
-      title: '睡眠美容巡り 専門家らリスク懸念 睡眠薬処方の例も',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/suimin-biyou-risuku-kennen.json'
-    },
-    {
-      id: 'houmushou-rabu-joutou-chuushi',
-      title: '法務省 「ラヴ上等」タイアップ取りやめ 批判相次ぎ',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/houmushou-rabu-joutou-chuushi.json'
-    },
-    {
-      id: 'icc-syokuchou-seisai-europe',
-      title: 'ICCの所長制裁に欧州各国が反発強める 対抗策求める声',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/icc-syokuchou-seisai-europe.json'
-    },
-    {
-      id: 'shinmai-kakaku-daikyuu',
-      title: '26年産新米 大幅値下がりの見通し 概算金 前年比2〜4割下落',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/shinmai-kakaku-daikyuu.json'
-    },
-    {
-      id: 'daiichi-pan-touki-39kg',
-      title: '大山県道に連日のパン投棄 合計39kg確認 鶏のレバーも 鳥取',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/daiichi-pan-touki-39kg.json'
-    },
-    {
-      id: 'tokkyu-sesshoku-4nin-shibou',
-      title: '東武日光線 作業員4人が特急と接触し死亡 退避完了の合図中に事故',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/tokkyu-sesshoku-4nin-shibou.json'
-    },
-    {
-      id: 'tobikomi-spot-20sai-ishikifumei',
-      title: '川に飛び込み20歳大学生が意識不明 高知・汗見川の飛び込みスポット',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/tobikomi-spot-20sai-ishikifumei.json'
-    },
-    {
-      id: 'chugoku-okinawa-kizoku-gigi',
-      title: '中国 沖縄の帰属に「疑義」 バタン諸島にも類似主張',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/chugoku-okinawa-kizoku-gigi.json'
-    },
-    {
-      id: 'moushobi-zenkoku-20260820',
-      title: '今日20日も九州や東海で猛暑日続出 熊本は37℃の危険な暑さ 熱中症警戒アラート15府県',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/moushobi-zenkoku-20260820.json'
-    },
-    {
-      id: 'chiba-gouu-syaryou-tekkai',
-      title: '千葉豪雨 千葉市内の幹線道路上の放置車両をすべて撤去 生活道路は今後順次',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/chiba-gouu-syaryou-tekkai.json'
-    },
-    {
-      id: 'byouin-chuusya-jiko-kobayashi',
-      title: '小林市の病院駐車場で診察待つ列に車突っ込む 74歳女性が死亡 運転の女性を過失運転致死疑いで捜査',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/byouin-chuusya-jiko-kobayashi.json'
-    },
-    {
-      id: 'icc-syokai-bei-seisai',
-      title: 'ICC所長への米制裁に非難拡大 仏・EU・国連が相次ぎ表明 赤根智子所長を制裁対象に',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/icc-syokai-bei-seisai.json'
-    },
-    {
-      id: 'toranpu-kinjonei-kaidan',
-      title: 'トランプ氏 金正恩氏と年内会談の意向 北朝鮮は核兵器「57発保有」と発言',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/toranpu-kinjonei-kaidan.json'
-    },
-    {
-      id: 'zankusho-moushobi-kyuusyuu',
-      title: '今日19日は大阪や名古屋で35℃以上の猛暑日か 九州では38℃を超える所も',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/zankusho-moushobi-kyuusyuu.json'
-    },
-    {
-      id: 'chiba-gouu-syaryou-tekkyo',
-      title: '豪雨で路上に残る車両まだ600台 国や千葉県など官民、撤去で連携',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/chiba-gouu-syaryou-tekkyo.json'
-    },
-    {
-      id: 'kusakari-netchushou-shibou',
-      title: '【速報】草刈り作業中の男性が死亡 体温は搬送時約40度 熱中症の可能性も 兵庫・小野市',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/kusakari-netchushou-shibou.json'
-    },
-    {
-      id: 'jyuugo-sai-houka-ryoushin',
-      title: '15歳中学生“放火”と“殺人未遂”で逮捕 自宅にガソリンか…「お父さんが暴力を振ってくるのが嫌いで」 福岡・大牟田市',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/jyuugo-sai-houka-ryoushin.json'
-    },
-    {
-      id: 'sakasama-taifuu-chiba-gouu',
-      title: 'いつもと違う今年の夏 異例の逆走台風と千葉豪雨はなぜ起きた？カギは“夏の太平洋高気圧”',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/sakasama-taifuu-chiba-gouu.json'
-    },
-    {
-      id: 'openai-keiei-kanbu-taisya',
-      title: 'オープンAIで経営幹部が相次ぎ退社 半年前加入の「中心人物」も…新規株式公開前に「危険信号」',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/openai-keiei-kanbu-taisya.json'
-    },
-    {
-      id: 'bbq-kawa-nagare-josei-jyushou',
-      title: '友人とのBBQ中に川に流される 20代女性が心肺停止 埼玉・飯能市',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/bbq-kawa-nagare-josei-jyushou.json'
-    },
-    {
-      id: 'beiran-iran-husantei-koutyaku',
-      title: '米イラン「不安定な膠着」 覚書期限、海峡開放見えず',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/beiran-iran-husantei-koutyaku.json'
-    },
-    {
-      id: 'dorifuto-soukou-toruko-taiho',
-      title: 'ドリフト走行した疑いでトルコ国籍の男を逮捕 愛知県警はアジア大会へ取り締まり強化方針',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/dorifuto-soukou-toruko-taiho.json'
-    },
-    {
-      id: 'indoneshia-jishin-shibou',
-      title: 'インドネシアでM7.7の地震、47人死亡 津波も観測',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/indoneshia-jishin-shibou.json'
-    },
-    {
-      id: 'senchi-no-chichi-ichido-dakko',
-      title: '戦地へ向かう父、生涯で一度だけの抱っこ…平和への祈りは9歳の孫に託す',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/senchi-no-chichi-ichido-dakko.json'
-    },
-    {
-      id: 'toritetsu-hikikoroshi-jiken',
-      title: '“撮り鉄”の男性を車でひき殺そうとしたか 55歳の男を逮捕、「びびらせようとしただけ」と殺意否認（徳島）',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/toritetsu-hikikoroshi-jiken.json'
-    },
-    {
-      id: 'chiba-gouu-8nin-shibou',
-      title: '「中にはまだ人が」見えた爪痕　千葉豪雨8人死亡　一変した街',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/chiba-gouu-8nin-shibou.json'
-    },
-    {
-      id: 'okayadokari-mitsuryou',
-      title: '狙われる天然記念物 中国籍の男3人が「オカヤドカリ」類を繰り返し密猟か 再逮捕',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/okayadokari-mitsuryou.json'
-    },
-    {
-      id: 'shisan-kodomo-reitouko',
-      title: '「ずっと一緒にいたくて」死産した子を冷凍庫に3年8カ月 30代母親に有罪判決',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/shisan-kodomo-reitouko.json'
-    },
-    {
-      id: 'akita-shokuin-teishoku',
-      title: 'オンライン取材中に喫煙した秋田県職員 停職6か月の懲戒処分 場所の虚偽説明も',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/akita-shokuin-teishoku.json'
-    },
-    {
-      id: 'sekiyu-butai',
-      title: '日本軍の秘密作戦『石油部隊』とは “戦争と石油”に翻弄された人たち 戦後81年',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/sekiyu-butai.json'
-    },
-    {
-      id: 'ekichou-sensen-chichi',
-      title: '駅長かなわず戦死の父とレイテ島で亡くなった兄 85歳夫婦が追悼式初参加へ',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/ekichou-sensen-chichi.json'
-    },
-    {
-      id: 'gunkan-nagara-chinkan',
-      title: '沈没寸前、艦長は最期に「自分をマストにくくれ!」と言い遺し…348人の魂と沈んだ軍艦「長良」',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/gunkan-nagara-chinkan.json'
-    },
-    {
-      id: 'takaichi-etorofu-badge',
-      title: 'プーチン大統領の択捉島訪問で会見 高市首相が身につけていたバッジに反響',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/takaichi-etorofu-badge.json'
-    },
-    {
-      id: 'tenki-rakurai-keihou',
-      title: '今日13日も所々で雷雲が発達 東北から近畿を中心に急な激しい雨や落雷に注意',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/tenki-rakurai-keihou.json'
-    },
-    {
-      id: 'kokki-sonkai-tsumi',
-      title: '日本国旗損壊罪法が施行 拘禁刑2年以下か罰金',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/kokki-sonkai-tsumi.json'
-    },
-    {
-      id: 'tokkyu-sonic-syoutotsu',
-      title: '事故に気が付かず特急が走行続ける JR日豊本線で車と衝突 上下線運休しお盆の移動に影響',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/tokkyu-sonic-syoutotsu.json'
-    },
-    {
-      id: 'awaodori-satsuei-manner',
-      title: '「怖い」阿波おどり開幕も踊り手から不安の声 女性踊り手狙う動画拡散',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/awaodori-satsuei-manner.json'
-    },
-    {
-      id: 'chuko-sya-hasan',
-      title: '中古車販売会社が破産開始決定 負債総額は2億1000万円',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/chuko-sya-hasan.json'
-    },
-    {
-      id: 'taifu-tamago-kantou',
-      title: '新たな「台風のたまご」発生 17日お盆明けに関東沖接近のおそれ',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/taifu-tamago-kantou.json'
-    },
-    {
-      id: 'yatsushiro-sichousya-menjin',
-      title: '免振装置を備え171億円かけ建てた庁舎 震度6強で「免震機能は失われている」',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/yatsushiro-sichousya-menjin.json'
-    },
-    {
-      id: 'nakakyusyu-oudan-douro',
-      title: '「所要時間1時間以上短縮」全線開通で運送事業者の6割がプラス効果 中九州横断道路アンケート',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/nakakyusyu-oudan-douro.json'
-    },
-    {
-      id: 'tenki-zenkoku-moushobi',
-      title: '全国的に日差しあり 東海から西では猛暑日予想 台風15号はあす関東から東北に接近、上陸へ',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/tenki-zenkoku-moushobi.json'
-    },
-    {
-      id: 'nanao-ooame',
-      title: '七尾大雨、レベル３警報 列車運休、穴水でも冠水',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/nanao-ooame.json'
-    },
-    {
-      id: 'suinan-sujiko',
-      title: '各地で水難事故相次ぐ 千葉・いすみ市の海岸で男性が波にさらわれ死亡 茨城・鉾田市では女性3人が流され1人死亡',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/suinan-sujiko.json'
-    },
-    {
-      id: 'taiwan-nagasaki-sikiten',
-      title: '台湾、長崎式典の参加者格下げ 席が「使節団区域外」と抗議',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/taiwan-nagasaki-sikiten.json'
-    },
-    {
-      id: 'jieitai-kokusan-ai',
-      title: '自衛隊の指揮統制に国産AI導入へ 政府が検討 「サカナAI」が有力、中国製は排除',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/jieitai-kokusan-ai.json'
-    },
-    {
-      id: 'gaza-heiwa-koukeihyou',
-      title: 'ガザ和平の工程表「拒否」 イスラエル、武器放棄要求',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/gaza-heiwa-koukeihyou.json'
-    },
-    {
-      id: 'aeon-kumamoto-hinan',
-      title: 'イオンモール爆発事故「避難後は戻らない」マニュアル機能せず 現場で混乱',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/aeon-kumamoto-hinan.json'
-    },
-    {
-      id: 'matahachi-intai',
-      title: '又吉克樹投手が今季限りで現役引退 NPB通算503登板',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/matahachi-intai.json'
-    },
-    {
-      id: 'yuzu-kumamoto-sien',
-      title: 'ゆず「幾重」ライブ音源を緊急配信 収益全額を熊本地震の復興支援に',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/yuzu-kumamoto-sien.json'
-    },
-    {
-      id: 'nashi-tounan-saigai',
-      title: '梨5000個を盗まれた農家の男性、熊本の被災地支援へ 「助け合いの輪」に密着',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/nashi-tounan-saigai.json'
-    },
-    {
-      id: 'taifuu15-tohoku-jouriku',
-      title: '東〜北日本は急な雷雨のおそれ 台風15号はあさって東北に上陸か',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/taifuu15-tohoku-jouriku.json'
-    },
-    {
-      id: 'koudai-naikaku-sijiritsu',
-      title: '高市内閣の支持率、初の6割切り 消費税1％表明直後も下落',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/koudai-naikaku-sijiritsu.json'
-    },
-    {
-      id: 'todai-syusyuuya',
-      title: '東大卒・年収1100万円の男性を“刺しゅう屋”へ導いた「人間を忘れた夏」',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/todai-syusyuuya.json'
-    },
-    {
-      id: 'kushiro-hisyochi',
-      title: '「真夏日ゼロ」の釧路が避暑地として急成長 長期滞在者が続々',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/kushiro-hisyochi.json'
-    },
-    {
-      id: 'syounigan-doraggu-rosu',
-      title: '2歳で小児がんになった息子 薬はあるのに日本では使えない「ドラッグロス」',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/syounigan-doraggu-rosu.json'
-    },
-    {
-      id: 'senji-yuketsu-jintai-jikken',
-      title: '戦時中、大学で輸血の人体実験 患者に動物の血使用、死亡例も',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/senji-yuketsu-jintai-jikken.json'
-    },
-    {
-      id: 'budo-tounan-taiho',
-      title: '高級ブドウ約200房を盗んだ疑い 42歳男を逮捕 自宅から約300房発見',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/budo-tounan-taiho.json'
-    },
-    {
-      id: 'iran-horumuzu-keikai',
-      title: 'イラン革命防衛隊が米国をけん制「海峡再開はイランの条件を全面的に受け入れる必要がある」',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/iran-horumuzu-keikai.json'
-    },
-    {
-      id: 'taifuu15-obon-koutsuu',
-      title: '来週は台風15号が東日本・北日本を直撃か お盆期間中の交通に影響のおそれ',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/taifuu15-obon-koutsuu.json'
-    },
-    {
-      id: 'kokuzai-hisyouji',
-      title: '国税不祥事、「前例ない事態次々」に危機感 「パパ活」、情報漏えいも',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/kokuzai-hisyouji.json'
-    },
-    {
-      id: 'kioxia-toshiba-junrieki',
-      title: 'キオクシアHD株、前身の東芝にも巨額の恩恵 1Q純利益30倍の約4.5兆円',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/kioxia-toshiba-junrieki.json'
-    },
-    {
-      id: 'usagi-shima-isei',
-      title: '「ウサギの島」生態系に異変、観光客の過剰な餌やりで増えたイノシシがウサギを襲う',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/usagi-shima-isei.json'
-    },
-    {
-      id: 'penguin-torimaria',
-      title: '八木山動物公園のフンボルトペンギン4羽、死因は「鳥マラリア」',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/penguin-torimaria.json'
-    },
-    {
-      id: 'spacex-tsuki-shoutotsu',
-      title: 'スペースXのロケット残骸が月面に衝突 衝突地点の画像を公開',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/spacex-tsuki-shoutotsu.json'
-    },
-    {
-      id: 'josei-kenkyuusya-sien',
-      title: '若手女性研究者を支援する新制度、大学に年間最大5000万円の補助金',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/josei-kenkyuusya-sien.json'
-    },
-    {
-      id: 'wow-shingou',
-      title: '「Wow！信号」受信から50年、正体不明の電波を世界合同観測へ',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/wow-shingou.json'
-    },
-    {
-      id: 'seishoku-iryou-gairai',
-      title: '都立病院で初の「生殖医療外来」開設 最新の不妊治療が受けられるように',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/seishoku-iryou-gairai.json'
-    },
-    {
-      id: 'taifuu13-okinawa-amami-sekken',
-      title: '台風13号、沖縄・奄美に最接近 線状降水帯発生のおそれ 長時間の暴風・高波に警戒',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/taifuu13-okinawa-amami-sekken.json'
-    },
-    {
-      id: 'hinanjo-kakusa-kumamoto-jishin',
-      title: '避難所めぐる“格差” 男女同室で「着替えられない」 雑魚寝続く被災地 専門家「標準化されていない」',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/hinanjo-kakusa-kumamoto-jishin.json'
-    },
-    {
-      id: 'aeon-kumamoto-bakuhatsu-lpg',
-      title: 'イオンモール熊本の爆発事故 LPガス供給会社「調査に全面的に協力」 経産省「LPガス爆発の可能性高い」',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/aeon-kumamoto-bakuhatsu-lpg.json'
-    },
-    {
-      id: 'zaimushou-jinji-iten-haran',
-      title: 'エース級の財務官僚が異例転出へ 官邸幹部「協力的でなかったから」 消費減税巡り対立か',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/zaimushou-jinji-iten-haran.json'
-    },
-    {
-      id: 'taiyou-hyoumen-saikou-kaizoudo',
-      title: '太陽表面を過去最高の解像度で観測、磁気にまつわる謎が明らかに 米研究チーム',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/taiyou-hyoumen-saikou-kaizoudo.json'
-    },
-    {
-      id: 'sanseitou-kamiya-gusaku',
-      title: '参政党の神谷代表、食料品の消費減税「天下の愚策」と批判 「一律減税でないと後押しにならない」',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/sanseitou-kamiya-gusaku.json'
-    },
-    {
-      id: 'reiwa-inochi-no-tou-meishou',
-      title: 'れいわ新選組が「いのちの党」に党名変更 “脱・山本太郎”へ 山本譲司新代表のもと臨時総会',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/reiwa-inochi-no-tou-meishou.json'
-    },
-    {
-      id: 'mukikei-karikiyaku-4nin',
-      title: '無期刑の仮釈放、2025年は「わずか4人」 2024年は32人が獄中死 「終身刑化」の傾向続く',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/mukikei-karikiyaku-4nin.json'
-    },
-    {
-      id: 'shakaihosho-zaigen-5chouen',
-      title: '日本の社会保障、岐路に 消費減税で財源5兆円の穴 手当てする具体策見えず',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/shakaihosho-zaigen-5chouen.json'
-    },
-    {
-      id: 'shiroi-zarigani-tenji',
-      title: '白いザリガニ発見 遺伝的変異の可能性 親子が捕まえ岡山の科学館に寄贈 「赤青白」3色そろう',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/shiroi-zarigani-tenji.json'
-    },
-    {
-      id: 'taifuu13-okinawa-sekken',
-      title: '台風13号、7日昼過ぎに沖縄本島へ最接近 暴風や高波に厳重警戒',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/taifuu13-okinawa-sekken.json'
-    },
-    {
-      id: 'shokuhin-zei-1-paasento',
-      title: '飲食料品消費税1％へ、外食に「割高感」も 農家にも打撃の恐れ 政府、対策を検討',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/shokuhin-zei-1-paasento.json'
-    },
-    {
-      id: 'genbaku-touka-81-nen',
-      title: '原爆投下81年、高まる核リスク 被爆者減る中、広島から平和訴え',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/genbaku-touka-81-nen.json'
-    },
-    {
-      id: 'spacex-rocket-tsuki-shoutotsu',
-      title: 'スペースXのロケット残骸、月面に衝突か ファルコン9の上段',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/spacex-rocket-tsuki-shoutotsu.json'
-    },
-    {
-      id: 'shime-ramen-yokkyuu-no-genin',
-      title: '飲酒後の「締めのラーメン欲」の原因は？ 脳の錯覚と真実【医師解説】',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/shime-ramen-yokkyuu-no-genin.json'
-    },
-    {
-      id: 'higashihiroshima-zenkai-kaji',
-      title: '「家の中から叫び声」焼け跡から4人の遺体 家族4人全員死亡か 東広島市の住宅火災',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/higashihiroshima-zenkai-kaji.json'
-    },
-    {
-      id: 'nippon-seishi-hachioji-koujou',
-      title: '9人が犠牲の日本製紙八代工場、社長ら初会見 工場長「正直何もできなかった」',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/nippon-seishi-hachioji-koujou.json'
-    },
-    {
-      id: 'mercari-nashi-tenbai-giwaku',
-      title: 'メルカリ、梨の転売疑惑を否定「誹謗中傷はやめて」 生産者を現地確認',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/mercari-nashi-tenbai-giwaku.json'
-    },
-    {
-      id: 'neko-ga-pan-wo-koneru',
-      title: 'なぜ猫は「パンをこねる」のか？ 前足で飼い主をもむ習性を生物学者が解説',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/neko-ga-pan-wo-koneru.json'
-    },
-    {
-      id: 'tai-de-shinshu-kyouryuu',
-      title: '体長27m・体重27tの新種恐竜をタイで発見 東南アジア最大か、なぜ巨大に進化できた？',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/tai-de-shinshu-kyouryuu.json'
-    },
-    {
-      id: 'takeda-shinichi-tenkin',
-      title: '武田真一アナ、NHK時代の5度の転勤を回想 「会社が一方的に働く場所を決める時代」に転機',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/takeda-shinichi-tenkin.json'
-    },
-    {
-      id: 'aeon-kumamoto-sainyuukan',
-      title: 'イオンモール熊本、避難後になぜ再入館？ 生存した従業員らの証言が浮かび上がらせる実態',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/aeon-kumamoto-sainyuukan.json'
-    },
-    {
-      id: 'keikan-happa-kawachinagano',
-      title: '警察官が刃物持った男に発砲、男は搬送先で死亡 大阪・河内長野市',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/keikan-happa-kawachinagano.json'
-    },
-    {
-      id: 'ichou-54pon-kareru',
-      title: '名物イチョウ54本が一斉に枯れる 原因は伐採時の除草剤、根がつながっていた 東京・町田',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/ichou-54pon-kareru.json'
-    },
-    {
-      id: 'kome-nouka-akaji',
-      title: '「とんでもない赤字」コメ作りやめる農家も JA福井県が概算金示せない中、ハナエチゼンの収穫始まる',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/kome-nouka-akaji.json'
-    },
-    {
-      id: 'joshi-kousei-kyouhaku',
-      title: '「会わんかったら親や学校に言うぞ」女子高校生を脅迫しホテルへ…44歳男を逮捕 大阪府警',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/joshi-kousei-kyouhaku.json'
-    },
-    {
-      id: 'ny-dow-54000-dai',
-      title: 'NYダウ900ドル超高、連日の最高値 中東情勢の緊張緩和に期待',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/ny-dow-54000-dai.json'
-    },
-    {
-      id: 'kumamoto-jishin-isshuukan',
-      title: '熊本地震1週間、避難所に7538人・断水4万4380戸 連日の猛暑で被災者の心身の不調懸念',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/kumamoto-jishin-isshuukan.json'
-    },
-    {
-      id: 'ion-bakuhatsu-wedding-dress',
-      title: 'イオンモール爆発で犠牲となった妻、告別式にウェディングドレス飾った夫「生前に着させてあげたかった」',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/ion-bakuhatsu-wedding-dress.json'
-    },
-    {
-      id: 'fukuoka-kengikai-daisansha',
-      title: '福岡県議会が第三者委設置へ 正副議長ポスト巡る金銭授受疑惑、批判高まり方針転換',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/fukuoka-kengikai-daisansha.json'
-    },
-    {
-      id: 'higashino-keigo-eien-no-kioku',
-      title: '東野圭吾さん最新作「永遠の記憶」発売 涙を流しながら本を受け取るファンの姿も',
-      kicker: '中級',
-      desc: '',
-      badge: '4段落',
-      file: '/asanews/assets/readings/higashino-keigo-eien-no-kioku.json'
-    },
-    {
-      id: 'habita-kanai-modosu-siji',
-      title: 'イオン熊本爆発 死亡の従業員2人「館内へ戻るよう指示」と運営会社が認める',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/habita-kanai-modosu-siji.json'
-    },
-    {
-      id: 'jishingumo-gosoku-chuui',
-      title: '地震と雲を関係付ける誤情報に注意 命を守るための「正しい防災」とは',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/jishingumo-gosoku-chuui.json'
-    },
-    {
-      id: 'kihara-nijuu-saigai-mousho',
-      title: '木原官房長官「今年の猛暑、まさに二重の災害」 災害関連死の抑制へ対策',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/kihara-nijuu-saigai-mousho.json'
-    },
-    {
-      id: 'takaichi-shijiritsu-teika',
-      title: '高市内閣の支持率59.2% 先月調査から6.7ポイント下落 JNN世論調査',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/takaichi-shijiritsu-teika.json'
-    },
-    {
-      id: 'kuwaki-shiho-zen-ei-v',
-      title: '桑木志帆が涙の日本勢7人目メジャーV 渋野日向子に続く全英制覇',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/kuwaki-shiho-zen-ei-v.json'
-    },
-    {
-      id: 'docomo-no-ginkou-sidou',
-      title: '「ドコモの銀行」きょう始動 「d NEOBANK」消滅、最大4.5%還元',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/docomo-no-ginkou-sidou.json'
-    },
-    {
-      id: 'iphone-shin-seihin-hinusu',
-      title: '今年のiPhone新製品、発売直後から品薄になる可能性 クックCEOが警告',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/iphone-shin-seihin-hinusu.json'
-    },
-    {
-      id: 'perseus-ryuuseigun-mikoro',
-      title: '1時間に最大100個の流星 2026年最大の天体ショー「ペルセウス座流星群」',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/perseus-ryuuseigun-mikoro.json'
-    },
-    {
-      id: 'windows-hotel-wifi-keikoku',
-      title: 'Windowsユーザーは「ホテルのWi-Fiは使うな」 マイクロソフトが緊急警告',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/windows-hotel-wifi-keikoku.json'
-    },
-    {
-      id: 'windows11-8gb-memory',
-      title: 'Windows 11は8GBメモリでも快適に使えるようになる？ 品質向上への中間報告',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/windows11-8gb-memory.json'
-    },
-    {
-      id: 'moushobi-kumamoto-40do',
-      title: '2日は300超の地点で猛暑日か 週明けは熊本で統計史上初の40℃',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/moushobi-kumamoto-40do.json'
-    },
-    {
-      id: 'risai-shoumeisho-satsuei',
-      title: '熊本地震5日目 「片付ける前に撮影を」罹災証明書申請の注意点',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/risai-shoumeisho-satsuei.json'
-    },
-    {
-      id: 'en-kyuushin-nichibei-kainyuu',
-      title: '円急伸、日米で協調介入か 円安是正へ週明け方針表明',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/en-kyuushin-nichibei-kainyuu.json'
-    },
-    {
-      id: 'nisai-danji-yukuefumei',
-      title: '祖母の自宅に帰省中 京都府宇治市の2歳の男の子が行方不明 岡山・矢掛町',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/nisai-danji-yukuefumei.json'
-    },
-    {
-      id: 'puruja-san-setsunai-shibou',
-      title: '著名登山家ニルマル・プルジャさん死亡確認 ブロードピークで雪崩遭遇',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/puruja-san-setsunai-shibou.json'
-    },
-    {
-      id: 'dena-maki-baachan-homerun',
-      title: 'DeNA・牧「ばあちゃんに打たせてもらった」 慶弔休暇明けに祖母へ捧げる本塁打',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/dena-maki-baachan-homerun.json'
-    },
-    {
-      id: 'bare-danshi-america-sekihai',
-      title: 'バレー男子 決勝ならず…米にフルセット惜敗 スロベニアとの3位決定戦へ',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/bare-danshi-america-sekihai.json'
-    },
-    {
-      id: 'goto-maki-tif-40sai',
-      title: '後藤真希 TIFで自虐あいさつ「40歳おばさん」 LOVEマシーンなど5曲披露',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/goto-maki-tif-40sai.json'
-    },
-    {
-      id: 'roshia-kiu-daikibo-kougeki',
-      title: 'ロシアがウクライナ・キーウに大規模攻撃 9人死亡、30人以上けが',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/roshia-kiu-daikibo-kougeki.json'
-    },
-    {
-      id: 'ishiba-syouhizei-hihan',
-      title: '石破前首相 高市首相の「消費税率1％」方針を批判 「財源示さなければ無責任」',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/ishiba-syouhizei-hihan.json'
-    },
-    {
-      id: 'kumamoto-yure-saidaichi-2437gal',
-      title: '熊本地震の揺れ 10年前の地震を上回る 最大2400ガル超',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/kumamoto-yure-saidaichi-2437gal.json'
-    },
-    {
-      id: 'hamas-busou-kaijo-goui',
-      title: 'ハマス 武装解除で合意と幹部が明かす ガザ撤退も含む',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/hamas-busou-kaijo-goui.json'
-    },
-    {
-      id: 'aeon-kumamoto-bakuhatsu-haha',
-      title: 'イオン爆発で娘失った母親 「金庫にお金を入れないと」と言い残し戻る',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/aeon-kumamoto-bakuhatsu-haha.json'
-    },
-    {
-      id: 'kurashiki-sasareru-sibou',
-      title: '倉敷市で男性が刺され死亡 おいの男を殺人容疑で確保',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/kurashiki-sasareru-sibou.json'
-    },
-    {
-      id: 'kitami-tamanegi-konbena',
-      title: 'たまねぎ処理工場で男性がコンテナに挟まれ死亡 北海道・北見市',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/kitami-tamanegi-konbena.json'
-    },
-    {
-      id: 'henoko-kousu-henkou-chusen',
-      title: '死亡した高校2年の生徒 辺野古コースの変更希望も抽選で外れる',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/henoko-kousu-henkou-chusen.json'
-    },
-    {
-      id: 'bado-shida-igarashi-kaisyou',
-      title: 'バドミントン 志田千陽・五十嵐有紗ペアが解消 日本代表も辞退',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/bado-shida-igarashi-kaisyou.json'
-    },
-    {
-      id: 'wagaya-sugiyama-nyuuin',
-      title: 'お笑いトリオ「我が家」杉山裕之 ギラン・バレー症候群の疑いで入院',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/wagaya-sugiyama-nyuuin.json'
-    },
-    {
-      id: 'syouhizei-1p-hyoumei',
-      title: '高市首相 食料品の消費税率「1％」を正式表明 実質ゼロへ',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/syouhizei-1p-hyoumei.json'
-    },
-    {
-      id: 'taifuu13-dolphin-mouretsu',
-      title: '台風13号「ドルフィン」猛烈な勢力で北上 九州・沖縄に接近か',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/taifuu13-dolphin-mouretsu.json'
-    },
-    {
-      id: 'saichou-katsudansou-m8',
-      title: '「南海トラフだけではない」1000年以上沈黙する日本最長の活断層',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/saichou-katsudansou-m8.json'
-    },
-    {
-      id: 'kumamoto-jishin-hisaisha-koe',
-      title: '「シャワーが泥水」熊本地震 被災者の生の声と求める支援',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/kumamoto-jishin-hisaisha-koe.json'
-    },
-    {
-      id: 'matsunoya-mama-ouen-natsu',
-      title: '松のや「ママ応援企画」に批判 謝罪し「夏休み企画」に変更',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/matsunoya-mama-ouen-natsu.json'
-    },
-    {
-      id: 'fukuoka-kengikai-kingin',
-      title: '福岡県議会「カツアゲ問題」 告発議員を支える重鎮とフジ人気アナ',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/fukuoka-kengikai-kingin.json'
-    },
-    {
-      id: 'juuminzei-hikaze-hikaku',
-      title: '住民税非課税の目安は年収110万円に 国の一律給付なし',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/juuminzei-hikaze-hikaku.json'
-    },
-    {
-      id: 'doru157en-kawase-kainyu',
-      title: 'ドル円 一時157円台に急騰 政府・日銀が為替介入か',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/doru157en-kawase-kainyu.json'
-    },
-    {
-      id: 'souri-kumamoto-nyuuri',
-      title: '首相 8月3日にも熊本入り 被災状況を把握へ',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/souri-kumamoto-nyuuri.json'
-    },
-    {
-      id: 'senbotsusha-izoku-50nen-gosiharu',
-      title: '戦没者遺族への特別弔慰金 50年間誤って支給 総額180万円',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/senbotsusha-izoku-50nen-gosiharu.json'
-    },
-    {
-      id: 'onward-aeon-kumamoto-shain',
-      title: 'オンワードが従業員の死亡を発表 イオンモール熊本',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/onward-aeon-kumamoto-shain.json'
-    },
-    {
-      id: 'syouhizei-1p-hyoumei',
-      title: '高市首相 食料品の消費税率「1％」を正式表明 実質ゼロへ',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/syouhizei-1p-hyoumei.json'
-    },
-    {
-      id: 'taifuu13-dolphin-mouretsu',
-      title: '台風13号「ドルフィン」猛烈な勢力で北上 九州・沖縄に接近か',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/taifuu13-dolphin-mouretsu.json'
-    },
-    {
-      id: 'saichou-katsudansou-m8',
-      title: '「南海トラフだけではない」1000年以上沈黙する日本最長の活断層',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/saichou-katsudansou-m8.json'
-    },
-    {
-      id: 'kumamoto-jishin-hisaisha-koe',
-      title: '「シャワーが泥水」熊本地震 被災者の生の声と求める支援',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/kumamoto-jishin-hisaisha-koe.json'
-    },
-    {
-      id: 'matsunoya-mama-ouen-natsu',
-      title: '松のや「ママ応援企画」に批判 謝罪し「夏休み企画」に変更',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/matsunoya-mama-ouen-natsu.json'
-    },
-    {
-      id: 'fukuoka-kengikai-kingin',
-      title: '福岡県議会「カツアゲ問題」 告発議員を支える重鎮とフジ人気アナ',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/fukuoka-kengikai-kingin.json'
-    },
-    {
-      id: 'juuminzei-hikaze-hikaku',
-      title: '住民税非課税の目安は年収110万円に 国の一律給付なし',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/juuminzei-hikaze-hikaku.json'
-    },
-    {
-      id: 'doru157en-kawase-kainyu',
-      title: 'ドル円 一時157円台に急騰 政府・日銀が為替介入か',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/doru157en-kawase-kainyu.json'
-    },
-    {
-      id: 'souri-kumamoto-nyuuri',
-      title: '首相 8月3日にも熊本入り 被災状況を把握へ',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/souri-kumamoto-nyuuri.json'
-    },
-    {
-      id: 'senbotsusha-izoku-50nen-gosiharu',
-      title: '戦没者遺族への特別弔慰金 50年間誤って支給 総額180万円',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/senbotsusha-izoku-50nen-gosiharu.json'
-    },
-    {
-      id: 'onward-aeon-kumamoto-shain',
-      title: 'オンワードが従業員の死亡を発表 イオンモール熊本',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/onward-aeon-kumamoto-shain.json'
-    },
-    {
-      id: 'takaichi-shijiritsu-bunseki',
-      title: '高市首相の支持率急落 原因は「説明不足」と物価高 各社調査',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/takaichi-shijiritsu-bunseki.json'
-    },
-    {
-      id: 'aeon-kumamoto-tuma-onshin',
-      title: 'イオンモールで働く妻から「そっちは大丈夫？」 その後途絶えた音信',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/aeon-kumamoto-tuma-onshin.json'
-    },
-    {
-      id: 'fukuoka-kengikai-kenkin',
-      title: '福岡県議会で金銭授受疑惑 自民県議団が大きく揺れる',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/fukuoka-kengikai-kenkin.json'
-    },
-    {
-      id: 'kome-neage-sinn-hannin',
-      title: 'コメの価格を吊り上げている「真犯人」 JAや農家ではなかった',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/kome-neage-sinn-hannin.json'
-    },
-    {
-      id: 'taifuu13-gou-mouretsu-0730',
-      title: '台風13号「ドルフィン」きょう午後にも「猛烈な」勢力 910hPa予想',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/taifuu13-gou-mouretsu-0730.json'
-    },
-    {
-      id: 'taiimee-hoikushi-kyanseru',
-      title: 'タイミー保育士が直前キャンセルで賃金ゼロ 労基署が是正指導',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/taiimee-hoikushi-kyanseru.json'
-    },
-    {
-      id: 'volley-danshi-junkesshou',
-      title: 'バレー男子日本代表が中国に逆転勝利 準決勝進出13連勝',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/volley-danshi-junkesshou.json'
-    },
-    {
-      id: 'iwaya-takeshi-kugen-renpatsu',
-      title: '岩屋毅前外相が高市政権に苦言 国旗損壊罪や副首都法に疑問',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/iwaya-takeshi-kugen-renpatsu.json'
-    },
-    {
-      id: 'seikatsudouro-houriteisoku-30',
-      title: '生活道路の法定速度30キロに 9月から60キロで一発免停',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/seikatsudouro-houriteisoku-30.json'
-    },
-    {
-      id: 'aeon-kumamoto-bakuhatsu-kaiken',
-      title: 'イオン社長「爆発、想定しきれず」 熊本震度7の事故で謝罪',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/aeon-kumamoto-bakuhatsu-kaiken.json'
-    },
-    {
-      id: 'kumamoto-m71-shindo7',
-      title: '熊本県で最大震度7 M7.1の地震 広範囲で被害',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/kumamoto-m71-shindo7.json'
-    },
-    {
-      id: 'kumamoto-seihu-zien',
-      title: '高市首相「人命第一で対応」 政府が被災地支援を急ぐ',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/kumamoto-seihu-zien.json'
-    },
-    {
-      id: 'kumamoto-kisyatu-rikisya',
-      title: '熊本で震度7の地震 熱中症にも警戒を',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/kumamoto-kisyatu-rikisya.json'
-    },
-    {
-      id: 'byd-karukei-ev',
-      title: '中国BYDが日本で軽EV「ラッコ」 実質100万円台',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/byd-karukei-ev.json'
-    },
-    {
-      id: 'kokuren-futsu-hatugen-taiseki',
-      title: '国連安保理で仏発言中に米代表団が退席',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/kokuren-futsu-hatugen-taiseki.json'
-    },
-    {
-      id: 'higashino-keigo-daichogan',
-      title: '作家・東野圭吾さん 大腸がんのため死去 68歳',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/higashino-keigo-daichogan.json'
-    },
-    {
-      id: 'sekai-ijou-kishou',
-      title: '欧州で史上最悪の山火事 世界で異常気象が続出',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/sekai-ijou-kishou.json'
-    },
-    {
-      id: 'natsu-kaisoku-nouhizyou',
-      title: '夏の快眠 専門家がすすめ「脳を冷やす」方法',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/natsu-kaisoku-nouhizyou.json'
-    },
-    {
-      id: 'kodomo-sns-nenrei-seigen',
-      title: '子どものSNS利用に一律年齢制限 政府が検討へ',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/kodomo-sns-nenrei-seigen.json'
-    },
-    {
-      id: 'm-kunren-tairan-kougeki',
-      title: '米大統領 イランと友好的協議続けるも決裂なら攻撃も',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/m-kunren-tairan-kougeki.json'
-    },
-    {
-      id: 'apple-shijyou-syuri',
-      title: 'Apple時価総額 世界首位に返り咲き 株価過去最高',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/apple-shijyou-syuri.json'
-    },
-    {
-      id: 'shokuhin-syouhizei-1p',
-      title: '食料品の消費税1％ 政府・与党が方針固める 首相が30日にも指示へ',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/shokuhin-syouhizei-1p.json'
-    },
-    {
-      id: 'taifuu13-gou-mouretsu',
-      title: '台風13号「ドルフィン」最強ランク「猛烈な」勢力へ 中心気圧915hPa',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/taifuu13-gou-mouretsu.json'
-    },
-    {
-      id: 'henoko-doushisha-sousaku',
-      title: '辺野古転覆事故 海上保安当局が同志社国際高校を家宅捜索',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/henoko-doushisha-sousaku.json'
-    },
-    {
-      id: 'trump-frb-risage',
-      title: 'トランプ氏 FRBに利下げを要求 ウォーシュ議長は「素晴らしい」',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/trump-frb-risage.json'
-    },
-    {
-      id: 'rosia-gun-teiin-zou',
-      title: 'ロシア軍の定員242万6000人に引き上げ プーチン大統領が署名',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/rosia-gun-teiin-zou.json'
-    },
-    {
-      id: 'ukuraina-rosia-douin',
-      title: 'ウクライナ大統領「ロシアが30万〜50万人の動員を計画」',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/ukuraina-rosia-douin.json'
-    },
-    {
-      id: 'reomichan-itaiken',
-      title: '「頑張ったね、おうちに帰ろうね」 行方不明の5歳男児・嶺臣ちゃん 父親が最後の対面語る',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/reomichan-itaiken.json'
-    },
-    {
-      id: 'kiritani-hiroto-gan',
-      title: '桐谷広人さん 前立腺と大腸に「2つのがん」 闘病と株主優待の日々',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/kiritani-hiroto-gan.json'
-    },
-    {
-      id: 'chugoku-teppomizu',
-      title: '中国のキャンプ場で「鉄砲水」 テントが次々濁流に 10人死亡',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/chugoku-teppomizu.json'
-    },
-    {
-      id: 'takaichi-shijiritsu-57',
-      title: '高市内閣支持が急落57％ 首相の説明「不十分」62％',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/takaichi-shijiritsu-57.json'
-    },
-    {
-      id: 'josei-tennou-younin-81',
-      title: '女性天皇容認に賛成81％ 共同通信世論調査',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/josei-tennou-younin-81.json'
-    },
-    {
-      id: 'iran-houfuku-kyuushi',
-      title: 'イランが報復休止 米軍の攻撃停止受け',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/iran-houfuku-kyuushi.json'
-    },
-    {
-      id: 'toyota-6nen-sekaiichi',
-      title: '豊田章男の5年前の警告は正しかった トヨタが6年連続世界一',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/toyota-6nen-sekaiichi.json'
-    },
-    {
-      id: 'funai-denki-hasan',
-      title: '船井電機が破産 社員が見た「いちばん長い日」',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/funai-denki-hasan.json'
-    },
-    {
-      id: 'squeeze-ryuukou',
-      title: '「スクイーズ」なぜ流行？ 専門家が明かす4つの理由',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/squeeze-ryuukou.json'
-    },
-    {
-      id: 'fujisan-taiwan-josei',
-      title: '富士登山中の台湾女性 山頂で突然意識失う',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/fujisan-taiwan-josei.json'
-    },
-    {
-      id: 'taifuu-nettaiteikiatsu',
-      title: '新たな熱帯低気圧が台風に発達か 今後の進路に注意',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/taifuu-nettaiteikiatsu.json'
-    },
-    {
-      id: 'takaichi-tsuyoki-kokkai',
-      title: '高市首相 強気貫く国会運営 自民重鎮「いつかしっぺ返し」',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/takaichi-tsuyoki-kokkai.json'
-    },
-    {
-      id: 'topnews-pickup-0727',
-      title: '今日の注目ニュースピックアップ（7月27日）',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/topnews-pickup-0727.json'
-    },
-    {
-      id: 'fukutokyo-kakuchi-meigori',
-      title: '副首都に大阪・福岡・愛知が名乗り 北海道・宮城も意欲',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/fukutokyo-kakuchi-meigori.json'
-    },
-    {
-      id: 'shinagawa-mansion-kaji',
-      title: '品川区のマンションで火事 ソーラーパネル充電中に出火か',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/shinagawa-mansion-kaji.json'
-    },
-    {
-      id: 'okayadokari-4163-taiho',
-      title: '天然記念物オカヤドカリ4163匹を発送 中国籍の男3人逮捕',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/okayadokari-4163-taiho.json'
-    },
-    {
-      id: 'chugokujin-kankoku-hanchuu',
-      title: '習近平「日本は危険」で中国人が韓国へ 反中感情が爆発',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/chugokujin-kankoku-hanchuu.json'
-    },
-    {
-      id: 'ukuraina-dorone-taikoku',
-      title: 'ウクライナが「ドローン大国」に変貌 生産量は年間300万〜600万機',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/ukuraina-dorone-taikoku.json'
-    },
-    {
-      id: 'ozumo-atsumifuji-360man',
-      title: '横綱撃破で360万円 大相撲・熱海富士が懸賞60本を獲得',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/ozumo-atsumifuji-360man.json'
-    },
-    {
-      id: 'maeda-daizen-premier',
-      title: '前田大然がプレミアリーグへ イプスウィッチが獲得発表',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/maeda-daizen-premier.json'
-    },
-    {
-      id: 'takaichi-shijiritsu-kokkarinen',
-      title: '混迷国会で「高市離れ」の兆候 期待と違う市民の声',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/takaichi-shijiritsu-kokkarinen.json'
-    },
-    {
-      id: 'okamoto-kouzou-soushiki',
-      title: 'レバノンで岡本公三元被告の葬儀 英雄視する声も',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/okamoto-kouzou-soushiki.json'
-    },
-    {
-      id: 'fukutokyo-kakuchi-meigori',
-      title: '副首都に大阪・福岡・愛知が名乗り 北海道・宮城も意欲',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/fukutokyo-kakuchi-meigori.json'
-    },
-    {
-      id: 'shinagawa-mansion-kaji',
-      title: '品川区のマンションで火事 ソーラーパネル充電中に出火か',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/shinagawa-mansion-kaji.json'
-    },
-    {
-      id: 'okayadokari-4163-taiho',
-      title: '天然記念物オカヤドカリ4163匹を発送 中国籍の男3人逮捕',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/okayadokari-4163-taiho.json'
-    },
-    {
-      id: 'chugokujin-kankoku-hanchuu',
-      title: '習近平「日本は危険」で中国人が韓国へ 反中感情が爆発',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/chugokujin-kankoku-hanchuu.json'
-    },
-    {
-      id: 'ukuraina-dorone-taikoku',
-      title: 'ウクライナが「ドローン大国」に変貌 生産量は年間300万〜600万機',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/ukuraina-dorone-taikoku.json'
-    },
-    {
-      id: 'ozumo-atsumifuji-360man',
-      title: '横綱撃破で360万円 大相撲・熱海富士が懸賞60本を獲得',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/ozumo-atsumifuji-360man.json'
-    },
-    {
-      id: 'maeda-daizen-premier',
-      title: '前田大然がプレミアリーグへ イプスウィッチが獲得発表',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/maeda-daizen-premier.json'
-    },
-    {
-      id: 'takaichi-shijiritsu-kokkarinen',
-      title: '混迷国会で「高市離れ」の兆候 期待と違う市民の声',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/takaichi-shijiritsu-kokkarinen.json'
-    },
-    {
-      id: 'okamoto-kouzou-soushiki',
-      title: 'レバノンで岡本公三元被告の葬儀 英雄視する声も',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/okamoto-kouzou-soushiki.json'
-    },
-    {
-      id: 'fukushuto-houritsu-seiritsu',
-      title: '「副首都構想」具体化に向けた法律が可決・成立',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/fukushuto-houritsu-seiritsu.json'
-    },
-    {
-      id: 'taifuu12-gou-hattatsu',
-      title: '台風12号「ノウル」南シナ海で発達 強い勢力で中国華南に上陸へ',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/taifuu12-gou-hattatsu.json'
-    },
-    {
-      id: 'shijiritsu-kyuuraku-takaichi',
-      title: '支持率急落を招く高市首相の「人間不信」 その原点となった地元との確執',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/shijiritsu-kyuuraku-takaichi.json'
-    },
-    {
-      id: 'nihonka-suru-chugoku',
-      title: '「日本化」する中国 2050年の1人当たりGDPは米国の4分の1に',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/nihonka-suru-chugoku.json'
-    },
-    {
-      id: 'syouhizei-genzei-seiken-owaru',
-      title: '消費減税見送りなら「政権終わる」 支持率下落で官邸に危機感',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/syouhizei-genzei-seiken-owaru.json'
-    },
-    {
-      id: 'ukuraina-dorone-kougeki',
-      title: 'ウクライナ軍がロシアの通販倉庫にドローン攻撃 物流網への攻撃強める',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/ukuraina-dorone-kougeki.json'
-    },
-    {
-      id: 'ro-gun-kitahouryou-ryoukuu',
-      title: '露軍の航空機 北方領土を領空侵犯 日本が厳重抗議',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/ro-gun-kitahouryou-ryoukuu.json'
-    },
-    {
-      id: 'gaikokujin-eijyu-genkaku',
-      title: '政府が外国人の永住許可要件を厳格化へ 納税義務違反で取消も',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/gaikokujin-eijyu-genkaku.json'
-    },
-    {
-      id: 'isha-haikibutsu-iho-taiho',
-      title: '医師の男を廃棄物処理法違反疑いで逮捕 麻酔薬を自身に注射か',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/isha-haikibutsu-iho-taiho.json'
-    },
-    {
-      id: 'kirishima-nanji-itaibu',
-      title: '霧島市の遺体は行方不明の5歳男児と判明 父親が胸中を語る',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/kirishima-nanji-itaibu.json'
-    },
-    {
-      id: 'kousho-ondo-40-do-ichigatsu',
-      title: '8月初旬 関東甲信など40℃以上「酷暑日」の可能性 1か月予報',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/kousho-ondo-40-do-ichigatsu.json'
-    },
-    {
-      id: 'seven-eleven-tenpai-fusei-tenbai',
-      title: 'セブンイレブン 店舗関係者が人気キャラ商品を不正転売 法的には？',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/seven-eleven-tenpai-fusei-tenbai.json'
-    },
-    {
-      id: 'tsubame-suzume-otonari',
-      title: 'ツバメとスズメ 隣同士で子育て 長野で珍しい光景',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/tsubame-suzume-otonari.json'
-    },
-    {
-      id: 'disney-owakonka-neage',
-      title: '値上げディズニーの「オワコン化」 子ども200万人減の裏で増える大人客',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/disney-owakonka-neage.json'
-    },
-    {
-      id: 'hannmono-otoko-keisatsu-happou',
-      title: 'コンビニ駐車場で刃物男に警察官が発砲 住宅街に銃声 熊本',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/hannmono-otoko-keisatsu-happou.json'
-    },
-    {
-      id: 'gundam-shinsaku-2027',
-      title: '『ガンダム』新作アニメ発表 2027年展開 神山健治監督が挑む新世界線',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/gundam-shinsaku-2027.json'
-    },
-    {
-      id: 'naikaku-shijiritsu-teika-kikikan',
-      title: '内閣支持率減 与党に危機感 皇室典範改正・国会運営が影響',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/naikaku-shijiritsu-teika-kikikan.json'
-    },
-    {
-      id: 'trump-ohtani-sansan-dodgers',
-      title: 'トランプ大統領が大谷翔平を絶賛 25分スピーチ ドジャース表敬訪問',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/trump-ohtani-sansan-dodgers.json'
-    },
-    {
-      id: 'yanagita-kyuuen-senshutsu',
-      title: '柳田が球宴に 家族旅行キャンセルし9回目の出場へ',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/yanagita-kyuuen-senshutsu.json'
-    },
-    {
-      id: 'hammono-otoko-keisatsu-kan-happou',
-      title: 'コンビニに刃物男 警察官の発砲受け21歳男を逮捕 熊本',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/hammono-otoko-keisatsu-kan-happou.json'
-    },
-    {
-      id: 'fujinami-kouta-kouhan',
-      title: '降板のDeNA・藤浪晋太郎に甲子園全体から異例の拍手 4年ぶりの聖地登板',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/fujinami-kouta-kouhan.json'
-    },
-    {
-      id: 'yamada-goroo-shi-kyokyo',
-      title: '「アド街」が山田五郎さんを追悼 最期の収録は亡くなる6日前',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/yamada-goroo-shi-kyokyo.json'
-    },
-    {
-      id: 'sns-de-chuuko-manshon-kounyu-zou',
-      title: '人生最大の買い物なのに…なぜSNSで中古マンションを買う人が増えているのか',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/sns-de-chuuko-manshon-kounyu-zou.json'
-    },
-    {
-      id: '23nichi-mo-saigaikyuu-no-atsusa',
-      title: '23日も災害級の暑さ 山梨・東海・近畿で40℃以上酷暑日か',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/23nichi-mo-saigaikyuu-no-atsusa.json'
-    },
-    {
-      id: 'net-chuushou-toukou-syousatsu-1man-ken',
-      title: 'ネット中傷、投稿者特定の申し立てが1万件超 22年に導入後初めて',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/net-chuushou-toukou-syousatsu-1man-ken.json'
-    },
-    {
-      id: 'ritou-hikkoshi-nenshou-8oku-en',
-      title: '大手が敬遠する離島引っ越しで年商8億円 フリーデザイナーから転身した38歳が開拓したビジネスモデル',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/ritou-hikkoshi-nenshou-8oku-en.json'
-    },
-    {
-      id: 'trump-wcup-zensetsu',
-      title: 'W杯表彰式 トランプ氏の執着に批判殺到 FIFA会長が慌てて案内',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/trump-wcup-zensetsu.json'
-    },
-    {
-      id: 'chugoku-reearth-kenkin',
-      title: '中国で邦人2名拘束 レアアース巡る「人質外交」に懸念拡大',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/chugoku-reearth-kenkin.json'
-    },
-    {
-      id: 'suisu-nihonjin-suibotsu',
-      title: 'スイス・ベルンの川でSUP中 日本人男性が溺れて死亡',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/suisu-nihonjin-suibotsu.json'
-    },
-    {
-      id: 'myze-hasan-model',
-      title: 'ミュゼプラチナム破産 前受金依存の「自転車操業」が招いた末路',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/myze-hasan-model.json'
-    },
-    {
-      id: 'zara-shi-no-pantsu',
-      title: 'ZARA「死のパンツ」に注意 ワイドパンツで転倒・骨折が相次ぐ',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/zara-shi-no-pantsu.json'
-    },
-    {
-      id: 'ishiba-sho-hizei-minaoshi',
-      title: '石破前総理 消費税1％減税見直し「選択肢にあってしかるべき」',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/ishiba-sho-hizei-minaoshi.json'
-    },
-    {
-      id: 'chuugoku-EEZ-syageki-hanron',
-      title: '中国外務省が反論 艦艇のEEZ内射撃訓練「懸念は理にかなっていない」',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/chuugoku-EEZ-syageki-hanron.json'
-    },
-    {
-      id: 'takasugi-sumin-0-3jikan',
-      title: '「0〜3時間睡眠が常態化」高市首相アピールに波紋 野党から懸念',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/takasugi-sumin-0-3jikan.json'
-    },
-    {
-      id: 'nichirei-hacker-ransom',
-      title: 'ニチレイ障害 ハッカー集団「ランサムハウス」が犯行声明',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/nichirei-hacker-ransom.json'
-    },
-    {
-      id: 'nenkyuu-800man-chou',
-      title: '年収800万円超は日本に何％？国税庁調査が示す給与の実態',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/nenkyuu-800man-chou.json'
-    },
-    {
-      id: 'kousho-ondo-10nen-ichido',
-      title: '気象庁「10年に一度の高温」早期天候情報 今月末にかけ危険な暑さ',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/kousho-ondo-10nen-ichido.json'
-    },
-    {
-      id: 'kiken-unten-kijun',
-      title: '「危険運転」に数値基準導入 速度や飲酒の線引きで何が変わる？',
-      kicker: '中級',
-      desc: '',
-      badge: '6段落',
-      file: '/asanews/assets/readings/kiken-unten-kijun.json'
-    },
-    {
-      id: 'eu-chuukei-tsuuhan',
-      title: 'EU 中国系ネット通販「アリエク」に制裁金 過去最高1022億円',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/eu-chuukei-tsuuhan.json'
-    },
-    {
-      id: 'kogekibi-kousho',
-      title: 'どこまで暑くなる 関東・東海で初の「酷暑日」か 危険な暑さ',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/kogekibi-kousho.json'
-    },
-    {
-      id: 'beihei-iran-keikoku',
-      title: 'トランプ氏 米兵死亡でイランに「報い」警告 仲介国は停戦模索',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/beihei-iran-keikoku.json'
-    },
-    {
-      id: 'gmo-saitaku-kinmu-shazai',
-      title: 'GMO熊谷氏 在宅勤務「完全廃止」投稿を謝罪 真意を説明',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/gmo-saitaku-kinmu-shazai.json'
-    },
-    {
-      id: 'shuugiin-shisan-koukai',
-      title: '衆院議員の資産公開 平均3278万円 トップは7億円超',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/shuugiin-shisan-koukai.json'
-    },
-    {
-      id: 'ennchuu-kokkai-fukushuto',
-      title: '延長国会 実質審議3日間 「副首都」法案など4法案成立は綱渡り',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/ennchuu-kokkai-fukushuto.json'
-    },
-    {
-      id: 'horumuzu-tanker-bakuhatsu',
-      title: 'イラン ホルムズ海峡でタンカー2隻が爆発 航行不能に',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/horumuzu-tanker-bakuhatsu.json'
-    },
-    {
-      id: 'samsung-bei-kyouin-sakugen',
-      title: '韓国サムスン 米国本社移転で大規模な人員削減や配置転換',
-      kicker: '中級',
-      desc: '',
-      badge: '3段落',
-      file: '/asanews/assets/readings/samsung-bei-kyouin-sakugen.json'
-    },
-    {
-      id: 'kokkai-ennchuu-gaiyuu-chuushi',
-      title: '国会延長で自民幹部の外遊中止 要人との会談機会失う',
-      kicker: '中級',
-      desc: '',
-      badge: '2段落',
-      file: '/asanews/assets/readings/kokkai-ennchuu-gaiyuu-chuushi.json'
-    }
+    { id: 'global-hawk-tsuiraku-ninmu', title: '「墜落」のグローバルホーク「任務中だった」 詳細明かされず', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/global-hawk-tsuiraku-ninmu.json' },
+    { id: 'taifuu25-gou-shingai', title: '台風25号へ発達見込み シルバーウイークに大雨・暴風のおそれ', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/taifuu25-gou-shingai.json' },
+    { id: 'mori-shugiin-gichou-ukraine-enzetsu', title: '森衆院議長、ウクライナ議会でロシア非難「蛮行」', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/mori-shugiin-gichou-ukraine-enzetsu.json' },
+    { id: 'ai-kaihatsu-gensoku-kanou', title: 'AI開発「減速」は可能なのか？ 激しい競争と「中国リスク」が壁に', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/ai-kaihatsu-gensoku-kanou.json' },
+    { id: 'purudensharu-kojin-jouhou-rouei', title: 'プルデンシャル、顧客情報1570人分漏えい　元社員、不正持ち出し後に紛失', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/purudensharu-kojin-jouhou-rouei.json' },
+    { id: 'hikari-tsushin-leopalace-tob', title: '光通信と投資ファンド、レオパレス21にTOB　1株1000円', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/hikari-tsushin-leopalace-tob.json' },
+    { id: 'gurieru-jr-dfa-senryokugai', title: '元DeNA外野手が“戦力外”に　59億円契約も打撃不振…球団発表', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/gurieru-jr-dfa-senryokugai.json' },
+    { id: 'fufu-seitekidoui-taiwa', title: '夫婦間で「したくない」なぜ言えない?　日本人に足りないものとは', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/fufu-seitekidoui-taiwa.json' },
+    { id: 'okinawa-chiji-kosha-hatsu', title: '沖縄知事に自民系古謝氏が初当選　辺野古容認へ12年ぶり転換', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/okinawa-chiji-kosha-hatsu.json' },
+    { id: 'akishuu-zenzen-dairi', title: '秋雨前線が再び活発化　週明けは北陸や東北で大雨のおそれ', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/akishuu-zenzen-dairi.json' },
+    { id: 'gps-shihoukan-katsuyou', title: '仮釈放中の性犯罪者にGPS　法務省が再犯防止へ実証実験', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/gps-shihoukan-katsuyou.json' },
+    { id: 'manjaro-iryou-tsuuri', title: '「マンジャロ」求め来日する韓国人が急増　価格と健康被害に課題', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/manjaro-iryou-tsuuri.json' },
+    { id: 'ise-meirin-shotengai-taika', title: '伊勢神宮近くで火事 戦後まもなく誕生した『明倫商店街』ほぼ全焼か', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/ise-meirin-shotengai-taika.json' },
+    { id: 'mikon-wakamono-kekkon-koete', title: '未婚若者の約3人に1人「結婚するつもりはない」 こども家庭庁 若者10万人調査', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/mikon-wakamono-kekkon-koete.json' },
+    { id: 'kankoku-mizu-kutsujoku-kenen', title: '日本の地震被害に支援したのに…「韓国産の水は水洗トイレに」 侮辱コメントに物議', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/kankoku-mizu-kutsujoku-kenen.json' },
+    { id: 'messi-daibyou-intai-sengen', title: 'メッシ、アルゼンチン代表引退を発表「今こそが“その時”だ」', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/messi-daibyou-intai-sengen.json' },
+    { id: 'france-aircon-100man-en', title: 'フランスではエアコン2台で約100万円 日本の価格に「泣きたいわ」', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/france-aircon-100man-en.json' },
+    { id: 'matsumoto-family-jiko-kouhan', title: '「涙一つ出ないのか」5人亡くした遺族 被告の淡々とした表情に憤り', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/matsumoto-family-jiko-kouhan.json' },
+    { id: 'kouno-tarou-zeigen-hantai', title: '河野太郎氏「消費税減税は『高市政権』のナローパス」 財源10兆円の捻出に警鐘', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/kouno-tarou-zeigen-hantai.json' },
+    { id: 'konji-otto-nanbyou-chichi', title: '難病の息子「病気を理由に我慢する必要はない」 父が語る子育ての願い', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/konji-otto-nanbyou-chichi.json' },
+    { id: 'chiba-touhouoki-jishin-m48', title: '千葉県東方沖で地震 M4.8 関東・東北で最大震度4', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/chiba-touhouoki-jishin-m48.json' },
+    { id: 'hakajimai-kyuuzou-80sai', title: '墓じまい急増 「娘に負担かけたくない」80歳女性の決断', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/hakajimai-kyuuzou-80sai.json' },
+    { id: 'koukyo-run-kinji-ron', title: '「皇居ラン、そろそろ禁止?」 SNSで賛否 千代田区が現状を説明', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/koukyo-run-kinji-ron.json' },
+    { id: 'france-mousho-nihon-natsu-item', title: '猛暑のフランスで日本の夏アイテムが大活躍 現地でも絶賛', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/france-mousho-nihon-natsu-item.json' },
+    { id: 'neparu-dosekiryu-nihonjin', title: 'ネパール土石流 行方不明の日本人5人は大阪の一家か 小学生の子も', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/neparu-dosekiryu-nihonjin.json' },
+    { id: 'iran-saikou-shidousha-ginen', title: '開戦半年後も姿見せないイラン最高指導者 健康と実権に疑念', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/iran-saikou-shidousha-ginen.json' },
+    { id: 'sandwich-itate-noukousoku', title: 'サンドウィッチマン伊達みきお 脳梗塞で活動休止 相方・富澤が現状報告', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/sandwich-itate-noukousoku.json' },
+    { id: 'nipponham-reyes-zanryuu', title: '日本ハム・レイエス 異例の残留訴え 「ここは僕の居場所」「一緒に優勝を」', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/nipponham-reyes-zanryuu.json' },
+    { id: 'nakano-tokei-settou', title: '中野ブロードウェイ時計店“2億円相当”窃盗　チリ国籍の男2人を逮捕', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/nakano-tokei-settou.json' },
+    { id: 'jichidai-shugaku-shikin', title: '自治医大・修学資金3766万円“一括返還”巡る訴訟　「約束したんだから返せ」の声に原告医師が反論', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/jichidai-shugaku-shikin.json' },
+    { id: 'takaichi-chuugoku-dentatsu', title: '「高市首相の答弁変わらぬ限り、政策変えぬ」　中国側が訪中団に伝達', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/takaichi-chuugoku-dentatsu.json' },
+    { id: 'guguru-enjinia-kaiko', title: '年収1470万のGoogleエンジニアが突然クビに…高評価の翌月に一転「著しく不良」とされたワケ', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/guguru-enjinia-kaiko.json' },
+    { id: 'seikatsudouro-30kiro', title: '一発免停も…9月1日から生活道路の法定速度60キロから30キロへ', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/seikatsudouro-30kiro.json' },
+    { id: 'gouu-tokubetsu-keihou', title: '石川県・富山県に「レベル5大雨特別警報」　命を守る行動を', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/gouu-tokubetsu-keihou.json' },
+    { id: 'burusu-wirisu-ninchishou', title: 'ブルース・ウィリス、認知症により「俳優だったことも忘れる」…妻が語る前頭側頭型認知症の怖さ', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/burusu-wirisu-ninchishou.json' },
+    { id: 'syouhizei-nouka-kyuufukin', title: '消費減税、中小零細農家へ給付金　売上高に応じ減収穴埋め', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/syouhizei-nouka-kyuufukin.json' },
+    { id: 'tokuryuu-yakubutsu-taiho', title: '俳優とトクリュウのトップが薬物所持疑い　ホテルのベッドに使用済みコカインの袋', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/tokuryuu-yakubutsu-taiho.json' },
+    { id: 'takubo-sotsugyousyo-gisaku', title: '田久保真紀前市長のPCから偽造された卒業証書のデータ　田久保氏側は裁判で無罪主張する方針', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/takubo-sotsugyousyo-gisaku.json' },
+    { id: 'suwarippanashi-kenkou', title: '「座りっぱなし」はタバコと同じくらい体に悪い　30分に一度立ち上がろう', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/suwarippanashi-kenkou.json' },
+    { id: 'taifuu18-okinawa-amami-sekken', title: '台風18号、26日にかけて沖縄・奄美に接近　暴風や高波、影響が長引くおそれ', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/taifuu18-okinawa-amami-sekken.json' },
+    { id: 'dms-untenshu-kenshi-gimuka', title: 'ながら・居眠り運転、検知義務化へ　2031年新型車に適用、国交省方針', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/dms-untenshu-kenshi-gimuka.json' },
+    { id: 'chugoku-hakusai-horumaru', title: '中国で白菜類の鮮度保持にホルムアルデヒド使用か　当局が調査', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/chugoku-hakusai-horumaru.json' },
+    { id: 'sagamihara-17sai-shibou', title: '17歳の男子高校生死亡　防犯カメラにバイクと“追いかける”黒い車　「殴られたようだ」と友人が通報', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/sagamihara-17sai-shibou.json' },
+    { id: 'futatsu-kaikyou-antei', title: '「二つの海峡」安定に注力　日本政府、原油輸送確保狙う　首脳外交求める声', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/futatsu-kaikyou-antei.json' },
+    { id: 'syouhizei-genzei-sijiritsu', title: '消費減税、71％が財政に不安　内閣支持率は最低更新50％', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/syouhizei-genzei-sijiritsu.json' },
+    { id: 'chiba-gouu-suiryou-syaryou', title: '千葉豪雨、水没車両は1万台規模か　一変した日常「まだ10年乗りたかった」愛車との別れに悲痛な声', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/chiba-gouu-suiryou-syaryou.json' },
+    { id: 'danchi-kurashi-nikoichi', title: '戸建てを売って家族5人で越してきた人も　入居率V字回復「団地」の魅力　令和の「団地暮らし」', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/danchi-kurashi-nikoichi.json' },
+    { id: 'ohtani-tousyu-fukki', title: '大谷翔平、最短で来週にも投手復帰　監督説明「タイミング合えば」…次回ブルペン後に状態判断', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/ohtani-tousyu-fukki.json' },
+    { id: 'kanto-jishin-shindo5jaku', title: '関東で最大震度5弱の地震 津波なし 1都3県で観測', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/kanto-jishin-shindo5jaku.json' },
+    { id: 'syuin-hirei-sainragu-shiki', title: '衆院比例に「サンラグ式」案浮上 小政党に議席配分しやすく', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/syuin-hirei-sainragu-shiki.json' },
+    { id: 'tokyoeki-douro-ana-gouu', title: '東京駅近くで道路に穴 掘削現場に水流れ込む 関東南部で豪雨', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/tokyoeki-douro-ana-gouu.json' },
+    { id: 'nogizaka-rakurai-nyuujou-syakai', title: '乃木坂46 落雷で避難の客の入場前に開始 公式サイトで謝罪', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/nogizaka-rakurai-nyuujou-syakai.json' },
+    { id: 'fujisan-okizari-7sai', title: '富士山で7歳男の子を置き去りにした父親 警察が厳しく注意', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/fujisan-okizari-7sai.json' },
+    { id: 'tenki-22nichi-raiu-mousho', title: '22日 西・東日本は急な雷雨に注意 東海〜九州は猛暑', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/tenki-22nichi-raiu-mousho.json' },
+    { id: 'saitama-mouretsu-ame-suibotsu', title: '埼玉で猛烈な雨 車水没訴える通報相次ぐ 記録的短時間大雨', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/saitama-mouretsu-ame-suibotsu.json' },
+    { id: 'suimin-biyou-risuku-kennen', title: '睡眠美容巡り 専門家らリスク懸念 睡眠薬処方の例も', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/suimin-biyou-risuku-kennen.json' },
+    { id: 'houmushou-rabu-joutou-chuushi', title: '法務省 「ラヴ上等」タイアップ取りやめ 批判相次ぎ', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/houmushou-rabu-joutou-chuushi.json' },
+    { id: 'icc-syokuchou-seisai-europe', title: 'ICCの所長制裁に欧州各国が反発強める 対抗策求める声', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/icc-syokuchou-seisai-europe.json' },
+    { id: 'shinmai-kakaku-daikyuu', title: '26年産新米 大幅値下がりの見通し 概算金 前年比2〜4割下落', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/shinmai-kakaku-daikyuu.json' },
+    { id: 'daiichi-pan-touki-39kg', title: '大山県道に連日のパン投棄 合計39kg確認 鶏のレバーも 鳥取', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/daiichi-pan-touki-39kg.json' },
+    { id: 'tokkyu-sesshoku-4nin-shibou', title: '東武日光線 作業員4人が特急と接触し死亡 退避完了の合図中に事故', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/tokkyu-sesshoku-4nin-shibou.json' },
+    { id: 'tobikomi-spot-20sai-ishikifumei', title: '川に飛び込み20歳大学生が意識不明 高知・汗見川の飛び込みスポット', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/tobikomi-spot-20sai-ishikifumei.json' },
+    { id: 'chugoku-okinawa-kizoku-gigi', title: '中国 沖縄の帰属に「疑義」 バタン諸島にも類似主張', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/chugoku-okinawa-kizoku-gigi.json' },
+    { id: 'moushobi-zenkoku-20260820', title: '今日20日も九州や東海で猛暑日続出 熊本は37℃の危険な暑さ 熱中症警戒アラート15府県', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/moushobi-zenkoku-20260820.json' },
+    { id: 'chiba-gouu-syaryou-tekkai', title: '千葉豪雨 千葉市内の幹線道路上の放置車両をすべて撤去 生活道路は今後順次', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/chiba-gouu-syaryou-tekkai.json' },
+    { id: 'byouin-chuusya-jiko-kobayashi', title: '小林市の病院駐車場で診察待つ列に車突っ込む 74歳女性が死亡 運転の女性を過失運転致死疑いで捜査', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/byouin-chuusya-jiko-kobayashi.json' },
+    { id: 'icc-syokai-bei-seisai', title: 'ICC所長への米制裁に非難拡大 仏・EU・国連が相次ぎ表明 赤根智子所長を制裁対象に', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/icc-syokai-bei-seisai.json' },
+    { id: 'toranpu-kinjonei-kaidan', title: 'トランプ氏 金正恩氏と年内会談の意向 北朝鮮は核兵器「57発保有」と発言', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/toranpu-kinjonei-kaidan.json' },
+    { id: 'zankusho-moushobi-kyuusyuu', title: '今日19日は大阪や名古屋で35℃以上の猛暑日か 九州では38℃を超える所も', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/zankusho-moushobi-kyuusyuu.json' },
+    { id: 'chiba-gouu-syaryou-tekkyo', title: '豪雨で路上に残る車両まだ600台 国や千葉県など官民、撤去で連携', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/chiba-gouu-syaryou-tekkyo.json' },
+    { id: 'kusakari-netchushou-shibou', title: '【速報】草刈り作業中の男性が死亡 体温は搬送時約40度 熱中症の可能性も 兵庫・小野市', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/kusakari-netchushou-shibou.json' },
+    { id: 'jyuugo-sai-houka-ryoushin', title: '15歳中学生“放火”と“殺人未遂”で逮捕 自宅にガソリンか…「お父さんが暴力を振ってくるのが嫌いで」 福岡・大牟田市', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/jyuugo-sai-houka-ryoushin.json' },
+    { id: 'sakasama-taifuu-chiba-gouu', title: 'いつもと違う今年の夏 異例の逆走台風と千葉豪雨はなぜ起きた？カギは“夏の太平洋高気圧”', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/sakasama-taifuu-chiba-gouu.json' },
+    { id: 'openai-keiei-kanbu-taisya', title: 'オープンAIで経営幹部が相次ぎ退社 半年前加入の「中心人物」も…新規株式公開前に「危険信号」', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/openai-keiei-kanbu-taisya.json' },
+    { id: 'bbq-kawa-nagare-josei-jyushou', title: '友人とのBBQ中に川に流される 20代女性が心肺停止 埼玉・飯能市', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/bbq-kawa-nagare-josei-jyushou.json' },
+    { id: 'beiran-iran-husantei-koutyaku', title: '米イラン「不安定な膠着」 覚書期限、海峡開放見えず', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/beiran-iran-husantei-koutyaku.json' },
+    { id: 'dorifuto-soukou-toruko-taiho', title: 'ドリフト走行した疑いでトルコ国籍の男を逮捕 愛知県警はアジア大会へ取り締まり強化方針', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/dorifuto-soukou-toruko-taiho.json' },
+    { id: 'indoneshia-jishin-shibou', title: 'インドネシアでM7.7の地震、47人死亡 津波も観測', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/indoneshia-jishin-shibou.json' },
+    { id: 'senchi-no-chichi-ichido-dakko', title: '戦地へ向かう父、生涯で一度だけの抱っこ…平和への祈りは9歳の孫に託す', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/senchi-no-chichi-ichido-dakko.json' },
+    { id: 'toritetsu-hikikoroshi-jiken', title: '“撮り鉄”の男性を車でひき殺そうとしたか 55歳の男を逮捕、「びびらせようとしただけ」と殺意否認（徳島）', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/toritetsu-hikikoroshi-jiken.json' },
+    { id: 'chiba-gouu-8nin-shibou', title: '「中にはまだ人が」見えた爪痕　千葉豪雨8人死亡　一変した街', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/chiba-gouu-8nin-shibou.json' },
+    { id: 'okayadokari-mitsuryou', title: '狙われる天然記念物 中国籍の男3人が「オカヤドカリ」類を繰り返し密猟か 再逮捕', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/okayadokari-mitsuryou.json' },
+    { id: 'shisan-kodomo-reitouko', title: '「ずっと一緒にいたくて」死産した子を冷凍庫に3年8カ月 30代母親に有罪判決', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/shisan-kodomo-reitouko.json' },
+    { id: 'akita-shokuin-teishoku', title: 'オンライン取材中に喫煙した秋田県職員 停職6か月の懲戒処分 場所の虚偽説明も', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/akita-shokuin-teishoku.json' },
+    { id: 'sekiyu-butai', title: '日本軍の秘密作戦『石油部隊』とは “戦争と石油”に翻弄された人たち 戦後81年', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/sekiyu-butai.json' },
+    { id: 'ekichou-sensen-chichi', title: '駅長かなわず戦死の父とレイテ島で亡くなった兄 85歳夫婦が追悼式初参加へ', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/ekichou-sensen-chichi.json' },
+    { id: 'gunkan-nagara-chinkan', title: '沈没寸前、艦長は最期に「自分をマストにくくれ!」と言い遺し…348人の魂と沈んだ軍艦「長良」', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/gunkan-nagara-chinkan.json' },
+    { id: 'takaichi-etorofu-badge', title: 'プーチン大統領の択捉島訪問で会見 高市首相が身につけていたバッジに反響', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/takaichi-etorofu-badge.json' },
+    { id: 'tenki-rakurai-keihou', title: '今日13日も所々で雷雲が発達 東北から近畿を中心に急な激しい雨や落雷に注意', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/tenki-rakurai-keihou.json' },
+    { id: 'kokki-sonkai-tsumi', title: '日本国旗損壊罪法が施行 拘禁刑2年以下か罰金', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/kokki-sonkai-tsumi.json' },
+    { id: 'tokkyu-sonic-syoutotsu', title: '事故に気が付かず特急が走行続ける JR日豊本線で車と衝突 上下線運休しお盆の移動に影響', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/tokkyu-sonic-syoutotsu.json' },
+    { id: 'awaodori-satsuei-manner', title: '「怖い」阿波おどり開幕も踊り手から不安の声 女性踊り手狙う動画拡散', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/awaodori-satsuei-manner.json' },
+    { id: 'chuko-sya-hasan', title: '中古車販売会社が破産開始決定 負債総額は2億1000万円', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/chuko-sya-hasan.json' },
+    { id: 'taifu-tamago-kantou', title: '新たな「台風のたまご」発生 17日お盆明けに関東沖接近のおそれ', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/taifu-tamago-kantou.json' },
+    { id: 'yatsushiro-sichousya-menjin', title: '免振装置を備え171億円かけ建てた庁舎 震度6強で「免震機能は失われている」', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/yatsushiro-sichousya-menjin.json' },
+    { id: 'nakakyusyu-oudan-douro', title: '「所要時間1時間以上短縮」全線開通で運送事業者の6割がプラス効果 中九州横断道路アンケート', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/nakakyusyu-oudan-douro.json' },
+    { id: 'tenki-zenkoku-moushobi', title: '全国的に日差しあり 東海から西では猛暑日予想 台風15号はあす関東から東北に接近、上陸へ', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/tenki-zenkoku-moushobi.json' },
+    { id: 'nanao-ooame', title: '七尾大雨、レベル３警報 列車運休、穴水でも冠水', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/nanao-ooame.json' },
+    { id: 'suinan-sujiko', title: '各地で水難事故相次ぐ 千葉・いすみ市の海岸で男性が波にさらわれ死亡 茨城・鉾田市では女性3人が流され1人死亡', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/suinan-sujiko.json' },
+    { id: 'taiwan-nagasaki-sikiten', title: '台湾、長崎式典の参加者格下げ 席が「使節団区域外」と抗議', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/taiwan-nagasaki-sikiten.json' },
+    { id: 'jieitai-kokusan-ai', title: '自衛隊の指揮統制に国産AI導入へ 政府が検討 「サカナAI」が有力、中国製は排除', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/jieitai-kokusan-ai.json' },
+    { id: 'gaza-heiwa-koukeihyou', title: 'ガザ和平の工程表「拒否」 イスラエル、武器放棄要求', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/gaza-heiwa-koukeihyou.json' },
+    { id: 'aeon-kumamoto-hinan', title: 'イオンモール爆発事故「避難後は戻らない」マニュアル機能せず 現場で混乱', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/aeon-kumamoto-hinan.json' },
+    { id: 'matahachi-intai', title: '又吉克樹投手が今季限りで現役引退 NPB通算503登板', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/matahachi-intai.json' },
+    { id: 'yuzu-kumamoto-sien', title: 'ゆず「幾重」ライブ音源を緊急配信 収益全額を熊本地震の復興支援に', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/yuzu-kumamoto-sien.json' },
+    { id: 'nashi-tounan-saigai', title: '梨5000個を盗まれた農家の男性、熊本の被災地支援へ 「助け合いの輪」に密着', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/nashi-tounan-saigai.json' },
+    { id: 'taifuu15-tohoku-jouriku', title: '東〜北日本は急な雷雨のおそれ 台風15号はあさって東北に上陸か', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/taifuu15-tohoku-jouriku.json' },
+    { id: 'koudai-naikaku-sijiritsu', title: '高市内閣の支持率、初の6割切り 消費税1％表明直後も下落', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/koudai-naikaku-sijiritsu.json' },
+    { id: 'todai-syusyuuya', title: '東大卒・年収1100万円の男性を“刺しゅう屋”へ導いた「人間を忘れた夏」', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/todai-syusyuuya.json' },
+    { id: 'kushiro-hisyochi', title: '「真夏日ゼロ」の釧路が避暑地として急成長 長期滞在者が続々', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/kushiro-hisyochi.json' },
+    { id: 'syounigan-doraggu-rosu', title: '2歳で小児がんになった息子 薬はあるのに日本では使えない「ドラッグロス」', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/syounigan-doraggu-rosu.json' },
+    { id: 'senji-yuketsu-jintai-jikken', title: '戦時中、大学で輸血の人体実験 患者に動物の血使用、死亡例も', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/senji-yuketsu-jintai-jikken.json' },
+    { id: 'budo-tounan-taiho', title: '高級ブドウ約200房を盗んだ疑い 42歳男を逮捕 自宅から約300房発見', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/budo-tounan-taiho.json' },
+    { id: 'iran-horumuzu-keikai', title: 'イラン革命防衛隊が米国をけん制「海峡再開はイランの条件を全面的に受け入れる必要がある」', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/iran-horumuzu-keikai.json' },
+    { id: 'taifuu15-obon-koutsuu', title: '来週は台風15号が東日本・北日本を直撃か お盆期間中の交通に影響のおそれ', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/taifuu15-obon-koutsuu.json' },
+    { id: 'kokuzai-hisyouji', title: '国税不祥事、「前例ない事態次々」に危機感 「パパ活」、情報漏えいも', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/kokuzai-hisyouji.json' },
+    { id: 'kioxia-toshiba-junrieki', title: 'キオクシアHD株、前身の東芝にも巨額の恩恵 1Q純利益30倍の約4.5兆円', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/kioxia-toshiba-junrieki.json' },
+    { id: 'usagi-shima-isei', title: '「ウサギの島」生態系に異変、観光客の過剰な餌やりで増えたイノシシがウサギを襲う', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/usagi-shima-isei.json' },
+    { id: 'penguin-torimaria', title: '八木山動物公園のフンボルトペンギン4羽、死因は「鳥マラリア」', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/penguin-torimaria.json' },
+    { id: 'spacex-tsuki-shoutotsu', title: 'スペースXのロケット残骸が月面に衝突 衝突地点の画像を公開', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/spacex-tsuki-shoutotsu.json' },
+    { id: 'josei-kenkyuusya-sien', title: '若手女性研究者を支援する新制度、大学に年間最大5000万円の補助金', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/josei-kenkyuusya-sien.json' },
+    { id: 'wow-shingou', title: '「Wow！信号」受信から50年、正体不明の電波を世界合同観測へ', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/wow-shingou.json' },
+    { id: 'seishoku-iryou-gairai', title: '都立病院で初の「生殖医療外来」開設 最新の不妊治療が受けられるように', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/seishoku-iryou-gairai.json' },
+    { id: 'taifuu13-okinawa-amami-sekken', title: '台風13号、沖縄・奄美に最接近 線状降水帯発生のおそれ 長時間の暴風・高波に警戒', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/taifuu13-okinawa-amami-sekken.json' },
+    { id: 'hinanjo-kakusa-kumamoto-jishin', title: '避難所めぐる“格差” 男女同室で「着替えられない」 雑魚寝続く被災地 専門家「標準化されていない」', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/hinanjo-kakusa-kumamoto-jishin.json' },
+    { id: 'aeon-kumamoto-bakuhatsu-lpg', title: 'イオンモール熊本の爆発事故 LPガス供給会社「調査に全面的に協力」 経産省「LPガス爆発の可能性高い」', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/aeon-kumamoto-bakuhatsu-lpg.json' },
+    { id: 'zaimushou-jinji-iten-haran', title: 'エース級の財務官僚が異例転出へ 官邸幹部「協力的でなかったから」 消費減税巡り対立か', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/zaimushou-jinji-iten-haran.json' },
+    { id: 'taiyou-hyoumen-saikou-kaizoudo', title: '太陽表面を過去最高の解像度で観測、磁気にまつわる謎が明らかに 米研究チーム', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/taiyou-hyoumen-saikou-kaizoudo.json' },
+    { id: 'sanseitou-kamiya-gusaku', title: '参政党の神谷代表、食料品の消費減税「天下の愚策」と批判 「一律減税でないと後押しにならない」', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/sanseitou-kamiya-gusaku.json' },
+    { id: 'reiwa-inochi-no-tou-meishou', title: 'れいわ新選組が「いのちの党」に党名変更 “脱・山本太郎”へ 山本譲司新代表のもと臨時総会', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/reiwa-inochi-no-tou-meishou.json' },
+    { id: 'mukikei-karikiyaku-4nin', title: '無期刑の仮釈放、2025年は「わずか4人」 2024年は32人が獄中死 「終身刑化」の傾向続く', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/mukikei-karikiyaku-4nin.json' },
+    { id: 'shakaihosho-zaigen-5chouen', title: '日本の社会保障、岐路に 消費減税で財源5兆円の穴 手当てする具体策見えず', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/shakaihosho-zaigen-5chouen.json' },
+    { id: 'shiroi-zarigani-tenji', title: '白いザリガニ発見 遺伝的変異の可能性 親子が捕まえ岡山の科学館に寄贈 「赤青白」3色そろう', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/shiroi-zarigani-tenji.json' },
+    { id: 'taifuu13-okinawa-sekken', title: '台風13号、7日昼過ぎに沖縄本島へ最接近 暴風や高波に厳重警戒', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/taifuu13-okinawa-sekken.json' },
+    { id: 'shokuhin-zei-1-paasento', title: '飲食料品消費税1％へ、外食に「割高感」も 農家にも打撃の恐れ 政府、対策を検討', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/shokuhin-zei-1-paasento.json' },
+    { id: 'genbaku-touka-81-nen', title: '原爆投下81年、高まる核リスク 被爆者減る中、広島から平和訴え', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/genbaku-touka-81-nen.json' },
+    { id: 'spacex-rocket-tsuki-shoutotsu', title: 'スペースXのロケット残骸、月面に衝突か ファルコン9の上段', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/spacex-rocket-tsuki-shoutotsu.json' },
+    { id: 'shime-ramen-yokkyuu-no-genin', title: '飲酒後の「締めのラーメン欲」の原因は？ 脳の錯覚と真実【医師解説】', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/shime-ramen-yokkyuu-no-genin.json' },
+    { id: 'higashihiroshima-zenkai-kaji', title: '「家の中から叫び声」焼け跡から4人の遺体 家族4人全員死亡か 東広島市の住宅火災', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/higashihiroshima-zenkai-kaji.json' },
+    { id: 'nippon-seishi-hachioji-koujou', title: '9人が犠牲の日本製紙八代工場、社長ら初会見 工場長「正直何もできなかった」', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/nippon-seishi-hachioji-koujou.json' },
+    { id: 'mercari-nashi-tenbai-giwaku', title: 'メルカリ、梨の転売疑惑を否定「誹謗中傷はやめて」 生産者を現地確認', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/mercari-nashi-tenbai-giwaku.json' },
+    { id: 'neko-ga-pan-wo-koneru', title: 'なぜ猫は「パンをこねる」のか？ 前足で飼い主をもむ習性を生物学者が解説', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/neko-ga-pan-wo-koneru.json' },
+    { id: 'tai-de-shinshu-kyouryuu', title: '体長27m・体重27tの新種恐竜をタイで発見 東南アジア最大か、なぜ巨大に進化できた？', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/tai-de-shinshu-kyouryuu.json' },
+    { id: 'takeda-shinichi-tenkin', title: '武田真一アナ、NHK時代の5度の転勤を回想 「会社が一方的に働く場所を決める時代」に転機', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/takeda-shinichi-tenkin.json' },
+    { id: 'aeon-kumamoto-sainyuukan', title: 'イオンモール熊本、避難後になぜ再入館？ 生存した従業員らの証言が浮かび上がらせる実態', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/aeon-kumamoto-sainyuukan.json' },
+    { id: 'keikan-happa-kawachinagano', title: '警察官が刃物持った男に発砲、男は搬送先で死亡 大阪・河内長野市', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/keikan-happa-kawachinagano.json' },
+    { id: 'ichou-54pon-kareru', title: '名物イチョウ54本が一斉に枯れる 原因は伐採時の除草剤、根がつながっていた 東京・町田', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/ichou-54pon-kareru.json' },
+    { id: 'kome-nouka-akaji', title: '「とんでもない赤字」コメ作りやめる農家も JA福井県が概算金示せない中、ハナエチゼンの収穫始まる', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/kome-nouka-akaji.json' },
+    { id: 'joshi-kousei-kyouhaku', title: '「会わんかったら親や学校に言うぞ」女子高校生を脅迫しホテルへ…44歳男を逮捕 大阪府警', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/joshi-kousei-kyouhaku.json' },
+    { id: 'ny-dow-54000-dai', title: 'NYダウ900ドル超高、連日の最高値 中東情勢の緊張緩和に期待', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/ny-dow-54000-dai.json' },
+    { id: 'kumamoto-jishin-isshuukan', title: '熊本地震1週間、避難所に7538人・断水4万4380戸 連日の猛暑で被災者の心身の不調懸念', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/kumamoto-jishin-isshuukan.json' },
+    { id: 'ion-bakuhatsu-wedding-dress', title: 'イオンモール爆発で犠牲となった妻、告別式にウェディングドレス飾った夫「生前に着させてあげたかった」', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/ion-bakuhatsu-wedding-dress.json' },
+    { id: 'fukuoka-kengikai-daisansha', title: '福岡県議会が第三者委設置へ 正副議長ポスト巡る金銭授受疑惑、批判高まり方針転換', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/fukuoka-kengikai-daisansha.json' },
+    { id: 'higashino-keigo-eien-no-kioku', title: '東野圭吾さん最新作「永遠の記憶」発売 涙を流しながら本を受け取るファンの姿も', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/higashino-keigo-eien-no-kioku.json' },
+    { id: 'habita-kanai-modosu-siji', title: 'イオン熊本爆発 死亡の従業員2人「館内へ戻るよう指示」と運営会社が認める', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/habita-kanai-modosu-siji.json' },
+    { id: 'jishingumo-gosoku-chuui', title: '地震と雲を関係付ける誤情報に注意 命を守るための「正しい防災」とは', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/jishingumo-gosoku-chuui.json' },
+    { id: 'kihara-nijuu-saigai-mousho', title: '木原官房長官「今年の猛暑、まさに二重の災害」 災害関連死の抑制へ対策', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/kihara-nijuu-saigai-mousho.json' },
+    { id: 'takaichi-shijiritsu-teika', title: '高市内閣の支持率59.2% 先月調査から6.7ポイント下落 JNN世論調査', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/takaichi-shijiritsu-teika.json' },
+    { id: 'kuwaki-shiho-zen-ei-v', title: '桑木志帆が涙の日本勢7人目メジャーV 渋野日向子に続く全英制覇', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/kuwaki-shiho-zen-ei-v.json' },
+    { id: 'docomo-no-ginkou-sidou', title: '「ドコモの銀行」きょう始動 「d NEOBANK」消滅、最大4.5%還元', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/docomo-no-ginkou-sidou.json' },
+    { id: 'iphone-shin-seihin-hinusu', title: '今年のiPhone新製品、発売直後から品薄になる可能性 クックCEOが警告', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/iphone-shin-seihin-hinusu.json' },
+    { id: 'perseus-ryuuseigun-mikoro', title: '1時間に最大100個の流星 2026年最大の天体ショー「ペルセウス座流星群」', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/perseus-ryuuseigun-mikoro.json' },
+    { id: 'windows-hotel-wifi-keikoku', title: 'Windowsユーザーは「ホテルのWi-Fiは使うな」 マイクロソフトが緊急警告', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/windows-hotel-wifi-keikoku.json' },
+    { id: 'windows11-8gb-memory', title: 'Windows 11は8GBメモリでも快適に使えるようになる？ 品質向上への中間報告', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/windows11-8gb-memory.json' },
+    { id: 'moushobi-kumamoto-40do', title: '2日は300超の地点で猛暑日か 週明けは熊本で統計史上初の40℃', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/moushobi-kumamoto-40do.json' },
+    { id: 'risai-shoumeisho-satsuei', title: '熊本地震5日目 「片付ける前に撮影を」罹災証明書申請の注意点', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/risai-shoumeisho-satsuei.json' },
+    { id: 'en-kyuushin-nichibei-kainyuu', title: '円急伸、日米で協調介入か 円安是正へ週明け方針表明', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/en-kyuushin-nichibei-kainyuu.json' },
+    { id: 'nisai-danji-yukuefumei', title: '祖母の自宅に帰省中 京都府宇治市の2歳の男の子が行方不明 岡山・矢掛町', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/nisai-danji-yukuefumei.json' },
+    { id: 'puruja-san-setsunai-shibou', title: '著名登山家ニルマル・プルジャさん死亡確認 ブロードピークで雪崩遭遇', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/puruja-san-setsunai-shibou.json' },
+    { id: 'dena-maki-baachan-homerun', title: 'DeNA・牧「ばあちゃんに打たせてもらった」 慶弔休暇明けに祖母へ捧げる本塁打', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/dena-maki-baachan-homerun.json' },
+    { id: 'bare-danshi-america-sekihai', title: 'バレー男子 決勝ならず…米にフルセット惜敗 スロベニアとの3位決定戦へ', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/bare-danshi-america-sekihai.json' },
+    { id: 'goto-maki-tif-40sai', title: '後藤真希 TIFで自虐あいさつ「40歳おばさん」 LOVEマシーンなど5曲披露', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/goto-maki-tif-40sai.json' },
+    { id: 'roshia-kiu-daikibo-kougeki', title: 'ロシアがウクライナ・キーウに大規模攻撃 9人死亡、30人以上けが', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/roshia-kiu-daikibo-kougeki.json' },
+    { id: 'ishiba-syouhizei-hihan', title: '石破前首相 高市首相の「消費税率1％」方針を批判 「財源示さなければ無責任」', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/ishiba-syouhizei-hihan.json' },
+    { id: 'kumamoto-yure-saidaichi-2437gal', title: '熊本地震の揺れ 10年前の地震を上回る 最大2400ガル超', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/kumamoto-yure-saidaichi-2437gal.json' },
+    { id: 'hamas-busou-kaijo-goui', title: 'ハマス 武装解除で合意と幹部が明かす ガザ撤退も含む', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/hamas-busou-kaijo-goui.json' },
+    { id: 'aeon-kumamoto-bakuhatsu-haha', title: 'イオン爆発で娘失った母親 「金庫にお金を入れないと」と言い残し戻る', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/aeon-kumamoto-bakuhatsu-haha.json' },
+    { id: 'kurashiki-sasareru-sibou', title: '倉敷市で男性が刺され死亡 おいの男を殺人容疑で確保', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/kurashiki-sasareru-sibou.json' },
+    { id: 'kitami-tamanegi-konbena', title: 'たまねぎ処理工場で男性がコンテナに挟まれ死亡 北海道・北見市', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/kitami-tamanegi-konbena.json' },
+    { id: 'henoko-kousu-henkou-chusen', title: '死亡した高校2年の生徒 辺野古コースの変更希望も抽選で外れる', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/henoko-kousu-henkou-chusen.json' },
+    { id: 'bado-shida-igarashi-kaisyou', title: 'バドミントン 志田千陽・五十嵐有紗ペアが解消 日本代表も辞退', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/bado-shida-igarashi-kaisyou.json' },
+    { id: 'wagaya-sugiyama-nyuuin', title: 'お笑いトリオ「我が家」杉山裕之 ギラン・バレー症候群の疑いで入院', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/wagaya-sugiyama-nyuuin.json' },
+    { id: 'syouhizei-1p-hyoumei', title: '高市首相 食料品の消費税率「1％」を正式表明 実質ゼロへ', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/syouhizei-1p-hyoumei.json' },
+    { id: 'taifuu13-dolphin-mouretsu', title: '台風13号「ドルフィン」猛烈な勢力で北上 九州・沖縄に接近か', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/taifuu13-dolphin-mouretsu.json' },
+    { id: 'saichou-katsudansou-m8', title: '「南海トラフだけではない」1000年以上沈黙する日本最長の活断層', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/saichou-katsudansou-m8.json' },
+    { id: 'kumamoto-jishin-hisaisha-koe', title: '「シャワーが泥水」熊本地震 被災者の生の声と求める支援', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/kumamoto-jishin-hisaisha-koe.json' },
+    { id: 'matsunoya-mama-ouen-natsu', title: '松のや「ママ応援企画」に批判 謝罪し「夏休み企画」に変更', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/matsunoya-mama-ouen-natsu.json' },
+    { id: 'fukuoka-kengikai-kingin', title: '福岡県議会「カツアゲ問題」 告発議員を支える重鎮とフジ人気アナ', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/fukuoka-kengikai-kingin.json' },
+    { id: 'juuminzei-hikaze-hikaku', title: '住民税非課税の目安は年収110万円に 国の一律給付なし', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/juuminzei-hikaze-hikaku.json' },
+    { id: 'doru157en-kawase-kainyu', title: 'ドル円 一時157円台に急騰 政府・日銀が為替介入か', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/doru157en-kawase-kainyu.json' },
+    { id: 'souri-kumamoto-nyuuri', title: '首相 8月3日にも熊本入り 被災状況を把握へ', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/souri-kumamoto-nyuuri.json' },
+    { id: 'senbotsusha-izoku-50nen-gosiharu', title: '戦没者遺族への特別弔慰金 50年間誤って支給 総額180万円', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/senbotsusha-izoku-50nen-gosiharu.json' },
+    { id: 'onward-aeon-kumamoto-shain', title: 'オンワードが従業員の死亡を発表 イオンモール熊本', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/onward-aeon-kumamoto-shain.json' },
+    { id: 'syouhizei-1p-hyoumei', title: '高市首相 食料品の消費税率「1％」を正式表明 実質ゼロへ', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/syouhizei-1p-hyoumei.json' },
+    { id: 'taifuu13-dolphin-mouretsu', title: '台風13号「ドルフィン」猛烈な勢力で北上 九州・沖縄に接近か', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/taifuu13-dolphin-mouretsu.json' },
+    { id: 'saichou-katsudansou-m8', title: '「南海トラフだけではない」1000年以上沈黙する日本最長の活断層', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/saichou-katsudansou-m8.json' },
+    { id: 'kumamoto-jishin-hisaisha-koe', title: '「シャワーが泥水」熊本地震 被災者の生の声と求める支援', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/kumamoto-jishin-hisaisha-koe.json' },
+    { id: 'matsunoya-mama-ouen-natsu', title: '松のや「ママ応援企画」に批判 謝罪し「夏休み企画」に変更', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/matsunoya-mama-ouen-natsu.json' },
+    { id: 'fukuoka-kengikai-kingin', title: '福岡県議会「カツアゲ問題」 告発議員を支える重鎮とフジ人気アナ', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/fukuoka-kengikai-kingin.json' },
+    { id: 'juuminzei-hikaze-hikaku', title: '住民税非課税の目安は年収110万円に 国の一律給付なし', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/juuminzei-hikaze-hikaku.json' },
+    { id: 'doru157en-kawase-kainyu', title: 'ドル円 一時157円台に急騰 政府・日銀が為替介入か', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/doru157en-kawase-kainyu.json' },
+    { id: 'souri-kumamoto-nyuuri', title: '首相 8月3日にも熊本入り 被災状況を把握へ', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/souri-kumamoto-nyuuri.json' },
+    { id: 'senbotsusha-izoku-50nen-gosiharu', title: '戦没者遺族への特別弔慰金 50年間誤って支給 総額180万円', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/senbotsusha-izoku-50nen-gosiharu.json' },
+    { id: 'onward-aeon-kumamoto-shain', title: 'オンワードが従業員の死亡を発表 イオンモール熊本', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/onward-aeon-kumamoto-shain.json' },
+    { id: 'takaichi-shijiritsu-bunseki', title: '高市首相の支持率急落 原因は「説明不足」と物価高 各社調査', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/takaichi-shijiritsu-bunseki.json' },
+    { id: 'aeon-kumamoto-tuma-onshin', title: 'イオンモールで働く妻から「そっちは大丈夫？」 その後途絶えた音信', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/aeon-kumamoto-tuma-onshin.json' },
+    { id: 'fukuoka-kengikai-kenkin', title: '福岡県議会で金銭授受疑惑 自民県議団が大きく揺れる', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/fukuoka-kengikai-kenkin.json' },
+    { id: 'kome-neage-sinn-hannin', title: 'コメの価格を吊り上げている「真犯人」 JAや農家ではなかった', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/kome-neage-sinn-hannin.json' },
+    { id: 'taifuu13-gou-mouretsu-0730', title: '台風13号「ドルフィン」きょう午後にも「猛烈な」勢力 910hPa予想', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/taifuu13-gou-mouretsu-0730.json' },
+    { id: 'taiimee-hoikushi-kyanseru', title: 'タイミー保育士が直前キャンセルで賃金ゼロ 労基署が是正指導', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/taiimee-hoikushi-kyanseru.json' },
+    { id: 'volley-danshi-junkesshou', title: 'バレー男子日本代表が中国に逆転勝利 準決勝進出13連勝', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/volley-danshi-junkesshou.json' },
+    { id: 'iwaya-takeshi-kugen-renpatsu', title: '岩屋毅前外相が高市政権に苦言 国旗損壊罪や副首都法に疑問', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/iwaya-takeshi-kugen-renpatsu.json' },
+    { id: 'seikatsudouro-houriteisoku-30', title: '生活道路の法定速度30キロに 9月から60キロで一発免停', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/seikatsudouro-houriteisoku-30.json' },
+    { id: 'aeon-kumamoto-bakuhatsu-kaiken', title: 'イオン社長「爆発、想定しきれず」 熊本震度7の事故で謝罪', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/aeon-kumamoto-bakuhatsu-kaiken.json' },
+    { id: 'kumamoto-m71-shindo7', title: '熊本県で最大震度7 M7.1の地震 広範囲で被害', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/kumamoto-m71-shindo7.json' },
+    { id: 'kumamoto-seihu-zien', title: '高市首相「人命第一で対応」 政府が被災地支援を急ぐ', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/kumamoto-seihu-zien.json' },
+    { id: 'kumamoto-kisyatu-rikisya', title: '熊本で震度7の地震 熱中症にも警戒を', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/kumamoto-kisyatu-rikisya.json' },
+    { id: 'byd-karukei-ev', title: '中国BYDが日本で軽EV「ラッコ」 実質100万円台', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/byd-karukei-ev.json' },
+    { id: 'kokuren-futsu-hatugen-taiseki', title: '国連安保理で仏発言中に米代表団が退席', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/kokuren-futsu-hatugen-taiseki.json' },
+    { id: 'higashino-keigo-daichogan', title: '作家・東野圭吾さん 大腸がんのため死去 68歳', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/higashino-keigo-daichogan.json' },
+    { id: 'sekai-ijou-kishou', title: '欧州で史上最悪の山火事 世界で異常気象が続出', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/sekai-ijou-kishou.json' },
+    { id: 'natsu-kaisoku-nouhizyou', title: '夏の快眠 専門家がすすめ「脳を冷やす」方法', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/natsu-kaisoku-nouhizyou.json' },
+    { id: 'kodomo-sns-nenrei-seigen', title: '子どものSNS利用に一律年齢制限 政府が検討へ', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/kodomo-sns-nenrei-seigen.json' },
+    { id: 'm-kunren-tairan-kougeki', title: '米大統領 イランと友好的協議続けるも決裂なら攻撃も', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/m-kunren-tairan-kougeki.json' },
+    { id: 'apple-shijyou-syuri', title: 'Apple時価総額 世界首位に返り咲き 株価過去最高', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/apple-shijyou-syuri.json' },
+    { id: 'shokuhin-syouhizei-1p', title: '食料品の消費税1％ 政府・与党が方針固める 首相が30日にも指示へ', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/shokuhin-syouhizei-1p.json' },
+    { id: 'taifuu13-gou-mouretsu', title: '台風13号「ドルフィン」最強ランク「猛烈な」勢力へ 中心気圧915hPa', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/taifuu13-gou-mouretsu.json' },
+    { id: 'henoko-doushisha-sousaku', title: '辺野古転覆事故 海上保安当局が同志社国際高校を家宅捜索', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/henoko-doushisha-sousaku.json' },
+    { id: 'trump-frb-risage', title: 'トランプ氏 FRBに利下げを要求 ウォーシュ議長は「素晴らしい」', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/trump-frb-risage.json' },
+    { id: 'rosia-gun-teiin-zou', title: 'ロシア軍の定員242万6000人に引き上げ プーチン大統領が署名', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/rosia-gun-teiin-zou.json' },
+    { id: 'ukuraina-rosia-douin', title: 'ウクライナ大統領「ロシアが30万〜50万人の動員を計画」', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/ukuraina-rosia-douin.json' },
+    { id: 'reomichan-itaiken', title: '「頑張ったね、おうちに帰ろうね」 行方不明の5歳男児・嶺臣ちゃん 父親が最後の対面語る', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/reomichan-itaiken.json' },
+    { id: 'kiritani-hiroto-gan', title: '桐谷広人さん 前立腺と大腸に「2つのがん」 闘病と株主優待の日々', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/kiritani-hiroto-gan.json' },
+    { id: 'chugoku-teppomizu', title: '中国のキャンプ場で「鉄砲水」 テントが次々濁流に 10人死亡', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/chugoku-teppomizu.json' },
+    { id: 'takaichi-shijiritsu-57', title: '高市内閣支持が急落57％ 首相の説明「不十分」62％', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/takaichi-shijiritsu-57.json' },
+    { id: 'josei-tennou-younin-81', title: '女性天皇容認に賛成81％ 共同通信世論調査', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/josei-tennou-younin-81.json' },
+    { id: 'iran-houfuku-kyuushi', title: 'イランが報復休止 米軍の攻撃停止受け', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/iran-houfuku-kyuushi.json' },
+    { id: 'toyota-6nen-sekaiichi', title: '豊田章男の5年前の警告は正しかった トヨタが6年連続世界一', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/toyota-6nen-sekaiichi.json' },
+    { id: 'funai-denki-hasan', title: '船井電機が破産 社員が見た「いちばん長い日」', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/funai-denki-hasan.json' },
+    { id: 'squeeze-ryuukou', title: '「スクイーズ」なぜ流行？ 専門家が明かす4つの理由', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/squeeze-ryuukou.json' },
+    { id: 'fujisan-taiwan-josei', title: '富士登山中の台湾女性 山頂で突然意識失う', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/fujisan-taiwan-josei.json' },
+    { id: 'taifuu-nettaiteikiatsu', title: '新たな熱帯低気圧が台風に発達か 今後の進路に注意', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/taifuu-nettaiteikiatsu.json' },
+    { id: 'takaichi-tsuyoki-kokkai', title: '高市首相 強気貫く国会運営 自民重鎮「いつかしっぺ返し」', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/takaichi-tsuyoki-kokkai.json' },
+    { id: 'topnews-pickup-0727', title: '今日の注目ニュースピックアップ（7月27日）', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/topnews-pickup-0727.json' },
+    { id: 'fukutokyo-kakuchi-meigori', title: '副首都に大阪・福岡・愛知が名乗り 北海道・宮城も意欲', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/fukutokyo-kakuchi-meigori.json' },
+    { id: 'shinagawa-mansion-kaji', title: '品川区のマンションで火事 ソーラーパネル充電中に出火か', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/shinagawa-mansion-kaji.json' },
+    { id: 'okayadokari-4163-taiho', title: '天然記念物オカヤドカリ4163匹を発送 中国籍の男3人逮捕', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/okayadokari-4163-taiho.json' },
+    { id: 'chugokujin-kankoku-hanchuu', title: '習近平「日本は危険」で中国人が韓国へ 反中感情が爆発', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/chugokujin-kankoku-hanchuu.json' },
+    { id: 'ukuraina-dorone-taikoku', title: 'ウクライナが「ドローン大国」に変貌 生産量は年間300万〜600万機', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/ukuraina-dorone-taikoku.json' },
+    { id: 'ozumo-atsumifuji-360man', title: '横綱撃破で360万円 大相撲・熱海富士が懸賞60本を獲得', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/ozumo-atsumifuji-360man.json' },
+    { id: 'maeda-daizen-premier', title: '前田大然がプレミアリーグへ イプスウィッチが獲得発表', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/maeda-daizen-premier.json' },
+    { id: 'takaichi-shijiritsu-kokkarinen', title: '混迷国会で「高市離れ」の兆候 期待と違う市民の声', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/takaichi-shijiritsu-kokkarinen.json' },
+    { id: 'okamoto-kouzou-soushiki', title: 'レバノンで岡本公三元被告の葬儀 英雄視する声も', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/okamoto-kouzou-soushiki.json' },
+    { id: 'fukutokyo-kakuchi-meigori', title: '副首都に大阪・福岡・愛知が名乗り 北海道・宮城も意欲', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/fukutokyo-kakuchi-meigori.json' },
+    { id: 'shinagawa-mansion-kaji', title: '品川区のマンションで火事 ソーラーパネル充電中に出火か', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/shinagawa-mansion-kaji.json' },
+    { id: 'okayadokari-4163-taiho', title: '天然記念物オカヤドカリ4163匹を発送 中国籍の男3人逮捕', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/okayadokari-4163-taiho.json' },
+    { id: 'chugokujin-kankoku-hanchuu', title: '習近平「日本は危険」で中国人が韓国へ 反中感情が爆発', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/chugokujin-kankoku-hanchuu.json' },
+    { id: 'ukuraina-dorone-taikoku', title: 'ウクライナが「ドローン大国」に変貌 生産量は年間300万〜600万機', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/ukuraina-dorone-taikoku.json' },
+    { id: 'ozumo-atsumifuji-360man', title: '横綱撃破で360万円 大相撲・熱海富士が懸賞60本を獲得', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/ozumo-atsumifuji-360man.json' },
+    { id: 'maeda-daizen-premier', title: '前田大然がプレミアリーグへ イプスウィッチが獲得発表', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/maeda-daizen-premier.json' },
+    { id: 'takaichi-shijiritsu-kokkarinen', title: '混迷国会で「高市離れ」の兆候 期待と違う市民の声', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/takaichi-shijiritsu-kokkarinen.json' },
+    { id: 'okamoto-kouzou-soushiki', title: 'レバノンで岡本公三元被告の葬儀 英雄視する声も', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/okamoto-kouzou-soushiki.json' },
+    { id: 'fukushuto-houritsu-seiritsu', title: '「副首都構想」具体化に向けた法律が可決・成立', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/fukushuto-houritsu-seiritsu.json' },
+    { id: 'taifuu12-gou-hattatsu', title: '台風12号「ノウル」南シナ海で発達 強い勢力で中国華南に上陸へ', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/taifuu12-gou-hattatsu.json' },
+    { id: 'shijiritsu-kyuuraku-takaichi', title: '支持率急落を招く高市首相の「人間不信」 その原点となった地元との確執', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/shijiritsu-kyuuraku-takaichi.json' },
+    { id: 'nihonka-suru-chugoku', title: '「日本化」する中国 2050年の1人当たりGDPは米国の4分の1に', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/nihonka-suru-chugoku.json' },
+    { id: 'syouhizei-genzei-seiken-owaru', title: '消費減税見送りなら「政権終わる」 支持率下落で官邸に危機感', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/syouhizei-genzei-seiken-owaru.json' },
+    { id: 'ukuraina-dorone-kougeki', title: 'ウクライナ軍がロシアの通販倉庫にドローン攻撃 物流網への攻撃強める', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/ukuraina-dorone-kougeki.json' },
+    { id: 'ro-gun-kitahouryou-ryoukuu', title: '露軍の航空機 北方領土を領空侵犯 日本が厳重抗議', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/ro-gun-kitahouryou-ryoukuu.json' },
+    { id: 'gaikokujin-eijyu-genkaku', title: '政府が外国人の永住許可要件を厳格化へ 納税義務違反で取消も', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/gaikokujin-eijyu-genkaku.json' },
+    { id: 'isha-haikibutsu-iho-taiho', title: '医師の男を廃棄物処理法違反疑いで逮捕 麻酔薬を自身に注射か', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/isha-haikibutsu-iho-taiho.json' },
+    { id: 'kirishima-nanji-itaibu', title: '霧島市の遺体は行方不明の5歳男児と判明 父親が胸中を語る', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/kirishima-nanji-itaibu.json' },
+    { id: 'kousho-ondo-40-do-ichigatsu', title: '8月初旬 関東甲信など40℃以上「酷暑日」の可能性 1か月予報', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/kousho-ondo-40-do-ichigatsu.json' },
+    { id: 'seven-eleven-tenpai-fusei-tenbai', title: 'セブンイレブン 店舗関係者が人気キャラ商品を不正転売 法的には？', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/seven-eleven-tenpai-fusei-tenbai.json' },
+    { id: 'tsubame-suzume-otonari', title: 'ツバメとスズメ 隣同士で子育て 長野で珍しい光景', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/tsubame-suzume-otonari.json' },
+    { id: 'disney-owakonka-neage', title: '値上げディズニーの「オワコン化」 子ども200万人減の裏で増える大人客', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/disney-owakonka-neage.json' },
+    { id: 'hannmono-otoko-keisatsu-happou', title: 'コンビニ駐車場で刃物男に警察官が発砲 住宅街に銃声 熊本', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/hannmono-otoko-keisatsu-happou.json' },
+    { id: 'gundam-shinsaku-2027', title: '『ガンダム』新作アニメ発表 2027年展開 神山健治監督が挑む新世界線', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/gundam-shinsaku-2027.json' },
+    { id: 'naikaku-shijiritsu-teika-kikikan', title: '内閣支持率減 与党に危機感 皇室典範改正・国会運営が影響', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/naikaku-shijiritsu-teika-kikikan.json' },
+    { id: 'trump-ohtani-sansan-dodgers', title: 'トランプ大統領が大谷翔平を絶賛 25分スピーチ ドジャース表敬訪問', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/trump-ohtani-sansan-dodgers.json' },
+    { id: 'yanagita-kyuuen-senshutsu', title: '柳田が球宴に 家族旅行キャンセルし9回目の出場へ', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/yanagita-kyuuen-senshutsu.json' },
+    { id: 'hammono-otoko-keisatsu-kan-happou', title: 'コンビニに刃物男 警察官の発砲受け21歳男を逮捕 熊本', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/hammono-otoko-keisatsu-kan-happou.json' },
+    { id: 'fujinami-kouta-kouhan', title: '降板のDeNA・藤浪晋太郎に甲子園全体から異例の拍手 4年ぶりの聖地登板', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/fujinami-kouta-kouhan.json' },
+    { id: 'yamada-goroo-shi-kyokyo', title: '「アド街」が山田五郎さんを追悼 最期の収録は亡くなる6日前', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/yamada-goroo-shi-kyokyo.json' },
+    { id: 'sns-de-chuuko-manshon-kounyu-zou', title: '人生最大の買い物なのに…なぜSNSで中古マンションを買う人が増えているのか', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/sns-de-chuuko-manshon-kounyu-zou.json' },
+    { id: '23nichi-mo-saigaikyuu-no-atsusa', title: '23日も災害級の暑さ 山梨・東海・近畿で40℃以上酷暑日か', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/23nichi-mo-saigaikyuu-no-atsusa.json' },
+    { id: 'net-chuushou-toukou-syousatsu-1man-ken', title: 'ネット中傷、投稿者特定の申し立てが1万件超 22年に導入後初めて', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/net-chuushou-toukou-syousatsu-1man-ken.json' },
+    { id: 'ritou-hikkoshi-nenshou-8oku-en', title: '大手が敬遠する離島引っ越しで年商8億円 フリーデザイナーから転身した38歳が開拓したビジネスモデル', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/ritou-hikkoshi-nenshou-8oku-en.json' },
+    { id: 'trump-wcup-zensetsu', title: 'W杯表彰式 トランプ氏の執着に批判殺到 FIFA会長が慌てて案内', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/trump-wcup-zensetsu.json' },
+    { id: 'chugoku-reearth-kenkin', title: '中国で邦人2名拘束 レアアース巡る「人質外交」に懸念拡大', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/chugoku-reearth-kenkin.json' },
+    { id: 'suisu-nihonjin-suibotsu', title: 'スイス・ベルンの川でSUP中 日本人男性が溺れて死亡', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/suisu-nihonjin-suibotsu.json' },
+    { id: 'myze-hasan-model', title: 'ミュゼプラチナム破産 前受金依存の「自転車操業」が招いた末路', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/myze-hasan-model.json' },
+    { id: 'zara-shi-no-pantsu', title: 'ZARA「死のパンツ」に注意 ワイドパンツで転倒・骨折が相次ぐ', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/zara-shi-no-pantsu.json' },
+    { id: 'ishiba-sho-hizei-minaoshi', title: '石破前総理 消費税1％減税見直し「選択肢にあってしかるべき」', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/ishiba-sho-hizei-minaoshi.json' },
+    { id: 'chuugoku-EEZ-syageki-hanron', title: '中国外務省が反論 艦艇のEEZ内射撃訓練「懸念は理にかなっていない」', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/chuugoku-EEZ-syageki-hanron.json' },
+    { id: 'takasugi-sumin-0-3jikan', title: '「0〜3時間睡眠が常態化」高市首相アピールに波紋 野党から懸念', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/takasugi-sumin-0-3jikan.json' },
+    { id: 'nichirei-hacker-ransom', title: 'ニチレイ障害 ハッカー集団「ランサムハウス」が犯行声明', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/nichirei-hacker-ransom.json' },
+    { id: 'nenkyuu-800man-chou', title: '年収800万円超は日本に何％？国税庁調査が示す給与の実態', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/nenkyuu-800man-chou.json' },
+    { id: 'kousho-ondo-10nen-ichido', title: '気象庁「10年に一度の高温」早期天候情報 今月末にかけ危険な暑さ', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/kousho-ondo-10nen-ichido.json' },
+    { id: 'kiken-unten-kijun', title: '「危険運転」に数値基準導入 速度や飲酒の線引きで何が変わる？', kicker: '中級', desc: '', badge: '6段落', file: '/asanews/assets/readings/kiken-unten-kijun.json' },
+    { id: 'eu-chuukei-tsuuhan', title: 'EU 中国系ネット通販「アリエク」に制裁金 過去最高1022億円', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/eu-chuukei-tsuuhan.json' },
+    { id: 'kogekibi-kousho', title: 'どこまで暑くなる 関東・東海で初の「酷暑日」か 危険な暑さ', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/kogekibi-kousho.json' },
+    { id: 'beihei-iran-keikoku', title: 'トランプ氏 米兵死亡でイランに「報い」警告 仲介国は停戦模索', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/beihei-iran-keikoku.json' },
+    { id: 'gmo-saitaku-kinmu-shazai', title: 'GMO熊谷氏 在宅勤務「完全廃止」投稿を謝罪 真意を説明', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/gmo-saitaku-kinmu-shazai.json' },
+    { id: 'shuugiin-shisan-koukai', title: '衆院議員の資産公開 平均3278万円 トップは7億円超', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/shuugiin-shisan-koukai.json' },
+    { id: 'ennchuu-kokkai-fukushuto', title: '延長国会 実質審議3日間 「副首都」法案など4法案成立は綱渡り', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/ennchuu-kokkai-fukushuto.json' },
+    { id: 'horumuzu-tanker-bakuhatsu', title: 'イラン ホルムズ海峡でタンカー2隻が爆発 航行不能に', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/horumuzu-tanker-bakuhatsu.json' },
+    { id: 'samsung-bei-kyouin-sakugen', title: '韓国サムスン 米国本社移転で大規模な人員削減や配置転換', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/samsung-bei-kyouin-sakugen.json' },
+    { id: 'kokkai-ennchuu-gaiyuu-chuushi', title: '国会延長で自民幹部の外遊中止 要人との会談機会失う', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/kokkai-ennchuu-gaiyuu-chuushi.json' }
     ];
 
   function renderList() {
