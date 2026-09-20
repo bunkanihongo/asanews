@@ -1,5 +1,37 @@
 [
   {
+    "id": "kanto-senjou-koutai",
+    "title": "関東南部を中心に21日は「線状降水帯」発生の可能性　避難の検討や準備を",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-09-21",
+    "file": "assets/readings/kanto-senjou-koutai.json"
+  },
+  {
+    "id": "kourei-shakai-3624man",
+    "title": "65歳以上、3624万人　総人口の3割占める　総務省",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-09-21",
+    "file": "assets/readings/kourei-shakai-3624man.json"
+  },
+  {
+    "id": "shimizu-mutsumi-gan",
+    "title": "妊娠5か月で妻のがん発覚　息子を抱き、母になった喜びを胸に",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-09-21",
+    "file": "assets/readings/shimizu-mutsumi-gan.json"
+  },
+  {
+    "id": "fujisawa-riko-basedou",
+    "title": "≒JOY藤沢莉子、バセドウ病を公表　活動一部制限へ",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-09-21",
+    "file": "assets/readings/fujisawa-riko-basedou.json"
+  },
+  {
     "id": "taifuu25-keihou-ooame",
     "title": "大型の台風25号は離れた所も油断禁物　影響が広範囲に及ぶおそれ",
     "level": "中級",
