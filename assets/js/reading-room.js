@@ -71,6 +71,13 @@
   //  読解リスト
   // ======================================================================
                                                                                                                                                                                                                                                                                                                                                           const READING_LIST = [
+    { id: 'taifuu25-kantou-gouu', title: '台風25号が関東に接近　大雨に警戒、避難の準備を', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/taifuu25-kantou-gouu.json' },
+    { id: 'taifuu25-kanagawa-hinan', title: '台風25号　神奈川県で20万人超に緊急安全確保　自衛隊に災害派遣要請', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/taifuu25-kanagawa-hinan.json' },
+    { id: 'rinjin-trouble-ishikawa', title: '隣人トラブルで39歳女を逮捕　車を損壊した疑い、住民が記録', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/rinjin-trouble-ishikawa.json' },
+    { id: 'kanto-senjou-koutai', title: '関東南部を中心に21日は「線状降水帯」発生の可能性　避難の検討や準備を', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/kanto-senjou-koutai.json' },
+    { id: 'kourei-shakai-3624man', title: '65歳以上、3624万人　総人口の3割占める　総務省', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/kourei-shakai-3624man.json' },
+    { id: 'shimizu-mutsumi-gan', title: '妊娠5か月で妻のがん発覚　息子を抱き、母になった喜びを胸に', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/shimizu-mutsumi-gan.json' },
+    { id: 'fujisawa-riko-basedou', title: '≒JOY藤沢莉子、バセドウ病を公表　活動一部制限へ', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/fujisawa-riko-basedou.json' },
     { id: 'taifuu25-keihou-ooame', title: '大型の台風25号は離れた所も油断禁物　影響が広範囲に及ぶおそれ', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/taifuu25-keihou-ooame.json' },
     { id: 'kyushu-shinkansen-zenkusen', title: '九州新幹線52日ぶり全線運転　熊本地震、復興へ観光促進', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/kyushu-shinkansen-zenkusen.json' },
     { id: 'asahi-kasei-gijutsu-ryuushutsu', title: '旭化成の半導体関連技術、中国企業に流出　元社員を逮捕', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/asahi-kasei-gijutsu-ryuushutsu.json' },

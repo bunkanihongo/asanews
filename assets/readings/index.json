@@ -1,5 +1,29 @@
 [
   {
+    "id": "taifuu25-kantou-gouu",
+    "title": "台風25号が関東に接近　大雨に警戒、避難の準備を",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-09-22",
+    "file": "assets/readings/taifuu25-kantou-gouu.json"
+  },
+  {
+    "id": "taifuu25-kanagawa-hinan",
+    "title": "台風25号　神奈川県で20万人超に緊急安全確保　自衛隊に災害派遣要請",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-09-22",
+    "file": "assets/readings/taifuu25-kanagawa-hinan.json"
+  },
+  {
+    "id": "rinjin-trouble-ishikawa",
+    "title": "隣人トラブルで39歳女を逮捕　車を損壊した疑い、住民が記録",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-09-22",
+    "file": "assets/readings/rinjin-trouble-ishikawa.json"
+  },
+  {
     "id": "kanto-senjou-koutai",
     "title": "関東南部を中心に21日は「線状降水帯」発生の可能性　避難の検討や準備を",
     "level": "中級",
