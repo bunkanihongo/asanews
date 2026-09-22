@@ -1,5 +1,37 @@
 [
   {
+    "id": "fufu-seitekidoui-taiwa",
+    "title": "「性的対象として見られない」　無理な性行為は禁物、夫婦関係の危機",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-09-23",
+    "file": "assets/readings/fufu-seitekidoui-taiwa.json"
+  },
+  {
+    "id": "chihou-kyabakura-shiku",
+    "title": "〈キャバ倒産〉「昔みたいに二次会はない」「東京の有名店とは別の商売」ガールズバーとの競争、インバウンド恩恵も届かず…地方キャバクラを襲う“四重苦”",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-09-23",
+    "file": "assets/readings/chihou-kyabakura-shiku.json"
+  },
+  {
+    "id": "itakura-kawaguchi-kekkon",
+    "title": "板倉滉、女優・川口春奈との結婚に初言及「一番大事なものができた」　妊娠を公表も「まだ実感はない」",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-09-23",
+    "file": "assets/readings/itakura-kawaguchi-kekkon.json"
+  },
+  {
+    "id": "taguchi-kekkon-daiichi",
+    "title": "元KAT-TUN田口淳之介、結婚＆第1子男児の誕生を発表「パパになりました」お相手は年下の一般女性",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-09-23",
+    "file": "assets/readings/taguchi-kekkon-daiichi.json"
+  },
+  {
     "id": "taifuu25-kantou-gouu",
     "title": "台風25号が関東に接近　大雨に警戒、避難の準備を",
     "level": "中級",
@@ -166,14 +198,6 @@
     "length": 2,
     "date": "2026-09-14",
     "file": "assets/readings/gurieru-jr-dfa-senryokugai.json"
-  },
-  {
-    "id": "fufu-seitekidoui-taiwa",
-    "title": "夫婦間で「したくない」なぜ言えない?　日本人に足りないものとは",
-    "level": "中級",
-    "length": 3,
-    "date": "2026-09-14",
-    "file": "assets/readings/fufu-seitekidoui-taiwa.json"
   },
   {
     "id": "okinawa-chiji-kosha-hatsu",

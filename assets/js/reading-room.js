@@ -71,6 +71,10 @@
   //  読解リスト
   // ======================================================================
                                                                                                                                                                                                                                                                                                                                                           const READING_LIST = [
+    { id: 'fufu-seitekidoui-taiwa', title: '「性的対象として見られない」　無理な性行為は禁物、夫婦関係の危機', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/fufu-seitekidoui-taiwa.json' },
+    { id: 'chihou-kyabakura-shiku', title: '〈キャバ倒産〉「昔みたいに二次会はない」「東京の有名店とは別の商売」ガールズバーとの競争、インバウンド恩恵も届かず…地方キャバクラを襲う“四重苦”', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/chihou-kyabakura-shiku.json' },
+    { id: 'itakura-kawaguchi-kekkon', title: '板倉滉、女優・川口春奈との結婚に初言及「一番大事なものができた」　妊娠を公表も「まだ実感はない」', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/itakura-kawaguchi-kekkon.json' },
+    { id: 'taguchi-kekkon-daiichi', title: '元KAT-TUN田口淳之介、結婚＆第1子男児の誕生を発表「パパになりました」お相手は年下の一般女性', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/taguchi-kekkon-daiichi.json' },
     { id: 'taifuu25-kantou-gouu', title: '台風25号が関東に接近　大雨に警戒、避難の準備を', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/taifuu25-kantou-gouu.json' },
     { id: 'taifuu25-kanagawa-hinan', title: '台風25号　神奈川県で20万人超に緊急安全確保　自衛隊に災害派遣要請', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/taifuu25-kanagawa-hinan.json' },
     { id: 'rinjin-trouble-ishikawa', title: '隣人トラブルで39歳女を逮捕　車を損壊した疑い、住民が記録', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/rinjin-trouble-ishikawa.json' },
@@ -92,7 +96,6 @@
     { id: 'purudensharu-kojin-jouhou-rouei', title: 'プルデンシャル、顧客情報1570人分漏えい　元社員、不正持ち出し後に紛失', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/purudensharu-kojin-jouhou-rouei.json' },
     { id: 'hikari-tsushin-leopalace-tob', title: '光通信と投資ファンド、レオパレス21にTOB　1株1000円', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/hikari-tsushin-leopalace-tob.json' },
     { id: 'gurieru-jr-dfa-senryokugai', title: '元DeNA外野手が“戦力外”に　59億円契約も打撃不振…球団発表', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/gurieru-jr-dfa-senryokugai.json' },
-    { id: 'fufu-seitekidoui-taiwa', title: '夫婦間で「したくない」なぜ言えない?　日本人に足りないものとは', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/fufu-seitekidoui-taiwa.json' },
     { id: 'okinawa-chiji-kosha-hatsu', title: '沖縄知事に自民系古謝氏が初当選　辺野古容認へ12年ぶり転換', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/okinawa-chiji-kosha-hatsu.json' },
     { id: 'akishuu-zenzen-dairi', title: '秋雨前線が再び活発化　週明けは北陸や東北で大雨のおそれ', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/akishuu-zenzen-dairi.json' },
     { id: 'gps-shihoukan-katsuyou', title: '仮釈放中の性犯罪者にGPS　法務省が再犯防止へ実証実験', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/gps-shihoukan-katsuyou.json' },
