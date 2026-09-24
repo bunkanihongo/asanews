@@ -1,5 +1,37 @@
 [
   {
+    "id": "fukushima-shikei-hyougen",
+    "title": "福島党首、ラサール氏の「4人殺している」発言を容認　「表現の仕方の範囲内」",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-09-25",
+    "file": "assets/readings/fukushima-shikei-hyougen.json"
+  },
+  {
+    "id": "junglia-akaiji-2026",
+    "title": "ジャングリア親会社、開業後初決算で173億円の最終赤字　来場者は想定を下回る",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-09-25",
+    "file": "assets/readings/junglia-akaiji-2026.json"
+  },
+  {
+    "id": "kitakyushu-sakana-shi",
+    "title": "川を埋め尽くす大量の魚が死ぬ　専門家は2つの可能性を指摘　北九州市",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-09-25",
+    "file": "assets/readings/kitakyushu-sakana-shi.json"
+  },
+  {
+    "id": "kakyo-japan-kanko",
+    "title": "中国系の超富裕層が大家族で日本旅行　訪日で求めるものを分析",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-09-25",
+    "file": "assets/readings/kakyo-japan-kanko.json"
+  },
+  {
     "id": "fujinami-shintaro-kousou-gai",
     "title": "DeNA・藤浪晋太郎、来季構想外　現役続行を希望し新たな道を模索",
     "level": "中級",
