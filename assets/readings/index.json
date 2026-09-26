@@ -1,5 +1,29 @@
 [
   {
+    "id": "kyoudou-kekkon-kankoku-saiken",
+    "title": "旧統一教会「合同結婚」の在韓女性、債権申し立てへ　「支援が必要」",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-09-27",
+    "file": "assets/readings/kyoudou-kekkon-kankoku-saiken.json"
+  },
+  {
+    "id": "gan-kouhyou-shigoto-seido",
+    "title": "大腸がんステージ4公表「役員から平社員」に自ら申し出…想定外だった“手取り10万円”",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-09-27",
+    "file": "assets/readings/gan-kouhyou-shigoto-seido.json"
+  },
+  {
+    "id": "nihon-kita-chousen-soccer",
+    "title": "サッカー男子 北朝鮮は8強敗退　日本戦後にあいさつ・整列を拒否",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-09-27",
+    "file": "assets/readings/nihon-kita-chousen-soccer.json"
+  },
+  {
     "id": "fukushima-shikei-hyougen",
     "title": "福島党首、ラサール氏の「4人殺している」発言を容認　「表現の仕方の範囲内」",
     "level": "中級",

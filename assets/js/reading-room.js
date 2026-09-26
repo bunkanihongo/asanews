@@ -71,6 +71,9 @@
   //  読解リスト
   // ======================================================================
                                                                                                                                                                                                                                                                                                                                                           const READING_LIST = [
+    { id: 'kyoudou-kekkon-kankoku-saiken', title: '旧統一教会「合同結婚」の在韓女性、債権申し立てへ　「支援が必要」', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/kyoudou-kekkon-kankoku-saiken.json' },
+    { id: 'gan-kouhyou-shigoto-seido', title: '大腸がんステージ4公表「役員から平社員」に自ら申し出…想定外だった“手取り10万円”', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/gan-kouhyou-shigoto-seido.json' },
+    { id: 'nihon-kita-chousen-soccer', title: 'サッカー男子 北朝鮮は8強敗退　日本戦後にあいさつ・整列を拒否', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/nihon-kita-chousen-soccer.json' },
     { id: 'fukushima-shikei-hyougen', title: '福島党首、ラサール氏の「4人殺している」発言を容認　「表現の仕方の範囲内」', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/fukushima-shikei-hyougen.json' },
     { id: 'junglia-akaiji-2026', title: 'ジャングリア親会社、開業後初決算で173億円の最終赤字　来場者は想定を下回る', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/junglia-akaiji-2026.json' },
     { id: 'kitakyushu-sakana-shi', title: '川を埋め尽くす大量の魚が死ぬ　専門家は2つの可能性を指摘　北九州市', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/kitakyushu-sakana-shi.json' },
