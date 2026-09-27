@@ -1,5 +1,29 @@
 [
   {
+    "id": "naikaku-shijiritsu-45",
+    "title": "内閣支持率45％に上昇、3カ月ぶり不支持率を逆転　世論調査",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-09-28",
+    "file": "assets/readings/naikaku-shijiritsu-45.json"
+  },
+  {
+    "id": "gunma-ota-satsujin-taiho",
+    "title": "群馬・太田市 52歳女性殺害　長女の元夫を逮捕",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-09-28",
+    "file": "assets/readings/gunma-ota-satsujin-taiho.json"
+  },
+  {
+    "id": "taifuu26-kanto-ooame",
+    "title": "台風26号と秋雨前線の影響で関東再び大雨の恐れ",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-09-28",
+    "file": "assets/readings/taifuu26-kanto-ooame.json"
+  },
+  {
     "id": "kyoudou-kekkon-kankoku-saiken",
     "title": "旧統一教会「合同結婚」の在韓女性、債権申し立てへ　「支援が必要」",
     "level": "中級",
