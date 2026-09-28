@@ -1,5 +1,37 @@
 [
   {
+    "id": "kokki-sonkai-hantai",
+    "title": "日の丸を傷つけたら処罰「国旗損壊罪」に日弁連が即時廃止求める",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-09-29",
+    "file": "assets/readings/kokki-sonkai-hantai.json"
+  },
+  {
+    "id": "mansion-shuzen-dango",
+    "title": "マンション修繕談合で設計コンサルが謝罪　補償の可能性を示唆",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-09-29",
+    "file": "assets/readings/mansion-shuzen-dango.json"
+  },
+  {
+    "id": "ibaraki-jishin-shindo4",
+    "title": "茨城県、埼玉県で震度4の地震　津波の心配なし",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-09-29",
+    "file": "assets/readings/ibaraki-jishin-shindo4.json"
+  },
+  {
+    "id": "ouki-iwaya-taiwan",
+    "title": "中国、「台湾発言」の是正要求　王毅氏、岩屋前外相と会談",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-09-29",
+    "file": "assets/readings/ouki-iwaya-taiwan.json"
+  },
+  {
     "id": "naikaku-shijiritsu-45",
     "title": "内閣支持率45％に上昇、3カ月ぶり不支持率を逆転　世論調査",
     "level": "中級",

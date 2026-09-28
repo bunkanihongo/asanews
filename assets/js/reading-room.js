@@ -71,6 +71,10 @@
   //  読解リスト
   // ======================================================================
                                                                                                                                                                                                                                                                                                                                                           const READING_LIST = [
+    { id: 'kokki-sonkai-hantai', title: '日の丸を傷つけたら処罰「国旗損壊罪」に日弁連が即時廃止求める', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/kokki-sonkai-hantai.json' },
+    { id: 'mansion-shuzen-dango', title: 'マンション修繕談合で設計コンサルが謝罪　補償の可能性を示唆', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/mansion-shuzen-dango.json' },
+    { id: 'ibaraki-jishin-shindo4', title: '茨城県、埼玉県で震度4の地震　津波の心配なし', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/ibaraki-jishin-shindo4.json' },
+    { id: 'ouki-iwaya-taiwan', title: '中国、「台湾発言」の是正要求　王毅氏、岩屋前外相と会談', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/ouki-iwaya-taiwan.json' },
     { id: 'naikaku-shijiritsu-45', title: '内閣支持率45％に上昇、3カ月ぶり不支持率を逆転　世論調査', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/naikaku-shijiritsu-45.json' },
     { id: 'gunma-ota-satsujin-taiho', title: '群馬・太田市 52歳女性殺害　長女の元夫を逮捕', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/gunma-ota-satsujin-taiho.json' },
     { id: 'taifuu26-kanto-ooame', title: '台風26号と秋雨前線の影響で関東再び大雨の恐れ', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/taifuu26-kanto-ooame.json' },
@@ -410,7 +414,7 @@
     { id: 'horumuzu-tanker-bakuhatsu', title: 'イラン ホルムズ海峡でタンカー2隻が爆発 航行不能に', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/horumuzu-tanker-bakuhatsu.json' },
     { id: 'samsung-bei-kyouin-sakugen', title: '韓国サムスン 米国本社移転で大規模な人員削減や配置転換', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/samsung-bei-kyouin-sakugen.json' },
     { id: 'kokkai-ennchuu-gaiyuu-chuushi', title: '国会延長で自民幹部の外遊中止 要人との会談機会失う', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/kokkai-ennchuu-gaiyuu-chuushi.json' }
-  ];
+    ];
 
   function buildToolbar() {
     const tb = document.createElement('div');
