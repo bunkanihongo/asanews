@@ -1,5 +1,29 @@
 [
   {
+    "id": "kanto-ame-taifuu26",
+    "title": "30日(水)も関東は雨続く　35日連続の雨に　台風26号の進路は",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-09-30",
+    "file": "assets/readings/kanto-ame-taifuu26.json"
+  },
+  {
+    "id": "junglia-173oku-akaji",
+    "title": "ジャングリア親会社、173億円の最終赤字　開業後初決算",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-09-30",
+    "file": "assets/readings/junglia-173oku-akaji.json"
+  },
+  {
+    "id": "osaka-irimawani-mukyoiku",
+    "title": "世界最大級の人食いワニを無許可飼育か　ペットショップ経営者を逮捕",
+    "level": "中級",
+    "length": 4,
+    "date": "2026-09-30",
+    "file": "assets/readings/osaka-irimawani-mukyoiku.json"
+  },
+  {
     "id": "kokki-sonkai-hantai",
     "title": "日の丸を傷つけたら処罰「国旗損壊罪」に日弁連が即時廃止求める",
     "level": "中級",

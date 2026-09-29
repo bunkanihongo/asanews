@@ -71,6 +71,9 @@
   //  読解リスト
   // ======================================================================
                                                                                                                                                                                                                                                                                                                                                           const READING_LIST = [
+    { id: 'kanto-ame-taifuu26', title: '30日(水)も関東は雨続く　35日連続の雨に　台風26号の進路は', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/kanto-ame-taifuu26.json' },
+    { id: 'junglia-173oku-akaji', title: 'ジャングリア親会社、173億円の最終赤字　開業後初決算', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/junglia-173oku-akaji.json' },
+    { id: 'osaka-irimawani-mukyoiku', title: '世界最大級の人食いワニを無許可飼育か　ペットショップ経営者を逮捕', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/osaka-irimawani-mukyoiku.json' },
     { id: 'kokki-sonkai-hantai', title: '日の丸を傷つけたら処罰「国旗損壊罪」に日弁連が即時廃止求める', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/kokki-sonkai-hantai.json' },
     { id: 'mansion-shuzen-dango', title: 'マンション修繕談合で設計コンサルが謝罪　補償の可能性を示唆', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/mansion-shuzen-dango.json' },
     { id: 'ibaraki-jishin-shindo4', title: '茨城県、埼玉県で震度4の地震　津波の心配なし', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/ibaraki-jishin-shindo4.json' },
