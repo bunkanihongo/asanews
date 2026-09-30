@@ -422,6 +422,108 @@
     { id: 'kokkai-ennchuu-gaiyuu-chuushi', title: '国会延長で自民幹部の外遊中止 要人との会談機会失う', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/kokkai-ennchuu-gaiyuu-chuushi.json' }
     ];
 
+  function renderList() {
+    container.innerHTML = '';
+    document.title = '読解ルーム | asanews';
+    const wrapper = document.createElement('div');
+    wrapper.id = 'page-category';
+    wrapper.className = 'reading-room-layout';
+    const h1 = document.createElement('h1');
+    h1.className = 'ps-lg-2';
+    h1.innerHTML = `<i class="far fa-book-open fa-fw text-muted"></i> 読解ルーム <span class="lead text-muted ps-2">${READING_LIST.length} 記事</span>`;
+    wrapper.appendChild(h1);
+    const sub = document.createElement('p');
+    sub.className = 'text-muted ps-lg-2';
+    sub.textContent = '短い文章で日本語を深く読む。逐語訳・文法解説・音声練習付き。';
+    wrapper.appendChild(sub);
+    const ul = document.createElement('ul');
+    ul.className = 'content ps-0';
+    READING_LIST.forEach(r => {
+      const li = document.createElement('li');
+      li.className = 'd-flex justify-content-between px-md-3';
+      li.style.cursor = 'pointer';
+      const a = document.createElement('a');
+      a.textContent = r.title;
+      a.href = `/asanews/reading-room/?read=${r.id}`;
+      const dash = document.createElement('span');
+      dash.className = 'dash flex-grow-1';
+      const level = document.createElement('span');
+      level.className = 'text-muted small text-nowrap';
+      level.textContent = r.kicker;
+      li.append(a, dash, level);
+      li.addEventListener('click', e => {
+        e.preventDefault();
+        loadReading(r.id);
+        history.pushState({}, '', `/asanews/reading-room/?read=${r.id}`);
+      });
+      ul.appendChild(li);
+    });
+    wrapper.appendChild(ul);
+    container.appendChild(wrapper);
+  }
+
+  function loadReading(id) {
+    const reading = READING_LIST.find(r => r.id === id);
+    if (!reading) { renderList(); return; }
+    container.innerHTML = '<div class="rr-loading">読み込み中…</div>';
+    fetch(reading.file)
+      .then(res => { if (!res.ok) throw new Error(`HTTP ${res.status}`); return res.json(); })
+      .then(data => renderReader(Array.isArray(data) ? data[0] : data))
+      .catch(err => { container.innerHTML = `<div class="rr-error">❌ 読み込みエラー: ${escHtml(err.message)}</div>`; });
+  }
+
+  function renderReader(data) {
+    currentData = data;
+    currentParaIdx = -1;
+    currentAudio = null;
+    isPlaying = false;
+    audioQueue = [];
+    isAutoMode = false;
+    container.innerHTML = '';
+    document.title = `${data.title} | 読解ルーム | asanews`;
+    const wrapper = document.createElement('div');
+    wrapper.className = 'rr-reader';
+    const backWrap = document.createElement('div');
+    backWrap.className = 'rr-back-wrap';
+    const backBtn = document.createElement('button');
+    backBtn.className = 'rr-back-btn';
+    backBtn.textContent = '← 一覧へ戻る';
+    backBtn.addEventListener('click', () => {
+      stopAudio(); renderList(); history.pushState({}, '', '/asanews/reading-room/');
+    });
+    backWrap.appendChild(backBtn);
+    const count = document.createElement('span');
+    count.className = 'rr-para-count';
+    count.textContent = `${data.paragraphs.length}段落`;
+    backWrap.appendChild(count);
+    wrapper.appendChild(backWrap);
+    const hdr = document.createElement('div');
+    hdr.className = 'rr-reader-header';
+    hdr.innerHTML = `<h1 class="rr-reader-title">${escHtml(data.title)}</h1>`;
+    wrapper.appendChild(hdr);
+    wrapper.appendChild(buildToolbar());
+    wrapper.appendChild(buildLegend());
+    const article = document.createElement('div');
+    article.className = 'rr-article';
+    article.id = 'rr-article';
+    data.paragraphs.forEach((para, idx) => article.appendChild(buildParagraph(para, idx)));
+    wrapper.appendChild(article);
+    container.appendChild(wrapper);
+    restoreToolbarState();
+    if (!window._rrKeyBound) {
+      window._rrKeyBound = true;
+      document.addEventListener('keydown', handleKeydown);
+    }
+  }
+
+  const TOOLBAR_TOGGLES = [
+    { id: 'ruby', label: '🔤 ルビ', cls: 'rr-hide-ruby', default: false },
+    { id: 'gap', label: '📏 間隔なし', cls: 'rr-no-gap', default: false },
+    { id: 'color', label: '🎨 品詞色', cls: 'rr-no-color', default: false },
+    { id: 'compact', label: '📄 コンパクト', cls: 'rr-compact', default: false },
+    { id: 'large', label: '🔍 拡大', cls: 'rr-large', default: false },
+  ];
+
   function buildToolbar() {
     const tb = document.createElement('div');
     tb.className = 'rr-toolbar';
