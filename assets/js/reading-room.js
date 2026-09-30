@@ -71,6 +71,9 @@
   //  読解リスト
   // ======================================================================
                                                                                                                                                                                                                                                                                                                                                           const READING_LIST = [
+    { id: 'todai-gakucho-senkou', title: '東大次期学長に学内外から疑問の声　意向投票2位の藤垣氏が選出', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/todai-gakucho-senkou.json' },
+    { id: 'iwaya-china-kaidan', title: '岩屋前外相、中国要人と相次いで会談　関係改善を探る', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/iwaya-china-kaidan.json' },
+    { id: 'fukuoka-gikai-tsuuchou', title: '福岡県議会の金銭授受疑惑　通帳コピーを第三者委に提出', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/fukuoka-gikai-tsuuchou.json' },
     { id: 'kanto-ame-taifuu26', title: '30日(水)も関東は雨続く　35日連続の雨に　台風26号の進路は', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/kanto-ame-taifuu26.json' },
     { id: 'junglia-173oku-akaji', title: 'ジャングリア親会社、173億円の最終赤字　開業後初決算', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/junglia-173oku-akaji.json' },
     { id: 'osaka-irimawani-mukyoiku', title: '世界最大級の人食いワニを無許可飼育か　ペットショップ経営者を逮捕', kicker: '中級', desc: '', badge: '4段落', file: '/asanews/assets/readings/osaka-irimawani-mukyoiku.json' },

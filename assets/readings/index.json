@@ -1,5 +1,29 @@
 [
   {
+    "id": "todai-gakucho-senkou",
+    "title": "東大次期学長に学内外から疑問の声　意向投票2位の藤垣氏が選出",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-10-01",
+    "file": "assets/readings/todai-gakucho-senkou.json"
+  },
+  {
+    "id": "iwaya-china-kaidan",
+    "title": "岩屋前外相、中国要人と相次いで会談　関係改善を探る",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-10-01",
+    "file": "assets/readings/iwaya-china-kaidan.json"
+  },
+  {
+    "id": "fukuoka-gikai-tsuuchou",
+    "title": "福岡県議会の金銭授受疑惑　通帳コピーを第三者委に提出",
+    "level": "中級",
+    "length": 3,
+    "date": "2026-10-01",
+    "file": "assets/readings/fukuoka-gikai-tsuuchou.json"
+  },
+  {
     "id": "kanto-ame-taifuu26",
     "title": "30日(水)も関東は雨続く　35日連続の雨に　台風26号の進路は",
     "level": "中級",
