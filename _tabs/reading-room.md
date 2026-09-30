@@ -7,4 +7,4 @@ title: 読解ルーム
 
 <div id="reading-room-container"></div>
 
-<script src="/asanews/assets/js/reading-room.js"></script>
+<script src="/asanews/assets/js/reading-room.js?v=ce635a4"></script>
