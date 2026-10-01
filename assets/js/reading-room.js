@@ -71,6 +71,10 @@
   //  読解リスト
   // ======================================================================
                                                                                                                                                                                                                                                                                                                                                           const READING_LIST = [
+    { id: 'hiroshima-senryoku-gai-yonmei', title: '広島、20代の野手4選手に戦力外通告　小園海斗ら', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/hiroshima-senryoku-gai-yonmei.json' },
+    { id: 'kappo-komewo-heiten', title: '「割烹こめを」閉店へ　オーナーこめお、食中毒事案を受け', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/kappo-komewo-heiten.json' },
+    { id: 'aichi-judo-maeda-kin', title: '柔道女子70キロ級、前田凛が金　準々決勝で噛みつき反則', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/aichi-judo-maeda-kin.json' },
+    { id: 'moriyasu-japan-ecuador-pk', title: '森保ジャパン、エクアドルにPK戦勝利　韓国メディアが比較', kicker: '中級', desc: '', badge: '2段落', file: '/asanews/assets/readings/moriyasu-japan-ecuador-pk.json' },
     { id: 'todai-gakucho-senkou', title: '東大次期学長に学内外から疑問の声　意向投票2位の藤垣氏が選出', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/todai-gakucho-senkou.json' },
     { id: 'iwaya-china-kaidan', title: '岩屋前外相、中国要人と相次いで会談　関係改善を探る', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/iwaya-china-kaidan.json' },
     { id: 'fukuoka-gikai-tsuuchou', title: '福岡県議会の金銭授受疑惑　通帳コピーを第三者委に提出', kicker: '中級', desc: '', badge: '3段落', file: '/asanews/assets/readings/fukuoka-gikai-tsuuchou.json' },

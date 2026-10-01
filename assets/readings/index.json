@@ -1,5 +1,37 @@
 [
   {
+    "id": "hiroshima-senryoku-gai-yonmei",
+    "title": "広島、20代の野手4選手に戦力外通告　小園海斗ら",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-10-02",
+    "file": "assets/readings/hiroshima-senryoku-gai-yonmei.json"
+  },
+  {
+    "id": "kappo-komewo-heiten",
+    "title": "「割烹こめを」閉店へ　オーナーこめお、食中毒事案を受け",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-10-02",
+    "file": "assets/readings/kappo-komewo-heiten.json"
+  },
+  {
+    "id": "aichi-judo-maeda-kin",
+    "title": "柔道女子70キロ級、前田凛が金　準々決勝で噛みつき反則",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-10-02",
+    "file": "assets/readings/aichi-judo-maeda-kin.json"
+  },
+  {
+    "id": "moriyasu-japan-ecuador-pk",
+    "title": "森保ジャパン、エクアドルにPK戦勝利　韓国メディアが比較",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-10-02",
+    "file": "assets/readings/moriyasu-japan-ecuador-pk.json"
+  },
+  {
     "id": "todai-gakucho-senkou",
     "title": "東大次期学長に学内外から疑問の声　意向投票2位の藤垣氏が選出",
     "level": "中級",
