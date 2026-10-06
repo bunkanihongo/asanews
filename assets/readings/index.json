@@ -1,5 +1,61 @@
 [
   {
+    "id": "okinawa-usmc-training",
+    "title": "【速報】沖縄の米軍関係者に48時間活動停止の「訓練期間」在沖米軍トップが声明",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-10-07",
+    "file": "assets/readings/okinawa-usmc-training.json"
+  },
+  {
+    "id": "fukuoka-bouko",
+    "title": "福岡の男児2人殺害　容疑の母親「育てるつもりなかった」と供述",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-10-07",
+    "file": "assets/readings/fukuoka-bouko.json"
+  },
+  {
+    "id": "asahi-cyber-attack",
+    "title": "旭化成子会社のサイトにサイバー攻撃　最大55万8000人分の情報流出の可能性",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-10-07",
+    "file": "assets/readings/asahi-cyber-attack.json"
+  },
+  {
+    "id": "kanto-senjou-koutai",
+    "title": "関東南部を中心に21日は「線状降水帯」発生の可能性　避難の検討や準備を",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-10-07",
+    "file": "assets/readings/kanto-senjou-koutai.json"
+  },
+  {
+    "id": "kourei-shakai-3624man",
+    "title": "65歳以上、3624万人　総人口の3割占める　総務省",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-10-07",
+    "file": "assets/readings/kourei-shakai-3624man.json"
+  },
+  {
+    "id": "shimizu-mutsumi-gan",
+    "title": "妊娠5か月で妻のがん発覚　息子を抱き、母になった喜びを胸に",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-10-07",
+    "file": "assets/readings/shimizu-mutsumi-gan.json"
+  },
+  {
+    "id": "fujisawa-riko-basedou",
+    "title": "≒JOY藤沢莉子、バセドウ病を公表　活動一部制限へ",
+    "level": "中級",
+    "length": 2,
+    "date": "2026-10-07",
+    "file": "assets/readings/fujisawa-riko-basedou.json"
+  },
+  {
     "id": "hiroshima-senryoku-gai-yonmei",
     "title": "広島、20代の野手4選手に戦力外通告　小園海斗ら",
     "level": "中級",
@@ -270,38 +326,6 @@
     "length": 3,
     "date": "2026-09-22",
     "file": "assets/readings/rinjin-trouble-ishikawa.json"
-  },
-  {
-    "id": "kanto-senjou-koutai",
-    "title": "関東南部を中心に21日は「線状降水帯」発生の可能性　避難の検討や準備を",
-    "level": "中級",
-    "length": 2,
-    "date": "2026-09-21",
-    "file": "assets/readings/kanto-senjou-koutai.json"
-  },
-  {
-    "id": "kourei-shakai-3624man",
-    "title": "65歳以上、3624万人　総人口の3割占める　総務省",
-    "level": "中級",
-    "length": 2,
-    "date": "2026-09-21",
-    "file": "assets/readings/kourei-shakai-3624man.json"
-  },
-  {
-    "id": "shimizu-mutsumi-gan",
-    "title": "妊娠5か月で妻のがん発覚　息子を抱き、母になった喜びを胸に",
-    "level": "中級",
-    "length": 2,
-    "date": "2026-09-21",
-    "file": "assets/readings/shimizu-mutsumi-gan.json"
-  },
-  {
-    "id": "fujisawa-riko-basedou",
-    "title": "≒JOY藤沢莉子、バセドウ病を公表　活動一部制限へ",
-    "level": "中級",
-    "length": 2,
-    "date": "2026-09-21",
-    "file": "assets/readings/fujisawa-riko-basedou.json"
   },
   {
     "id": "taifuu25-keihou-ooame",
